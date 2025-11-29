@@ -1,0 +1,137 @@
+[{
+  "sentence": "我和他都是学生。",
+  "tags": ["conjunction"],
+  "pinyin1": "wǒ hé tā dōu shì xué sheng",
+  "pinyin2": "wo3 he2 ta1 dou1 shi4 xue2 sheng",
+  "translation": {
+    "en": "Both he and I are students.",
+    "vi": "Cả tôi và anh ấy đều là học sinh."
+  }
+}, {
+  "sentence": "我跟你一起去。",
+  "tags": ["conjunction"],
+  "pinyin1": "wǒ gēn nǐ yī qǐ qù",
+  "pinyin2": "wo3 gen1 ni3 yi1 qi3 qu4",
+  "translation": {
+    "en": "I'll go with you.",
+    "vi": "Tôi sẽ đi cùng bạn."
+  }
+}, {
+  "sentence": "学习与工作都很重要。",
+  "tags": ["conjunction"],
+  "pinyin1": "xué xí yǔ gōng zuò dōu hěn zhòng yào",
+  "pinyin2": "xue2 xi2 yu3 gong1 zuo4 dou1 hen3 zhong4 yao4",
+  "translation": {
+    "en": "Both study and work are very important.",
+    "vi": "Cả học tập và công việc đều rất quan trọng."
+  }
+}, {
+  "sentence": "还有别的问题吗？",
+  "tags": ["conjunction"],
+  "pinyin1": "hái yǒu bié de wèn tí ma",
+  "pinyin2": "hai2 you3 bie2 de wen4 ti2 ma",
+  "translation": {
+    "en": "Are there any other questions?",
+    "vi": "Còn câu hỏi nào khác không?"
+  }
+}, {
+  "sentence": "以及其他的事情。",
+  "tags": ["conjunction"],
+  "pinyin1": "yǐ jí qí tā de shì qíng",
+  "pinyin2": "yi3 ji2 qi2 ta1 de shi4 qing2",
+  "translation": {
+    "en": "As well as other matters.",
+    "vi": "Cũng như những việc khác."
+  }
+}, {
+  "sentence": "我喜欢苹果和香蕉。",
+  "tags": ["conjunction"],
+  "pinyin1": "wǒ xǐ huān píng guǒ hé xiāng jiāo",
+  "pinyin2": "wo3 xi3 huan1 ping2 guo3 he2 xiang1 jiao1",
+  "translation": {
+    "en": "I like apples and bananas.",
+    "vi": "Tôi thích táo và chuối."
+  }
+}, {
+  "sentence": "他跟我一样高。",
+  "tags": ["conjunction"],
+  "pinyin1": "tā gēn wǒ yī yàng gāo",
+  "pinyin2": "ta1 gen1 wo3 yi1 yang4 gao1",
+  "translation": {
+    "en": "He is as tall as I am.",
+    "vi": "Anh ấy cao bằng tôi."
+  }
+},   {
+    "sentence": "学习与生活都需要平衡。",
+    "tags": ["conjunction"],
+    "pinyin1": "xué xí yǔ shēng huó dōu xū yào píng héng",
+    "pinyin2": "xue2 xi2 yu3 sheng1 huo2 dou1 xu1 yao4 ping2 heng2",
+    "translation": {
+      "en": "Both study and life need balance.",
+      "vi": "Cả học tập và cuộc sống đều cần cân bằng."
+    }
+  }, {
+    "sentence": "你想喝茶或者咖啡？",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ xiǎng hē chá huò zhě kā fēi",
+    "pinyin2": "ni3 xiang3 he1 cha2 huo4 zhe3 ka1 fei1",
+    "translation": {
+      "en": "Do you want tea or coffee?",
+      "vi": "Bạn muốn uống trà hay cà phê?"
+    }
+  }, {
+    "sentence": "你可以选这个或那个。",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ kě yǐ xuǎn zhè gè huò nà gè",
+    "pinyin2": "ni3 ke3 yi3 xuan3 zhe4 ge4 huo4 na4 ge4",
+    "translation": {
+      "en": "You can choose this one or that one.",
+      "vi": "Bạn có thể chọn cái này hoặc cái kia."
+    }
+  }, {
+    "sentence": "你想去还是不去？",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ xiǎng qù hái shì bù qù",
+    "pinyin2": "ni3 xiang3 qu4 hai2 shi4 bu4 qu4",
+    "translation": {
+      "en": "Do you want to go or not?",
+      "vi": "Bạn muốn đi hay không?"
+    }
+  }, {
+    "sentence": "我想去，但是没时间。",
+    "tags": ["conjunction"],
+    "pinyin1": "wǒ xiǎng qù, dàn shì méi shí jiān",
+    "pinyin2": "wo3 xiang3 qu4, dan4 shi4 mei2 shi2 jian1",
+    "translation": {
+      "en": "I want to go, but I don't have time.",
+      "vi": "Tôi muốn đi, nhưng không có thời gian."
+    }
+  }, {
+    "sentence": "他很聪明，可是不努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā hěn cōng míng, kě shì bù nǔ lì",
+    "pinyin2": "ta1 hen3 cong1 ming2, ke3 shi4 bu4 nu3 li4",
+    "translation": {
+      "en": "He is very smart, but not hardworking.",
+      "vi": "Anh ấy rất thông minh, nhưng không chăm chỉ."
+    }
+  }, {
+    "sentence": "这个不错，不过有点贵。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhè gè bù cuò, bù guò yǒu diǎn guì",
+    "pinyin2": "zhe4 ge4 bu4 cuo4, bu4 guo4 you3 dian3 gui4",
+    "translation": {
+      "en": "This is good, but a bit expensive.",
+      "vi": "Cái này không tệ, nhưng hơi đắt."
+    }
+  }, {
+    "sentence": "因为下雨，所以我不去了。",
+    "tags": ["conjunction"],
+    "pinyin1": "yīn wèi xià yǔ, suǒ yǐ wǒ bù qù le",
+    "pinyin2": "yin1 wei4 xia4 yu3, suo3 yi3 wo3 bu4 qu4 le",
+    "translation": {
+      "en": "Because it's raining, so I'm not going.",
+      "vi": "Vì trời mưa, nên tôi không đi nữa."
+    }
+  }]
+

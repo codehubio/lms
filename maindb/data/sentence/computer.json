@@ -1,0 +1,199 @@
+[{
+  "sentence": "我用电脑工作。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ yòng diàn nǎo gōng zuò",
+  "pinyin2": "wo3 yong4 dian4 nao3 gong1 zuo4",
+  "translation": {
+    "en": "I work with a computer.",
+    "vi": "Tôi làm việc bằng máy tính."
+  }
+}, {
+  "sentence": "这个软件很好用。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè ruǎn jiàn hěn hǎo yòng",
+  "pinyin2": "zhe4 ge4 ruan3 jian4 hen3 hao3 yong4",
+  "translation": {
+    "en": "This software is very easy to use.",
+    "vi": "Phần mềm này rất dễ sử dụng."
+  }
+}, {
+  "sentence": "硬件需要升级了。",
+  "tags": ["computer"],
+  "pinyin1": "yìng jiàn xū yào shēng jí le",
+  "pinyin2": "ying4 jian4 xu1 yao4 sheng1 ji2 le",
+  "translation": {
+    "en": "The hardware needs to be upgraded.",
+    "vi": "Phần cứng cần được nâng cấp rồi."
+  }
+}, {
+  "sentence": "我正在写程序。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ zhèng zài xiě chéng xù",
+  "pinyin2": "wo3 zheng4 zai4 xie3 cheng2 xu4",
+  "translation": {
+    "en": "I'm writing a program.",
+    "vi": "Tôi đang viết chương trình."
+  }
+}, {
+  "sentence": "请打开这个文件。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng dǎ kāi zhè gè wén jiàn",
+  "pinyin2": "qing3 da3 kai1 zhe4 ge4 wen2 jian4",
+  "translation": {
+    "en": "Please open this file.",
+    "vi": "Xin hãy mở file này."
+  }
+}, {
+  "sentence": "我需要下载这个软件。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ xū yào xià zài zhè gè ruǎn jiàn",
+  "pinyin2": "wo3 xu1 yao4 xia4 zai4 zhe4 ge4 ruan3 jian4",
+  "translation": {
+    "en": "I need to download this software.",
+    "vi": "Tôi cần tải phần mềm này."
+  }
+}, {
+  "sentence": "我的电脑死机了。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ de diàn nǎo sǐ jī le",
+  "pinyin2": "wo3 de dian4 nao3 si3 ji1 le",
+  "translation": {
+    "en": "My computer crashed.",
+    "vi": "Máy tính của tôi bị treo rồi."
+  }
+}, {
+  "sentence": "请保存你的工作。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng bǎo cún nǐ de gōng zuò",
+  "pinyin2": "qing3 bao3 cun2 ni3 de gong1 zuo4",
+  "translation": {
+    "en": "Please save your work.",
+    "vi": "Xin hãy lưu công việc của bạn."
+  }
+}, {
+  "sentence": "这个网站打不开。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè wǎng zhàn dǎ bù kāi",
+  "pinyin2": "zhe4 ge4 wang3 zhan4 da3 bu4 kai1",
+  "translation": {
+    "en": "This website won't open.",
+    "vi": "Trang web này không mở được."
+  }
+}, {
+  "sentence": "我需要连接网络。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ xū yào lián jiē wǎng luò",
+  "pinyin2": "wo3 xu1 yao4 lian2 jie1 wang3 luo4",
+  "translation": {
+    "en": "I need to connect to the network.",
+    "vi": "Tôi cần kết nối mạng."
+  }
+}, {
+  "sentence": "请检查你的邮箱。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng jiǎn chá nǐ de yóu xiāng",
+  "pinyin2": "qing3 jian3 cha2 ni3 de you2 xiang1",
+  "translation": {
+    "en": "Please check your email.",
+    "vi": "Xin hãy kiểm tra hộp thư của bạn."
+  }
+}, {
+  "sentence": "这个程序运行很慢。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè chéng xù yùn xíng hěn màn",
+  "pinyin2": "zhe4 ge4 cheng2 xu4 yun4 xing2 hen3 man4",
+  "translation": {
+    "en": "This program runs very slowly.",
+    "vi": "Chương trình này chạy rất chậm."
+  }
+}, {
+  "sentence": "我正在学习编程。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ zhèng zài xué xí biān chéng",
+  "pinyin2": "wo3 zheng4 zai4 xue2 xi2 bian1 cheng2",
+  "translation": {
+    "en": "I'm learning programming.",
+    "vi": "Tôi đang học lập trình."
+  }
+}, {
+  "sentence": "这段代码有问题。",
+  "tags": ["computer"],
+  "pinyin1": "zhè duàn dài mǎ yǒu wèn tí",
+  "pinyin2": "zhe4 duan4 dai4 ma3 you3 wen4 ti2",
+  "translation": {
+    "en": "There's a problem with this code.",
+    "vi": "Đoạn mã này có vấn đề."
+  }
+}, {
+  "sentence": "请把文件放在文件夹里。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng bǎ wén jiàn fàng zài wén jiàn jiā lǐ",
+  "pinyin2": "qing3 ba3 wen2 jian4 fang4 zai4 wen2 jian4 jia1 li3",
+  "translation": {
+    "en": "Please put the file in the folder.",
+    "vi": "Xin hãy đặt file vào thư mục."
+  }
+}, {
+  "sentence": "我需要压缩这个文件。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ xū yào yā suō zhè gè wén jiàn",
+  "pinyin2": "wo3 xu1 yao4 ya1 suo1 zhe4 ge4 wen2 jian4",
+  "translation": {
+    "en": "I need to compress this file.",
+    "vi": "Tôi cần nén file này."
+  }
+}, {
+  "sentence": "请解压这个文件。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng jiě yā zhè gè wén jiàn",
+  "pinyin2": "qing3 jie3 ya1 zhe4 ge4 wen2 jian4",
+  "translation": {
+    "en": "Please decompress this file.",
+    "vi": "Xin hãy giải nén file này."
+  }
+}, {
+  "sentence": "这个算法很高效。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè suàn fǎ hěn gāo xiào",
+  "pinyin2": "zhe4 ge4 suan4 fa3 hen3 gao1 xiao4",
+  "translation": {
+    "en": "This algorithm is very efficient.",
+    "vi": "Thuật toán này rất hiệu quả."
+  }
+}, {
+  "sentence": "这些数据很重要。",
+  "tags": ["computer"],
+  "pinyin1": "zhè xiē shù jù hěn zhòng yào",
+  "pinyin2": "zhe4 xie1 shu4 ju4 hen3 zhong4 yao4",
+  "translation": {
+    "en": "This data is very important.",
+    "vi": "Dữ liệu này rất quan trọng."
+  }
+}, {
+  "sentence": "我需要更多信息。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ xū yào gèng duō xìn xī",
+  "pinyin2": "wo3 xu1 yao4 geng4 duo1 xin4 xi1",
+  "translation": {
+    "en": "I need more information.",
+    "vi": "Tôi cần thêm thông tin."
+  }
+}, {
+  "sentence": "我正在学习数据结构。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ zhèng zài xué xí shù jù jié gòu",
+  "pinyin2": "wo3 zheng4 zai4 xue2 xi2 shu4 ju4 jie2 gou4",
+  "translation": {
+    "en": "I'm learning data structures.",
+    "vi": "Tôi đang học cấu trúc dữ liệu."
+  }
+}, {
+  "sentence": "这个链表需要优化。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè liàn biǎo xū yào yōu huà",
+  "pinyin2": "zhe4 ge4 lian4 biao3 xu1 yao4 you1 hua4",
+  "translation": {
+    "en": "This linked list needs optimization.",
+    "vi": "Danh sách liên kết này cần được tối ưu."
+  }
+}]

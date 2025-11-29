@@ -1,0 +1,886 @@
+[{
+    "tags": ["quantifier"],
+    "word": "个",
+    "description": {
+      "en": "The most common and versatile quantifier in Chinese. Used for people, general objects, and as a default when unsure which quantifier to use.",
+      "vi": "Lượng từ phổ biến và linh hoạt nhất trong tiếng Trung. Dùng cho người, đồ vật nói chung, và làm mặc định khi không chắc dùng lượng từ nào.",
+      "zh": "最常用和通用的量词。用于人、一般物体，以及不确定用哪个量词时的默认选择。"
+    },
+    "pinyin1": "gè",
+    "pinyin2": "ge4",
+    "translation": {
+      "en": "general measure word",
+      "vi": "lượng từ chung"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "本",
+    "description": {
+      "en": "Quantifier for books, magazines, notebooks, and other bound items.",
+      "vi": "Lượng từ cho sách, tạp chí, sổ tay và các vật đóng bìa khác.",
+      "zh": "用于书籍、杂志、笔记本等装订物品的量词。"
+    },
+    "pinyin1": "běn",
+    "pinyin2": "ben3",
+    "translation": {
+      "en": "measure word for books",
+      "vi": "lượng từ cho sách"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "张",
+    "description": {
+      "en": "Quantifier for flat, thin objects such as paper, tables, photos, tickets, and beds.",
+      "vi": "Lượng từ cho đồ vật phẳng, mỏng như giấy, bàn, ảnh, vé và giường.",
+      "zh": "用于扁平、薄物体的量词，如纸、桌子、照片、票、床。"
+    },
+    "pinyin1": "zhāng",
+    "pinyin2": "zhang1",
+    "translation": {
+      "en": "measure word for flat objects",
+      "vi": "lượng từ cho đồ vật phẳng"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "条",
+    "description": {
+      "en": "Quantifier for long, narrow objects such as roads, rivers, fish, pants, and snakes.",
+      "vi": "Lượng từ cho đồ vật dài, hẹp như đường, sông, cá, quần và rắn.",
+      "zh": "用于长形、窄形物体的量词，如路、河、鱼、裤子、蛇。"
+    },
+    "pinyin1": "tiáo",
+    "pinyin2": "tiao2",
+    "translation": {
+      "en": "measure word for long objects",
+      "vi": "lượng từ cho đồ vật dài"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "只",
+    "description": {
+      "en": "Quantifier for small animals, birds, one of a pair (like hands, feet), and some containers.",
+      "vi": "Lượng từ cho động vật nhỏ, chim, một trong một đôi (như tay, chân) và một số đồ chứa.",
+      "zh": "用于小动物、鸟、成对物品中的一个（如手、脚）以及某些容器的量词。"
+    },
+    "pinyin1": "zhī",
+    "pinyin2": "zhi1",
+    "translation": {
+      "en": "measure word for small animals/birds",
+      "vi": "lượng từ cho động vật nhỏ/chim"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "头",
+    "description": {
+      "en": "Quantifier for large animals such as cows, pigs, and elephants.",
+      "vi": "Lượng từ cho động vật lớn như bò, lợn và voi.",
+      "zh": "用于大动物的量词，如牛、猪、象。"
+    },
+    "pinyin1": "tóu",
+    "pinyin2": "tou2",
+    "translation": {
+      "en": "measure word for large animals",
+      "vi": "lượng từ cho động vật lớn"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "匹",
+    "description": {
+      "en": "Quantifier for horses and some other large animals.",
+      "vi": "Lượng từ cho ngựa và một số động vật lớn khác.",
+      "zh": "用于马和一些其他大动物的量词。"
+    },
+    "pinyin1": "pǐ",
+    "pinyin2": "pi3",
+    "translation": {
+      "en": "measure word for horses",
+      "vi": "lượng từ cho ngựa"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "杯",
+    "description": {
+      "en": "Quantifier for cups and glasses of liquid.",
+      "vi": "Lượng từ cho cốc và ly chất lỏng.",
+      "zh": "用于杯子和玻璃杯的量词。"
+    },
+    "pinyin1": "bēi",
+    "pinyin2": "bei1",
+    "translation": {
+      "en": "cup, glass",
+      "vi": "cốc, ly"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "瓶",
+    "description": {
+      "en": "Quantifier for bottles.",
+      "vi": "Lượng từ cho chai.",
+      "zh": "用于瓶子的量词。"
+    },
+    "pinyin1": "píng",
+    "pinyin2": "ping2",
+    "translation": {
+      "en": "bottle",
+      "vi": "chai"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "碗",
+    "description": {
+      "en": "Quantifier for bowls.",
+      "vi": "Lượng từ cho bát.",
+      "zh": "用于碗的量词。"
+    },
+    "pinyin1": "wǎn",
+    "pinyin2": "wan3",
+    "translation": {
+      "en": "bowl",
+      "vi": "bát"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "盒",
+    "description": {
+      "en": "Quantifier for boxes and containers.",
+      "vi": "Lượng từ cho hộp và đồ chứa.",
+      "zh": "用于盒子和容器的量词。"
+    },
+    "pinyin1": "hé",
+    "pinyin2": "he2",
+    "translation": {
+      "en": "box",
+      "vi": "hộp"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "片",
+    "description": {
+      "en": "Quantifier for slices, pieces, tablets, and flat pieces of something.",
+      "vi": "Lượng từ cho lát, miếng, viên và mảnh phẳng của cái gì đó.",
+      "zh": "用于片、块、药片和扁平片状物的量词。"
+    },
+    "pinyin1": "piàn",
+    "pinyin2": "pian4",
+    "translation": {
+      "en": "slice, piece",
+      "vi": "lát, miếng"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "根",
+    "description": {
+      "en": "Quantifier for long, thin objects such as sticks, strings, hair, and cigarettes.",
+      "vi": "Lượng từ cho đồ vật dài, mỏng như que, dây, tóc và thuốc lá.",
+      "zh": "用于长而细的物体的量词，如棍子、线、头发、香烟。"
+    },
+    "pinyin1": "gēn",
+    "pinyin2": "gen1",
+    "translation": {
+      "en": "measure word for long thin objects",
+      "vi": "lượng từ cho đồ vật dài mỏng"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "支",
+    "description": {
+      "en": "Quantifier for pens, branches, teams, and songs.",
+      "vi": "Lượng từ cho bút, cành, đội và bài hát.",
+      "zh": "用于笔、树枝、队伍和歌曲的量词。"
+    },
+    "pinyin1": "zhī",
+    "pinyin2": "zhi1",
+    "translation": {
+      "en": "measure word for pens/branches",
+      "vi": "lượng từ cho bút/cành"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "册",
+    "description": {
+      "en": "Quantifier for volumes, books (formal), and booklets.",
+      "vi": "Lượng từ cho tập, sách (trang trọng) và sách nhỏ.",
+      "zh": "用于册、卷、书籍（正式）和小册子的量词。"
+    },
+    "pinyin1": "cè",
+    "pinyin2": "ce4",
+    "translation": {
+      "en": "volume, book",
+      "vi": "tập, sách"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "双",
+    "description": {
+      "en": "Quantifier for pairs, especially shoes, socks, gloves, and hands.",
+      "vi": "Lượng từ cho đôi, đặc biệt là giày, tất, găng tay và tay.",
+      "zh": "用于成对物品的量词，特别是鞋、袜、手套和手。"
+    },
+    "pinyin1": "shuāng",
+    "pinyin2": "shuang1",
+    "translation": {
+      "en": "pair",
+      "vi": "đôi"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "套",
+    "description": {
+      "en": "Quantifier for sets, such as clothes, furniture, books, and apartments.",
+      "vi": "Lượng từ cho bộ, như quần áo, đồ nội thất, sách và căn hộ.",
+      "zh": "用于套、组的量词，如衣服、家具、书籍、公寓。"
+    },
+    "pinyin1": "tào",
+    "pinyin2": "tao4",
+    "translation": {
+      "en": "set",
+      "vi": "bộ"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "群",
+    "description": {
+      "en": "Quantifier for groups of people or animals.",
+      "vi": "Lượng từ cho nhóm người hoặc động vật.",
+      "zh": "用于人群或动物群的量词。"
+    },
+    "pinyin1": "qún",
+    "pinyin2": "qun2",
+    "translation": {
+      "en": "group",
+      "vi": "nhóm"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "辆",
+    "description": {
+      "en": "Quantifier for vehicles such as cars, bicycles, and motorcycles.",
+      "vi": "Lượng từ cho phương tiện như xe hơi, xe đạp và xe máy.",
+      "zh": "用于车辆的量词，如汽车、自行车、摩托车。"
+    },
+    "pinyin1": "liàng",
+    "pinyin2": "liang4",
+    "translation": {
+      "en": "measure word for vehicles",
+      "vi": "lượng từ cho phương tiện"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "年",
+    "description": {
+      "en": "Quantifier for years.",
+      "vi": "Lượng từ cho năm.",
+      "zh": "用于年的量词。"
+    },
+    "pinyin1": "nián",
+    "pinyin2": "nian2",
+    "translation": {
+      "en": "year",
+      "vi": "năm"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "月",
+    "description": {
+      "en": "Quantifier for months.",
+      "vi": "Lượng từ cho tháng.",
+      "zh": "用于月的量词。"
+    },
+    "pinyin1": "yuè",
+    "pinyin2": "yue4",
+    "translation": {
+      "en": "month",
+      "vi": "tháng"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "天",
+    "description": {
+      "en": "Quantifier for days.",
+      "vi": "Lượng từ cho ngày.",
+      "zh": "用于天的量词。"
+    },
+    "pinyin1": "tiān",
+    "pinyin2": "tian1",
+    "translation": {
+      "en": "day",
+      "vi": "ngày"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "小时",
+    "description": {
+      "en": "Quantifier for hours.",
+      "vi": "Lượng từ cho giờ.",
+      "zh": "用于小时的量词。"
+    },
+    "pinyin1": "xiǎoshí",
+    "pinyin2": "xiao3 shi2",
+    "translation": {
+      "en": "hour",
+      "vi": "giờ"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "米",
+    "description": {
+      "en": "Quantifier for meters (unit of length).",
+      "vi": "Lượng từ cho mét (đơn vị chiều dài).",
+      "zh": "用于米的量词（长度单位）。"
+    },
+    "pinyin1": "mǐ",
+    "pinyin2": "mi3",
+    "translation": {
+      "en": "meter",
+      "vi": "mét"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "公斤",
+    "description": {
+      "en": "Quantifier for kilograms (unit of weight).",
+      "vi": "Lượng từ cho kilôgam (đơn vị trọng lượng).",
+      "zh": "用于公斤的量词（重量单位）。"
+    },
+    "pinyin1": "gōngjīn",
+    "pinyin2": "gong1 jin1",
+    "translation": {
+      "en": "kilogram",
+      "vi": "kilôgam"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "升",
+    "description": {
+      "en": "Quantifier for liters (unit of volume).",
+      "vi": "Lượng từ cho lít (đơn vị thể tích).",
+      "zh": "用于升的量词（体积单位）。"
+    },
+    "pinyin1": "shēng",
+    "pinyin2": "sheng1",
+    "translation": {
+      "en": "liter",
+      "vi": "lít"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "件",
+    "description": {
+      "en": "Quantifier for clothing, matters, things, and events.",
+      "vi": "Lượng từ cho quần áo, vấn đề, đồ vật và sự kiện.",
+      "zh": "用于衣服、事情、物品和事件的量词。"
+    },
+    "pinyin1": "jiàn",
+    "pinyin2": "jian4",
+    "translation": {
+      "en": "measure word for clothing/matters",
+      "vi": "lượng từ cho quần áo/vấn đề"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "块",
+    "description": {
+      "en": "Quantifier for pieces, chunks, and the Chinese currency unit (yuan).",
+      "vi": "Lượng từ cho miếng, khối và đơn vị tiền tệ Trung Quốc (nhân dân tệ).",
+      "zh": "用于块、片、块状物以及人民币单位的量词。"
+    },
+    "pinyin1": "kuài",
+    "pinyin2": "kuai4",
+    "translation": {
+      "en": "piece, chunk, yuan",
+      "vi": "miếng, khối, nhân dân tệ"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "把",
+    "description": {
+      "en": "Quantifier for objects with handles (knives, umbrellas, chairs) and abstract things that can be 'grasped'.",
+      "vi": "Lượng từ cho đồ vật có tay cầm (dao, ô, ghế) và những thứ trừu tượng có thể 'nắm'.",
+      "zh": "用于有把手的物品（刀、伞、椅子）和可\"把握\"的抽象事物的量词。"
+    },
+    "pinyin1": "bǎ",
+    "pinyin2": "ba3",
+    "translation": {
+      "en": "measure word for objects with handles",
+      "vi": "lượng từ cho đồ vật có tay cầm"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "座",
+    "description": {
+      "en": "Quantifier for large buildings, mountains, bridges, and statues.",
+      "vi": "Lượng từ cho tòa nhà lớn, núi, cầu và tượng.",
+      "zh": "用于大型建筑、山、桥和雕像的量词。"
+    },
+    "pinyin1": "zuò",
+    "pinyin2": "zuo4",
+    "translation": {
+      "en": "measure word for large buildings/mountains",
+      "vi": "lượng từ cho tòa nhà lớn/núi"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "间",
+    "description": {
+      "en": "Quantifier for rooms.",
+      "vi": "Lượng từ cho phòng.",
+      "zh": "用于房间的量词。"
+    },
+    "pinyin1": "jiān",
+    "pinyin2": "jian1",
+    "translation": {
+      "en": "room",
+      "vi": "phòng"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "层",
+    "description": {
+      "en": "Quantifier for floors, layers, and levels.",
+      "vi": "Lượng từ cho tầng, lớp và cấp độ.",
+      "zh": "用于楼层、层和级别的量词。"
+    },
+    "pinyin1": "céng",
+    "pinyin2": "ceng2",
+    "translation": {
+      "en": "floor, layer",
+      "vi": "tầng, lớp"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "棵",
+    "description": {
+      "en": "Quantifier for trees and plants.",
+      "vi": "Lượng từ cho cây và thực vật.",
+      "zh": "用于树木和植物的量词。"
+    },
+    "pinyin1": "kē",
+    "pinyin2": "ke1",
+    "translation": {
+      "en": "measure word for trees/plants",
+      "vi": "lượng từ cho cây/thực vật"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "朵",
+    "description": {
+      "en": "Quantifier for flowers and clouds.",
+      "vi": "Lượng từ cho hoa và mây.",
+      "zh": "用于花和云的量词。"
+    },
+    "pinyin1": "duǒ",
+    "pinyin2": "duo3",
+    "translation": {
+      "en": "measure word for flowers/clouds",
+      "vi": "lượng từ cho hoa/mây"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "颗",
+    "description": {
+      "en": "Quantifier for small round objects such as pearls, stars, teeth, and grains.",
+      "vi": "Lượng từ cho đồ vật tròn nhỏ như ngọc trai, sao, răng và hạt.",
+      "zh": "用于小圆形物体的量词，如珍珠、星星、牙齿、颗粒。"
+    },
+    "pinyin1": "kē",
+    "pinyin2": "ke1",
+    "translation": {
+      "en": "measure word for small round objects",
+      "vi": "lượng từ cho đồ vật tròn nhỏ"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "粒",
+    "description": {
+      "en": "Quantifier for small grains, pills, and seeds.",
+      "vi": "Lượng từ cho hạt nhỏ, viên thuốc và hạt giống.",
+      "zh": "用于小颗粒、药丸和种子的量词。"
+    },
+    "pinyin1": "lì",
+    "pinyin2": "li4",
+    "translation": {
+      "en": "grain, pill",
+      "vi": "hạt, viên"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "口",
+    "description": {
+      "en": "Quantifier for people in a family, wells, and things related to the mouth.",
+      "vi": "Lượng từ cho người trong gia đình, giếng và những thứ liên quan đến miệng.",
+      "zh": "用于家庭成员、井和与口相关事物的量词。"
+    },
+    "pinyin1": "kǒu",
+    "pinyin2": "kou3",
+    "translation": {
+      "en": "measure word for family members/wells",
+      "vi": "lượng từ cho thành viên gia đình/giếng"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "名",
+    "description": {
+      "en": "Quantifier for people, especially in formal contexts (students, workers, etc.).",
+      "vi": "Lượng từ cho người, đặc biệt trong ngữ cảnh trang trọng (học sinh, công nhân, v.v.).",
+      "zh": "用于人的量词，特别是在正式场合（学生、工人等）。"
+    },
+    "pinyin1": "míng",
+    "pinyin2": "ming2",
+    "translation": {
+      "en": "measure word for people (formal)",
+      "vi": "lượng từ cho người (trang trọng)"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "位",
+    "description": {
+      "en": "Polite quantifier for people, showing respect.",
+      "vi": "Lượng từ lịch sự cho người, thể hiện sự tôn trọng.",
+      "zh": "用于人的礼貌量词，表示尊敬。"
+    },
+    "pinyin1": "wèi",
+    "pinyin2": "wei4",
+    "translation": {
+      "en": "measure word for people (polite)",
+      "vi": "lượng từ cho người (lịch sự)"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "台",
+    "description": {
+      "en": "Quantifier for machines and equipment such as computers, televisions, and vehicles.",
+      "vi": "Lượng từ cho máy móc và thiết bị như máy tính, tivi và phương tiện.",
+      "zh": "用于机器和设备的量词，如电脑、电视、车辆。"
+    },
+    "pinyin1": "tái",
+    "pinyin2": "tai2",
+    "translation": {
+      "en": "measure word for machines/equipment",
+      "vi": "lượng từ cho máy móc/thiết bị"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "部",
+    "description": {
+      "en": "Quantifier for movies, novels, phones, and vehicles.",
+      "vi": "Lượng từ cho phim, tiểu thuyết, điện thoại và phương tiện.",
+      "zh": "用于电影、小说、手机和车辆的量词。"
+    },
+    "pinyin1": "bù",
+    "pinyin2": "bu4",
+    "translation": {
+      "en": "measure word for movies/novels/phones",
+      "vi": "lượng từ cho phim/tiểu thuyết/điện thoại"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "首",
+    "description": {
+      "en": "Quantifier for songs and poems.",
+      "vi": "Lượng từ cho bài hát và thơ.",
+      "zh": "用于歌曲和诗歌的量词。"
+    },
+    "pinyin1": "shǒu",
+    "pinyin2": "shou3",
+    "translation": {
+      "en": "measure word for songs/poems",
+      "vi": "lượng từ cho bài hát/thơ"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "篇",
+    "description": {
+      "en": "Quantifier for articles, essays, and written pieces.",
+      "vi": "Lượng từ cho bài viết, tiểu luận và tác phẩm viết.",
+      "zh": "用于文章、论文和书面作品的量词。"
+    },
+    "pinyin1": "piān",
+    "pinyin2": "pian1",
+    "translation": {
+      "en": "measure word for articles/essays",
+      "vi": "lượng từ cho bài viết/tiểu luận"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "句",
+    "description": {
+      "en": "Quantifier for sentences and phrases.",
+      "vi": "Lượng từ cho câu và cụm từ.",
+      "zh": "用于句子和短语的量词。"
+    },
+    "pinyin1": "jù",
+    "pinyin2": "ju4",
+    "translation": {
+      "en": "sentence, phrase",
+      "vi": "câu, cụm từ"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "次",
+    "description": {
+      "en": "Quantifier for times, occurrences, and frequency.",
+      "vi": "Lượng từ cho lần, sự xuất hiện và tần suất.",
+      "zh": "用于次数、发生频率的量词。"
+    },
+    "pinyin1": "cì",
+    "pinyin2": "ci4",
+    "translation": {
+      "en": "time, occurrence",
+      "vi": "lần, sự xuất hiện"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "遍",
+    "description": {
+      "en": "Quantifier for times something is done from beginning to end (complete times).",
+      "vi": "Lượng từ cho số lần làm gì đó từ đầu đến cuối (lần hoàn chỉnh).",
+      "zh": "用于从头到尾完成的次数的量词（完整次数）。"
+    },
+    "pinyin1": "biàn",
+    "pinyin2": "bian4",
+    "translation": {
+      "en": "complete time, round",
+      "vi": "lần hoàn chỉnh"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "场",
+    "description": {
+      "en": "Quantifier for events, games, movies, and rain.",
+      "vi": "Lượng từ cho sự kiện, trò chơi, phim và mưa.",
+      "zh": "用于活动、比赛、电影和雨的量词。"
+    },
+    "pinyin1": "chǎng",
+    "pinyin2": "chang3",
+    "translation": {
+      "en": "measure word for events/games",
+      "vi": "lượng từ cho sự kiện/trò chơi"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "顿",
+    "description": {
+      "en": "Quantifier for meals and scoldings.",
+      "vi": "Lượng từ cho bữa ăn và sự mắng mỏ.",
+      "zh": "用于餐和责骂的量词。"
+    },
+    "pinyin1": "dùn",
+    "pinyin2": "dun4",
+    "translation": {
+      "en": "measure word for meals/scoldings",
+      "vi": "lượng từ cho bữa ăn/sự mắng mỏ"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "趟",
+    "description": {
+      "en": "Quantifier for trips and journeys.",
+      "vi": "Lượng từ cho chuyến đi và hành trình.",
+      "zh": "用于行程和旅程的量词。"
+    },
+    "pinyin1": "tàng",
+    "pinyin2": "tang4",
+    "translation": {
+      "en": "trip, journey",
+      "vi": "chuyến đi, hành trình"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "面",
+    "description": {
+      "en": "Quantifier for mirrors, flags, and flat surfaces.",
+      "vi": "Lượng từ cho gương, cờ và bề mặt phẳng.",
+      "zh": "用于镜子、旗帜和平面的量词。"
+    },
+    "pinyin1": "miàn",
+    "pinyin2": "mian4",
+    "translation": {
+      "en": "measure word for mirrors/flags",
+      "vi": "lượng từ cho gương/cờ"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "幅",
+    "description": {
+      "en": "Quantifier for paintings, pictures, and maps.",
+      "vi": "Lượng từ cho tranh, ảnh và bản đồ.",
+      "zh": "用于画、图片和地图的量词。"
+    },
+    "pinyin1": "fú",
+    "pinyin2": "fu2",
+    "translation": {
+      "en": "measure word for paintings/pictures",
+      "vi": "lượng từ cho tranh/ảnh"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "架",
+    "description": {
+      "en": "Quantifier for airplanes and machines.",
+      "vi": "Lượng từ cho máy bay và máy móc.",
+      "zh": "用于飞机和机器的量词。"
+    },
+    "pinyin1": "jià",
+    "pinyin2": "jia4",
+    "translation": {
+      "en": "measure word for airplanes/machines",
+      "vi": "lượng từ cho máy bay/máy móc"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "艘",
+    "description": {
+      "en": "Quantifier for ships and boats.",
+      "vi": "Lượng từ cho tàu và thuyền.",
+      "zh": "用于船和艇的量词。"
+    },
+    "pinyin1": "sōu",
+    "pinyin2": "sou1",
+    "translation": {
+      "en": "measure word for ships/boats",
+      "vi": "lượng từ cho tàu/thuyền"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "列",
+    "description": {
+      "en": "Quantifier for trains and rows.",
+      "vi": "Lượng từ cho tàu hỏa và hàng.",
+      "zh": "用于火车和列的量词。"
+    },
+    "pinyin1": "liè",
+    "pinyin2": "lie4",
+    "translation": {
+      "en": "measure word for trains/rows",
+      "vi": "lượng từ cho tàu hỏa/hàng"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "页",
+    "description": {
+      "en": "Quantifier for pages.",
+      "vi": "Lượng từ cho trang.",
+      "zh": "用于页的量词。"
+    },
+    "pinyin1": "yè",
+    "pinyin2": "ye4",
+    "translation": {
+      "en": "page",
+      "vi": "trang"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "段",
+    "description": {
+      "en": "Quantifier for sections, paragraphs, and periods of time.",
+      "vi": "Lượng từ cho phần, đoạn văn và khoảng thời gian.",
+      "zh": "用于段落、章节和时间段的量词。"
+    },
+    "pinyin1": "duàn",
+    "pinyin2": "duan4",
+    "translation": {
+      "en": "section, paragraph, period",
+      "vi": "phần, đoạn văn, khoảng thời gian"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "节",
+    "description": {
+      "en": "Quantifier for classes, lessons, and sections.",
+      "vi": "Lượng từ cho lớp học, bài học và phần.",
+      "zh": "用于课、节和部分的量词。"
+    },
+    "pinyin1": "jié",
+    "pinyin2": "jie2",
+    "translation": {
+      "en": "class, lesson, section",
+      "vi": "lớp học, bài học, phần"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "种",
+    "description": {
+      "en": "Quantifier for types, kinds, and varieties.",
+      "vi": "Lượng từ cho loại, kiểu và giống.",
+      "zh": "用于种类和类型的量词。"
+    },
+    "pinyin1": "zhǒng",
+    "pinyin2": "zhong3",
+    "translation": {
+      "en": "type, kind",
+      "vi": "loại, kiểu"
+    }
+  },
+  {
+    "tags": ["quantifier"],
+    "word": "样",
+    "description": {
+      "en": "Quantifier for kinds, types, and varieties (similar to 种).",
+      "vi": "Lượng từ cho loại, kiểu và giống (tương tự 种).",
+      "zh": "用于种类和类型的量词（类似种）。"
+    },
+    "pinyin1": "yàng",
+    "pinyin2": "yang4",
+    "translation": {
+      "en": "kind, type",
+      "vi": "loại, kiểu"
+    }
+  }
+]

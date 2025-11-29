@@ -1,0 +1,1975 @@
+[{
+    "tags": ["learning"],
+    "word": "学习",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué xí",
+    "pinyin2": "xue2 xi2",
+    "translation": {
+      "en": "study",
+      "vi": "học tập"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "上课",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "shàng kè",
+    "pinyin2": "shang4 ke4",
+    "translation": {
+      "en": "attend class",
+      "vi": "đi học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "听讲",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tīng jiǎng",
+    "pinyin2": "ting1 jiang3",
+    "translation": {
+      "en": "listen to lecture",
+      "vi": "nghe giảng"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "做笔记",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zuò bǐ jì",
+    "pinyin2": "zuo4 bi3 ji4",
+    "translation": {
+      "en": "take notes",
+      "vi": "ghi chú"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "复习",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "fù xí",
+    "pinyin2": "fu4 xi2",
+    "translation": {
+      "en": "review",
+      "vi": "ôn tập"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "预习",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yù xí",
+    "pinyin2": "yu4 xi2",
+    "translation": {
+      "en": "preview lesson",
+      "vi": "học trước"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "考试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kǎo shì",
+    "pinyin2": "kao3 shi4",
+    "translation": {
+      "en": "exam",
+      "vi": "kỳ thi"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "测验",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "cè yàn",
+    "pinyin2": "ce4 yan4",
+    "translation": {
+      "en": "quiz/test",
+      "vi": "bài kiểm tra"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "分数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "fēn shù",
+    "pinyin2": "fen1 shu4",
+    "translation": {
+      "en": "score",
+      "vi": "điểm số"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "成绩",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "chéng jì",
+    "pinyin2": "cheng2 ji4",
+    "translation": {
+      "en": "grade/result",
+      "vi": "thành tích"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "提高",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tí gāo",
+    "pinyin2": "ti2 gao1",
+    "translation": {
+      "en": "improve",
+      "vi": "nâng cao"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "进步",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jìn bù",
+    "pinyin2": "jin4 bu4",
+    "translation": {
+      "en": "progress",
+      "vi": "tiến bộ"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "理解",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "lǐ jiě",
+    "pinyin2": "li3 jie3",
+    "translation": {
+      "en": "understand",
+      "vi": "hiểu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "掌握",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zhǎng wò",
+    "pinyin2": "zhang3 wo4",
+    "translation": {
+      "en": "master (a skill)",
+      "vi": "nắm vững"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "记住",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jì zhù",
+    "pinyin2": "ji4 zhu4",
+    "translation": {
+      "en": "remember",
+      "vi": "ghi nhớ"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "努力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "nǔ lì",
+    "pinyin2": "nu3 li4",
+    "translation": {
+      "en": "work hard",
+      "vi": "nỗ lực"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "专心",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zhuān xīn",
+    "pinyin2": "zhuan1 xin1",
+    "translation": {
+      "en": "focus",
+      "vi": "chuyên tâm"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "积极",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jī jí",
+    "pinyin2": "ji1 ji2",
+    "translation": {
+      "en": "active",
+      "vi": "tích cực"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "认真",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "rèn zhēn",
+    "pinyin2": "ren4 zhen1",
+    "translation": {
+      "en": "serious/diligent",
+      "vi": "chăm chỉ"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "勤奋",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "qín fèn",
+    "pinyin2": "qin2 fen4",
+    "translation": {
+      "en": "diligent",
+      "vi": "siêng năng"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "课本",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kè běn",
+    "pinyin2": "ke4 ben3",
+    "translation": {
+      "en": "textbook",
+      "vi": "sách giáo khoa"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "作业",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zuò yè",
+    "pinyin2": "zuo4 ye4",
+    "translation": {
+      "en": "homework",
+      "vi": "bài tập"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "练习",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "liàn xí",
+    "pinyin2": "lian4 xi2",
+    "translation": {
+      "en": "practice",
+      "vi": "luyện tập"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "题目",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tí mù",
+    "pinyin2": "ti2 mu4",
+    "translation": {
+      "en": "exercise/question",
+      "vi": "câu hỏi"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "教材",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jiào cái",
+    "pinyin2": "jiao4 cai2",
+    "translation": {
+      "en": "teaching material",
+      "vi": "giáo trình"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "课堂",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kè táng",
+    "pinyin2": "ke4 tang2",
+    "translation": {
+      "en": "classroom session",
+      "vi": "tiết học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "教室",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jiào shì",
+    "pinyin2": "jiao4 shi4",
+    "translation": {
+      "en": "classroom",
+      "vi": "phòng học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "黑板",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "hēi bǎn",
+    "pinyin2": "hei1 ban3",
+    "translation": {
+      "en": "blackboard",
+      "vi": "bảng"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "白板",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "bái bǎn",
+    "pinyin2": "bai2 ban3",
+    "translation": {
+      "en": "whiteboard",
+      "vi": "bảng trắng"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "课桌",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kè zhuō",
+    "pinyin2": "ke4 zhuo1",
+    "translation": {
+      "en": "desk",
+      "vi": "bàn học"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "老师",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "lǎo shī",
+    "pinyin2": "lao3 shi1",
+    "translation": {
+      "en": "teacher",
+      "vi": "giáo viên"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "学生",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué sheng",
+    "pinyin2": "xue2 sheng5",
+    "translation": {
+      "en": "student",
+      "vi": "học sinh"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "同学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tóng xué",
+    "pinyin2": "tong2 xue2",
+    "translation": {
+      "en": "classmate",
+      "vi": "bạn cùng lớp"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "学者",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué zhě",
+    "pinyin2": "xue2 zhe3",
+    "translation": {
+      "en": "scholar",
+      "vi": "học giả"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "导师",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "dǎo shī",
+    "pinyin2": "dao3 shi1",
+    "translation": {
+      "en": "mentor",
+      "vi": "người hướng dẫn"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "学问",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué wèn",
+    "pinyin2": "xue2 wen4",
+    "translation": {
+      "en": "knowledge",
+      "vi": "tri thức"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "知识",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zhī shi",
+    "pinyin2": "zhi1 shi5",
+    "translation": {
+      "en": "knowledge",
+      "vi": "kiến thức"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "概念",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "gài niàn",
+    "pinyin2": "gai4 nian4",
+    "translation": {
+      "en": "concept",
+      "vi": "khái niệm"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "理论",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "lǐ lùn",
+    "pinyin2": "li3 lun4",
+    "translation": {
+      "en": "theory",
+      "vi": "lý thuyết"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "方法",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "fāng fǎ",
+    "pinyin2": "fang1 fa3",
+    "translation": {
+      "en": "method",
+      "vi": "phương pháp"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "读书",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "dú shū",
+    "pinyin2": "du2 shu1",
+    "translation": {
+      "en": "read books",
+      "vi": "đọc sách"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "看书",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kàn shū",
+    "pinyin2": "kan4 shu1",
+    "translation": {
+      "en": "read",
+      "vi": "đọc"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "背书",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "bèi shū",
+    "pinyin2": "bei4 shu1",
+    "translation": {
+      "en": "memorize text",
+      "vi": "học thuộc"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "朗读",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "lǎng dú",
+    "pinyin2": "lang3 du2",
+    "translation": {
+      "en": "read aloud",
+      "vi": "đọc to"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "查字典",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "chá zì diǎn",
+    "pinyin2": "cha2 zi4 dian3",
+    "translation": {
+      "en": "look up dictionary",
+      "vi": "tra từ điển"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "训练",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xùn liàn",
+    "pinyin2": "xun4 lian4",
+    "translation": {
+      "en": "training",
+      "vi": "huấn luyện"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "课程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kè chéng",
+    "pinyin2": "ke4 cheng2",
+    "translation": {
+      "en": "course",
+      "vi": "khóa học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "学科",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué kē",
+    "pinyin2": "xue2 ke1",
+    "translation": {
+      "en": "subject",
+      "vi": "môn học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "科目",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kē mù",
+    "pinyin2": "ke1 mu4",
+    "translation": {
+      "en": "subject",
+      "vi": "môn học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "专业",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zhuān yè",
+    "pinyin2": "zhuan1 ye4",
+    "translation": {
+      "en": "major",
+      "vi": "chuyên ngành"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "实验",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "shí yàn",
+    "pinyin2": "shi2 yan4",
+    "translation": {
+      "en": "experiment",
+      "vi": "thí nghiệm"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "研究",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yán jiū",
+    "pinyin2": "yan2 jiu1",
+    "translation": {
+      "en": "research",
+      "vi": "nghiên cứu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "调查",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "diào chá",
+    "pinyin2": "diao4 cha2",
+    "translation": {
+      "en": "investigate/survey",
+      "vi": "khảo sát"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "分析",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "fēn xī",
+    "pinyin2": "fen1 xi1",
+    "translation": {
+      "en": "analyze",
+      "vi": "phân tích"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "总结",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zǒng jié",
+    "pinyin2": "zong3 jie2",
+    "translation": {
+      "en": "summarize",
+      "vi": "tổng kết"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "提问",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tí wèn",
+    "pinyin2": "ti2 wen4",
+    "translation": {
+      "en": "ask questions",
+      "vi": "đặt câu hỏi"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "回答",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "huí dá",
+    "pinyin2": "hui2 da2",
+    "translation": {
+      "en": "answer",
+      "vi": "trả lời"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "讨论",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tǎo lùn",
+    "pinyin2": "tao3 lun4",
+    "translation": {
+      "en": "discuss",
+      "vi": "thảo luận"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "交流",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jiāo liú",
+    "pinyin2": "jiao1 liu2",
+    "translation": {
+      "en": "communicate",
+      "vi": "giao lưu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "合作",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "hé zuò",
+    "pinyin2": "he2 zuo4",
+    "translation": {
+      "en": "cooperate",
+      "vi": "hợp tác"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "语法",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yǔ fǎ",
+    "pinyin2": "yu3 fa3",
+    "translation": {
+      "en": "grammar",
+      "vi": "ngữ pháp"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "词汇",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "cí huì",
+    "pinyin2": "ci2 hui4",
+    "translation": {
+      "en": "vocabulary",
+      "vi": "từ vựng"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "句子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jù zi",
+    "pinyin2": "ju4 zi5",
+    "translation": {
+      "en": "sentence",
+      "vi": "câu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "段落",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "duàn luò",
+    "pinyin2": "duan4 luo4",
+    "translation": {
+      "en": "paragraph",
+      "vi": "đoạn văn"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "作文",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zuò wén",
+    "pinyin2": "zuo4 wen2",
+    "translation": {
+      "en": "composition",
+      "vi": "bài văn"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "笔记本",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "bǐ jì běn",
+    "pinyin2": "bi3 ji4 ben3",
+    "translation": {
+      "en": "notebook",
+      "vi": "sổ ghi chép"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "词典",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "cí diǎn",
+    "pinyin2": "ci2 dian3",
+    "translation": {
+      "en": "dictionary",
+      "vi": "từ điển"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "参考书",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "cān kǎo shū",
+    "pinyin2": "can1 kao3 shu1",
+    "translation": {
+      "en": "reference book",
+      "vi": "sách tham khảo"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "资料",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zī liào",
+    "pinyin2": "zi1 liao4",
+    "translation": {
+      "en": "materials",
+      "vi": "tài liệu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "文献",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "wén xiàn",
+    "pinyin2": "wen2 xian4",
+    "translation": {
+      "en": "literature",
+      "vi": "tư liệu"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "图书馆",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tú shū guǎn",
+    "pinyin2": "tu2 shu1 guan3",
+    "translation": {
+      "en": "library",
+      "vi": "thư viện"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "自习室",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zì xí shì",
+    "pinyin2": "zi4 xi2 shi4",
+    "translation": {
+      "en": "study room",
+      "vi": "phòng tự học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "阅览室",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yuè lǎn shì",
+    "pinyin2": "yue4 lan3 shi4",
+    "translation": {
+      "en": "reading room",
+      "vi": "phòng đọc"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "书架",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "shū jià",
+    "pinyin2": "shu1 jia4",
+    "translation": {
+      "en": "bookshelf",
+      "vi": "kệ sách"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "借书",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jiè shū",
+    "pinyin2": "jie4 shu1",
+    "translation": {
+      "en": "borrow books",
+      "vi": "mượn sách"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "学费",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué fèi",
+    "pinyin2": "xue2 fei4",
+    "translation": {
+      "en": "tuition",
+      "vi": "học phí"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "奖学金",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jiǎng xué jīn",
+    "pinyin2": "jiang3 xue2 jin1",
+    "translation": {
+      "en": "scholarship",
+      "vi": "học bổng"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "学位",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué wèi",
+    "pinyin2": "xue2 wei4",
+    "translation": {
+      "en": "degree",
+      "vi": "bằng cấp"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "证书",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zhèng shū",
+    "pinyin2": "zheng4 shu1",
+    "translation": {
+      "en": "certificate",
+      "vi": "chứng chỉ"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "毕业",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "bì yè",
+    "pinyin2": "bi4 ye4",
+    "translation": {
+      "en": "graduate",
+      "vi": "tốt nghiệp"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "学习计划",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué xí jì huà",
+    "pinyin2": "xue2 xi2 ji4 hua4",
+    "translation": {
+      "en": "study plan",
+      "vi": "kế hoạch học tập"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "目标",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "mù biāo",
+    "pinyin2": "mu4 biao1",
+    "translation": {
+      "en": "goal",
+      "vi": "mục tiêu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "效率",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xiào lǜ",
+    "pinyin2": "xiao4 lv4",
+    "translation": {
+      "en": "efficiency",
+      "vi": "hiệu quả"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "动力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "dòng lì",
+    "pinyin2": "dong4 li4",
+    "translation": {
+      "en": "motivation",
+      "vi": "động lực"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "习惯",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xí guàn",
+    "pinyin2": "xi2 guan4",
+    "translation": {
+      "en": "habit",
+      "vi": "thói quen"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "自学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zì xué",
+    "pinyin2": "zi4 xue2",
+    "translation": {
+      "en": "self-study",
+      "vi": "tự học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "在线课程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zài xiàn kè chéng",
+    "pinyin2": "zai4 xian4 ke4 cheng2",
+    "translation": {
+      "en": "online course",
+      "vi": "khóa học online"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "远程教育",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yuǎn chéng jiào yù",
+    "pinyin2": "yuan3 cheng2 jiao4 yu4",
+    "translation": {
+      "en": "distance education",
+      "vi": "giáo dục từ xa"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "课堂讨论",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kè táng tǎo lùn",
+    "pinyin2": "ke4 tang2 tao3 lun4",
+    "translation": {
+      "en": "class discussion",
+      "vi": "thảo luận lớp"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "学习伙伴",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué xí huǒ bàn",
+    "pinyin2": "xue2 xi2 huo3 ban4",
+    "translation": {
+      "en": "study partner",
+      "vi": "bạn học"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "考试压力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kǎo shì yā lì",
+    "pinyin2": "kao3 shi4 ya1 li4",
+    "translation": {
+      "en": "exam pressure",
+      "vi": "áp lực thi cử"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "复习资料",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "fù xí zī liào",
+    "pinyin2": "fu4 xi2 zi1 liao4",
+    "translation": {
+      "en": "revision materials",
+      "vi": "tài liệu ôn thi"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "学习方法",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué xí fāng fǎ",
+    "pinyin2": "xue2 xi2 fang1 fa3",
+    "translation": {
+      "en": "learning method",
+      "vi": "phương pháp học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "思维能力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "sī wéi néng lì",
+    "pinyin2": "si1 wei2 neng2 li4",
+    "translation": {
+      "en": "thinking ability",
+      "vi": "khả năng tư duy"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "逻辑思维",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "luó jí sī wéi",
+    "pinyin2": "luo2 ji2 si1 wei2",
+    "translation": {
+      "en": "logical thinking",
+      "vi": "tư duy logic"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "写作",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xiě zuò",
+    "pinyin2": "xie3 zuo4",
+    "translation": {
+      "en": "writing",
+      "vi": "viết"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "阅读",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yuè dú",
+    "pinyin2": "yue4 du2",
+    "translation": {
+      "en": "reading",
+      "vi": "đọc hiểu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "听力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tīng lì",
+    "pinyin2": "ting1 li4",
+    "translation": {
+      "en": "listening",
+      "vi": "nghe hiểu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "口语",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kǒu yǔ",
+    "pinyin2": "kou3 yu3",
+    "translation": {
+      "en": "speaking",
+      "vi": "nói"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "翻译",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "fān yì",
+    "pinyin2": "fan1 yi4",
+    "translation": {
+      "en": "translation",
+      "vi": "dịch thuật"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "日记",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "rì jì",
+    "pinyin2": "ri4 ji4",
+    "translation": {
+      "en": "diary",
+      "vi": "nhật ký"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "档案",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "dàng àn",
+    "pinyin2": "dang4 an4",
+    "translation": {
+      "en": "files/records",
+      "vi": "hồ sơ"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "报告",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "bào gào",
+    "pinyin2": "bao4 gao4",
+    "translation": {
+      "en": "report",
+      "vi": "báo cáo"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "论文",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "lùn wén",
+    "pinyin2": "lun4 wen2",
+    "translation": {
+      "en": "paper/thesis",
+      "vi": "luận văn"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "摘要",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zhāi yào",
+    "pinyin2": "zhai1 yao4",
+    "translation": {
+      "en": "abstract",
+      "vi": "tóm tắt"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "图表",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tú biǎo",
+    "pinyin2": "tu2 biao3",
+    "translation": {
+      "en": "chart",
+      "vi": "biểu đồ"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "数据",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "shù jù",
+    "pinyin2": "shu4 ju4",
+    "translation": {
+      "en": "data",
+      "vi": "dữ liệu"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "案例",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "àn lì",
+    "pinyin2": "an4 li4",
+    "translation": {
+      "en": "case study",
+      "vi": "tình huống"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "模型",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "mó xíng",
+    "pinyin2": "mo2 xing2",
+    "translation": {
+      "en": "model",
+      "vi": "mô hình"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "推理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "tuī lǐ",
+    "pinyin2": "tui1 li3",
+    "translation": {
+      "en": "reasoning",
+      "vi": "suy luận"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "重点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zhòng diǎn",
+    "pinyin2": "zhong4 dian3",
+    "translation": {
+      "en": "key point",
+      "vi": "trọng điểm"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "难点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "nán diǎn",
+    "pinyin2": "nan2 dian3",
+    "translation": {
+      "en": "difficult point",
+      "vi": "điểm khó"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "要点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yào diǎn",
+    "pinyin2": "yao4 dian3",
+    "translation": {
+      "en": "essential point",
+      "vi": "ý chính"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "范围",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "fàn wéi",
+    "pinyin2": "fan4 wei2",
+    "translation": {
+      "en": "scope",
+      "vi": "phạm vi"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "水平",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "shuǐ píng",
+    "pinyin2": "shui3 ping2",
+    "translation": {
+      "en": "level",
+      "vi": "trình độ"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "课堂笔记",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kè táng bǐ jì",
+    "pinyin2": "ke4 tang2 bi3 ji4",
+    "translation": {
+      "en": "class notes",
+      "vi": "ghi chú lớp học"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "考试范围",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kǎo shì fàn wéi",
+    "pinyin2": "kao3 shi4 fan4 wei2",
+    "translation": {
+      "en": "exam scope",
+      "vi": "phạm vi thi"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "作业本",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "zuò yè běn",
+    "pinyin2": "zuo4 ye4 ben3",
+    "translation": {
+      "en": "homework book",
+      "vi": "vở bài tập"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "练习册",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "liàn xí cè",
+    "pinyin2": "lian4 xi2 ce4",
+    "translation": {
+      "en": "exercise book",
+      "vi": "sách bài tập"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "课外书",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kè wài shū",
+    "pinyin2": "ke4 wai4 shu1",
+    "translation": {
+      "en": "extracurricular book",
+      "vi": "sách ngoại khóa"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "课堂表现",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kè táng biǎo xiàn",
+    "pinyin2": "ke4 tang2 biao3 xian4",
+    "translation": {
+      "en": "class performance",
+      "vi": "thành tích lớp"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "讲义",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jiǎng yì",
+    "pinyin2": "jiang3 yi4",
+    "translation": {
+      "en": "lecture notes",
+      "vi": "bài giảng"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "答卷",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "dá juàn",
+    "pinyin2": "da2 juan4",
+    "translation": {
+      "en": "answer sheet",
+      "vi": "bài làm"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "考卷",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "kǎo juàn",
+    "pinyin2": "kao3 juan4",
+    "translation": {
+      "en": "exam paper",
+      "vi": "đề thi"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "阅卷",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yuè juàn",
+    "pinyin2": "yue4 juan4",
+    "translation": {
+      "en": "grade exam",
+      "vi": "chấm bài"
+    }
+  },
+
+  {
+    "tags": ["learning"],
+    "word": "学术",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "xué shù",
+    "pinyin2": "xue2 shu4",
+    "translation": {
+      "en": "academic",
+      "vi": "học thuật"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "讲座",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "jiǎng zuò",
+    "pinyin2": "jiang3 zuo4",
+    "translation": {
+      "en": "lecture",
+      "vi": "buổi thuyết giảng"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "研讨会",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "yán tǎo huì",
+    "pinyin2": "yan2 tao3 hui4",
+    "translation": {
+      "en": "seminar",
+      "vi": "hội thảo"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "公开课",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "gōng kāi kè",
+    "pinyin2": "gong1 kai1 ke4",
+    "translation": {
+      "en": "open class",
+      "vi": "lớp học công khai"
+    }
+  },
+  {
+    "tags": ["learning"],
+    "word": "辅导",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh":""
+    },
+    "pinyin1": "fǔ dǎo",
+    "pinyin2": "fu3 dao3",
+    "translation": {
+      "en": "tutoring",
+      "vi": "gia sư"
+    }
+  }
+]

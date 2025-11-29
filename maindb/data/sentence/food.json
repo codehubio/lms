@@ -1,0 +1,200 @@
+[{
+  "sentence": "我想吃米饭。",
+  "tags": ["food"],
+  "pinyin1": "wǒ xiǎng chī mǐ fàn",
+  "pinyin2": "wo3 xiang3 chi1 mi3 fan4",
+  "translation": {
+    "en": "I want to eat rice.",
+    "vi": "Tôi muốn ăn cơm."
+  }
+}, {
+  "sentence": "这碗面条很好吃。",
+  "tags": ["food"],
+  "pinyin1": "zhè wǎn miàn tiáo hěn hǎo chī",
+  "pinyin2": "zhe4 wan3 mian4 tiao2 hen3 hao3 chi1",
+  "translation": {
+    "en": "This bowl of noodles is very delicious.",
+    "vi": "Bát mì này rất ngon."
+  }
+}, {
+  "sentence": "我买了几个包子。",
+  "tags": ["food"],
+  "pinyin1": "wǒ mǎi le jǐ gè bāo zi",
+  "pinyin2": "wo3 mai3 le ji3 ge4 bao1 zi",
+  "translation": {
+    "en": "I bought a few steamed buns.",
+    "vi": "Tôi đã mua vài cái bánh bao."
+  }
+}, {
+  "sentence": "饺子是我的最爱。",
+  "tags": ["food"],
+  "pinyin1": "jiǎo zi shì wǒ de zuì ài",
+  "pinyin2": "jiao3 zi shi4 wo3 de zui4 ai4",
+  "translation": {
+    "en": "Dumplings are my favorite.",
+    "vi": "Bánh há cảo là món yêu thích của tôi."
+  }
+}, {
+  "sentence": "馒头配菜很好吃。",
+  "tags": ["food"],
+  "pinyin1": "mán tou pèi cài hěn hǎo chī",
+  "pinyin2": "man2 tou2 pei4 cai4 hen3 hao3 chi1",
+  "translation": {
+    "en": "Steamed bread with vegetables is very delicious.",
+    "vi": "Bánh màn thầu ăn kèm rau rất ngon."
+  }
+}, {
+  "sentence": "我想喝汤。",
+  "tags": ["food"],
+  "pinyin1": "wǒ xiǎng hē tāng",
+  "pinyin2": "wo3 xiang3 he1 tang1",
+  "translation": {
+    "en": "I want to drink soup.",
+    "vi": "Tôi muốn uống canh."
+  }
+}, {
+  "sentence": "这个菜太辣了。",
+  "tags": ["food"],
+  "pinyin1": "zhè gè cài tài là le",
+  "pinyin2": "zhe4 ge4 cai4 tai4 la4 le",
+  "translation": {
+    "en": "This dish is too spicy.",
+    "vi": "Món này quá cay."
+  }
+}, {
+  "sentence": "我喜欢吃水果。",
+  "tags": ["food"],
+  "pinyin1": "wǒ xǐ huān chī shuǐ guǒ",
+  "pinyin2": "wo3 xi3 huan1 chi1 shui3 guo3",
+  "translation": {
+    "en": "I like eating fruits.",
+    "vi": "Tôi thích ăn trái cây."
+  }
+}, {
+  "sentence": "请给我一杯茶。",
+  "tags": ["food"],
+  "pinyin1": "qǐng gěi wǒ yī bēi chá",
+  "pinyin2": "qing3 gei3 wo3 yi1 bei1 cha2",
+  "translation": {
+    "en": "Please give me a cup of tea.",
+    "vi": "Xin hãy cho tôi một cốc trà."
+  }
+}, {
+  "sentence": "这顿饭很丰盛。",
+  "tags": ["food"],
+  "pinyin1": "zhè dùn fàn hěn fēng shèng",
+  "pinyin2": "zhe4 dun4 fan4 hen3 feng1 sheng4",
+  "translation": {
+    "en": "This meal is very sumptuous.",
+    "vi": "Bữa ăn này rất phong phú."
+  }
+}, {
+  "sentence": "我饿了，想吃点东西。",
+  "tags": ["food"],
+  "pinyin1": "wǒ è le, xiǎng chī diǎn dōng xī",
+  "pinyin2": "wo3 e4 le, xiang3 chi1 dian3 dong1 xi1",
+  "translation": {
+    "en": "I'm hungry, I want to eat something.",
+    "vi": "Tôi đói rồi, muốn ăn chút gì đó."
+  }
+},   {
+    "sentence": "这个餐厅的菜很好吃。",
+    "tags": ["food"],
+    "pinyin1": "zhè gè cān tīng de cài hěn hǎo chī",
+    "pinyin2": "zhe4 ge4 can1 ting1 de cai4 hen3 hao3 chi1",
+    "translation": {
+      "en": "The food at this restaurant is very delicious.",
+      "vi": "Đồ ăn ở nhà hàng này rất ngon."
+    }
+  }, {
+    "sentence": "我喜欢吃鸡肉。",
+    "tags": ["food"],
+    "pinyin1": "wǒ xǐ huān chī jī ròu",
+    "pinyin2": "wo3 xi3 huan1 chi1 ji1 rou4",
+    "translation": {
+      "en": "I like eating chicken.",
+      "vi": "Tôi thích ăn thịt gà."
+    }
+  }, {
+    "sentence": "牛肉很贵。",
+    "tags": ["food"],
+    "pinyin1": "niú ròu hěn guì",
+    "pinyin2": "niu2 rou4 hen3 gui4",
+    "translation": {
+      "en": "Beef is very expensive.",
+      "vi": "Thịt bò rất đắt."
+    }
+  }, {
+    "sentence": "我不吃猪肉。",
+    "tags": ["food"],
+    "pinyin1": "wǒ bù chī zhū ròu",
+    "pinyin2": "wo3 bu4 chi1 zhu1 rou4",
+    "translation": {
+      "en": "I don't eat pork.",
+      "vi": "Tôi không ăn thịt heo."
+    }
+  }, {
+    "sentence": "这条鱼很新鲜。",
+    "tags": ["food"],
+    "pinyin1": "zhè tiáo yú hěn xīn xiān",
+    "pinyin2": "zhe4 tiao2 yu2 hen3 xin1 xian1",
+    "translation": {
+      "en": "This fish is very fresh.",
+      "vi": "Con cá này rất tươi."
+    }
+  }, {
+    "sentence": "我想吃虾。",
+    "tags": ["food"],
+    "pinyin1": "wǒ xiǎng chī xiā",
+    "pinyin2": "wo3 xiang3 chi1 xia1",
+    "translation": {
+      "en": "I want to eat shrimp.",
+      "vi": "Tôi muốn ăn tôm."
+    }
+  }, {
+    "sentence": "这个蟹很大。",
+    "tags": ["food"],
+    "pinyin1": "zhè gè xiè hěn dà",
+    "pinyin2": "zhe4 ge4 xie4 hen3 da4",
+    "translation": {
+      "en": "This crab is very big.",
+      "vi": "Con cua này rất to."
+    }
+  }, {
+    "sentence": "我买了一些贝类。",
+    "tags": ["food"],
+    "pinyin1": "wǒ mǎi le yī xiē bèi lèi",
+    "pinyin2": "wo3 mai3 le yi1 xie1 bei4 lei4",
+    "translation": {
+      "en": "I bought some shellfish.",
+      "vi": "Tôi đã mua một số hải sản."
+    }
+  }, {
+    "sentence": "我早餐吃鸡蛋。",
+    "tags": ["food"],
+    "pinyin1": "wǒ zǎo cān chī jī dàn",
+    "pinyin2": "wo3 zao3 can1 chi1 ji1 dan4",
+    "translation": {
+      "en": "I eat eggs for breakfast.",
+      "vi": "Tôi ăn trứng cho bữa sáng."
+    }
+  }, {
+    "sentence": "豆腐很有营养。",
+    "tags": ["food"],
+    "pinyin1": "dòu fǔ hěn yǒu yíng yǎng",
+    "pinyin2": "dou4 fu3 hen3 you3 ying2 yang3",
+    "translation": {
+      "en": "Tofu is very nutritious.",
+      "vi": "Đậu phụ rất bổ dưỡng."
+    }
+  }, {
+    "sentence": "这个蘑菇汤很好喝。",
+    "tags": ["food"],
+    "pinyin1": "zhè gè mó gū tāng hěn hǎo hē",
+    "pinyin2": "zhe4 ge4 mo2 gu1 tang1 hen3 hao3 he1",
+    "translation": {
+      "en": "This mushroom soup is very delicious.",
+      "vi": "Canh nấm này rất ngon."
+    }
+  }]
+
