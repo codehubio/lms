@@ -1,0 +1,11983 @@
+[
+  {
+    "word": "假使",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "假如",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "假装",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "假设",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "偏偏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "偏僻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "偏差",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "偏见",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "做生意",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "停止",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "停泊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "停顿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "偿还",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "储备",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "储蓄",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "催",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "像",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "元宵节",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "元首",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "充实",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "充当",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "充沛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "光彩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "光滑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "光芒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "免疫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "兑换",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "兑现",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "兜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "兢兢业业",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "全力以赴",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "全局",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "公关",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "公务",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "公安局",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "公寓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "公斤",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "公然",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "公证",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "公道",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "共鸣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "关",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "关照",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "兴高采烈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "兼职",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "内存",
+    "files": [
+      "computer.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "内幕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "内涵",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "册",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "冒充",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "冒险",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "写作",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "农历",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "冤枉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "冰箱",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "况且",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "冷淡",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "冷酷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "冻结",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "凄凉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "准则",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "凌晨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "凑合",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "凝固",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "凝聚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "凶恶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "出卖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "出息",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "出洋相",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "出身",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "刀",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "分寸",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "分明",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "分析",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "分歧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "分泌",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "分红",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "分辨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "分量",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "分钟",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "刊物",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "刊登",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "列举",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "则",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "删除",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "判决",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "利害",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "利率",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "别墅",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "别扭",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "别致",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "刮风",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "制服",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "制止",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "制裁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "刷牙",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "刹车",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "刻苦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "削弱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "剥削",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "剧烈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "副作用",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "割",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "劈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "力争",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "力所能及",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "功劳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "功效",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "加剧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "务实",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "务必",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "动力",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "动脉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "动荡",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "动身",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "动静",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "努力",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "劲头",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "势必",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "勇于",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "勉强",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "勘探",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "勤劳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "勤奋",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "勾结",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "勿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "包子",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "包袱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "匆忙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "化妆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "化肥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "化验",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "匹",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "千方百计",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "升",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "半途而废",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "华丽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "华侨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "华裔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "协议",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "卑鄙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "卓越",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "卖",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "卡车",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "卡通",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "卧室",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "即便",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "历来",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "压制",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "压抑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "压缩",
+    "files": [
+      "computer.json",
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "厨房",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "参照",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "参谋",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "又",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "叉子",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "及早",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "双",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "双胞胎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "反之",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "反倒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "反常",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "反思",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "反感",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "反而",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "反面",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "反馈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "反驳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "发愁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "发扬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "发抖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "发火",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "发育",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "发誓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "发财",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "取缔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "变质",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "变迁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "叙述",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "口",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "口味",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "口头",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "口气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "口腔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "口音",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "古怪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "古董",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "句子",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "只",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "叮嘱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "可口",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "可恶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "可笑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "可行",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "可观",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "台",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "司令",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "司法",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "叼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "吃",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "吃亏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "吃苦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "合乎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "合伙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "合作",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "合影",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "同事",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "同学",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "同志",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "同时",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "名副其实",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "后代",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "后勤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "后顾之忧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "向往",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "向来",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "否决",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "否则",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "吩咐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "含糊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "听",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "启示",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "吸取",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "吹捧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "吹牛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "吻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "吼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "呈现",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "告诫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "告辞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "呕吐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "周到",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "周密",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "周边",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "呼吁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "命名",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "和",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "和气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "和睦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "和蔼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "和解",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "咖啡",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "咳嗽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "品尝",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "品德",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "品行",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "哄",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "哆嗦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "响亮",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "响应",
+    "files": [
+      "computer.json",
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "哦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "哼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "唉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "唠叨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "唯独",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "唱歌",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "啃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "啤酒",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "喇叭",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "喉咙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "喜悦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "喝",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "嗅觉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "嗓子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "嘱咐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "嘲笑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "嘴唇",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "嘿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "器材",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "噪音",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "嚷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "回答",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "因为",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "因此",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "因而",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "团员",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "固执",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "固然",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "国防",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "图书馆",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "图表",
+    "files": [
+      "hsk7-9_4.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "圈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "圈套",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "土壤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "土豆",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "在意",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "地步",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "地毯",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "地理",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "地质",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "地道",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "场",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "均匀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "坑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "块",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "坚实",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "坚硬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "坚韧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "坟墓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "坦率",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "坦白",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "垄断",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "垫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "埋伏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "埋怨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "埋没",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "基因",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "堆",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "堕落",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "堤坝",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "堵塞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "塌",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "塑造",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "境界",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "增添",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "壮丽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "声誉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "处境",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "处置",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "复习",
+    "files": [
+      "daily.json",
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "复兴",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "复活",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "夏令营",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "外行",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "外表",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "多亏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "多余",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "大体",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "大厦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "大意",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "大肆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "大臣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "天生",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "太极拳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "失眠",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "失踪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "夸",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "奇迹",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "奔波",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "套",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "奠定",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "奢侈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "奥秘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "奴隶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "好客",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "如果",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "妄想",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "妥协",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "妥善",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "妥当",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "妨碍",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "委员",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "委屈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "姥姥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "姿势",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "姿态",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "威信",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "威力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "威风",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "娇气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "娶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "婚姻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "婴儿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "媳妇",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "嫁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "嫂子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "嫉妒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "嫌疑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "嫩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "孕育",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "字幕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "孝顺",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "孤单",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "孤立",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "学习",
+    "files": [
+      "daily.json",
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "学位",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "学历",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "学术",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "学生",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "学说",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "学问",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "宁可",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "宁愿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "宇宙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "守护",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "安宁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "完备",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "完毕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "宏伟",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "宏观",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "宗旨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "定义",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "实事求是",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "实话",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "实质",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "实验",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "审判",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "审美",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "客厅",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "宣扬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "宣誓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "宪法",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "宫殿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "宰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "害羞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "家伙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "家喻户晓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "容器",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "容忍",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "容纳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "宽敞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "寂寞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "寂静",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "寄托",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "密封",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "密度",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "富裕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "寓言",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "对照",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "对称",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "对策",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "对联",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "对象",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "寺庙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "寻觅",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "导向",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "导师",
+    "files": [
+      "hsk7-9_1.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "导弹",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "导航",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "寿命",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "封建",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "封锁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "尊严",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "小心翼翼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "小时",
+    "files": [
+      "daily.json",
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "小气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "尖端",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "尖锐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "就职",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "就近",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "尴尬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "尸体",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "尽管",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "局势",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "局部",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "局限",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "层出不穷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "屈服",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "展望",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "屡次",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "履行",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "岂有此理",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "岛屿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "岩石",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "岳父",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "峡谷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "崇高",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "崩溃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "崭新",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "川流不息",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "巧克力",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "巴不得",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "布局",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "师范",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "帐篷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "带",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "幅",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "幢",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "干旱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "干燥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "平面",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "年",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "并且",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "并列",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "并非",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "幸亏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "幸好",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "幼稚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "庄严",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "应付",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "应聘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "应邀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "应酬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "庞大",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "废墟",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "废话",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "废除",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "座",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "座右铭",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "庸俗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "廉洁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "开",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "开拓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "开支",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "开朗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "开辟",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "开采",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "开阔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "开除",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "异常",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "弊病",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "弊端",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "引擎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "引用",
+    "files": [
+      "computer.json",
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "张",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "弥漫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "弥补",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "弦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "弱点",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "弹性",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "强制",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "归根到底",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "归纳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "归还",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "当事人",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "当务之急",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "当心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "当然",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "当面",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "彩虹",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "往事",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "往常",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "往返",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "征收",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "得不偿失",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "得力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "得天独厚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "得罪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "徘徊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "循序渐进",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "微不足道",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "微观",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "心得",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "心眼儿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "心血",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "必定",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "忌讳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "忍耐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "志气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "忙碌",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "忠实",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "忠诚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "忧郁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "怀孕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "思念",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "思索",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "怠慢",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "急剧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "性命",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "性情",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "怪不得",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "总结",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "总而言之",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "恍然大悟",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "恐吓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "恐怖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "恐惧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "恨不得",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "恩怨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "恰到好处",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "恰巧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "恶劣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "恶化",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "悔恨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "悠久",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "悬念",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "悬挂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "悲哀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "悲观",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "情报",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "惊奇",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "惊讶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "惋惜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "惦记",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "惩罚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "惭愧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "惯例",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "想方设法",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "意向",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "意图",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "意料",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "愚蠢",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "感慨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "感染",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "感激",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "愣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "慈祥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "慌张",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "慎重",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "慢性",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "慷慨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "憋",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "懒惰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "成天",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "成绩",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "戒备",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "戒指",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "戒烟",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "或者",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "戴",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "所以",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "所谓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "手势",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "手机",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "手艺",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "扒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "打交道",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "打仗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "打扫",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "打招呼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "打猎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "打电话",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "打量",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "扛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "执照",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "扩张",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "扩散",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "扭转",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "扰乱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "批判",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "批发",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "找",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "承包",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "把",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "把关",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "把手",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "抑制",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "投机",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "投降",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "折磨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "折腾",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "抚养",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "抛弃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "抢劫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "报仇",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "报告",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "报复",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "报社",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "报酬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "报销",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "抱负",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "抵制",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "抽屉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "抽象",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "拄",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "拐弯",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "拐杖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "拖延",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "拘束",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "拘留",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "招待",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "招收",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "拜年",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "拜托",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "拟定",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "拣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "拥护",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "拥挤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "拦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "拧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "拳头",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "拼命",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "拼搏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "拽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "拿",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "拿手",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "持久",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "挂号",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "指令",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "指南针",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "指望",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "挎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "挑剔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "挑衅",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "挖掘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "挣扎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "挥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "挪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "挫折",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "振兴",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "振奋",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "挽回",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "挽救",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "捍卫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "捎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "捏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "捕捉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "捞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "损坏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "捣乱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "捧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "据悉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "掀起",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "授予",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "授权",
+    "files": [
+      "computer.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "掌握",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "掐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "排放",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "排斥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "排队",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "掠夺",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "探望",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "探测",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "推测",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "推理",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "推翻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "推荐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "推辞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "掩护",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "掩盖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "掩饰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "掰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "揉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "揍",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "描绘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "提拔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "提炼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "提议",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "提问",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "提高",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "揭发",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "揭露",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "搀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "搁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "搂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "搅拌",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "搏斗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "搓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "携带",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "摄氏度",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "摇摆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "摇晃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "摇滚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "摘要",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "摸索",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "撒谎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "撕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "擅自",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "擅长",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "操劳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "操心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "攒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "支",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "支柱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "支票",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "收拾",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "收据",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "收缩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "改良",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "放",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "效率",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "效益",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "敏捷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "敏锐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "救护车",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "救济",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "教养",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "教室",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "教材",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "敞开",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "散发",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "散步",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "敬爱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "敬礼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "数据",
+    "files": [
+      "computer.json",
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "数据库",
+    "files": [
+      "computer.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "数额",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "整理",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "文件",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "文具",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "文凭",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "文物",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "文献",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "文雅",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "断定",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "断断续续",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "新陈代谢",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "新颖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "方法",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "方言",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "施加",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "旋律",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "旗帜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "旗袍",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "无偿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无可奈何",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无可奉告",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无微不至",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无忧无虑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无比",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无知",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无精打采",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无能为力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "无论",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "无非",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "既然",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "日新月异",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "日益",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "日程",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "日记",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "早上",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "时尚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "时髦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "旷课",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "昂贵",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "昆虫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "明天",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "昏迷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "昔日",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "昨天",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "是非",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "昼夜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "晋升",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "晚上",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "智商",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "曝光",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "曲折",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "更新",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "月",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "朋友",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "服务器",
+    "files": [
+      "computer.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "朗读",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "朝代",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "朝气蓬勃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "未免",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "本",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "本着",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "本能",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "本钱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "朴实",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "朴素",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "朵",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "机动",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "机密",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "机智",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "机灵",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "杂交",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "杂技",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "权威",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "权益",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "权衡",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "杜绝",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "束缚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "条",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "条款",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "条约",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "来历",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "极限",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "杯",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "杯子",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "构思",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "枕头",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "枚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "果断",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "果汁",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "枯燥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "柔和",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "柜台",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "标本",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "栋",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "树立",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "株",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "样品",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "核桃",
+    "files": [
+      "food.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "根",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "根深蒂固",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "根源",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "格局",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "格式",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "栽培",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "框架",
+    "files": [
+      "computer.json",
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "案件",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "案例",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "桌子",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "档案",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "档次",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "梳子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "检讨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "棉花",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "棵",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "椅子",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "椰子",
+    "files": [
+      "food.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "概念",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "榜样",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "模型",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "横",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "橡皮",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "次",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "欣慰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "欣欣向荣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "欲望",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "欺骗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "款式",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "歌颂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "步伐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "步骤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "武装",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "歧视",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "歪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "歪曲",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "歹徒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "残忍",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "残留",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "殴打",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "段",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "段落",
+    "files": [
+      "hsk7-9_1.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "毁灭",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "毅力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "毅然",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "比喻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "毕业",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "毫无",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "民用",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "气势",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "气味",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "气魄",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "水",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "水利",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "水平",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "水果",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "水龙头",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "永恒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "池塘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "沉思",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "沉淀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "沉着",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "沉闷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "沙滩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "没辙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "沮丧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "沸腾",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "沼泽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "沾光",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "泄气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "泄露",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "泛滥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "泡沫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "泰斗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "洗手间",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "洗澡",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "津津有味",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "活该",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "洽谈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "派别",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "派遣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "流氓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "流泪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "流浪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "流量",
+    "files": [
+      "computer.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "流露",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "浇",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "测验",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "浏览",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "浑身",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "浓厚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "海拔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "海滨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "浸泡",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "涌现",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "液体",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "淋",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "淘气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "淘汰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "淡季",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "深奥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "混浊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "混淆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "清晰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "清淡",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "清除",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "渔民",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "渗透",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "温柔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "游戏",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "游泳",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "游览",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "渺小",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "湖泊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "湿润",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "溅",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "滋味",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "滞留",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "源泉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "溜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "溶解",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "滑冰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "滔滔不绝",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "演习",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "演变",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "演绎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "潜水",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "潜移默化",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "澄清",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "激励",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "激发",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "瀑布",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "灌溉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "火焰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "火药",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "灭亡",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "灯笼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "灰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "灰尘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "灰心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "灵感",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "灵敏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "灵魂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "灿烂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "炉灶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "炎热",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "点",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "点心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "点缀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "烦恼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "烫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "焦急",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "然而",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "煎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "煤炭",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "照常",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "照料",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "熏陶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "熬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "爱不释手",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "爱惜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "爽快",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "片",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "片段",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "版本",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "牙膏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "牛奶",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "牢固",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "物资",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "牲畜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "牵制",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "牵扯",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "特长",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "犹如",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "狡猾",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "狭窄",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "狭隘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "狮子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "狼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "狼狈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "猖狂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "猛烈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "玉米",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "玩",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "玩意儿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "现成",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "理所当然",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "理直气壮",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "理睬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "理解",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "理论",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "琢磨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "甘心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "甚至",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "甚至于",
+    "files": [
+      "conjunction.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "生态",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "生效",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "生机",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "生物",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "生理",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "生育",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "用功",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "甩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "由于",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "申报",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "电视",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "电脑",
+    "files": [
+      "computer.json",
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "画蛇添足",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "畅销",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "界限",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "畏惧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "留念",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "留恋",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "留神",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "略微",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "疏忽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "疑惑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "疲倦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "疲劳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "疲惫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "痒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "痕迹",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "瘫痪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "癌症",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "登陆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "皆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "皇后",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "盈利",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "盐",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "监狱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "监视",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "盗窃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "盘子",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "盛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "盛开",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "目录",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "目标",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "目睹",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "盯",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "盲目",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "直至",
+    "files": [
+      "conjunction.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "相反",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "相对",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "相差",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "相辅相成",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "相连",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "省略",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "眉毛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "看",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "看书",
+    "files": [
+      "daily.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "真挚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "眼下",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "眼神",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "眼色",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "睁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "着想",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "着手",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "着迷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "着重",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "督促",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "睡觉",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "瞎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "瞪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "瞻仰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "知觉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "知识",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "砍",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "砸",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "硬件",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "硬币",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "确信",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "确切",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "碗",
+    "files": [
+      "daily.json",
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "磁带",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "磅",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "磋商",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "磕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "磨合",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "示威",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "示意",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "视力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "视线",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "视野",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "祖先",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "神仙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "神圣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "神态",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "神气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "福气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "私自",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "秃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "种",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "种族",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "科目",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "租赁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "秤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "秩序",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "积极",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "称呼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "程序",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "稠密",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "空想",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "空白",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "空虚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "空调",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "空隙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "穿",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "穿越",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "窄",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "窗户",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "窜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "窝",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "立交桥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "立体",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "立方",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "立足",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "竖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "竞选",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "竭尽全力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "端正",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "笔记本",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "笼罩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "等",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "筐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "答辩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "筛选",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "筷子",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "筹备",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "签署",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "简体字",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "简化",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "简要",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "简陋",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "管子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "管辖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "篇",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "米",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "米饭",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "类",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "粉碎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "粒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "粗鲁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "精华",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "精心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "精打细算",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "精益求精",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "精确",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "精简",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "精致",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "精通",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "糊涂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "糖",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "糖果",
+    "files": [
+      "food.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "纤维",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "级别",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "索性",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "索赔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "紧迫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "纯洁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "纯粹",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "纲领",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "纳闷儿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "纵然",
+    "files": [
+      "conjunction.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "纺织",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "练习",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "绅士",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "终究",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "经商",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "绑架",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "结局",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "结晶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "结果",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "络绎不绝",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "统治",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "统统",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "绣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "继承",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "绳子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "缓和",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "繁体字",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "繁华",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "繁忙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "缴纳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "缺口",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "缺席",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "罐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "罐头",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "网络",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "罕见",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "罪犯",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "美妙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "美满",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "美观",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "羡慕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "群",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "翅膀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "翘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "翻译",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "耀眼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "老师",
+    "files": [
+      "daily.json",
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "考试",
+    "files": [
+      "daily.json",
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "而",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "而且",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "而已",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "耍",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "耕地",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "耗费",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "耽误",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "聊天",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "联欢",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "聚精会神",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "肖像",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "股份",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "肥沃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "肥皂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "肩膀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "肿瘤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "胃口",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "胆怯",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "背叛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "背诵",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "胡说",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "脉搏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "胳膊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "胸膛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "能源",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "脂肪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "脆弱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "脖子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "脱",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "腐朽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "腐烂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "腐蚀",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "腐败",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "腥",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "腹泻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "膝盖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "自力更生",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "自卑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "自发",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "自私",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "至于",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "致使",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "致力于",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "致辞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "舅舅",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "舆论",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "舒畅",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "舔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "航天",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "航行",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "舱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "船舶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "艘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "良心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "艰巨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "节",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "芝麻",
+    "files": [
+      "food.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "苏醒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "苗条",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "若干",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "英俊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "苹果",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "茂盛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "范围",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "范畴",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "茎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "茫然",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "茶",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "草案",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "荒凉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "荒谬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "荣幸",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "荣誉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "莫名其妙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "萌芽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "葡萄",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "董事长",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "蒜",
+    "files": [
+      "food.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "蔓延",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "蕴藏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "蘑菇",
+    "files": [
+      "food.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "虐待",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "虚伪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "虚假",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "虽然",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "虾",
+    "files": [
+      "food.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "蛋白质",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "蛋糕",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "蜂蜜",
+    "files": [
+      "food.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "蜜蜂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "蜡烛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "融化",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "融洽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "血压",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "行列",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "行政",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "衔接",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "补救",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "表决",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "表彰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "表态",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "衰老",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "衰退",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "衷心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "袭击",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "西瓜",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "西红柿",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "要不",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "要不然",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "要命",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "要是",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "要点",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "覆盖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "见义勇为",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "见解",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "规格",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "规矩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "觉醒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "角落",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "解体",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "解剖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "解散",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "解雇",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "触犯",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "言论",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "计较",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "认真",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "认证",
+    "files": [
+      "computer.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "讥笑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "讨价还价",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "讨论",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "让步",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "训练",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "讲座",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "论坛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "论文",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "论证",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "讽刺",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "证书",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "识别",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "诈骗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "诉讼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "词典",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "词汇",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "诚恳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "诚挚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "话筒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "诞辰",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "诧异",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "语气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "语法",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "误差",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "诱惑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "请帖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "请柬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "请求",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "读",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "诽谤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "课程",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "调料",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "调查",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "调试",
+    "files": [
+      "computer.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "谅解",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "谋求",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "谜语",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "谣言",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "谦逊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "谨慎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "警惕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "譬如",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "谴责",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "豆浆",
+    "files": [
+      "food.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "豆腐",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "豪华",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "贝壳",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "财务",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "财政",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "责备",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "责怪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "货币",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "贩卖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "贪婪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "贪污",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "贯彻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "贵族",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "贼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "贿赂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "资料",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "资深",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "赋予",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "赞叹",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "赞同",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "赞扬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "赞美",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "赤字",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "走",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "走廊",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "起伏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "起初",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "起床",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "起源",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "起草",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "趁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "趟",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "趣味",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "趴",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "跑步",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "跟",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "跟踪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "跳舞",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "跳跃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "踊跃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "蹦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "蹬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "躲藏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "车厢",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "转折",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "转达",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "轮廓",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "轮流",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "轮胎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "软件",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "轰动",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "轻而易举",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "较量",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "辅导",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "辆",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "辉煌",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "辐射",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "辛勤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "辜负",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "辣椒",
+    "files": [
+      "food.json",
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "辨认",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "辩护",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "辩解",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "辫子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "边界",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "边疆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "辽阔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "巡逻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "迁就",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "迄今为止",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "过失",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "过奖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "过期",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "过滤",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "过瘾",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "迈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "运动",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "运行",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "还原",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "还是",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "进步",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "进程",
+    "files": [
+      "computer.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "进而",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "违背",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "连",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "连锁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "迟疑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "迫不及待",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "迫害",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "迷失",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "迷惑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "迷路",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "迹象",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "适宜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "逃避",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "逐年",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "逗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "通俗",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "逝世",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "逢",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "逮捕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "逼迫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "遍",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "遍布",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "遏制",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "遗留",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "遥控",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "遥远",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "遭殃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "遵循",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "邻居",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "郑重",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "部署",
+    "files": [
+      "computer.json",
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "配偶",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "酒精",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "酗酒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "酝酿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "酱油",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "醋",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "采集",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "释放",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "里程碑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "重叠",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "重心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "重点",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "野心",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "野蛮",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "金属",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "钞票",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "钥匙",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "钦佩",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "钩子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "鉴于",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "鉴别",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "钻石",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "钻研",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "铜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "铸造",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "销毁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "错误",
+    "files": [
+      "computer.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "镇定",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "镶嵌",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "长辈",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "门",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "闪烁",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "问世",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "间谍",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "间隔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "阅读",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "阐述",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "防御",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "防火墙",
+    "files": [
+      "computer.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "防疫",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "阳台",
+    "files": [
+      "daily.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "阵容",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "阶层",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "阻拦",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "阻挠",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_6.json"
+    ]
+  },
+  {
+    "word": "附和",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "附属",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "陈列",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "陈旧",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "陈述",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "陌生",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "降临",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "陶瓷",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "隆重",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "隐患",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "隐瞒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "隐约",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "隐蔽",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "随即",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "随着",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "随身",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "隔离",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "隔阂",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "隧道",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "难堪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "难怪",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "难点",
+    "files": [
+      "hsk7-9_3.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "难道",
+    "files": [
+      "conjunction.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "雄厚",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "雇佣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "雕刻",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "雕塑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "雪上加霜",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "零件",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "零钱",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "雾",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "非",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "非法",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "靠拢",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "面包",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "面条",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "革命",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "鞠躬",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "鞭炮",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "鞭策",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "音响",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "页",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "项链",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "顺便",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "顽固",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "顾虑",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "顿",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "顿时",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "颁发",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "颁布",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "预习",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "预兆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "预先",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "预料",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "预算",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "预言",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "预赛",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "领事馆",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "领会",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "领土",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "领域",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "领悟",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "颇",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "频率",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "颗",
+    "files": [
+      "hsk1-6.json",
+      "quantifier.json"
+    ]
+  },
+  {
+    "word": "题目",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "额外",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "颠倒",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "颤抖",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "风味",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "风气",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "风趣",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "飘",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "飙升",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "飞翔",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "飞跃",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "饥饿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "饱和",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "饲养",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "饶恕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "饺子",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "饼干",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "馅儿",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "馋",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "馒头",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "首要",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "香蕉",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "马虎",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "驱逐",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "验收",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "验证",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_5.json"
+    ]
+  },
+  {
+    "word": "骨干",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "高明",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "高涨",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "高超",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "魄力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  },
+  {
+    "word": "魅力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "魔术",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "魔鬼",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "鱼",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "鸡蛋",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "鸽子",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "麻木",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "麻痹",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "麻醉",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "黄昏",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "黄瓜",
+    "files": [
+      "food.json",
+      "hsk1-6.json"
+    ]
+  },
+  {
+    "word": "黎明",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_3.json"
+    ]
+  },
+  {
+    "word": "黑板",
+    "files": [
+      "hsk1-6.json",
+      "learning.json"
+    ]
+  },
+  {
+    "word": "鼓动",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "鼓舞",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_2.json"
+    ]
+  },
+  {
+    "word": "鼻涕",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_1.json"
+    ]
+  },
+  {
+    "word": "齐心协力",
+    "files": [
+      "hsk1-6.json",
+      "hsk7-9_4.json"
+    ]
+  }
+]

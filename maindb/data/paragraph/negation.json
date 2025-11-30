@@ -1,0 +1,163 @@
+{
+  "id": "negation",
+  "title": "没 vs 不 - Chinese Negation",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "没 vs 不 - Chinese Negation",
+    "vi": "没 vs 不 - Phủ định trong tiếng Trung",
+    "zh": "没 vs 不 - 汉语否定"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Introduction: 没 vs 不",
+          "vi": "Giới thiệu: 没 vs 不",
+          "zh": "介绍：没 vs 不"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Both **没** (méi) and **不** (bù) are negative particles in Chinese, but they are used in different contexts. Understanding when to use each one is crucial for correct Chinese grammar.\n\n**Key difference:**\n- **不** is used for **present/future** actions and **subjective** statements\n- **没** is used for **past** actions and **objective** statements\n\n**Example:**\n- 我**不**去。 (I am not going / I will not go.)\n- 我**没**去。 (I did not go.)",
+          "vi": "Cả **没** (méi) và **不** (bù) đều là từ phủ định trong tiếng Trung, nhưng chúng được sử dụng trong các ngữ cảnh khác nhau. Hiểu khi nào sử dụng từng từ là rất quan trọng cho ngữ pháp tiếng Trung đúng.\n\n**Sự khác biệt chính:**\n- **不** được dùng cho hành động **hiện tại/tương lai** và câu **chủ quan**\n- **没** được dùng cho hành động **quá khứ** và câu **khách quan**\n\n**Ví dụ:**\n- 我**不**去。 (Tôi không đi / Tôi sẽ không đi.)\n- 我**没**去。 (Tôi đã không đi.)",
+          "zh": "**没**（méi）和**不**（bù）都是汉语中的否定词，但它们用于不同的语境。了解何时使用每一个词对于正确的汉语语法至关重要。\n\n**主要区别：**\n- **不**用于**现在/将来**的动作和**主观**陈述\n- **没**用于**过去**的动作和**客观**陈述\n\n**例句：**\n- 我**不**去。\n- 我**没**去。"
+        }
+      },
+      "placeholders": [{
+        "intro1": "不",
+        "intro2": "没"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "When to Use 不 (bù)",
+          "vi": "Khi nào dùng 不 (bù)",
+          "zh": "何时使用不（bù）"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**不** is used in the following situations:\n\n**1. Present and future actions:**\n- 我**不**喜欢。 (I don't like it.)\n- 他**不**来。 (He is not coming / He will not come.)\n\n**2. Habitual actions and general truths:**\n- 我**不**抽烟。 (I don't smoke.)\n- 他**不**吃辣。 (He doesn't eat spicy food.)\n\n**3. Subjective statements (opinions, preferences, abilities):**\n- 我**不**想。 (I don't want to.)\n- 我**不**会。 (I can't / I don't know how.)\n- 我**不**知道。 (I don't know.)\n\n**4. With adjectives (describing current state):**\n- 这**不**好。 (This is not good.)\n- 他**不**高。 (He is not tall.)\n\n**5. With modal verbs:**\n- 我**不**能。 (I cannot.)\n- 我**不**应该。 (I should not.)",
+          "vi": "**不** được sử dụng trong các tình huống sau:\n\n**1. Hành động hiện tại và tương lai:**\n- 我**不**喜欢。 (Tôi không thích.)\n- 他**不**来。 (Anh ấy không đến / Anh ấy sẽ không đến.)\n\n**2. Hành động thói quen và sự thật chung:**\n- 我**不**抽烟。 (Tôi không hút thuốc.)\n- 他**不**吃辣。 (Anh ấy không ăn cay.)\n\n**3. Câu chủ quan (ý kiến, sở thích, khả năng):**\n- 我**不**想。 (Tôi không muốn.)\n- 我**不**会。 (Tôi không thể / Tôi không biết cách.)\n- 我**不**知道。 (Tôi không biết.)\n\n**4. Với tính từ (mô tả trạng thái hiện tại):**\n- 这**不**好。 (Cái này không tốt.)\n- 他**不**高。 (Anh ấy không cao.)\n\n**5. Với động từ tình thái:**\n- 我**不**能。 (Tôi không thể.)\n- 我**不**应该。 (Tôi không nên.)",
+          "zh": "**不**在以下情况下使用：\n\n**1. 现在和将来的动作：**\n- 我**不**喜欢。\n- 他**不**来。\n\n**2. 习惯性动作和一般事实：**\n- 我**不**抽烟。\n- 他**不**吃辣。\n\n**3. 主观陈述（意见、偏好、能力）：**\n- 我**不**想。\n- 我**不**会。\n- 我**不**知道。\n\n**4. 与形容词（描述当前状态）：**\n- 这**不**好。\n- 他**不**高。\n\n**5. 与情态动词：**\n- 我**不**能。\n- 我**不**应该。"
+        }
+      },
+      "placeholders": [{
+        "bu1": "不",
+        "bu2": "不",
+        "bu3": "不",
+        "bu4": "不",
+        "bu5": "不",
+        "bu6": "不",
+        "bu7": "不",
+        "bu8": "不",
+        "bu9": "不",
+        "bu10": "不",
+        "bu11": "不",
+        "bu12": "不"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "When to Use 没 (méi)",
+          "vi": "Khi nào dùng 没 (méi)",
+          "zh": "何时使用没（méi）"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**没** is used in the following situations:\n\n**1. Past actions (completed or not completed):**\n- 我**没**去。 (I did not go.)\n- 他**没**来。 (He did not come.)\n\n**2. With 有 (have/possess) - always use 没:**\n- 我**没**有。 (I don't have / I didn't have.)\n- 他**没**有钱。 (He doesn't have money / He didn't have money.)\n\n**3. Objective statements about past events:**\n- 昨天**没**下雨。 (It didn't rain yesterday.)\n- 他**没**完成。 (He didn't finish.)\n\n**4. With 了 (completed action marker):**\n- 我**没**吃了。 (I didn't eat it.)\n- 他**没**做了。 (He didn't do it.)\n\n**Note:** 没 can be used alone or as 没有. Both forms are correct.",
+          "vi": "**没** được sử dụng trong các tình huống sau:\n\n**1. Hành động quá khứ (đã hoàn thành hoặc chưa hoàn thành):**\n- 我**没**去。 (Tôi đã không đi.)\n- 他**没**来。 (Anh ấy đã không đến.)\n\n**2. Với 有 (có/sở hữu) - luôn dùng 没:**\n- 我**没**有。 (Tôi không có / Tôi đã không có.)\n- 他**没**有钱。 (Anh ấy không có tiền / Anh ấy đã không có tiền.)\n\n**3. Câu khách quan về sự kiện quá khứ:**\n- 昨天**没**下雨。 (Hôm qua trời không mưa.)\n- 他**没**完成。 (Anh ấy đã không hoàn thành.)\n\n**4. Với 了 (dấu hiệu hành động hoàn thành):**\n- 我**没**吃了。 (Tôi đã không ăn nó.)\n- 他**没**做了。 (Anh ấy đã không làm nó.)\n\n**Lưu ý:** 没 có thể dùng một mình hoặc như 没有. Cả hai dạng đều đúng.",
+          "zh": "**没**在以下情况下使用：\n\n**1. 过去的动作（已完成或未完成）：**\n- 我**没**去。\n- 他**没**来。\n\n**2. 与有（拥有）一起使用 - 总是使用没：**\n- 我**没**有。\n- 他**没**有钱。\n\n**3. 关于过去事件的客观陈述：**\n- 昨天**没**下雨。\n- 他**没**完成。\n\n**4. 与了（完成动作标记）一起使用：**\n- 我**没**吃了。\n- 他**没**做了。\n\n**注意：** 没可以单独使用或作为没有使用。两种形式都是正确的。"
+        }
+      },
+      "placeholders": [{
+        "mei1": "没",
+        "mei2": "没",
+        "mei3": "没",
+        "mei4": "没",
+        "mei5": "没",
+        "mei6": "没",
+        "mei7": "没",
+        "mei8": "没"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Key Differences Summary",
+          "vi": "Tóm tắt sự khác biệt chính",
+          "zh": "主要区别总结"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here's a quick comparison of **不** and **没**:\n\n**Time reference:**\n- **不**: Present, future, habitual\n- **没**: Past only\n\n**Type of statement:**\n- **不**: Subjective (opinions, preferences, abilities)\n- **没**: Objective (facts about past events)\n\n**Special cases:**\n- **不**: Can be used with adjectives, modal verbs, and general statements\n- **没**: Must be used with 有 (have/possess)\n\n**Examples comparison:**\n- 我**不**喜欢。 (I don't like it - present/subjective)\n- 我**没**喜欢。 (I didn't like it - past/objective)\n- 他**不**来。 (He is not coming / will not come)\n- 他**没**来。 (He did not come)",
+          "vi": "Đây là so sánh nhanh giữa **不** và **没**:\n\n**Tham chiếu thời gian:**\n- **不**: Hiện tại, tương lai, thói quen\n- **没**: Chỉ quá khứ\n\n**Loại câu:**\n- **不**: Chủ quan (ý kiến, sở thích, khả năng)\n- **没**: Khách quan (sự thật về sự kiện quá khứ)\n\n**Trường hợp đặc biệt:**\n- **不**: Có thể dùng với tính từ, động từ tình thái và câu chung\n- **没**: Phải dùng với 有 (có/sở hữu)\n\n**Ví dụ so sánh:**\n- 我**不**喜欢。 (Tôi không thích - hiện tại/chủ quan)\n- 我**没**喜欢。 (Tôi đã không thích - quá khứ/khách quan)\n- 他**不**来。 (Anh ấy không đến / sẽ không đến)\n- 他**没**来。 (Anh ấy đã không đến)",
+          "zh": "以下是**不**和**没**的快速比较：\n\n**时间参考：**\n- **不**：现在、将来、习惯性\n- **没**：仅过去\n\n**陈述类型：**\n- **不**：主观（意见、偏好、能力）\n- **没**：客观（关于过去事件的事实）\n\n**特殊情况：**\n- **不**：可以与形容词、情态动词和一般陈述一起使用\n- **没**：必须与有（拥有）一起使用\n\n**比较示例：**\n- 我**不**喜欢。\n- 我**没**喜欢。\n- 他**不**来。\n- 他**没**来。"
+        }
+      },
+      "placeholders": [{
+        "diff1": "不",
+        "diff2": "没",
+        "diff3": "不",
+        "diff4": "没"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Patterns and Phrases",
+          "vi": "Mẫu và cụm từ thường dùng",
+          "zh": "常见模式和短语"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are common patterns using **不** and **没**:\n\n**With 不:**\n- **不**是 (not be) - 我**不**是学生。 (I am not a student.)\n- **不**要 (don't want / don't need) - 我**不**要。 (I don't want it.)\n- **不**用 (don't need to) - 你**不**用去。 (You don't need to go.)\n- **不**能 (cannot) - 我**不**能。 (I cannot.)\n- **不**会 (don't know how / won't) - 我**不**会。 (I don't know how / I won't.)\n\n**With 没:**\n- **没**有 (don't have / didn't) - 我**没**有。 (I don't have / I didn't.)\n- **没**关系 (it doesn't matter) - **没**关系。 (It's okay / No problem.)\n- **没**事 (it's nothing / no problem) - **没**事。 (It's nothing.)\n- **没**问题 (no problem) - **没**问题。 (No problem.)",
+          "vi": "Đây là các mẫu thường dùng với **不** và **没**:\n\n**Với 不:**\n- **不**是 (không phải) - 我**不**是学生。 (Tôi không phải học sinh.)\n- **不**要 (không muốn / không cần) - 我**不**要。 (Tôi không muốn.)\n- **不**用 (không cần) - 你**不**用去。 (Bạn không cần đi.)\n- **不**能 (không thể) - 我**不**能。 (Tôi không thể.)\n- **不**会 (không biết cách / sẽ không) - 我**不**会。 (Tôi không biết cách / Tôi sẽ không.)\n\n**Với 没:**\n- **没**有 (không có / đã không) - 我**没**有。 (Tôi không có / Tôi đã không.)\n- **没**关系 (không sao) - **没**关系。 (Không sao / Không vấn đề.)\n- **没**事 (không có gì / không vấn đề) - **没**事。 (Không có gì.)\n- **没**问题 (không vấn đề) - **没**问题。 (Không vấn đề.)",
+          "zh": "以下是使用**不**和**没**的常见模式：\n\n**与不：**\n- **不**是（不是）- 我**不**是学生。\n- **不**要（不想要/不需要）- 我**不**要。\n- **不**用（不需要）- 你**不**用去。\n- **不**能（不能）- 我**不**能。\n- **不**会（不会/不会）- 我**不**会。\n\n**与没：**\n- **没**有（没有/没有）- 我**没**有。\n- **没**关系（没关系）- **没**关系。\n- **没**事（没事）- **没**事。\n- **没**问题（没问题）- **没**问题。"
+        }
+      },
+      "placeholders": [{
+        "pat1": "不",
+        "pat2": "不",
+        "pat3": "不",
+        "pat4": "不",
+        "pat5": "不",
+        "pat6": "没",
+        "pat7": "没",
+        "pat8": "没",
+        "pat9": "没"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes (常见错误)",
+          "vi": "Lỗi thường gặp (常见错误)",
+          "zh": "常见错误"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are common mistakes when using **不** and **没**:\n\n**1. Using 不 for past actions:**\n- ❌ 昨天我**不**去。 (wrong - use 没 for past)\n- ✅ 昨天我**没**去。 (correct)\n\n**2. Using 没 for present/future actions:**\n- ❌ 明天我**没**去。 (wrong - use 不 for future)\n- ✅ 明天我**不**去。 (correct)\n\n**3. Using 不 with 有:**\n- ❌ 我**不**有钱。 (wrong - always use 没 with 有)\n- ✅ 我**没**有钱。 (correct)\n\n**4. Confusing subjective vs objective:**\n- ❌ 我**没**喜欢。 (wrong for present preference - use 不)\n- ✅ 我**不**喜欢。 (correct for present)\n- ✅ 我**没**喜欢过。 (correct for past experience)\n\n**Remember:** Think about time (past vs present/future) and type (objective vs subjective) when choosing between 不 and 没.",
+          "vi": "Dưới đây là các lỗi thường gặp khi sử dụng **不** và **没**:\n\n**1. Dùng 不 cho hành động quá khứ:**\n- ❌ 昨天我**不**去。 (sai - dùng 没 cho quá khứ)\n- ✅ 昨天我**没**去。 (đúng)\n\n**2. Dùng 没 cho hành động hiện tại/tương lai:**\n- ❌ 明天我**没**去。 (sai - dùng 不 cho tương lai)\n- ✅ 明天我**不**去。 (đúng)\n\n**3. Dùng 不 với 有:**\n- ❌ 我**不**有钱。 (sai - luôn dùng 没 với 有)\n- ✅ 我**没**有钱。 (đúng)\n\n**4. Nhầm lẫn chủ quan vs khách quan:**\n- ❌ 我**没**喜欢。 (sai cho sở thích hiện tại - dùng 不)\n- ✅ 我**不**喜欢。 (đúng cho hiện tại)\n- ✅ 我**没**喜欢过。 (đúng cho trải nghiệm quá khứ)\n\n**Nhớ:** Hãy nghĩ về thời gian (quá khứ vs hiện tại/tương lai) và loại (khách quan vs chủ quan) khi chọn giữa 不 và 没.",
+          "zh": "以下是使用**不**和**没**时的常见错误：\n\n**1. 对过去的动作使用不：**\n- ❌ 昨天我**不**去。（错误 - 对过去使用没）\n- ✅ 昨天我**没**去。（正确）\n\n**2. 对现在/将来的动作使用没：**\n- ❌ 明天我**没**去。（错误 - 对将来使用不）\n- ✅ 明天我**不**去。（正确）\n\n**3. 与有一起使用不：**\n- ❌ 我**不**有钱。（错误 - 与有一起总是使用没）\n- ✅ 我**没**有钱。（正确）\n\n**4. 混淆主观与客观：**\n- ❌ 我**没**喜欢。（对当前偏好错误 - 使用不）\n- ✅ 我**不**喜欢。（对现在正确）\n- ✅ 我**没**喜欢过。（对过去经历正确）\n\n**记住：** 在选择不和没时，要考虑时间（过去 vs 现在/将来）和类型（客观 vs 主观）。"
+        }
+      },
+      "placeholders": [{
+        "mist1": "不",
+        "mist2": "没",
+        "mist3": "没",
+        "mist4": "不",
+        "mist5": "不",
+        "mist6": "没",
+        "mist7": "不",
+        "mist8": "没"
+      }]
+    }
+  ]
+}
+
