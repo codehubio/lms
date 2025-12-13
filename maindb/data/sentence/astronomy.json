@@ -1,0 +1,1747 @@
+[{
+  "sentence": "天文学是一门研究天体的科学。",
+  "tags": ["astronomy"],
+  "pinyin1": "tiān wén xué shì yī mén yán jiū tiān tǐ de kē xué",
+  "pinyin2": "tian1 wen2 xue2 shi4 yi1 men2 yan2 jiu1 tian1 ti3 de ke1 xue2",
+  "translation": {
+    "en": "Astronomy is a science that studies celestial bodies.",
+    "vi": "Thiên văn học là một môn khoa học nghiên cứu các thiên thể."
+  }
+}, {
+  "sentence": "天空中可以看到很多不同的天体。",
+  "tags": ["astronomy"],
+  "pinyin1": "tiān kōng zhōng kě yǐ kàn dào hěn duō bù tóng de tiān tǐ",
+  "pinyin2": "tian1 kong1 zhong1 ke3 yi3 kan4 dao4 hen3 duo1 bu4 tong2 de tian1 ti3",
+  "translation": {
+    "en": "Many different celestial bodies can be seen in the sky.",
+    "vi": "Có thể nhìn thấy nhiều thiên thể khác nhau trên bầu trời."
+  }
+}, {
+  "sentence": "太阳是一颗恒星。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng shì yī kē héng xīng",
+  "pinyin2": "tai4 yang2 shi4 yi1 ke1 heng2 xing1",
+  "translation": {
+    "en": "The sun is a star.",
+    "vi": "Mặt trời là một ngôi sao."
+  }
+}, {
+  "sentence": "地球是太阳系中的一颗行星。",
+  "tags": ["astronomy"],
+  "pinyin1": "dì qiú shì tài yáng xì zhōng de yī kē xíng xīng",
+  "pinyin2": "di4 qiu2 shi4 tai4 yang2 xi4 zhong1 de yi1 ke1 xing2 xing1",
+  "translation": {
+    "en": "Earth is a planet in the solar system.",
+    "vi": "Trái Đất là một hành tinh trong hệ mặt trời."
+  }
+}, {
+  "sentence": "月亮是地球的卫星。",
+  "tags": ["astronomy"],
+  "pinyin1": "yuè liàng shì dì qiú de wèi xīng",
+  "pinyin2": "yue4 liang4 shi4 di4 qiu2 de wei4 xing1",
+  "translation": {
+    "en": "The moon is Earth's satellite.",
+    "vi": "Mặt trăng là vệ tinh của Trái Đất."
+  }
+}, {
+  "sentence": "彗星拖着长长的尾巴划过夜空。",
+  "tags": ["astronomy"],
+  "pinyin1": "huì xīng tuō zhe cháng cháng de wěi ba huá guò yè kōng",
+  "pinyin2": "hui4 xing1 tuo1 zhe chang2 chang2 de wei3 ba hua2 guo4 ye4 kong1",
+  "translation": {
+    "en": "A comet dragged its long tail across the night sky.",
+    "vi": "Sao chổi kéo theo cái đuôi dài vượt qua bầu trời đêm."
+  }
+}, {
+  "sentence": "小行星带位于火星和木星之间。",
+  "tags": ["astronomy"],
+  "pinyin1": "xiǎo xíng xīng dài wèi yú huǒ xīng hé mù xīng zhī jiān",
+  "pinyin2": "xiao3 xing2 xing1 dai4 wei4 yu2 huo3 xing1 he2 mu4 xing1 zhi1 jian1",
+  "translation": {
+    "en": "The asteroid belt is located between Mars and Jupiter.",
+    "vi": "Vành đai tiểu hành tinh nằm giữa Sao Hỏa và Sao Mộc."
+  }
+}, {
+  "sentence": "昨晚我看到了一颗流星。",
+  "tags": ["astronomy"],
+  "pinyin1": "zuó wǎn wǒ kàn dào le yī kē liú xīng",
+  "pinyin2": "zuo2 wan3 wo3 kan4 dao4 le yi1 ke1 liu2 xing1",
+  "translation": {
+    "en": "I saw a meteor last night.",
+    "vi": "Tối qua tôi đã nhìn thấy một sao băng."
+  }
+}, {
+  "sentence": "科学家在研究这块陨石的成分。",
+  "tags": ["astronomy"],
+  "pinyin1": "kē xué jiā zài yán jiū zhè kuài yǔn shí de chéng fèn",
+  "pinyin2": "ke1 xue2 jia1 zai4 yan2 jiu1 zhe4 kuai4 yun3 shi2 de cheng2 fen4",
+  "translation": {
+    "en": "Scientists are studying the composition of this meteorite.",
+    "vi": "Các nhà khoa học đang nghiên cứu thành phần của thiên thạch này."
+  }
+}, {
+  "sentence": "水星是离太阳最近的行星。",
+  "tags": ["astronomy"],
+  "pinyin1": "shuǐ xīng shì lí tài yáng zuì jìn de xíng xīng",
+  "pinyin2": "shui3 xing1 shi4 li2 tai4 yang2 zui4 jin4 de xing2 xing1",
+  "translation": {
+    "en": "Mercury is the planet closest to the sun.",
+    "vi": "Sao Thủy là hành tinh gần mặt trời nhất."
+  }
+}, {
+  "sentence": "金星是夜空中最亮的星星。",
+  "tags": ["astronomy"],
+  "pinyin1": "jīn xīng shì yè kōng zhōng zuì liàng de xīng xīng",
+  "pinyin2": "jin1 xing1 shi4 ye4 kong1 zhong1 zui4 liang4 de xing1 xing1",
+  "translation": {
+    "en": "Venus is the brightest star in the night sky.",
+    "vi": "Sao Kim là ngôi sao sáng nhất trên bầu trời đêm."
+  }
+}, {
+  "sentence": "火星表面有红色的土壤。",
+  "tags": ["astronomy"],
+  "pinyin1": "huǒ xīng biǎo miàn yǒu hóng sè de tǔ rǎng",
+  "pinyin2": "huo3 xing1 biao3 mian4 you3 hong2 se4 de tu3 rang3",
+  "translation": {
+    "en": "Mars has red soil on its surface.",
+    "vi": "Bề mặt Sao Hỏa có đất màu đỏ."
+  }
+}, {
+  "sentence": "木星是太阳系中最大的行星。",
+  "tags": ["astronomy"],
+  "pinyin1": "mù xīng shì tài yáng xì zhōng zuì dà de xíng xīng",
+  "pinyin2": "mu4 xing1 shi4 tai4 yang2 xi4 zhong1 zui4 da4 de xing2 xing1",
+  "translation": {
+    "en": "Jupiter is the largest planet in the solar system.",
+    "vi": "Sao Mộc là hành tinh lớn nhất trong hệ mặt trời."
+  }
+}, {
+  "sentence": "土星有美丽的光环。",
+  "tags": ["astronomy"],
+  "pinyin1": "tǔ xīng yǒu měi lì de guāng huán",
+  "pinyin2": "tu3 xing1 you3 mei3 li4 de guang1 huan2",
+  "translation": {
+    "en": "Saturn has beautiful rings.",
+    "vi": "Sao Thổ có những vành đai đẹp."
+  }
+}, {
+  "sentence": "天王星是一颗蓝色的行星。",
+  "tags": ["astronomy"],
+  "pinyin1": "tiān wáng xīng shì yī kē lán sè de xíng xīng",
+  "pinyin2": "tian1 wang2 xing1 shi4 yi1 ke1 lan2 se4 de xing2 xing1",
+  "translation": {
+    "en": "Uranus is a blue planet.",
+    "vi": "Sao Thiên Vương là một hành tinh màu xanh."
+  }
+}, {
+  "sentence": "海王星距离太阳非常遥远。",
+  "tags": ["astronomy"],
+  "pinyin1": "hǎi wáng xīng jù lí tài yáng fēi cháng yáo yuǎn",
+  "pinyin2": "hai3 wang2 xing1 ju4 li2 tai4 yang2 fei1 chang2 yao2 yuan3",
+  "translation": {
+    "en": "Neptune is very far from the sun.",
+    "vi": "Sao Hải Vương cách mặt trời rất xa."
+  }
+}, {
+  "sentence": "冥王星曾经被认为是第九大行星。",
+  "tags": ["astronomy"],
+  "pinyin1": "míng wáng xīng céng jīng bèi rèn wéi shì dì jiǔ dà xíng xīng",
+  "pinyin2": "ming2 wang2 xing1 ceng2 jing1 bei4 ren4 wei2 shi4 di4 jiu3 da4 xing2 xing1",
+  "translation": {
+    "en": "Pluto was once considered the ninth planet.",
+    "vi": "Sao Diêm Vương từng được coi là hành tinh thứ chín."
+  }
+}, {
+  "sentence": "太阳系有八颗行星。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng xì yǒu bā kē xíng xīng",
+  "pinyin2": "tai4 yang2 xi4 you3 ba1 ke1 xing2 xing1",
+  "translation": {
+    "en": "The solar system has eight planets.",
+    "vi": "Hệ mặt trời có tám hành tinh."
+  }
+}, {
+  "sentence": "银河系包含数千亿颗恒星。",
+  "tags": ["astronomy"],
+  "pinyin1": "yín hé xì bāo hán shù qiān yì kē héng xīng",
+  "pinyin2": "yin2 he2 xi4 bao1 han2 shu4 qian1 yi4 ke1 heng2 xing1",
+  "translation": {
+    "en": "The Milky Way contains hundreds of billions of stars.",
+    "vi": "Ngân Hà chứa hàng trăm tỷ ngôi sao."
+  }
+}, {
+  "sentence": "宇宙中有无数个星系。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ zhòu zhōng yǒu wú shù gè xīng xì",
+  "pinyin2": "yu3 zhou4 zhong1 you3 wu2 shu4 ge4 xing1 xi4",
+  "translation": {
+    "en": "There are countless galaxies in the universe.",
+    "vi": "Có vô số thiên hà trong vũ trụ."
+  }
+}, {
+  "sentence": "北斗七星是一个著名的星座。",
+  "tags": ["astronomy"],
+  "pinyin1": "běi dǒu qī xīng shì yī gè zhù míng de xīng zuò",
+  "pinyin2": "bei3 dou3 qi1 xing1 shi4 yi1 ge4 zhu4 ming2 de xing1 zuo4",
+  "translation": {
+    "en": "The Big Dipper is a famous constellation.",
+    "vi": "Bắc Đẩu Thất Tinh là một chòm sao nổi tiếng."
+  }
+}, {
+  "sentence": "地球围绕太阳运行的轨道是椭圆形的。",
+  "tags": ["astronomy"],
+  "pinyin1": "dì qiú wéi rào tài yáng yùn xíng de guǐ dào shì tuǒ yuán xíng de",
+  "pinyin2": "di4 qiu2 wei2 rao4 tai4 yang2 yun4 xing2 de gui3 dao4 shi4 tuo3 yuan2 xing2 de",
+  "translation": {
+    "en": "Earth's orbit around the sun is elliptical.",
+    "vi": "Quỹ đạo của Trái Đất quay quanh mặt trời có hình elip."
+  }
+}, {
+  "sentence": "地球绕太阳公转一周需要一年。",
+  "tags": ["astronomy"],
+  "pinyin1": "dì qiú rào tài yáng gōng zhuàn yī zhōu xū yào yī nián",
+  "pinyin2": "di4 qiu2 rao4 tai4 yang2 gong1 zhuan4 yi1 zhou1 xu1 yao4 yi1 nian2",
+  "translation": {
+    "en": "It takes one year for Earth to complete one revolution around the sun.",
+    "vi": "Trái Đất mất một năm để hoàn thành một vòng quay quanh mặt trời."
+  }
+}, {
+  "sentence": "地球自转一周需要24小时。",
+  "tags": ["astronomy"],
+  "pinyin1": "dì qiú zì zhuàn yī zhōu xū yào èr shí sì xiǎo shí",
+  "pinyin2": "di4 qiu2 zi4 zhuan4 yi1 zhou1 xu1 yao4 er4 shi2 si4 xiao3 shi2",
+  "translation": {
+    "en": "It takes 24 hours for Earth to complete one rotation.",
+    "vi": "Trái Đất mất 24 giờ để hoàn thành một vòng tự quay."
+  }
+}, {
+  "sentence": "日食是一种罕见的天文现象。",
+  "tags": ["astronomy"],
+  "pinyin1": "rì shí shì yī zhǒng hǎn jiàn de tiān wén xiàn xiàng",
+  "pinyin2": "ri4 shi2 shi4 yi1 zhong3 han3 jian4 de tian1 wen2 xian4 xiang4",
+  "translation": {
+    "en": "A solar eclipse is a rare astronomical phenomenon.",
+    "vi": "Nhật thực là một hiện tượng thiên văn hiếm gặp."
+  }
+}, {
+  "sentence": "月食发生在满月的时候。",
+  "tags": ["astronomy"],
+  "pinyin1": "yuè shí fā shēng zài mǎn yuè de shí hou",
+  "pinyin2": "yue4 shi2 fa1 sheng1 zai4 man3 yue4 de shi2 hou",
+  "translation": {
+    "en": "Lunar eclipses occur during full moon.",
+    "vi": "Nguyệt thực xảy ra vào lúc trăng tròn."
+  }
+}, {
+  "sentence": "日全食时，太阳完全被月亮遮挡。",
+  "tags": ["astronomy"],
+  "pinyin1": "rì quán shí shí, tài yáng wán quán bèi yuè liàng zhē dǎng",
+  "pinyin2": "ri4 quan2 shi2 shi2, tai4 yang2 wan2 quan2 bei4 yue4 liang4 zhe1 dang3",
+  "translation": {
+    "en": "During a total solar eclipse, the sun is completely blocked by the moon.",
+    "vi": "Khi nhật thực toàn phần, mặt trời bị mặt trăng che khuất hoàn toàn."
+  }
+}, {
+  "sentence": "日偏食时，只有部分太阳被遮挡。",
+  "tags": ["astronomy"],
+  "pinyin1": "rì piān shí shí, zhǐ yǒu bù fèn tài yáng bèi zhē dǎng",
+  "pinyin2": "ri4 pian1 shi2 shi2, zhi3 you3 bu4 fen4 tai4 yang2 bei4 zhe1 dang3",
+  "translation": {
+    "en": "During a partial solar eclipse, only part of the sun is blocked.",
+    "vi": "Khi nhật thực một phần, chỉ có một phần mặt trời bị che khuất."
+  }
+}, {
+  "sentence": "日环食时，太阳周围形成一个光环。",
+  "tags": ["astronomy"],
+  "pinyin1": "rì huán shí shí, tài yáng zhōu wéi xíng chéng yī gè guāng huán",
+  "pinyin2": "ri4 huan2 shi2 shi2, tai4 yang2 zhou1 wei2 xing2 cheng2 yi1 ge4 guang1 huan2",
+  "translation": {
+    "en": "During an annular solar eclipse, a ring of light forms around the sun.",
+    "vi": "Khi nhật thực hình khuyên, một vòng ánh sáng hình thành xung quanh mặt trời."
+  }
+}, {
+  "sentence": "新月时，月亮几乎看不见。",
+  "tags": ["astronomy"],
+  "pinyin1": "xīn yuè shí, yuè liàng jī hū kàn bù jiàn",
+  "pinyin2": "xin1 yue4 shi2, yue4 liang4 ji1 hu1 kan4 bu4 jian4",
+  "translation": {
+    "en": "During new moon, the moon is almost invisible.",
+    "vi": "Khi trăng non, mặt trăng gần như không thể nhìn thấy."
+  }
+}, {
+  "sentence": "满月时，月亮最圆最亮。",
+  "tags": ["astronomy"],
+  "pinyin1": "mǎn yuè shí, yuè liàng zuì yuán zuì liàng",
+  "pinyin2": "man3 yue4 shi2, yue4 liang4 zui4 yuan2 zui4 liang4",
+  "translation": {
+    "en": "During full moon, the moon is roundest and brightest.",
+    "vi": "Khi trăng tròn, mặt trăng tròn nhất và sáng nhất."
+  }
+}, {
+  "sentence": "上弦月出现在月初。",
+  "tags": ["astronomy"],
+  "pinyin1": "shàng xián yuè chū xiàn zài yuè chū",
+  "pinyin2": "shang4 xian2 yue4 chu1 xian4 zai4 yue4 chu1",
+  "translation": {
+    "en": "First quarter moon appears at the beginning of the month.",
+    "vi": "Trăng thượng huyền xuất hiện vào đầu tháng."
+  }
+}, {
+  "sentence": "下弦月出现在月末。",
+  "tags": ["astronomy"],
+  "pinyin1": "xià xián yuè chū xiàn zài yuè mò",
+  "pinyin2": "xia4 xian2 yue4 chu1 xian4 zai4 yue4 mo4",
+  "translation": {
+    "en": "Last quarter moon appears at the end of the month.",
+    "vi": "Trăng hạ huyền xuất hiện vào cuối tháng."
+  }
+}, {
+  "sentence": "月相的变化周期大约是29.5天。",
+  "tags": ["astronomy"],
+  "pinyin1": "yuè xiàng de biàn huà zhōu qī dà yuē shì èr shí jiǔ diǎn wǔ tiān",
+  "pinyin2": "yue4 xiang4 de bian4 hua4 zhou1 qi1 da4 yue1 shi4 er4 shi2 jiu3 dian3 wu3 tian1",
+  "translation": {
+    "en": "The lunar phase cycle is approximately 29.5 days.",
+    "vi": "Chu kỳ thay đổi pha mặt trăng khoảng 29.5 ngày."
+  }
+}, {
+  "sentence": "潮汐是由月球的引力引起的。",
+  "tags": ["astronomy"],
+  "pinyin1": "cháo xī shì yóu yuè qiú de yǐn lì yǐn qǐ de",
+  "pinyin2": "chao2 xi1 shi4 you2 yue4 qiu2 de yin3 li4 yin3 qi3 de",
+  "translation": {
+    "en": "Tides are caused by the moon's gravitational pull.",
+    "vi": "Thủy triều được gây ra bởi lực hấp dẫn của mặt trăng."
+  }
+}, {
+  "sentence": "涨潮时，海水会涌向岸边。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhǎng cháo shí, hǎi shuǐ huì yǒng xiàng àn biān",
+  "pinyin2": "zhang3 chao2 shi2, hai3 shui3 hui4 yong3 xiang4 an4 bian1",
+  "translation": {
+    "en": "During high tide, seawater surges toward the shore.",
+    "vi": "Khi thủy triều lên, nước biển sẽ dâng lên bờ."
+  }
+}, {
+  "sentence": "退潮时，海滩会露出更多。",
+  "tags": ["astronomy"],
+  "pinyin1": "tuì cháo shí, hǎi tān huì lù chū gèng duō",
+  "pinyin2": "tui4 chao2 shi2, hai3 tan1 hui4 lu4 chu1 geng4 duo1",
+  "translation": {
+    "en": "During low tide, more beach is exposed.",
+    "vi": "Khi thủy triều xuống, bãi biển sẽ lộ ra nhiều hơn."
+  }
+}, {
+  "sentence": "我们在天文台观察星星。",
+  "tags": ["astronomy"],
+  "pinyin1": "wǒ men zài tiān wén tái guān chá xīng xīng",
+  "pinyin2": "wo3 men zai4 tian1 wen2 tai2 guan1 cha2 xing1 xing1",
+  "translation": {
+    "en": "We observe stars at the observatory.",
+    "vi": "Chúng tôi quan sát các ngôi sao ở đài thiên văn."
+  }
+}, {
+  "sentence": "用望远镜可以看到更远的星星。",
+  "tags": ["astronomy"],
+  "pinyin1": "yòng wàng yuǎn jìng kě yǐ kàn dào gèng yuǎn de xīng xīng",
+  "pinyin2": "yong4 wang4 yuan3 jing4 ke3 yi3 kan4 dao4 geng4 yuan3 de xing1 xing1",
+  "translation": {
+    "en": "With a telescope, you can see stars that are farther away.",
+    "vi": "Dùng kính thiên văn có thể nhìn thấy những ngôi sao xa hơn."
+  }
+}, {
+  "sentence": "反射望远镜使用镜子来聚焦光线。",
+  "tags": ["astronomy"],
+  "pinyin1": "fǎn shè wàng yuǎn jìng shǐ yòng jìng zi lái jù jiāo guāng xiàn",
+  "pinyin2": "fan3 she4 wang4 yuan3 jing4 shi3 yong4 jing4 zi lai2 ju4 jiao1 guang1 xian4",
+  "translation": {
+    "en": "Reflecting telescopes use mirrors to focus light.",
+    "vi": "Kính thiên văn phản xạ sử dụng gương để tập trung ánh sáng."
+  }
+}, {
+  "sentence": "折射望远镜使用透镜来放大图像。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhé shè wàng yuǎn jìng shǐ yòng tòu jìng lái fàng dà tú xiàng",
+  "pinyin2": "zhe2 she4 wang4 yuan3 jing4 shi3 yong4 tou4 jing4 lai2 fang4 da4 tu2 xiang4",
+  "translation": {
+    "en": "Refracting telescopes use lenses to magnify images.",
+    "vi": "Kính thiên văn khúc xạ sử dụng thấu kính để phóng đại hình ảnh."
+  }
+}, {
+  "sentence": "射电望远镜可以探测无线电波。",
+  "tags": ["astronomy"],
+  "pinyin1": "shè diàn wàng yuǎn jìng kě yǐ tàn cè wú xiàn diàn bō",
+  "pinyin2": "she4 dian4 wang4 yuan3 jing4 ke3 yi3 tan4 ce4 wu2 xian4 dian4 bo1",
+  "translation": {
+    "en": "Radio telescopes can detect radio waves.",
+    "vi": "Kính thiên văn vô tuyến có thể phát hiện sóng vô tuyến."
+  }
+}, {
+  "sentence": "宇航员在太空中进行科学实验。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ háng yuán zài tài kōng zhōng jìn xíng kē xué shí yàn",
+  "pinyin2": "yu3 hang2 yuan2 zai4 tai4 kong1 zhong1 jin4 xing2 ke1 xue2 shi2 yan4",
+  "translation": {
+    "en": "Astronauts conduct scientific experiments in space.",
+    "vi": "Các phi hành gia tiến hành thí nghiệm khoa học trong không gian."
+  }
+}, {
+  "sentence": "太空站是宇航员在太空中的家。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài kōng zhàn shì yǔ háng yuán zài tài kōng zhōng de jiā",
+  "pinyin2": "tai4 kong1 zhan4 shi4 yu3 hang2 yuan2 zai4 tai4 kong1 zhong1 de jia1",
+  "translation": {
+    "en": "Space stations are homes for astronauts in space.",
+    "vi": "Trạm vũ trụ là nhà của các phi hành gia trong không gian."
+  }
+}, {
+  "sentence": "航天器将人类送上了月球。",
+  "tags": ["astronomy"],
+  "pinyin1": "háng tiān qì jiāng rén lèi sòng shàng le yuè qiú",
+  "pinyin2": "hang2 tian1 qi4 jiang1 ren2 lei4 song4 shang4 le yue4 qiu2",
+  "translation": {
+    "en": "Spacecraft sent humans to the moon.",
+    "vi": "Tàu vũ trụ đã đưa con người lên mặt trăng."
+  }
+}, {
+  "sentence": "火箭发射升空了。",
+  "tags": ["astronomy"],
+  "pinyin1": "huǒ jiàn fā shè shēng kōng le",
+  "pinyin2": "huo3 jian4 fa1 she4 sheng1 kong1 le",
+  "translation": {
+    "en": "The rocket launched into space.",
+    "vi": "Tên lửa đã phóng lên không gian."
+  }
+}, {
+  "sentence": "这颗恒星距离我们大约4光年。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhè kē héng xīng jù lí wǒ men dà yuē sì guāng nián",
+  "pinyin2": "zhe4 ke1 heng2 xing1 ju4 li2 wo3 men da4 yue1 si4 guang1 nian2",
+  "translation": {
+    "en": "This star is approximately 4 light-years away from us.",
+    "vi": "Ngôi sao này cách chúng ta khoảng 4 năm ánh sáng."
+  }
+}, {
+  "sentence": "天文单位用来测量太阳系内的距离。",
+  "tags": ["astronomy"],
+  "pinyin1": "tiān wén dān wèi yòng lái cè liáng tài yáng xì nèi de jù lí",
+  "pinyin2": "tian1 wen2 dan1 wei4 yong4 lai2 ce4 liang2 tai4 yang2 xi4 nei4 de ju4 li2",
+  "translation": {
+    "en": "Astronomical units are used to measure distances within the solar system.",
+    "vi": "Đơn vị thiên văn được dùng để đo khoảng cách trong hệ mặt trời."
+  }
+}, {
+  "sentence": "秒差距是测量恒星距离的单位。",
+  "tags": ["astronomy"],
+  "pinyin1": "miǎo chā jù shì cè liáng héng xīng jù lí de dān wèi",
+  "pinyin2": "miao3 cha1 ju4 shi4 ce4 liang2 heng2 xing1 ju4 li2 de dan1 wei4",
+  "translation": {
+    "en": "Parsecs are units for measuring stellar distances.",
+    "vi": "Parsec là đơn vị đo khoảng cách giữa các ngôi sao."
+  }
+}, {
+  "sentence": "通过视差可以计算恒星的距离。",
+  "tags": ["astronomy"],
+  "pinyin1": "tōng guò shì chā kě yǐ jì suàn héng xīng de jù lí",
+  "pinyin2": "tong1 guo4 shi4 cha1 ke3 yi3 ji4 suan4 heng2 xing1 de ju4 li2",
+  "translation": {
+    "en": "Stellar distances can be calculated through parallax.",
+    "vi": "Có thể tính khoảng cách của các ngôi sao thông qua thị sai."
+  }
+}, {
+  "sentence": "这颗恒星的亮度很高。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhè kē héng xīng de liàng dù hěn gāo",
+  "pinyin2": "zhe4 ke1 heng2 xing1 de liang4 du4 hen3 gao1",
+  "translation": {
+    "en": "This star has very high brightness.",
+    "vi": "Ngôi sao này có độ sáng rất cao."
+  }
+}, {
+  "sentence": "视星等表示我们从地球看到的亮度。",
+  "tags": ["astronomy"],
+  "pinyin1": "shì xīng děng biǎo shì wǒ men cóng dì qiú kàn dào de liàng dù",
+  "pinyin2": "shi4 xing1 deng3 biao3 shi4 wo3 men cong2 di4 qiu2 kan4 dao4 de liang4 du4",
+  "translation": {
+    "en": "Apparent magnitude represents the brightness we see from Earth.",
+    "vi": "Cấp sao biểu kiến biểu thị độ sáng chúng ta nhìn thấy từ Trái Đất."
+  }
+}, {
+  "sentence": "绝对星等表示恒星的真实亮度。",
+  "tags": ["astronomy"],
+  "pinyin1": "jué duì xīng děng biǎo shì héng xīng de zhēn shí liàng dù",
+  "pinyin2": "jue2 dui4 xing1 deng3 biao3 shi4 heng2 xing1 de zhen1 shi2 liang4 du4",
+  "translation": {
+    "en": "Absolute magnitude represents the true brightness of a star.",
+    "vi": "Cấp sao tuyệt đối biểu thị độ sáng thực của ngôi sao."
+  }
+}, {
+  "sentence": "红巨星是老年恒星。",
+  "tags": ["astronomy"],
+  "pinyin1": "hóng jù xīng shì lǎo nián héng xīng",
+  "pinyin2": "hong2 ju4 xing1 shi4 lao3 nian2 heng2 xing1",
+  "translation": {
+    "en": "Red giants are old stars.",
+    "vi": "Sao khổng lồ đỏ là những ngôi sao già."
+  }
+}, {
+  "sentence": "白矮星是恒星的残骸。",
+  "tags": ["astronomy"],
+  "pinyin1": "bái ǎi xīng shì héng xīng de cán hái",
+  "pinyin2": "bai2 ai3 xing1 shi4 heng2 xing1 de can2 hai2",
+  "translation": {
+    "en": "White dwarfs are stellar remnants.",
+    "vi": "Sao lùn trắng là tàn dư của các ngôi sao."
+  }
+}, {
+  "sentence": "中子星密度极高。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhōng zǐ xīng mì dù jí gāo",
+  "pinyin2": "zhong1 zi3 xing1 mi4 du4 ji2 gao1",
+  "translation": {
+    "en": "Neutron stars have extremely high density.",
+    "vi": "Sao neutron có mật độ cực cao."
+  }
+}, {
+  "sentence": "黑洞的引力非常强大。",
+  "tags": ["astronomy"],
+  "pinyin1": "hēi dòng de yǐn lì fēi cháng qiáng dà",
+  "pinyin2": "hei1 dong4 de yin3 li4 fei1 chang2 qiang2 da4",
+  "translation": {
+    "en": "Black holes have extremely strong gravitational pull.",
+    "vi": "Lỗ đen có lực hấp dẫn cực kỳ mạnh."
+  }
+}, {
+  "sentence": "超新星爆炸释放出巨大的能量。",
+  "tags": ["astronomy"],
+  "pinyin1": "chāo xīn xīng bào zhà shì fàng chū jù dà de néng liàng",
+  "pinyin2": "chao1 xin1 xing1 bao4 zha4 shi4 fang4 chu1 ju4 da4 de neng2 liang4",
+  "translation": {
+    "en": "Supernova explosions release enormous amounts of energy.",
+    "vi": "Vụ nổ siêu tân tinh giải phóng lượng năng lượng khổng lồ."
+  }
+}, {
+  "sentence": "新星的亮度会突然增加。",
+  "tags": ["astronomy"],
+  "pinyin1": "xīn xīng de liàng dù huì tū rán zēng jiā",
+  "pinyin2": "xin1 xing1 de liang4 du4 hui4 tu1 ran2 zeng1 jia1",
+  "translation": {
+    "en": "The brightness of a nova suddenly increases.",
+    "vi": "Độ sáng của tân tinh đột nhiên tăng lên."
+  }
+}, {
+  "sentence": "变星的亮度会周期性变化。",
+  "tags": ["astronomy"],
+  "pinyin1": "biàn xīng de liàng dù huì zhōu qī xìng biàn huà",
+  "pinyin2": "bian4 xing1 de liang4 du4 hui4 zhou1 qi1 xing4 bian4 hua4",
+  "translation": {
+    "en": "Variable stars have periodic brightness changes.",
+    "vi": "Độ sáng của sao biến quang thay đổi theo chu kỳ."
+  }
+}, {
+  "sentence": "双星系统由两颗恒星组成。",
+  "tags": ["astronomy"],
+  "pinyin1": "shuāng xīng xì tǒng yóu liǎng kē héng xīng zǔ chéng",
+  "pinyin2": "shuang1 xing1 xi4 tong3 you2 liang3 ke1 heng2 xing1 zu3 cheng2",
+  "translation": {
+    "en": "Binary star systems consist of two stars.",
+    "vi": "Hệ sao đôi được tạo thành từ hai ngôi sao."
+  }
+}, {
+  "sentence": "星团包含许多恒星。",
+  "tags": ["astronomy"],
+  "pinyin1": "xīng tuán bāo hán xǔ duō héng xīng",
+  "pinyin2": "xing1 tuan2 bao1 han2 xu3 duo1 heng2 xing1",
+  "translation": {
+    "en": "Star clusters contain many stars.",
+    "vi": "Cụm sao chứa nhiều ngôi sao."
+  }
+}, {
+  "sentence": "球状星团呈球形分布。",
+  "tags": ["astronomy"],
+  "pinyin1": "qiú zhuàng xīng tuán chéng qiú xíng fēn bù",
+  "pinyin2": "qiu2 zhuang4 xing1 tuan2 cheng2 qiu2 xing2 fen1 bu4",
+  "translation": {
+    "en": "Globular clusters are distributed in a spherical shape.",
+    "vi": "Cụm sao cầu phân bố theo hình cầu."
+  }
+}, {
+  "sentence": "疏散星团比较年轻。",
+  "tags": ["astronomy"],
+  "pinyin1": "shū sàn xīng tuán bǐ jiào nián qīng",
+  "pinyin2": "shu1 san4 xing1 tuan2 bi3 jiao4 nian2 qing1",
+  "translation": {
+    "en": "Open clusters are relatively young.",
+    "vi": "Cụm sao mở tương đối trẻ."
+  }
+}, {
+  "sentence": "星云是恒星诞生的地方。",
+  "tags": ["astronomy"],
+  "pinyin1": "xīng yún shì héng xīng dàn shēng de dì fang",
+  "pinyin2": "xing1 yun2 shi4 heng2 xing1 dan4 sheng1 de di4 fang",
+  "translation": {
+    "en": "Nebulae are places where stars are born.",
+    "vi": "Tinh vân là nơi các ngôi sao được sinh ra."
+  }
+}, {
+  "sentence": "发射星云会发出可见光。",
+  "tags": ["astronomy"],
+  "pinyin1": "fā shè xīng yún huì fā chū kě jiàn guāng",
+  "pinyin2": "fa1 she4 xing1 yun2 hui4 fa1 chu1 ke3 jian4 guang1",
+  "translation": {
+    "en": "Emission nebulae emit visible light.",
+    "vi": "Tinh vân phát xạ phát ra ánh sáng có thể nhìn thấy."
+  }
+}, {
+  "sentence": "反射星云反射附近恒星的光。",
+  "tags": ["astronomy"],
+  "pinyin1": "fǎn shè xīng yún fǎn shè fù jìn héng xīng de guāng",
+  "pinyin2": "fan3 she4 xing1 yun2 fan3 she4 fu4 jin4 heng2 xing1 de guang1",
+  "translation": {
+    "en": "Reflection nebulae reflect light from nearby stars.",
+    "vi": "Tinh vân phản xạ phản chiếu ánh sáng từ các ngôi sao gần đó."
+  }
+}, {
+  "sentence": "暗星云遮挡了背后的星光。",
+  "tags": ["astronomy"],
+  "pinyin1": "àn xīng yún zhē dǎng le bèi hòu de xīng guāng",
+  "pinyin2": "an4 xing1 yun2 zhe1 dang3 le bei4 hou4 de xing1 guang1",
+  "translation": {
+    "en": "Dark nebulae block the starlight behind them.",
+    "vi": "Tinh vân tối che khuất ánh sáng sao phía sau."
+  }
+}, {
+  "sentence": "行星状星云是恒星演化的产物。",
+  "tags": ["astronomy"],
+  "pinyin1": "xíng xīng zhuàng xīng yún shì héng xīng yǎn huà de chǎn wù",
+  "pinyin2": "xing2 xing1 zhuang4 xing1 yun2 shi4 heng2 xing1 yan3 hua4 de chan3 wu4",
+  "translation": {
+    "en": "Planetary nebulae are products of stellar evolution.",
+    "vi": "Tinh vân hành tinh là sản phẩm của quá trình tiến hóa sao."
+  }
+}, {
+  "sentence": "星等用来衡量恒星的亮度。",
+  "tags": ["astronomy"],
+  "pinyin1": "xīng děng yòng lái héng liáng héng xīng de liàng dù",
+  "pinyin2": "xing1 deng3 yong4 lai2 heng2 liang2 heng2 xing1 de liang4 du4",
+  "translation": {
+    "en": "Magnitude is used to measure the brightness of stars.",
+    "vi": "Cấp sao được dùng để đo độ sáng của các ngôi sao."
+  }
+}, {
+  "sentence": "通过光谱可以分析恒星的成分。",
+  "tags": ["astronomy"],
+  "pinyin1": "tōng guò guāng pǔ kě yǐ fēn xī héng xīng de chéng fèn",
+  "pinyin2": "tong1 guo4 guang1 pu3 ke3 yi3 fen1 xi1 heng2 xing1 de cheng2 fen4",
+  "translation": {
+    "en": "Stellar composition can be analyzed through spectra.",
+    "vi": "Có thể phân tích thành phần của ngôi sao thông qua quang phổ."
+  }
+}, {
+  "sentence": "恒星的光谱型决定了它的颜色和温度。",
+  "tags": ["astronomy"],
+  "pinyin1": "héng xīng de guāng pǔ xíng jué dìng le tā de yán sè hé wēn dù",
+  "pinyin2": "heng2 xing1 de guang1 pu3 xing2 jue2 ding4 le ta1 de yan2 se4 he2 wen1 du4",
+  "translation": {
+    "en": "A star's spectral type determines its color and temperature.",
+    "vi": "Loại quang phổ của ngôi sao quyết định màu sắc và nhiệt độ của nó."
+  }
+}, {
+  "sentence": "太阳是一颗主序星。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng shì yī kē zhǔ xù xīng",
+  "pinyin2": "tai4 yang2 shi4 yi1 ke1 zhu3 xu4 xing1",
+  "translation": {
+    "en": "The sun is a main sequence star.",
+    "vi": "Mặt trời là một sao dãy chính."
+  }
+}, {
+  "sentence": "赫罗图显示了恒星的亮度和温度的关系。",
+  "tags": ["astronomy"],
+  "pinyin1": "hè luó tú xiǎn shì le héng xīng de liàng dù hé wēn dù de guān xì",
+  "pinyin2": "he4 luo2 tu2 xian3 shi4 le heng2 xing1 de liang4 du4 he2 wen1 du4 de guan1 xi4",
+  "translation": {
+    "en": "The Hertzsprung-Russell diagram shows the relationship between stellar brightness and temperature.",
+    "vi": "Biểu đồ Hertzsprung-Russell cho thấy mối quan hệ giữa độ sáng và nhiệt độ của các ngôi sao."
+  }
+}, {
+  "sentence": "恒星的表面温度非常高。",
+  "tags": ["astronomy"],
+  "pinyin1": "héng xīng de biǎo miàn wēn dù fēi cháng gāo",
+  "pinyin2": "heng2 xing1 de biao3 mian4 wen1 du4 fei1 chang2 gao1",
+  "translation": {
+    "en": "The surface temperature of stars is extremely high.",
+    "vi": "Nhiệt độ bề mặt của các ngôi sao rất cao."
+  }
+}, {
+  "sentence": "色指数可以帮助确定恒星的类型。",
+  "tags": ["astronomy"],
+  "pinyin1": "sè zhǐ shù kě yǐ bāng zhù què dìng héng xīng de lèi xíng",
+  "pinyin2": "se4 zhi3 shu4 ke3 yi3 bang1 zhu4 que4 ding4 heng2 xing1 de lei4 xing2",
+  "translation": {
+    "en": "Color index can help determine the type of star.",
+    "vi": "Chỉ số màu có thể giúp xác định loại ngôi sao."
+  }
+}, {
+  "sentence": "这颗恒星的光度是太阳的一百倍。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhè kē héng xīng de guāng dù shì tài yáng de yī bǎi bèi",
+  "pinyin2": "zhe4 ke1 heng2 xing1 de guang1 du4 shi4 tai4 yang2 de yi1 bai3 bei4",
+  "translation": {
+    "en": "This star's luminosity is one hundred times that of the sun.",
+    "vi": "Độ sáng của ngôi sao này gấp một trăm lần mặt trời."
+  }
+}, {
+  "sentence": "这颗恒星的半径是太阳的两倍。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhè kē héng xīng de bàn jìng shì tài yáng de liǎng bèi",
+  "pinyin2": "zhe4 ke1 heng2 xing1 de ban4 jing4 shi4 tai4 yang2 de liang3 bei4",
+  "translation": {
+    "en": "This star's radius is twice that of the sun.",
+    "vi": "Bán kính của ngôi sao này gấp đôi mặt trời."
+  }
+}, {
+  "sentence": "恒星的寿命取决于它的质量。",
+  "tags": ["astronomy"],
+  "pinyin1": "héng xīng de shòu mìng qǔ jué yú tā de zhì liàng",
+  "pinyin2": "heng2 xing1 de shou4 ming4 qu3 jue2 yu2 ta1 de zhi4 liang4",
+  "translation": {
+    "en": "A star's lifetime depends on its mass.",
+    "vi": "Tuổi thọ của ngôi sao phụ thuộc vào khối lượng của nó."
+  }
+}, {
+  "sentence": "核聚变是恒星能量的来源。",
+  "tags": ["astronomy"],
+  "pinyin1": "hé jù biàn shì héng xīng néng liàng de lái yuán",
+  "pinyin2": "he2 ju4 bian4 shi4 heng2 xing1 neng2 liang4 de lai2 yuan2",
+  "translation": {
+    "en": "Nuclear fusion is the source of stellar energy.",
+    "vi": "Phản ứng nhiệt hạch là nguồn năng lượng của các ngôi sao."
+  }
+}, {
+  "sentence": "氢是宇宙中最丰富的元素。",
+  "tags": ["astronomy"],
+  "pinyin1": "qīng shì yǔ zhòu zhōng zuì fēng fù de yuán sù",
+  "pinyin2": "qing1 shi4 yu3 zhou4 zhong1 zui4 feng1 fu4 de yuan2 su4",
+  "translation": {
+    "en": "Hydrogen is the most abundant element in the universe.",
+    "vi": "Hydro là nguyên tố phong phú nhất trong vũ trụ."
+  }
+}, {
+  "sentence": "氦是恒星核聚变的产物。",
+  "tags": ["astronomy"],
+  "pinyin1": "hài shì héng xīng hé jù biàn de chǎn wù",
+  "pinyin2": "hai4 shi4 heng2 xing1 he2 ju4 bian4 de chan3 wu4",
+  "translation": {
+    "en": "Helium is a product of stellar nuclear fusion.",
+    "vi": "Heli là sản phẩm của phản ứng nhiệt hạch trong các ngôi sao."
+  }
+}, {
+  "sentence": "金属元素在恒星中形成。",
+  "tags": ["astronomy"],
+  "pinyin1": "jīn shǔ yuán sù zài héng xīng zhōng xíng chéng",
+  "pinyin2": "jin1 shu3 yuan2 su4 zai4 heng2 xing1 zhong1 xing2 cheng2",
+  "translation": {
+    "en": "Metallic elements are formed in stars.",
+    "vi": "Các nguyên tố kim loại được hình thành trong các ngôi sao."
+  }
+}, {
+  "sentence": "金属丰度反映了恒星的年龄。",
+  "tags": ["astronomy"],
+  "pinyin1": "jīn shǔ fēng dù fǎn yìng le héng xīng de nián líng",
+  "pinyin2": "jin1 shu3 feng1 du4 fan3 ying4 le heng2 xing1 de nian2 ling2",
+  "translation": {
+    "en": "Metallicity reflects the age of a star.",
+    "vi": "Độ giàu kim loại phản ánh tuổi của ngôi sao."
+  }
+}, {
+  "sentence": "太阳有很强的磁场。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng yǒu hěn qiáng de cí chǎng",
+  "pinyin2": "tai4 yang2 you3 hen3 qiang2 de ci2 chang3",
+  "translation": {
+    "en": "The sun has a very strong magnetic field.",
+    "vi": "Mặt trời có từ trường rất mạnh."
+  }
+}, {
+  "sentence": "太阳黑子活动会影响地球气候。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng hēi zǐ huó dòng huì yǐng xiǎng dì qiú qì hòu",
+  "pinyin2": "tai4 yang2 hei1 zi3 huo2 dong4 hui4 ying3 xiang3 di4 qiu2 qi4 hou4",
+  "translation": {
+    "en": "Sunspot activity affects Earth's climate.",
+    "vi": "Hoạt động của vết đen mặt trời ảnh hưởng đến khí hậu Trái Đất."
+  }
+}, {
+  "sentence": "太阳风会吹向整个太阳系。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng fēng huì chuī xiàng zhěng gè tài yáng xì",
+  "pinyin2": "tai4 yang2 feng1 hui4 chui1 xiang4 zheng3 ge4 tai4 yang2 xi4",
+  "translation": {
+    "en": "Solar wind blows throughout the solar system.",
+    "vi": "Gió mặt trời thổi đến toàn bộ hệ mặt trời."
+  }
+}, {
+  "sentence": "日全食时可以看到日冕。",
+  "tags": ["astronomy"],
+  "pinyin1": "rì quán shí shí kě yǐ kàn dào rì miǎn",
+  "pinyin2": "ri4 quan2 shi2 shi2 ke3 yi3 kan4 dao4 ri4 mian3",
+  "translation": {
+    "en": "The corona can be seen during a total solar eclipse.",
+    "vi": "Có thể nhìn thấy nhật hoa khi nhật thực toàn phần."
+  }
+}, {
+  "sentence": "色球层位于光球层之上。",
+  "tags": ["astronomy"],
+  "pinyin1": "sè qiú céng wèi yú guāng qiú céng zhī shàng",
+  "pinyin2": "se4 qiu2 ceng2 wei4 yu2 guang1 qiu2 ceng2 zhi1 shang4",
+  "translation": {
+    "en": "The chromosphere is located above the photosphere.",
+    "vi": "Quyển sắc nằm phía trên quang quyển."
+  }
+}, {
+  "sentence": "光球层是太阳可见的表面。",
+  "tags": ["astronomy"],
+  "pinyin1": "guāng qiú céng shì tài yáng kě jiàn de biǎo miàn",
+  "pinyin2": "guang1 qiu2 ceng2 shi4 tai4 yang2 ke3 jian4 de biao3 mian4",
+  "translation": {
+    "en": "The photosphere is the visible surface of the sun.",
+    "vi": "Quang quyển là bề mặt có thể nhìn thấy của mặt trời."
+  }
+}, {
+  "sentence": "太阳活动有周期性变化。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng huó dòng yǒu zhōu qī xìng biàn huà",
+  "pinyin2": "tai4 yang2 huo2 dong4 you3 zhou1 qi1 xing4 bian4 hua4",
+  "translation": {
+    "en": "Solar activity has periodic variations.",
+    "vi": "Hoạt động mặt trời có sự thay đổi theo chu kỳ."
+  }
+}, {
+  "sentence": "太阳周期大约是11年。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng zhōu qī dà yuē shì shí yī nián",
+  "pinyin2": "tai4 yang2 zhou1 qi1 da4 yue1 shi4 shi2 yi1 nian2",
+  "translation": {
+    "en": "The solar cycle is approximately 11 years.",
+    "vi": "Chu kỳ mặt trời khoảng 11 năm."
+  }
+}, {
+  "sentence": "极光出现在地球的两极地区。",
+  "tags": ["astronomy"],
+  "pinyin1": "jí guāng chū xiàn zài dì qiú de liǎng jí dì qū",
+  "pinyin2": "ji2 guang1 chu1 xian4 zai4 di4 qiu2 de liang3 ji2 di4 qu1",
+  "translation": {
+    "en": "Auroras appear in the polar regions of Earth.",
+    "vi": "Cực quang xuất hiện ở các vùng cực của Trái Đất."
+  }
+}, {
+  "sentence": "黄道是太阳在天空中的视路径。",
+  "tags": ["astronomy"],
+  "pinyin1": "huáng dào shì tài yáng zài tiān kōng zhōng de shì lù jìng",
+  "pinyin2": "huang2 dao4 shi4 tai4 yang2 zai4 tian1 kong1 zhong1 de shi4 lu4 jing4",
+  "translation": {
+    "en": "The ecliptic is the apparent path of the sun in the sky.",
+    "vi": "Hoàng đạo là đường đi biểu kiến của mặt trời trên bầu trời."
+  }
+}, {
+  "sentence": "黄道面是行星运行的平面。",
+  "tags": ["astronomy"],
+  "pinyin1": "huáng dào miàn shì xíng xīng yùn xíng de píng miàn",
+  "pinyin2": "huang2 dao4 mian4 shi4 xing2 xing1 yun4 xing2 de ping2 mian4",
+  "translation": {
+    "en": "The ecliptic plane is the plane in which planets orbit.",
+    "vi": "Mặt phẳng hoàng đạo là mặt phẳng các hành tinh quay quanh."
+  }
+}, {
+  "sentence": "赤道将地球分为南北两个半球。",
+  "tags": ["astronomy"],
+  "pinyin1": "chì dào jiāng dì qiú fēn wéi nán běi liǎng gè bàn qiú",
+  "pinyin2": "chi4 dao4 jiang1 di4 qiu2 fen1 wei2 nan2 bei3 liang3 ge4 ban4 qiu2",
+  "translation": {
+    "en": "The equator divides Earth into northern and southern hemispheres.",
+    "vi": "Xích đạo chia Trái Đất thành hai bán cầu nam và bắc."
+  }
+}, {
+  "sentence": "天赤道是地球赤道在天空中的投影。",
+  "tags": ["astronomy"],
+  "pinyin1": "tiān chì dào shì dì qiú chì dào zài tiān kōng zhōng de tóu yǐng",
+  "pinyin2": "tian1 chi4 dao4 shi4 di4 qiu2 chi4 dao4 zai4 tian1 kong1 zhong1 de tou2 ying3",
+  "translation": {
+    "en": "The celestial equator is the projection of Earth's equator onto the sky.",
+    "vi": "Thiên xích đạo là hình chiếu của xích đạo Trái Đất lên bầu trời."
+  }
+}, {
+  "sentence": "天极是地球自转轴指向的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "tiān jí shì dì qiú zì zhuàn zhóu zhǐ xiàng de diǎn",
+  "pinyin2": "tian1 ji2 shi4 di4 qiu2 zi4 zhuan4 zhou2 zhi3 xiang4 de dian3",
+  "translation": {
+    "en": "The celestial pole is the point toward which Earth's rotation axis points.",
+    "vi": "Thiên cực là điểm mà trục tự quay của Trái Đất hướng tới."
+  }
+}, {
+  "sentence": "天顶是观察者正上方的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "tiān dǐng shì guān chá zhě zhèng shàng fāng de diǎn",
+  "pinyin2": "tian1 ding3 shi4 guan1 cha2 zhe3 zheng4 shang4 fang1 de dian3",
+  "translation": {
+    "en": "The zenith is the point directly above the observer.",
+    "vi": "Thiên đỉnh là điểm ngay phía trên người quan sát."
+  }
+}, {
+  "sentence": "天底是观察者正下方的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "tiān dǐ shì guān chá zhě zhèng xià fāng de diǎn",
+  "pinyin2": "tian1 di3 shi4 guan1 cha2 zhe3 zheng4 xia4 fang1 de dian3",
+  "translation": {
+    "en": "The nadir is the point directly below the observer.",
+    "vi": "Thiên để là điểm ngay phía dưới người quan sát."
+  }
+}, {
+  "sentence": "地平线是天空和地面的分界线。",
+  "tags": ["astronomy"],
+  "pinyin1": "dì píng xiàn shì tiān kōng hé dì miàn de fēn jiè xiàn",
+  "pinyin2": "di4 ping2 xian4 shi4 tian1 kong1 he2 di4 mian4 de fen1 jie4 xian4",
+  "translation": {
+    "en": "The horizon is the boundary line between sky and ground.",
+    "vi": "Đường chân trời là ranh giới giữa bầu trời và mặt đất."
+  }
+}, {
+  "sentence": "方位角用来确定天体的水平方向。",
+  "tags": ["astronomy"],
+  "pinyin1": "fāng wèi jiǎo yòng lái què dìng tiān tǐ de shuǐ píng fāng xiàng",
+  "pinyin2": "fang1 wei4 jiao3 yong4 lai2 que4 ding4 tian1 ti3 de shui3 ping2 fang1 xiang4",
+  "translation": {
+    "en": "Azimuth is used to determine the horizontal direction of celestial bodies.",
+    "vi": "Góc phương vị được dùng để xác định hướng ngang của thiên thể."
+  }
+}, {
+  "sentence": "高度角表示天体距离地平线的高度。",
+  "tags": ["astronomy"],
+  "pinyin1": "gāo dù jiǎo biǎo shì tiān tǐ jù lí dì píng xiàn de gāo dù",
+  "pinyin2": "gao1 du4 jiao3 biao3 shi4 tian1 ti3 ju4 li2 di4 ping2 xian4 de gao1 du4",
+  "translation": {
+    "en": "Altitude represents the height of a celestial body above the horizon.",
+    "vi": "Góc cao độ biểu thị độ cao của thiên thể so với đường chân trời."
+  }
+}, {
+  "sentence": "时角用来测量天体的时间位置。",
+  "tags": ["astronomy"],
+  "pinyin1": "shí jiǎo yòng lái cè liáng tiān tǐ de shí jiān wèi zhì",
+  "pinyin2": "shi2 jiao3 yong4 lai2 ce4 liang2 tian1 ti3 de shi2 jian1 wei4 zhi4",
+  "translation": {
+    "en": "Hour angle is used to measure the time position of celestial bodies.",
+    "vi": "Góc giờ được dùng để đo vị trí thời gian của thiên thể."
+  }
+}, {
+  "sentence": "赤纬表示天体距离天赤道的角度。",
+  "tags": ["astronomy"],
+  "pinyin1": "chì wěi biǎo shì tiān tǐ jù lí tiān chì dào de jiǎo dù",
+  "pinyin2": "chi4 wei3 biao3 shi4 tian1 ti3 ju4 li2 tian1 chi4 dao4 de jiao3 du4",
+  "translation": {
+    "en": "Declination represents the angular distance of a celestial body from the celestial equator.",
+    "vi": "Xích vĩ biểu thị góc khoảng cách của thiên thể so với thiên xích đạo."
+  }
+}, {
+  "sentence": "赤经用来确定天体在天球上的位置。",
+  "tags": ["astronomy"],
+  "pinyin1": "chì jīng yòng lái què dìng tiān tǐ zài tiān qiú shàng de wèi zhì",
+  "pinyin2": "chi4 jing1 yong4 lai2 que4 ding4 tian1 ti3 zai4 tian1 qiu2 shang4 de wei4 zhi4",
+  "translation": {
+    "en": "Right ascension is used to determine the position of celestial bodies on the celestial sphere.",
+    "vi": "Xích kinh được dùng để xác định vị trí của thiên thể trên thiên cầu."
+  }
+}, {
+  "sentence": "春分点是太阳从南向北穿越天赤道的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "chūn fēn diǎn shì tài yáng cóng nán xiàng běi chuān yuè tiān chì dào de diǎn",
+  "pinyin2": "chun1 fen1 dian3 shi4 tai4 yang2 cong2 nan2 xiang4 bei3 chuan1 yue4 tian1 chi4 dao4 de dian3",
+  "translation": {
+    "en": "The vernal equinox is the point where the sun crosses the celestial equator from south to north.",
+    "vi": "Điểm xuân phân là điểm mà mặt trời đi từ nam lên bắc qua thiên xích đạo."
+  }
+}, {
+  "sentence": "秋分点时，昼夜长度相等。",
+  "tags": ["astronomy"],
+  "pinyin1": "qiū fēn diǎn shí, zhòu yè cháng dù xiāng děng",
+  "pinyin2": "qiu1 fen1 dian3 shi2, zhou4 ye4 chang2 du4 xiang1 deng3",
+  "translation": {
+    "en": "At the autumnal equinox, day and night are equal in length.",
+    "vi": "Vào điểm thu phân, độ dài ngày và đêm bằng nhau."
+  }
+}, {
+  "sentence": "夏至点是北半球白昼最长的一天。",
+  "tags": ["astronomy"],
+  "pinyin1": "xià zhì diǎn shì běi bàn qiú bái zhòu zuì cháng de yī tiān",
+  "pinyin2": "xia4 zhi4 dian3 shi4 bei3 ban4 qiu2 bai2 zhou4 zui4 chang2 de yi1 tian1",
+  "translation": {
+    "en": "The summer solstice is the day with the longest daylight in the northern hemisphere.",
+    "vi": "Điểm hạ chí là ngày có ban ngày dài nhất ở bán cầu bắc."
+  }
+}, {
+  "sentence": "冬至点是北半球白昼最短的一天。",
+  "tags": ["astronomy"],
+  "pinyin1": "dōng zhì diǎn shì běi bàn qiú bái zhòu zuì duǎn de yī tiān",
+  "pinyin2": "dong1 zhi4 dian3 shi4 bei3 ban4 qiu2 bai2 zhou4 zui4 duan3 de yi1 tian1",
+  "translation": {
+    "en": "The winter solstice is the day with the shortest daylight in the northern hemisphere.",
+    "vi": "Điểm đông chí là ngày có ban ngày ngắn nhất ở bán cầu bắc."
+  }
+}, {
+  "sentence": "岁差是地轴方向的缓慢变化。",
+  "tags": ["astronomy"],
+  "pinyin1": "suì chā shì dì zhóu fāng xiàng de huǎn màn biàn huà",
+  "pinyin2": "sui4 cha1 shi4 di4 zhou2 fang1 xiang4 de huan3 man4 bian4 hua4",
+  "translation": {
+    "en": "Precession is the slow change in the direction of Earth's axis.",
+    "vi": "Tuế sai là sự thay đổi chậm của hướng trục Trái Đất."
+  }
+}, {
+  "sentence": "章动是地轴的小幅摆动。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhāng dòng shì dì zhóu de xiǎo fú bǎi dòng",
+  "pinyin2": "zhang1 dong4 shi4 di4 zhou2 de xiao3 fu2 bai3 dong4",
+  "translation": {
+    "en": "Nutation is the small oscillation of Earth's axis.",
+    "vi": "Chương động là sự dao động nhỏ của trục Trái Đất."
+  }
+}, {
+  "sentence": "不同时区的时间不同。",
+  "tags": ["astronomy"],
+  "pinyin1": "bù tóng shí qū de shí jiān bù tóng",
+  "pinyin2": "bu4 tong2 shi2 qu1 de shi2 jian1 bu4 tong2",
+  "translation": {
+    "en": "Different time zones have different times.",
+    "vi": "Các múi giờ khác nhau có thời gian khác nhau."
+  }
+}, {
+  "sentence": "世界时是国际标准时间。",
+  "tags": ["astronomy"],
+  "pinyin1": "shì jiè shí shì guó jì biāo zhǔn shí jiān",
+  "pinyin2": "shi4 jie4 shi2 shi4 guo2 ji4 biao1 zhun3 shi2 jian1",
+  "translation": {
+    "en": "Universal Time is the international standard time.",
+    "vi": "Giờ quốc tế là thời gian tiêu chuẩn quốc tế."
+  }
+}, {
+  "sentence": "恒星时基于恒星的视运动。",
+  "tags": ["astronomy"],
+  "pinyin1": "héng xīng shí jī yú héng xīng de shì yùn dòng",
+  "pinyin2": "heng2 xing1 shi2 ji1 yu2 heng2 xing1 de shi4 yun4 dong4",
+  "translation": {
+    "en": "Sidereal time is based on the apparent motion of stars.",
+    "vi": "Giờ sao dựa trên chuyển động biểu kiến của các ngôi sao."
+  }
+}, {
+  "sentence": "太阳时基于太阳的视运动。",
+  "tags": ["astronomy"],
+  "pinyin1": "tài yáng shí jī yú tài yáng de shì yùn dòng",
+  "pinyin2": "tai4 yang2 shi2 ji1 yu2 tai4 yang2 de shi4 yun4 dong4",
+  "translation": {
+    "en": "Solar time is based on the apparent motion of the sun.",
+    "vi": "Giờ mặt trời dựa trên chuyển động biểu kiến của mặt trời."
+  }
+}, {
+  "sentence": "平太阳时是平均的太阳时。",
+  "tags": ["astronomy"],
+  "pinyin1": "píng tài yáng shí shì píng jūn de tài yáng shí",
+  "pinyin2": "ping2 tai4 yang2 shi2 shi4 ping2 jun1 de tai4 yang2 shi2",
+  "translation": {
+    "en": "Mean solar time is the average solar time.",
+    "vi": "Giờ mặt trời trung bình là giờ mặt trời trung bình."
+  }
+}, {
+  "sentence": "真太阳时反映太阳的真实位置。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhēn tài yáng shí fǎn yìng tài yáng de zhēn shí wèi zhì",
+  "pinyin2": "zhen1 tai4 yang2 shi2 fan3 ying4 tai4 yang2 de zhen1 shi2 wei4 zhi4",
+  "translation": {
+    "en": "True solar time reflects the actual position of the sun.",
+    "vi": "Giờ mặt trời thực phản ánh vị trí thực tế của mặt trời."
+  }
+}, {
+  "sentence": "时差是真太阳时和平太阳时的差值。",
+  "tags": ["astronomy"],
+  "pinyin1": "shí chā shì zhēn tài yáng shí hé píng tài yáng shí de chā zhí",
+  "pinyin2": "shi2 cha1 shi4 zhen1 tai4 yang2 shi2 he2 ping2 tai4 yang2 shi2 de cha1 zhi2",
+  "translation": {
+    "en": "The equation of time is the difference between true solar time and mean solar time.",
+    "vi": "Phương trình thời gian là chênh lệch giữa giờ mặt trời thực và giờ mặt trời trung bình."
+  }
+}, {
+  "sentence": "儒略日是天文学家使用的连续日期系统。",
+  "tags": ["astronomy"],
+  "pinyin1": "rú lüè rì shì tiān wén xué jiā shǐ yòng de lián xù rì qī xì tǒng",
+  "pinyin2": "ru2 lüe4 ri4 shi4 tian1 wen2 xue2 jia1 shi3 yong4 de lian2 xu4 ri4 qi1 xi4 tong3",
+  "translation": {
+    "en": "Julian Day is a continuous date system used by astronomers.",
+    "vi": "Ngày Julius là hệ thống ngày tháng liên tục được các nhà thiên văn học sử dụng."
+  }
+}, {
+  "sentence": "儒略年等于365.25天。",
+  "tags": ["astronomy"],
+  "pinyin1": "rú lüè nián děng yú sān bǎi liù shí wǔ diǎn èr wǔ tiān",
+  "pinyin2": "ru2 lüe4 nian2 deng3 yu2 san1 bai3 liu4 shi2 wu3 dian3 er4 wu3 tian1",
+  "translation": {
+    "en": "A Julian year equals 365.25 days.",
+    "vi": "Một năm Julius bằng 365.25 ngày."
+  }
+}, {
+  "sentence": "回归年是地球绕太阳公转一周的时间。",
+  "tags": ["astronomy"],
+  "pinyin1": "huí guī nián shì dì qiú rào tài yáng gōng zhuàn yī zhōu de shí jiān",
+  "pinyin2": "hui2 gui1 nian2 shi4 di4 qiu2 rao4 tai4 yang2 gong1 zhuan4 yi1 zhou1 de shi2 jian1",
+  "translation": {
+    "en": "A tropical year is the time it takes for Earth to complete one revolution around the sun.",
+    "vi": "Năm phân điểm là thời gian Trái Đất hoàn thành một vòng quay quanh mặt trời."
+  }
+}, {
+  "sentence": "恒星年是地球相对于恒星公转一周的时间。",
+  "tags": ["astronomy"],
+  "pinyin1": "héng xīng nián shì dì qiú xiāng duì yú héng xīng gōng zhuàn yī zhōu de shí jiān",
+  "pinyin2": "heng2 xing1 nian2 shi4 di4 qiu2 xiang1 dui4 yu2 heng2 xing1 gong1 zhuan4 yi1 zhou1 de shi2 jian1",
+  "translation": {
+    "en": "A sidereal year is the time it takes for Earth to complete one revolution relative to the stars.",
+    "vi": "Năm sao là thời gian Trái Đất hoàn thành một vòng quay so với các ngôi sao."
+  }
+}, {
+  "sentence": "朔望月是月相变化的周期。",
+  "tags": ["astronomy"],
+  "pinyin1": "shuò wàng yuè shì yuè xiàng biàn huà de zhōu qī",
+  "pinyin2": "shuo4 wang4 yue4 shi4 yue4 xiang4 bian4 hua4 de zhou1 qi1",
+  "translation": {
+    "en": "A synodic month is the cycle of lunar phase changes.",
+    "vi": "Tháng giao hội là chu kỳ thay đổi pha mặt trăng."
+  }
+}, {
+  "sentence": "恒星月是月亮相对于恒星公转一周的时间。",
+  "tags": ["astronomy"],
+  "pinyin1": "héng xīng yuè shì yuè liàng xiāng duì yú héng xīng gōng zhuàn yī zhōu de shí jiān",
+  "pinyin2": "heng2 xing1 yue4 shi4 yue4 liang4 xiang1 dui4 yu2 heng2 xing1 gong1 zhuan4 yi1 zhou1 de shi2 jian1",
+  "translation": {
+    "en": "A sidereal month is the time it takes for the moon to complete one revolution relative to the stars.",
+    "vi": "Tháng sao là thời gian mặt trăng hoàn thành một vòng quay so với các ngôi sao."
+  }
+}, {
+  "sentence": "近地点是月球轨道上离地球最近的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "jìn dì diǎn shì yuè qiú guǐ dào shàng lí dì qiú zuì jìn de diǎn",
+  "pinyin2": "jin4 di4 dian3 shi4 yue4 qiu2 gui3 dao4 shang4 li2 di4 qiu2 zui4 jin4 de dian3",
+  "translation": {
+    "en": "Perigee is the point on the moon's orbit closest to Earth.",
+    "vi": "Cận điểm là điểm trên quỹ đạo mặt trăng gần Trái Đất nhất."
+  }
+}, {
+  "sentence": "远地点是月球轨道上离地球最远的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "yuǎn dì diǎn shì yuè qiú guǐ dào shàng lí dì qiú zuì yuǎn de diǎn",
+  "pinyin2": "yuan3 di4 dian3 shi4 yue4 qiu2 gui3 dao4 shang4 li2 di4 qiu2 zui4 yuan3 de dian3",
+  "translation": {
+    "en": "Apogee is the point on the moon's orbit farthest from Earth.",
+    "vi": "Viễn điểm là điểm trên quỹ đạo mặt trăng xa Trái Đất nhất."
+  }
+}, {
+  "sentence": "近日点是地球轨道上离太阳最近的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "jìn rì diǎn shì dì qiú guǐ dào shàng lí tài yáng zuì jìn de diǎn",
+  "pinyin2": "jin4 ri4 dian3 shi4 di4 qiu2 gui3 dao4 shang4 li2 tai4 yang2 zui4 jin4 de dian3",
+  "translation": {
+    "en": "Perihelion is the point on Earth's orbit closest to the sun.",
+    "vi": "Cận nhật điểm là điểm trên quỹ đạo Trái Đất gần mặt trời nhất."
+  }
+}, {
+  "sentence": "远日点是地球轨道上离太阳最远的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "yuǎn rì diǎn shì dì qiú guǐ dào shàng lí tài yáng zuì yuǎn de diǎn",
+  "pinyin2": "yuan3 ri4 dian3 shi4 di4 qiu2 gui3 dao4 shang4 li2 tai4 yang2 zui4 yuan3 de dian3",
+  "translation": {
+    "en": "Aphelion is the point on Earth's orbit farthest from the sun.",
+    "vi": "Viễn nhật điểm là điểm trên quỹ đạo Trái Đất xa mặt trời nhất."
+  }
+}, {
+  "sentence": "偏心率表示轨道偏离圆形的程度。",
+  "tags": ["astronomy"],
+  "pinyin1": "piān xīn lǜ biǎo shì guǐ dào piān lí yuán xíng de chéng dù",
+  "pinyin2": "pian1 xin1 lü4 biao3 shi4 gui3 dao4 pian1 li2 yuan2 xing2 de cheng2 du4",
+  "translation": {
+    "en": "Eccentricity represents the degree to which an orbit deviates from a circle.",
+    "vi": "Độ lệch tâm biểu thị mức độ quỹ đạo lệch khỏi hình tròn."
+  }
+}, {
+  "sentence": "倾角是轨道平面与参考平面的夹角。",
+  "tags": ["astronomy"],
+  "pinyin1": "qīng jiǎo shì guǐ dào píng miàn yǔ cān kǎo píng miàn de jiā jiǎo",
+  "pinyin2": "qing1 jiao3 shi4 gui3 dao4 ping2 mian4 yu3 can1 kao3 ping2 mian4 de jia1 jiao3",
+  "translation": {
+    "en": "Inclination is the angle between the orbital plane and the reference plane.",
+    "vi": "Góc nghiêng là góc giữa mặt phẳng quỹ đạo và mặt phẳng tham chiếu."
+  }
+}, {
+  "sentence": "升交点是轨道从南向北穿越参考平面的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "shēng jiāo diǎn shì guǐ dào cóng nán xiàng běi chuān yuè cān kǎo píng miàn de diǎn",
+  "pinyin2": "sheng1 jiao1 dian3 shi4 gui3 dao4 cong2 nan2 xiang4 bei3 chuan1 yue4 can1 kao3 ping2 mian4 de dian3",
+  "translation": {
+    "en": "The ascending node is the point where the orbit crosses the reference plane from south to north.",
+    "vi": "Điểm lên là điểm mà quỹ đạo đi từ nam lên bắc qua mặt phẳng tham chiếu."
+  }
+}, {
+  "sentence": "降交点是轨道从北向南穿越参考平面的点。",
+  "tags": ["astronomy"],
+  "pinyin1": "jiàng jiāo diǎn shì guǐ dào cóng běi xiàng nán chuān yuè cān kǎo píng miàn de diǎn",
+  "pinyin2": "jiang4 jiao1 dian3 shi4 gui3 dao4 cong2 bei3 xiang4 nan2 chuan1 yue4 can1 kao3 ping2 mian4 de dian3",
+  "translation": {
+    "en": "The descending node is the point where the orbit crosses the reference plane from north to south.",
+    "vi": "Điểm xuống là điểm mà quỹ đạo đi từ bắc xuống nam qua mặt phẳng tham chiếu."
+  }
+}, {
+  "sentence": "近点角表示天体在轨道上的位置。",
+  "tags": ["astronomy"],
+  "pinyin1": "jìn diǎn jiǎo biǎo shì tiān tǐ zài guǐ dào shàng de wèi zhì",
+  "pinyin2": "jin4 dian3 jiao3 biao3 shi4 tian1 ti3 zai4 gui3 dao4 shang4 de wei4 zhi4",
+  "translation": {
+    "en": "Anomaly represents the position of a celestial body in its orbit.",
+    "vi": "Góc dị thường biểu thị vị trí của thiên thể trên quỹ đạo."
+  }
+}, {
+  "sentence": "平近点角是平均的轨道位置角。",
+  "tags": ["astronomy"],
+  "pinyin1": "píng jìn diǎn jiǎo shì píng jūn de guǐ dào wèi zhì jiǎo",
+  "pinyin2": "ping2 jin4 dian3 jiao3 shi4 ping2 jun1 de gui3 dao4 wei4 zhi4 jiao3",
+  "translation": {
+    "en": "Mean anomaly is the average orbital position angle.",
+    "vi": "Góc dị thường trung bình là góc vị trí quỹ đạo trung bình."
+  }
+}, {
+  "sentence": "真近点角是实际的轨道位置角。",
+  "tags": ["astronomy"],
+  "pinyin1": "zhēn jìn diǎn jiǎo shì shí jì de guǐ dào wèi zhì jiǎo",
+  "pinyin2": "zhen1 jin4 dian3 jiao3 shi4 shi2 ji4 de gui3 dao4 wei4 zhi4 jiao3",
+  "translation": {
+    "en": "True anomaly is the actual orbital position angle.",
+    "vi": "Góc dị thường thực là góc vị trí quỹ đạo thực tế."
+  }
+}, {
+  "sentence": "偏近点角用于计算轨道位置。",
+  "tags": ["astronomy"],
+  "pinyin1": "piān jìn diǎn jiǎo yòng yú jì suàn guǐ dào wèi zhì",
+  "pinyin2": "pian1 jin4 dian3 jiao3 yong4 yu2 ji4 suan4 gui3 dao4 wei4 zhi4",
+  "translation": {
+    "en": "Eccentric anomaly is used to calculate orbital positions.",
+    "vi": "Góc dị thường tâm sai được dùng để tính vị trí quỹ đạo."
+  }
+}, {
+  "sentence": "开普勒定律描述了行星的运动规律。",
+  "tags": ["astronomy"],
+  "pinyin1": "kāi pǔ lè dìng lǜ miáo shù le xíng xīng de yùn dòng guī lǜ",
+  "pinyin2": "kai1 pu3 le4 ding4 lü4 miao2 shu4 le xing2 xing1 de yun4 dong4 gui1 lü4",
+  "translation": {
+    "en": "Kepler's laws describe the motion of planets.",
+    "vi": "Định luật Kepler mô tả quy luật chuyển động của các hành tinh."
+  }
+}, {
+  "sentence": "开普勒第一定律说明行星轨道是椭圆形的。",
+  "tags": ["astronomy"],
+  "pinyin1": "kāi pǔ lè dì yī dìng lǜ shuō míng xíng xīng guǐ dào shì tuǒ yuán xíng de",
+  "pinyin2": "kai1 pu3 le4 di4 yi1 ding4 lü4 shuo1 ming2 xing2 xing1 gui3 dao4 shi4 tuo3 yuan2 xing2 de",
+  "translation": {
+    "en": "Kepler's first law states that planetary orbits are elliptical.",
+    "vi": "Định luật Kepler thứ nhất nói rằng quỹ đạo hành tinh có hình elip."
+  }
+}, {
+  "sentence": "开普勒第二定律描述了行星在轨道上的速度变化。",
+  "tags": ["astronomy"],
+  "pinyin1": "kāi pǔ lè dì èr dìng lǜ miáo shù le xíng xīng zài guǐ dào shàng de sù dù biàn huà",
+  "pinyin2": "kai1 pu3 le4 di4 er4 ding4 lü4 miao2 shu4 le xing2 xing1 zai4 gui3 dao4 shang4 de su4 du4 bian4 hua4",
+  "translation": {
+    "en": "Kepler's second law describes the speed variation of planets in their orbits.",
+    "vi": "Định luật Kepler thứ hai mô tả sự thay đổi tốc độ của các hành tinh trên quỹ đạo."
+  }
+}, {
+  "sentence": "开普勒第三定律建立了轨道周期和半长轴的关系。",
+  "tags": ["astronomy"],
+  "pinyin1": "kāi pǔ lè dì sān dìng lǜ jiàn lì le guǐ dào zhōu qī hé bàn cháng zhóu de guān xì",
+  "pinyin2": "kai1 pu3 le4 di4 san1 ding4 lü4 jian4 li4 le gui3 dao4 zhou1 qi1 he2 ban4 chang2 zhou2 de guan1 xi4",
+  "translation": {
+    "en": "Kepler's third law establishes the relationship between orbital period and semi-major axis.",
+    "vi": "Định luật Kepler thứ ba thiết lập mối quan hệ giữa chu kỳ quỹ đạo và bán trục lớn."
+  }
+}, {
+  "sentence": "椭圆的焦点位于长轴上。",
+  "tags": ["astronomy"],
+  "pinyin1": "tuǒ yuán de jiāo diǎn wèi yú cháng zhóu shàng",
+  "pinyin2": "tuo3 yuan2 de jiao1 dian3 wei4 yu2 chang2 zhou2 shang4",
+  "translation": {
+    "en": "The foci of an ellipse are located on the major axis.",
+    "vi": "Các tiêu điểm của hình elip nằm trên trục lớn."
+  }
+}, {
+  "sentence": "半长轴决定了椭圆轨道的大小。",
+  "tags": ["astronomy"],
+  "pinyin1": "bàn cháng zhóu jué dìng le tuǒ yuán guǐ dào de dà xiǎo",
+  "pinyin2": "ban4 chang2 zhou2 jue2 ding4 le tuo3 yuan2 gui3 dao4 de da4 xiao3",
+  "translation": {
+    "en": "The semi-major axis determines the size of an elliptical orbit.",
+    "vi": "Bán trục lớn quyết định kích thước của quỹ đạo elip."
+  }
+}, {
+  "sentence": "半短轴是椭圆轨道宽度的一半。",
+  "tags": ["astronomy"],
+  "pinyin1": "bàn duǎn zhóu shì tuǒ yuán guǐ dào kuān dù de yī bàn",
+  "pinyin2": "ban4 duan3 zhou2 shi4 tuo3 yuan2 gui3 dao4 kuan1 du4 de yi1 ban4",
+  "translation": {
+    "en": "The semi-minor axis is half the width of an elliptical orbit.",
+    "vi": "Bán trục nhỏ là một nửa chiều rộng của quỹ đạo elip."
+  }
+}, {
+  "sentence": "轨道周期是行星绕太阳一周所需的时间。",
+  "tags": ["astronomy"],
+  "pinyin1": "guǐ dào zhōu qī shì xíng xīng rào tài yáng yī zhōu suǒ xū de shí jiān",
+  "pinyin2": "gui3 dao4 zhou1 qi1 shi4 xing2 xing1 rao4 tai4 yang2 yi1 zhou1 suo3 xu1 de shi2 jian1",
+  "translation": {
+    "en": "Orbital period is the time it takes for a planet to orbit the sun once.",
+    "vi": "Chu kỳ quỹ đạo là thời gian hành tinh cần để quay quanh mặt trời một vòng."
+  }
+}, {
+  "sentence": "角动量是旋转运动的物理量。",
+  "tags": ["astronomy"],
+  "pinyin1": "jiǎo dòng liàng shì xuán zhuǎn yùn dòng de wù lǐ liàng",
+  "pinyin2": "jiao3 dong4 liang4 shi4 xuan2 zhuan3 yun4 dong4 de wu4 li3 liang4",
+  "translation": {
+    "en": "Angular momentum is a physical quantity of rotational motion.",
+    "vi": "Mômen động lượng là đại lượng vật lý của chuyển động quay."
+  }
+}, {
+  "sentence": "角动量守恒是物理学的基本原理。",
+  "tags": ["astronomy"],
+  "pinyin1": "jiǎo dòng liàng shǒu héng shì wù lǐ xué de jī běn yuán lǐ",
+  "pinyin2": "jiao3 dong4 liang4 shou3 heng2 shi4 wu4 li3 xue2 de ji1 ben3 yuan2 li3",
+  "translation": {
+    "en": "Conservation of angular momentum is a fundamental principle of physics.",
+    "vi": "Bảo toàn mômen động lượng là nguyên lý cơ bản của vật lý học."
+  }
+}, {
+  "sentence": "万有引力使行星围绕太阳运行。",
+  "tags": ["astronomy"],
+  "pinyin1": "wàn yǒu yǐn lì shǐ xíng xīng wéi rào tài yáng yùn xíng",
+  "pinyin2": "wan4 you3 yin3 li4 shi3 xing2 xing1 wei2 rao4 tai4 yang2 yun4 xing2",
+  "translation": {
+    "en": "Universal gravitation causes planets to orbit around the sun.",
+    "vi": "Vạn vật hấp dẫn khiến các hành tinh quay quanh mặt trời."
+  }
+}, {
+  "sentence": "万有引力定律描述了物体之间的引力关系。",
+  "tags": ["astronomy"],
+  "pinyin1": "wàn yǒu yǐn lì dìng lǜ miáo shù le wù tǐ zhī jiān de yǐn lì guān xì",
+  "pinyin2": "wan4 you3 yin3 li4 ding4 lü4 miao2 shu4 le wu4 ti3 zhi1 jian1 de yin3 li4 guan1 xi4",
+  "translation": {
+    "en": "The law of universal gravitation describes the gravitational relationship between objects.",
+    "vi": "Định luật vạn vật hấp dẫn mô tả mối quan hệ hấp dẫn giữa các vật thể."
+  }
+}, {
+  "sentence": "引力常数是一个重要的物理常数。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǐn lì cháng shù shì yī gè zhòng yào de wù lǐ cháng shù",
+  "pinyin2": "yin3 li4 chang2 shu4 shi4 yi1 ge4 zhong4 yao4 de wu4 li3 chang2 shu4",
+  "translation": {
+    "en": "The gravitational constant is an important physical constant.",
+    "vi": "Hằng số hấp dẫn là một hằng số vật lý quan trọng."
+  }
+}, {
+  "sentence": "逃逸速度是物体脱离引力场所需的最小速度。",
+  "tags": ["astronomy"],
+  "pinyin1": "táo yì sù dù shì wù tǐ tuō lí yǐn lì chǎng suǒ xū de zuì xiǎo sù dù",
+  "pinyin2": "tao2 yi4 su4 du4 shi4 wu4 ti3 tuo1 li2 yin3 li4 chang3 suo3 xu1 de zui4 xiao3 su4 du4",
+  "translation": {
+    "en": "Escape velocity is the minimum speed required for an object to escape a gravitational field.",
+    "vi": "Vận tốc vũ trụ cấp hai là vận tốc tối thiểu cần thiết để vật thể thoát khỏi trường hấp dẫn."
+  }
+}, {
+  "sentence": "第一宇宙速度是卫星绕地球运行所需的速度。",
+  "tags": ["astronomy"],
+  "pinyin1": "dì yī yǔ zhòu sù dù shì wèi xīng rào dì qiú yùn xíng suǒ xū de sù dù",
+  "pinyin2": "di4 yi1 yu3 zhou4 su4 du4 shi4 wei4 xing1 rao4 di4 qiu2 yun4 xing2 suo3 xu1 de su4 du4",
+  "translation": {
+    "en": "First cosmic velocity is the speed required for a satellite to orbit Earth.",
+    "vi": "Vận tốc vũ trụ cấp một là vận tốc cần thiết để vệ tinh quay quanh Trái Đất."
+  }
+}, {
+  "sentence": "第二宇宙速度是物体脱离地球引力所需的速度。",
+  "tags": ["astronomy"],
+  "pinyin1": "dì èr yǔ zhòu sù dù shì wù tǐ tuō lí dì qiú yǐn lì suǒ xū de sù dù",
+  "pinyin2": "di4 er4 yu3 zhou4 su4 du4 shi4 wu4 ti3 tuo1 li2 di4 qiu2 yin3 li4 suo3 xu1 de su4 du4",
+  "translation": {
+    "en": "Second cosmic velocity is the speed required for an object to escape Earth's gravity.",
+    "vi": "Vận tốc vũ trụ cấp hai là vận tốc cần thiết để vật thể thoát khỏi lực hấp dẫn của Trái Đất."
+  }
+}, {
+  "sentence": "第三宇宙速度是物体脱离太阳系所需的速度。",
+  "tags": ["astronomy"],
+  "pinyin1": "dì sān yǔ zhòu sù dù shì wù tǐ tuō lí tài yáng xì suǒ xū de sù dù",
+  "pinyin2": "di4 san1 yu3 zhou4 su4 du4 shi4 wu4 ti3 tuo1 li2 tai4 yang2 xi4 suo3 xu1 de su4 du4",
+  "translation": {
+    "en": "Third cosmic velocity is the speed required for an object to escape the solar system.",
+    "vi": "Vận tốc vũ trụ cấp ba là vận tốc cần thiết để vật thể thoát khỏi hệ mặt trời."
+  }
+}, {
+  "sentence": "拉格朗日点是引力平衡的特殊位置。",
+  "tags": ["astronomy"],
+  "pinyin1": "lā gé láng rì diǎn shì yǐn lì píng héng de tè shū wèi zhì",
+  "pinyin2": "la1 ge2 lang2 ri4 dian3 shi4 yin3 li4 ping2 heng2 de te4 shu1 wei4 zhi4",
+  "translation": {
+    "en": "Lagrangian points are special positions of gravitational balance.",
+    "vi": "Điểm Lagrange là các vị trí đặc biệt của cân bằng hấp dẫn."
+  }
+}, {
+  "sentence": "洛希极限是卫星不被潮汐力撕裂的最大距离。",
+  "tags": ["astronomy"],
+  "pinyin1": "luò xī jí xiàn shì wèi xīng bù bèi cháo xī lì sī liè de zuì dà jù lí",
+  "pinyin2": "luo4 xi1 ji2 xian4 shi4 wei4 xing1 bu4 bei4 chao2 xi1 li4 si1 lie4 de zui4 da4 ju4 li2",
+  "translation": {
+    "en": "The Roche limit is the maximum distance at which a satellite won't be torn apart by tidal forces.",
+    "vi": "Giới hạn Roche là khoảng cách tối đa mà vệ tinh không bị xé nát bởi lực thủy triều."
+  }
+}, {
+  "sentence": "月球被地球潮汐锁定，总是同一面朝向地球。",
+  "tags": ["astronomy"],
+  "pinyin1": "yuè qiú bèi dì qiú cháo xī suǒ dìng, zǒng shì tóng yī miàn cháo xiàng dì qiú",
+  "pinyin2": "yue4 qiu2 bei4 di4 qiu2 chao2 xi1 suo3 ding4, zong3 shi4 tong2 yi1 mian4 chao2 xiang4 di4 qiu2",
+  "translation": {
+    "en": "The moon is tidally locked to Earth, always showing the same face.",
+    "vi": "Mặt trăng bị khóa thủy triều bởi Trái Đất, luôn hướng cùng một mặt về phía Trái Đất."
+  }
+}, {
+  "sentence": "科学家发现了许多系外行星。",
+  "tags": ["astronomy"],
+  "pinyin1": "kē xué jiā fā xiàn le xǔ duō xì wài xíng xīng",
+  "pinyin2": "ke1 xue2 jia1 fa1 xian4 le xu3 duo1 xi4 wai4 xing2 xing1",
+  "translation": {
+    "en": "Scientists have discovered many exoplanets.",
+    "vi": "Các nhà khoa học đã phát hiện nhiều hành tinh ngoài hệ mặt trời."
+  }
+}, {
+  "sentence": "宜居带是行星表面可能存在液态水的区域。",
+  "tags": ["astronomy"],
+  "pinyin1": "yí jū dài shì xíng xīng biǎo miàn kě néng cún zài yè tài shuǐ de qū yù",
+  "pinyin2": "yi2 ju1 dai4 shi4 xing2 xing1 biao3 mian4 ke3 neng2 cun2 zai4 ye4 tai4 shui3 de qu1 yu4",
+  "translation": {
+    "en": "The habitable zone is a region where liquid water could exist on a planet's surface.",
+    "vi": "Vùng có thể ở được là vùng mà nước lỏng có thể tồn tại trên bề mặt hành tinh."
+  }
+}, {
+  "sentence": "类地行星主要由岩石组成。",
+  "tags": ["astronomy"],
+  "pinyin1": "lèi dì xíng xīng zhǔ yào yóu yán shí zǔ chéng",
+  "pinyin2": "lei4 di4 xing2 xing1 zhu3 yao4 you2 yan2 shi2 zu3 cheng2",
+  "translation": {
+    "en": "Terrestrial planets are mainly composed of rock.",
+    "vi": "Các hành tinh đất đá chủ yếu được cấu tạo từ đá."
+  }
+}, {
+  "sentence": "类木行星主要由气体组成。",
+  "tags": ["astronomy"],
+  "pinyin1": "lèi mù xíng xīng zhǔ yào yóu qì tǐ zǔ chéng",
+  "pinyin2": "lei4 mu4 xing2 xing1 zhu3 yao4 you2 qi4 ti3 zu3 cheng2",
+  "translation": {
+    "en": "Gas giants are mainly composed of gas.",
+    "vi": "Các hành tinh khí khổng lồ chủ yếu được cấu tạo từ khí."
+  }
+}, {
+  "sentence": "冥王星被重新分类为矮行星。",
+  "tags": ["astronomy"],
+  "pinyin1": "míng wáng xīng bèi chóng xīn fēn lèi wéi ǎi xíng xīng",
+  "pinyin2": "ming2 wang2 xing1 bei4 chong2 xin1 fen1 lei4 wei2 ai3 xing2 xing1",
+  "translation": {
+    "en": "Pluto was reclassified as a dwarf planet.",
+    "vi": "Sao Diêm Vương được phân loại lại thành hành tinh lùn."
+  }
+}, {
+  "sentence": "柯伊伯带位于海王星轨道之外。",
+  "tags": ["astronomy"],
+  "pinyin1": "kē yī bó dài wèi yú hǎi wáng xīng guǐ dào zhī wài",
+  "pinyin2": "ke1 yi1 bo2 dai4 wei4 yu2 hai3 wang2 xing1 gui3 dao4 zhi1 wai4",
+  "translation": {
+    "en": "The Kuiper Belt is located beyond Neptune's orbit.",
+    "vi": "Vành đai Kuiper nằm ngoài quỹ đạo của Sao Hải Vương."
+  }
+}, {
+  "sentence": "奥尔特云是太阳系最外层的区域。",
+  "tags": ["astronomy"],
+  "pinyin1": "ào ěr tè yún shì tài yáng xì zuì wài céng de qū yù",
+  "pinyin2": "ao4 er3 te4 yun2 shi4 tai4 yang2 xi4 zui4 wai4 ceng2 de qu1 yu4",
+  "translation": {
+    "en": "The Oort Cloud is the outermost region of the solar system.",
+    "vi": "Đám mây Oort là vùng ngoài cùng nhất của hệ mặt trời."
+  }
+}, {
+  "sentence": "原行星盘是行星形成的早期阶段。",
+  "tags": ["astronomy"],
+  "pinyin1": "yuán xíng xīng pán shì xíng xīng xíng chéng de zǎo qī jiē duàn",
+  "pinyin2": "yuan2 xing2 xing1 pan2 shi4 xing2 xing1 xing2 cheng2 de zao3 qi1 jie1 duan4",
+  "translation": {
+    "en": "Protoplanetary disks are early stages of planet formation.",
+    "vi": "Đĩa tiền hành tinh là giai đoạn đầu của quá trình hình thành hành tinh."
+  }
+}, {
+  "sentence": "吸积是物质聚集形成天体的过程。",
+  "tags": ["astronomy"],
+  "pinyin1": "xī jī shì wù zhì jù jí xíng chéng tiān tǐ de guò chéng",
+  "pinyin2": "xi1 ji1 shi4 wu4 zhi4 ju4 ji2 xing2 cheng2 tian1 ti3 de guo4 cheng2",
+  "translation": {
+    "en": "Accretion is the process by which matter accumulates to form celestial bodies.",
+    "vi": "Bồi tụ là quá trình vật chất tích tụ để hình thành thiên thể."
+  }
+}, {
+  "sentence": "吸积盘围绕黑洞旋转。",
+  "tags": ["astronomy"],
+  "pinyin1": "xī jī pán wéi rào hēi dòng xuán zhuǎn",
+  "pinyin2": "xi1 ji1 pan2 wei2 rao4 hei1 dong4 xuan2 zhuan3",
+  "translation": {
+    "en": "Accretion disks rotate around black holes.",
+    "vi": "Đĩa bồi tụ quay quanh lỗ đen."
+  }
+}, {
+  "sentence": "暗物质占宇宙物质的大部分。",
+  "tags": ["astronomy"],
+  "pinyin1": "àn wù zhì zhàn yǔ zhòu wù zhì de dà bù fèn",
+  "pinyin2": "an4 wu4 zhi4 zhan4 yu3 zhou4 wu4 zhi4 de da4 bu4 fen4",
+  "translation": {
+    "en": "Dark matter accounts for most of the matter in the universe.",
+    "vi": "Vật chất tối chiếm phần lớn vật chất trong vũ trụ."
+  }
+}, {
+  "sentence": "暗能量推动宇宙加速膨胀。",
+  "tags": ["astronomy"],
+  "pinyin1": "àn néng liàng tuī dòng yǔ zhòu jiā sù péng zhàng",
+  "pinyin2": "an4 neng2 liang4 tui1 dong4 yu3 zhou4 jia1 su4 peng2 zhang4",
+  "translation": {
+    "en": "Dark energy drives the accelerated expansion of the universe.",
+    "vi": "Năng lượng tối thúc đẩy sự giãn nở gia tốc của vũ trụ."
+  }
+}, {
+  "sentence": "宇宙膨胀是宇宙学的重要发现。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ zhòu péng zhàng shì yǔ zhòu xué de zhòng yào fā xiàn",
+  "pinyin2": "yu3 zhou4 peng2 zhang4 shi4 yu3 zhou4 xue2 de zhong4 yao4 fa1 xian4",
+  "translation": {
+    "en": "Cosmic expansion is an important discovery in cosmology.",
+    "vi": "Sự giãn nở của vũ trụ là phát hiện quan trọng trong vũ trụ học."
+  }
+}, {
+  "sentence": "哈勃常数描述了宇宙膨胀的速率。",
+  "tags": ["astronomy"],
+  "pinyin1": "hā bó cháng shù miáo shù le yǔ zhòu péng zhàng de sù lǜ",
+  "pinyin2": "ha1 bo2 chang2 shu4 miao2 shu4 le yu3 zhou4 peng2 zhang4 de su4 lü4",
+  "translation": {
+    "en": "The Hubble constant describes the rate of cosmic expansion.",
+    "vi": "Hằng số Hubble mô tả tốc độ giãn nở của vũ trụ."
+  }
+}, {
+  "sentence": "红移表明星系正在远离我们。",
+  "tags": ["astronomy"],
+  "pinyin1": "hóng yí biǎo míng xīng xì zhèng zài yuǎn lí wǒ men",
+  "pinyin2": "hong2 yi2 biao3 ming2 xing1 xi4 zheng4 zai4 yuan3 li2 wo3 men",
+  "translation": {
+    "en": "Redshift indicates that galaxies are moving away from us.",
+    "vi": "Dịch chuyển đỏ cho thấy các thiên hà đang rời xa chúng ta."
+  }
+}, {
+  "sentence": "蓝移表明天体正在靠近我们。",
+  "tags": ["astronomy"],
+  "pinyin1": "lán yí biǎo míng tiān tǐ zhèng zài kào jìn wǒ men",
+  "pinyin2": "lan2 yi2 biao3 ming2 tian1 ti3 zheng4 zai4 kao4 jin4 wo3 men",
+  "translation": {
+    "en": "Blueshift indicates that celestial bodies are moving toward us.",
+    "vi": "Dịch chuyển xanh cho thấy thiên thể đang tiến lại gần chúng ta."
+  }
+}, {
+  "sentence": "多普勒效应解释了红移和蓝移现象。",
+  "tags": ["astronomy"],
+  "pinyin1": "duō pǔ lè xiào yìng jiě shì le hóng yí hé lán yí xiàn xiàng",
+  "pinyin2": "duo1 pu3 le4 xiao4 ying4 jie3 shi4 le hong2 yi2 he2 lan2 yi2 xian4 xiang4",
+  "translation": {
+    "en": "The Doppler effect explains the phenomena of redshift and blueshift.",
+    "vi": "Hiệu ứng Doppler giải thích hiện tượng dịch chuyển đỏ và dịch chuyển xanh."
+  }
+}, {
+  "sentence": "大爆炸理论解释了宇宙的起源。",
+  "tags": ["astronomy"],
+  "pinyin1": "dà bào zhà lǐ lùn jiě shì le yǔ zhòu de qǐ yuán",
+  "pinyin2": "da4 bao4 zha4 li3 lun4 jie3 shi4 le yu3 zhou4 de qi3 yuan2",
+  "translation": {
+    "en": "The Big Bang theory explains the origin of the universe.",
+    "vi": "Thuyết Vụ Nổ Lớn giải thích nguồn gốc của vũ trụ."
+  }
+}, {
+  "sentence": "宇宙微波背景辐射是大爆炸的遗迹。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ zhòu wēi bō bèi jǐng fú shè shì dà bào zhà de yí jì",
+  "pinyin2": "yu3 zhou4 wei1 bo1 bei4 jing3 fu2 she4 shi4 da4 bao4 zha4 de yi2 ji4",
+  "translation": {
+    "en": "Cosmic microwave background radiation is a remnant of the Big Bang.",
+    "vi": "Bức xạ nền vi sóng vũ trụ là di tích của Vụ Nổ Lớn."
+  }
+}, {
+  "sentence": "宇宙年龄大约是138亿年。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ zhòu nián líng dà yuē shì yī bǎi sān shí bā yì nián",
+  "pinyin2": "yu3 zhou4 nian2 ling2 da4 yue1 shi4 yi1 bai3 san1 shi2 ba1 yi4 nian2",
+  "translation": {
+    "en": "The age of the universe is approximately 13.8 billion years.",
+    "vi": "Tuổi của vũ trụ khoảng 138 tỷ năm."
+  }
+}, {
+  "sentence": "视界是黑洞的边界。",
+  "tags": ["astronomy"],
+  "pinyin1": "shì jiè shì hēi dòng de biān jiè",
+  "pinyin2": "shi4 jie4 shi4 hei1 dong4 de bian1 jie4",
+  "translation": {
+    "en": "The event horizon is the boundary of a black hole.",
+    "vi": "Chân trời sự kiện là ranh giới của lỗ đen."
+  }
+}, {
+  "sentence": "史瓦西半径决定了黑洞的大小。",
+  "tags": ["astronomy"],
+  "pinyin1": "shǐ wǎ xī bàn jìng jué dìng le hēi dòng de dà xiǎo",
+  "pinyin2": "shi3 wa3 xi1 ban4 jing4 jue2 ding4 le hei1 dong4 de da4 xiao3",
+  "translation": {
+    "en": "The Schwarzschild radius determines the size of a black hole.",
+    "vi": "Bán kính Schwarzschild quyết định kích thước của lỗ đen."
+  }
+}, {
+  "sentence": "引力波是时空的涟漪。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǐn lì bō shì shí kōng de lián yī",
+  "pinyin2": "yin3 li4 bo1 shi4 shi2 kong1 de lian2 yi1",
+  "translation": {
+    "en": "Gravitational waves are ripples in spacetime.",
+    "vi": "Sóng hấp dẫn là những gợn sóng trong không-thời gian."
+  }
+}, {
+  "sentence": "脉冲星是快速旋转的中子星。",
+  "tags": ["astronomy"],
+  "pinyin1": "mài chōng xīng shì kuài sù xuán zhuǎn de zhōng zǐ xīng",
+  "pinyin2": "mai4 chong1 xing1 shi4 kuai4 su4 xuan2 zhuan3 de zhong1 zi3 xing1",
+  "translation": {
+    "en": "Pulsars are rapidly rotating neutron stars.",
+    "vi": "Sao xung là các sao neutron quay nhanh."
+  }
+}, {
+  "sentence": "类星体是非常明亮的天体。",
+  "tags": ["astronomy"],
+  "pinyin1": "lèi xīng tǐ shì fēi cháng míng liàng de tiān tǐ",
+  "pinyin2": "lei4 xing1 ti3 shi4 fei1 chang2 ming2 liang4 de tian1 ti3",
+  "translation": {
+    "en": "Quasars are extremely bright celestial bodies.",
+    "vi": "Chuẩn tinh là những thiên thể cực kỳ sáng."
+  }
+}, {
+  "sentence": "活动星系核释放出巨大的能量。",
+  "tags": ["astronomy"],
+  "pinyin1": "huó dòng xīng xì hé shì fàng chū jù dà de néng liàng",
+  "pinyin2": "huo2 dong4 xing1 xi4 he2 shi4 fang4 chu1 ju4 da4 de neng2 liang4",
+  "translation": {
+    "en": "Active galactic nuclei release enormous amounts of energy.",
+    "vi": "Hạt nhân thiên hà hoạt động giải phóng lượng năng lượng khổng lồ."
+  }
+}, {
+  "sentence": "星系团包含数百个星系。",
+  "tags": ["astronomy"],
+  "pinyin1": "xīng xì tuán bāo hán shù bǎi gè xīng xì",
+  "pinyin2": "xing1 xi4 tuan2 bao1 han2 shu4 bai3 ge4 xing1 xi4",
+  "translation": {
+    "en": "Galaxy clusters contain hundreds of galaxies.",
+    "vi": "Cụm thiên hà chứa hàng trăm thiên hà."
+  }
+}, {
+  "sentence": "超星系团是宇宙中最大的结构之一。",
+  "tags": ["astronomy"],
+  "pinyin1": "chāo xīng xì tuán shì yǔ zhòu zhōng zuì dà de jié gòu zhī yī",
+  "pinyin2": "chao1 xing1 xi4 tuan2 shi4 yu3 zhou4 zhong1 zui4 da4 de jie2 gou4 zhi1 yi1",
+  "translation": {
+    "en": "Superclusters are among the largest structures in the universe.",
+    "vi": "Siêu cụm thiên hà là một trong những cấu trúc lớn nhất trong vũ trụ."
+  }
+}, {
+  "sentence": "大尺度结构显示了宇宙的组织方式。",
+  "tags": ["astronomy"],
+  "pinyin1": "dà chǐ dù jié gòu xiǎn shì le yǔ zhòu de zǔ zhī fāng shì",
+  "pinyin2": "da4 chi3 du4 jie2 gou4 xian3 shi4 le yu3 zhou4 de zu3 zhi1 fang1 shi4",
+  "translation": {
+    "en": "Large-scale structures show how the universe is organized.",
+    "vi": "Cấu trúc quy mô lớn cho thấy cách vũ trụ được tổ chức."
+  }
+}, {
+  "sentence": "宇宙网连接了星系和星系团。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ zhòu wǎng lián jiē le xīng xì hé xīng xì tuán",
+  "pinyin2": "yu3 zhou4 wang3 lian2 jie1 le xing1 xi4 he2 xing1 xi4 tuan2",
+  "translation": {
+    "en": "The cosmic web connects galaxies and galaxy clusters.",
+    "vi": "Mạng lưới vũ trụ kết nối các thiên hà và cụm thiên hà."
+  }
+}, {
+  "sentence": "宇宙空洞是几乎没有星系的巨大区域。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ zhòu kōng dòng shì jī hū méi yǒu xīng xì de jù dà qū yù",
+  "pinyin2": "yu3 zhou4 kong1 dong4 shi4 ji1 hu1 mei2 you3 xing1 xi4 de ju4 da4 qu1 yu4",
+  "translation": {
+    "en": "Cosmic voids are huge regions with almost no galaxies.",
+    "vi": "Khoảng trống vũ trụ là những vùng rộng lớn hầu như không có thiên hà."
+  }
+}, {
+  "sentence": "宇宙长城是已知最大的宇宙结构。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ zhòu cháng chéng shì yǐ zhī zuì dà de yǔ zhòu jié gòu",
+  "pinyin2": "yu3 zhou4 chang2 cheng2 shi4 yi3 zhi1 zui4 da4 de yu3 zhou4 jie2 gou4",
+  "translation": {
+    "en": "The Great Wall is the largest known cosmic structure.",
+    "vi": "Bức tường lớn là cấu trúc vũ trụ lớn nhất từng được biết đến."
+  }
+}, {
+  "sentence": "观测宇宙学通过观察来研究宇宙。",
+  "tags": ["astronomy"],
+  "pinyin1": "guān cè yǔ zhòu xué tōng guò guān chá lái yán jiū yǔ zhòu",
+  "pinyin2": "guan1 ce4 yu3 zhou4 xue2 tong1 guo4 guan1 cha2 lai2 yan2 jiu1 yu3 zhou4",
+  "translation": {
+    "en": "Observational cosmology studies the universe through observation.",
+    "vi": "Vũ trụ học quan sát nghiên cứu vũ trụ thông qua quan sát."
+  }
+}, {
+  "sentence": "理论宇宙学用数学模型描述宇宙。",
+  "tags": ["astronomy"],
+  "pinyin1": "lǐ lùn yǔ zhòu xué yòng shù xué mó xíng miáo shù yǔ zhòu",
+  "pinyin2": "li3 lun4 yu3 zhou4 xue2 yong4 shu4 xue2 mo2 xing2 miao2 shu4 yu3 zhou4",
+  "translation": {
+    "en": "Theoretical cosmology uses mathematical models to describe the universe.",
+    "vi": "Vũ trụ học lý thuyết sử dụng mô hình toán học để mô tả vũ trụ."
+  }
+}, {
+  "sentence": "宇宙学原理假设宇宙是均匀和各向同性的。",
+  "tags": ["astronomy"],
+  "pinyin1": "yǔ zhòu xué yuán lǐ jiǎ shè yǔ zhòu shì jūn yún hé gè xiàng tóng xìng de",
+  "pinyin2": "yu3 zhou4 xue2 yuan2 li3 jia3 she4 yu3 zhou4 shi4 jun1 yun2 he2 ge4 xiang4 tong2 xing4 de",
+  "translation": {
+    "en": "The cosmological principle assumes the universe is homogeneous and isotropic.",
+    "vi": "Nguyên lý vũ trụ học giả định vũ trụ là đồng nhất và đẳng hướng."
+  }
+}, {
+  "sentence": "各向同性意味着宇宙在所有方向上都是相同的。",
+  "tags": ["astronomy"],
+  "pinyin1": "gè xiàng tóng xìng yì wèi zhe yǔ zhòu zài suǒ yǒu fāng xiàng shàng dōu shì xiāng tóng de",
+  "pinyin2": "ge4 xiang4 tong2 xing4 yi4 wei4 zhe yu3 zhou4 zai4 suo3 you3 fang1 xiang4 shang4 dou1 shi4 xiang1 tong2 de",
+  "translation": {
+    "en": "Isotropy means the universe is the same in all directions.",
+    "vi": "Tính đẳng hướng có nghĩa là vũ trụ giống nhau ở mọi hướng."
+  }
+}, {
+  "sentence": "各向异性表示宇宙在不同方向上存在差异。",
+  "tags": ["astronomy"],
+  "pinyin1": "gè xiàng yì xìng biǎo shì yǔ zhòu zài bù tóng fāng xiàng shàng cún zài chā yì",
+  "pinyin2": "ge4 xiang4 yi4 xing4 biao3 shi4 yu3 zhou4 zai4 bu4 tong2 fang1 xiang4 shang4 cun2 zai4 cha1 yi4",
+  "translation": {
+    "en": "Anisotropy indicates that the universe differs in different directions.",
+    "vi": "Tính dị hướng cho thấy vũ trụ khác nhau ở các hướng khác nhau."
+  }
+}]

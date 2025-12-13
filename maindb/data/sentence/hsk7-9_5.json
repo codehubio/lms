@@ -1,0 +1,83 @@
+[{
+  "sentence": "系统响应速度很快。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "xì tǒng xiǎng yìng sù dù hěn kuài",
+  "pinyin2": "xi4 to3ng xia3ng yi4ng su4 du4 hen3 kua4i",
+  "translation": {
+    "en": "The system response speed is very fast.",
+    "vi": "Tốc độ phản hồi của hệ thống rất nhanh."
+  }
+}, {
+  "sentence": "这篇文章引用了权威资料。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè piān wén zhāng yǐn yòng le quán wēi zī liào",
+  "pinyin2": "zhe4 pia1n we2n zha1ng yi3n yo4ng le qua2n we1i zi1 lia4o",
+  "translation": {
+    "en": "This article cites authoritative sources.",
+    "vi": "Bài viết này trích dẫn các nguồn có thẩm quyền."
+  }
+}, {
+  "sentence": "与其等待，不如主动行动。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "yǔ qí děng dài, bù rú zhǔ dòng xíng dòng",
+  "pinyin2": "yu3 qi2 de3ng da4i, bu4 ru2 zhu3 do4ng xi2ng do4ng",
+  "translation": {
+    "en": "Rather than waiting, it's better to take action.",
+    "vi": "Thà chờ đợi, còn hơn là chủ động hành động."
+  }
+}, {
+  "sentence": "他工作太忙，以致没有时间休息。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā gōng zuò tài máng, yǐ zhì méi yǒu shí jiān xiū xí",
+  "pinyin2": "ta1 go1ng zuo4 ta4i ma2ng, yi3 zhi4 mei2 yo3u shi2 jia1n xiu1 xi2",
+  "translation": {
+    "en": "He is too busy with work, so much so that he has no time to rest.",
+    "vi": "Anh ấy công việc quá bận, đến nỗi không có thời gian nghỉ ngơi."
+  }
+}, {
+  "sentence": "他太累了，以至于站都站不稳。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā tài lèi le, yǐ zhì yú zhàn dōu zhàn bù wěn",
+  "pinyin2": "ta1 ta4i le4i le, yi3 zhi4 yu2 zha4n dou1 zha4n bu4 we3n",
+  "translation": {
+    "en": "He is so tired that he can't even stand steadily.",
+    "vi": "Anh ấy quá mệt, đến mức đứng cũng không vững."
+  }
+},   {
+    "sentence": "椰子汁很好喝。",
+    "tags": ["HSK7-9"],
+    "pinyin1": "yē zi zhī hěn hǎo hē",
+    "pinyin2": "ye1 zi zhi1 hen3 ha3o he1",
+    "translation": {
+      "en": "Coconut water is very delicious.",
+      "vi": "Nước dừa rất ngon."
+    }
+  }, {
+    "sentence": "这块陨石来自外太空。",
+    "tags": ["HSK7-9"],
+    "pinyin1": "zhè kuài yǔn shí lái zì wài tài kōng",
+    "pinyin2": "zhe4 kuai4 yun3 shi2 lai2 zi4 wai4 tai4 kong1",
+    "translation": {
+      "en": "This meteorite came from outer space.",
+      "vi": "Thiên thạch này đến từ ngoài không gian."
+    }
+  }, {
+    "sentence": "我喜欢观察夜空中不同的星座。",
+    "tags": ["HSK7-9"],
+    "pinyin1": "wǒ xǐ huān guān chá yè kōng zhōng bù tóng de xīng zuò",
+    "pinyin2": "wo3 xi3 huan1 guan1 cha2 ye4 kong1 zhong1 bu4 tong2 de xing1 zuo4",
+    "translation": {
+      "en": "I like to observe different constellations in the night sky.",
+      "vi": "Tôi thích quan sát các chòm sao khác nhau trên bầu trời đêm."
+    }
+  }, {
+    "sentence": "他用望远镜观察远处的星星。",
+    "tags": ["HSK7-9"],
+    "pinyin1": "tā yòng wàng yuǎn jìng guān chá yuǎn chù de xīng xīng",
+    "pinyin2": "ta1 yong4 wang4 yuan3 jing4 guan1 cha2 yuan3 chu4 de xing1 xing1",
+    "translation": {
+      "en": "He uses a telescope to observe distant stars.",
+      "vi": "Anh ấy dùng kính thiên văn để quan sát những ngôi sao xa xôi."
+    }
+  }]
+

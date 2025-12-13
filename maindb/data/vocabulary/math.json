@@ -1,0 +1,3002 @@
+[
+  {
+    "tags": ["HSK1", "math"],
+    "word": "加",
+    "description": {
+      "en": "To add, addition",
+      "vi": "Cộng, phép cộng",
+      "zh": "加，加法"
+    },
+    "pinyin1": "jiā",
+    "pinyin2": "jia1",
+    "translation": {
+      "en": "add, addition",
+      "vi": "cộng, phép cộng"
+    }
+  },
+  {
+    "tags": ["HSK1", "math"],
+    "word": "减",
+    "description": {
+      "en": "To subtract, subtraction",
+      "vi": "Trừ, phép trừ",
+      "zh": "减，减法"
+    },
+    "pinyin1": "jiǎn",
+    "pinyin2": "jian3",
+    "translation": {
+      "en": "subtract, subtraction",
+      "vi": "trừ, phép trừ"
+    }
+  },
+  {
+    "tags": ["HSK2", "math"],
+    "word": "乘",
+    "description": {
+      "en": "To multiply, multiplication",
+      "vi": "Nhân, phép nhân",
+      "zh": "乘，乘法"
+    },
+    "pinyin1": "chéng",
+    "pinyin2": "cheng2",
+    "translation": {
+      "en": "multiply, multiplication",
+      "vi": "nhân, phép nhân"
+    }
+  },
+  {
+    "tags": ["HSK2", "math"],
+    "word": "除",
+    "description": {
+      "en": "To divide, division",
+      "vi": "Chia, phép chia",
+      "zh": "除，除法"
+    },
+    "pinyin1": "chú",
+    "pinyin2": "chu2",
+    "translation": {
+      "en": "divide, division",
+      "vi": "chia, phép chia"
+    }
+  },
+  {
+    "tags": ["HSK1", "math"],
+    "word": "等于",
+    "description": {
+      "en": "Equal to, equals",
+      "vi": "Bằng",
+      "zh": "等于"
+    },
+    "pinyin1": "děng yú",
+    "pinyin2": "deng3 yu2",
+    "translation": {
+      "en": "equal to, equals",
+      "vi": "bằng"
+    }
+  },
+  {
+    "tags": ["HSK2", "math"],
+    "word": "数字",
+    "description": {
+      "en": "Number, digit",
+      "vi": "Số, chữ số",
+      "zh": "数字"
+    },
+    "pinyin1": "shù zì",
+    "pinyin2": "shu4 zi4",
+    "translation": {
+      "en": "number, digit",
+      "vi": "số, chữ số"
+    }
+  },
+  {
+    "tags": ["HSK3", "math"],
+    "word": "数学",
+    "description": {
+      "en": "Mathematics, math",
+      "vi": "Toán học",
+      "zh": "数学"
+    },
+    "pinyin1": "shù xué",
+    "pinyin2": "shu4 xue2",
+    "translation": {
+      "en": "mathematics, math",
+      "vi": "toán học"
+    }
+  },
+  {
+    "tags": ["HSK3", "math"],
+    "word": "计算",
+    "description": {
+      "en": "To calculate, calculation",
+      "vi": "Tính toán",
+      "zh": "计算"
+    },
+    "pinyin1": "jì suàn",
+    "pinyin2": "ji4 suan4",
+    "translation": {
+      "en": "calculate, calculation",
+      "vi": "tính toán"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "公式",
+    "description": {
+      "en": "Formula",
+      "vi": "Công thức",
+      "zh": "公式"
+    },
+    "pinyin1": "gōng shì",
+    "pinyin2": "gong1 shi4",
+    "translation": {
+      "en": "formula",
+      "vi": "công thức"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "方程",
+    "description": {
+      "en": "Equation",
+      "vi": "Phương trình",
+      "zh": "方程"
+    },
+    "pinyin1": "fāng chéng",
+    "pinyin2": "fang1 cheng2",
+    "translation": {
+      "en": "equation",
+      "vi": "phương trình"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "几何",
+    "description": {
+      "en": "Geometry",
+      "vi": "Hình học",
+      "zh": "几何"
+    },
+    "pinyin1": "jǐ hé",
+    "pinyin2": "ji3 he2",
+    "translation": {
+      "en": "geometry",
+      "vi": "hình học"
+    }
+  },
+  {
+    "tags": ["HSK3", "math"],
+    "word": "圆",
+    "description": {
+      "en": "Circle",
+      "vi": "Hình tròn",
+      "zh": "圆"
+    },
+    "pinyin1": "yuán",
+    "pinyin2": "yuan2",
+    "translation": {
+      "en": "circle",
+      "vi": "hình tròn"
+    }
+  },
+  {
+    "tags": ["HSK3", "math"],
+    "word": "三角形",
+    "description": {
+      "en": "Triangle",
+      "vi": "Tam giác",
+      "zh": "三角形"
+    },
+    "pinyin1": "sān jiǎo xíng",
+    "pinyin2": "san1 jiao3 xing2",
+    "translation": {
+      "en": "triangle",
+      "vi": "tam giác"
+    }
+  },
+  {
+    "tags": ["HSK3", "math"],
+    "word": "正方形",
+    "description": {
+      "en": "Square",
+      "vi": "Hình vuông",
+      "zh": "正方形"
+    },
+    "pinyin1": "zhèng fāng xíng",
+    "pinyin2": "zheng4 fang1 xing2",
+    "translation": {
+      "en": "square",
+      "vi": "hình vuông"
+    }
+  },
+  {
+    "tags": ["HSK3", "math"],
+    "word": "长方形",
+    "description": {
+      "en": "Rectangle",
+      "vi": "Hình chữ nhật",
+      "zh": "长方形"
+    },
+    "pinyin1": "cháng fāng xíng",
+    "pinyin2": "chang2 fang1 xing2",
+    "translation": {
+      "en": "rectangle",
+      "vi": "hình chữ nhật"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "角度",
+    "description": {
+      "en": "Angle",
+      "vi": "Góc",
+      "zh": "角度"
+    },
+    "pinyin1": "jiǎo dù",
+    "pinyin2": "jiao3 du4",
+    "translation": {
+      "en": "angle",
+      "vi": "góc"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "面积",
+    "description": {
+      "en": "Area",
+      "vi": "Diện tích",
+      "zh": "面积"
+    },
+    "pinyin1": "miàn jī",
+    "pinyin2": "mian4 ji1",
+    "translation": {
+      "en": "area",
+      "vi": "diện tích"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "体积",
+    "description": {
+      "en": "Volume",
+      "vi": "Thể tích",
+      "zh": "体积"
+    },
+    "pinyin1": "tǐ jī",
+    "pinyin2": "ti3 ji1",
+    "translation": {
+      "en": "volume",
+      "vi": "thể tích"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "周长",
+    "description": {
+      "en": "Perimeter",
+      "vi": "Chu vi",
+      "zh": "周长"
+    },
+    "pinyin1": "zhōu cháng",
+    "pinyin2": "zhou1 chang2",
+    "translation": {
+      "en": "perimeter",
+      "vi": "chu vi"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "代数",
+    "description": {
+      "en": "Algebra",
+      "vi": "Đại số",
+      "zh": "代数"
+    },
+    "pinyin1": "dài shù",
+    "pinyin2": "dai4 shu4",
+    "translation": {
+      "en": "algebra",
+      "vi": "đại số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "微积分",
+    "description": {
+      "en": "Calculus",
+      "vi": "Giải tích",
+      "zh": "微积分"
+    },
+    "pinyin1": "wēi jī fēn",
+    "pinyin2": "wei1 ji1 fen1",
+    "translation": {
+      "en": "calculus",
+      "vi": "giải tích"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "统计",
+    "description": {
+      "en": "Statistics",
+      "vi": "Thống kê",
+      "zh": "统计"
+    },
+    "pinyin1": "tǒng jì",
+    "pinyin2": "tong3 ji4",
+    "translation": {
+      "en": "statistics",
+      "vi": "thống kê"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "分数",
+    "description": {
+      "en": "Fraction",
+      "vi": "Phân số",
+      "zh": "分数"
+    },
+    "pinyin1": "fēn shù",
+    "pinyin2": "fen1 shu4",
+    "translation": {
+      "en": "fraction",
+      "vi": "phân số"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "小数",
+    "description": {
+      "en": "Decimal",
+      "vi": "Số thập phân",
+      "zh": "小数"
+    },
+    "pinyin1": "xiǎo shù",
+    "pinyin2": "xiao3 shu4",
+    "translation": {
+      "en": "decimal",
+      "vi": "số thập phân"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "整数",
+    "description": {
+      "en": "Integer, whole number",
+      "vi": "Số nguyên",
+      "zh": "整数"
+    },
+    "pinyin1": "zhěng shù",
+    "pinyin2": "zheng3 shu4",
+    "translation": {
+      "en": "integer, whole number",
+      "vi": "số nguyên"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "负数",
+    "description": {
+      "en": "Negative number",
+      "vi": "Số âm",
+      "zh": "负数"
+    },
+    "pinyin1": "fù shù",
+    "pinyin2": "fu4 shu4",
+    "translation": {
+      "en": "negative number",
+      "vi": "số âm"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "正数",
+    "description": {
+      "en": "Positive number",
+      "vi": "Số dương",
+      "zh": "正数"
+    },
+    "pinyin1": "zhèng shù",
+    "pinyin2": "zheng4 shu4",
+    "translation": {
+      "en": "positive number",
+      "vi": "số dương"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "变量",
+    "description": {
+      "en": "Variable",
+      "vi": "Biến số",
+      "zh": "变量"
+    },
+    "pinyin1": "biàn liàng",
+    "pinyin2": "bian4 liang4",
+    "translation": {
+      "en": "variable",
+      "vi": "biến số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "常数",
+    "description": {
+      "en": "Constant",
+      "vi": "Hằng số",
+      "zh": "常数"
+    },
+    "pinyin1": "cháng shù",
+    "pinyin2": "chang2 shu4",
+    "translation": {
+      "en": "constant",
+      "vi": "hằng số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "函数",
+    "description": {
+      "en": "Function",
+      "vi": "Hàm số",
+      "zh": "函数"
+    },
+    "pinyin1": "hán shù",
+    "pinyin2": "han2 shu4",
+    "translation": {
+      "en": "function",
+      "vi": "hàm số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "导数",
+    "description": {
+      "en": "Derivative",
+      "vi": "Đạo hàm",
+      "zh": "导数"
+    },
+    "pinyin1": "dǎo shù",
+    "pinyin2": "dao3 shu4",
+    "translation": {
+      "en": "derivative",
+      "vi": "đạo hàm"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "积分",
+    "description": {
+      "en": "Integral",
+      "vi": "Tích phân",
+      "zh": "积分"
+    },
+    "pinyin1": "jī fēn",
+    "pinyin2": "ji1 fen1",
+    "translation": {
+      "en": "integral",
+      "vi": "tích phân"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "半径",
+    "description": {
+      "en": "Radius",
+      "vi": "Bán kính",
+      "zh": "半径"
+    },
+    "pinyin1": "bàn jìng",
+    "pinyin2": "ban4 jing4",
+    "translation": {
+      "en": "radius",
+      "vi": "bán kính"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "直径",
+    "description": {
+      "en": "Diameter",
+      "vi": "Đường kính",
+      "zh": "直径"
+    },
+    "pinyin1": "zhí jìng",
+    "pinyin2": "zhi2 jing4",
+    "translation": {
+      "en": "diameter",
+      "vi": "đường kính"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "圆周",
+    "description": {
+      "en": "Circumference",
+      "vi": "Chu vi hình tròn",
+      "zh": "圆周"
+    },
+    "pinyin1": "yuán zhōu",
+    "pinyin2": "yuan2 zhou1",
+    "translation": {
+      "en": "circumference",
+      "vi": "chu vi hình tròn"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "平行",
+    "description": {
+      "en": "Parallel",
+      "vi": "Song song",
+      "zh": "平行"
+    },
+    "pinyin1": "píng xíng",
+    "pinyin2": "ping2 xing2",
+    "translation": {
+      "en": "parallel",
+      "vi": "song song"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "垂直",
+    "description": {
+      "en": "Perpendicular, vertical",
+      "vi": "Vuông góc",
+      "zh": "垂直"
+    },
+    "pinyin1": "chuí zhí",
+    "pinyin2": "chui2 zhi2",
+    "translation": {
+      "en": "perpendicular, vertical",
+      "vi": "vuông góc"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "立方体",
+    "description": {
+      "en": "Cube",
+      "vi": "Hình lập phương",
+      "zh": "立方体"
+    },
+    "pinyin1": "lì fāng tǐ",
+    "pinyin2": "li4 fang1 ti3",
+    "translation": {
+      "en": "cube",
+      "vi": "hình lập phương"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "圆柱",
+    "description": {
+      "en": "Cylinder",
+      "vi": "Hình trụ",
+      "zh": "圆柱"
+    },
+    "pinyin1": "yuán zhù",
+    "pinyin2": "yuan2 zhu4",
+    "translation": {
+      "en": "cylinder",
+      "vi": "hình trụ"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "圆锥",
+    "description": {
+      "en": "Cone",
+      "vi": "Hình nón",
+      "zh": "圆锥"
+    },
+    "pinyin1": "yuán zhuī",
+    "pinyin2": "yuan2 zhui1",
+    "translation": {
+      "en": "cone",
+      "vi": "hình nón"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "球",
+    "description": {
+      "en": "Sphere",
+      "vi": "Hình cầu",
+      "zh": "球"
+    },
+    "pinyin1": "qiú",
+    "pinyin2": "qiu2",
+    "translation": {
+      "en": "sphere",
+      "vi": "hình cầu"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "概率",
+    "description": {
+      "en": "Probability",
+      "vi": "Xác suất",
+      "zh": "概率"
+    },
+    "pinyin1": "gài lǜ",
+    "pinyin2": "gai4 lv4",
+    "translation": {
+      "en": "probability",
+      "vi": "xác suất"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "平均值",
+    "description": {
+      "en": "Average, mean",
+      "vi": "Giá trị trung bình",
+      "zh": "平均值"
+    },
+    "pinyin1": "píng jūn zhí",
+    "pinyin2": "ping2 jun1 zhi2",
+    "translation": {
+      "en": "average, mean",
+      "vi": "giá trị trung bình"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "中位数",
+    "description": {
+      "en": "Median",
+      "vi": "Trung vị",
+      "zh": "中位数"
+    },
+    "pinyin1": "zhōng wèi shù",
+    "pinyin2": "zhong1 wei4 shu4",
+    "translation": {
+      "en": "median",
+      "vi": "trung vị"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "众数",
+    "description": {
+      "en": "Mode",
+      "vi": "Mốt",
+      "zh": "众数"
+    },
+    "pinyin1": "zhòng shù",
+    "pinyin2": "zhong4 shu4",
+    "translation": {
+      "en": "mode",
+      "vi": "mốt"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "标准差",
+    "description": {
+      "en": "Standard deviation",
+      "vi": "Độ lệch chuẩn",
+      "zh": "标准差"
+    },
+    "pinyin1": "biāo zhǔn chā",
+    "pinyin2": "biao1 zhun3 cha1",
+    "translation": {
+      "en": "standard deviation",
+      "vi": "độ lệch chuẩn"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "百分比",
+    "description": {
+      "en": "Percentage",
+      "vi": "Phần trăm",
+      "zh": "百分比"
+    },
+    "pinyin1": "bǎi fēn bǐ",
+    "pinyin2": "bai3 fen1 bi3",
+    "translation": {
+      "en": "percentage",
+      "vi": "phần trăm"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "比例",
+    "description": {
+      "en": "Ratio, proportion",
+      "vi": "Tỷ lệ",
+      "zh": "比例"
+    },
+    "pinyin1": "bǐ lì",
+    "pinyin2": "bi3 li4",
+    "translation": {
+      "en": "ratio, proportion",
+      "vi": "tỷ lệ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "矩阵",
+    "description": {
+      "en": "Matrix",
+      "vi": "Ma trận",
+      "zh": "矩阵"
+    },
+    "pinyin1": "jǔ zhèn",
+    "pinyin2": "ju3 zhen4",
+    "translation": {
+      "en": "matrix",
+      "vi": "ma trận"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "向量",
+    "description": {
+      "en": "Vector",
+      "vi": "Vectơ",
+      "zh": "向量"
+    },
+    "pinyin1": "xiàng liàng",
+    "pinyin2": "xiang4 liang4",
+    "translation": {
+      "en": "vector",
+      "vi": "vectơ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "坐标",
+    "description": {
+      "en": "Coordinate",
+      "vi": "Tọa độ",
+      "zh": "坐标"
+    },
+    "pinyin1": "zuò biāo",
+    "pinyin2": "zuo4 biao1",
+    "translation": {
+      "en": "coordinate",
+      "vi": "tọa độ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "极限",
+    "description": {
+      "en": "Limit",
+      "vi": "Giới hạn",
+      "zh": "极限"
+    },
+    "pinyin1": "jí xiàn",
+    "pinyin2": "ji2 xian4",
+    "translation": {
+      "en": "limit",
+      "vi": "giới hạn"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "微分",
+    "description": {
+      "en": "Differential",
+      "vi": "Vi phân",
+      "zh": "微分"
+    },
+    "pinyin1": "wēi fēn",
+    "pinyin2": "wei1 fen1",
+    "translation": {
+      "en": "differential",
+      "vi": "vi phân"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "级数",
+    "description": {
+      "en": "Series",
+      "vi": "Chuỗi số",
+      "zh": "级数"
+    },
+    "pinyin1": "jí shù",
+    "pinyin2": "ji2 shu4",
+    "translation": {
+      "en": "series",
+      "vi": "chuỗi số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "收敛",
+    "description": {
+      "en": "Convergence",
+      "vi": "Hội tụ",
+      "zh": "收敛"
+    },
+    "pinyin1": "shōu liǎn",
+    "pinyin2": "shou1 lian3",
+    "translation": {
+      "en": "convergence",
+      "vi": "hội tụ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "发散",
+    "description": {
+      "en": "Divergence",
+      "vi": "Phân kỳ",
+      "zh": "发散"
+    },
+    "pinyin1": "fā sàn",
+    "pinyin2": "fa1 san4",
+    "translation": {
+      "en": "divergence",
+      "vi": "phân kỳ"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "平方",
+    "description": {
+      "en": "Square (power of 2)",
+      "vi": "Bình phương",
+      "zh": "平方"
+    },
+    "pinyin1": "píng fāng",
+    "pinyin2": "ping2 fang1",
+    "translation": {
+      "en": "square",
+      "vi": "bình phương"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "立方",
+    "description": {
+      "en": "Cube (power of 3)",
+      "vi": "Lập phương",
+      "zh": "立方"
+    },
+    "pinyin1": "lì fāng",
+    "pinyin2": "li4 fang1",
+    "translation": {
+      "en": "cube",
+      "vi": "lập phương"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "根号",
+    "description": {
+      "en": "Square root symbol",
+      "vi": "Căn bậc hai",
+      "zh": "根号"
+    },
+    "pinyin1": "gēn hào",
+    "pinyin2": "gen1 hao4",
+    "translation": {
+      "en": "square root",
+      "vi": "căn bậc hai"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "指数",
+    "description": {
+      "en": "Exponent, index",
+      "vi": "Số mũ",
+      "zh": "指数"
+    },
+    "pinyin1": "zhǐ shù",
+    "pinyin2": "zhi3 shu4",
+    "translation": {
+      "en": "exponent, index",
+      "vi": "số mũ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "对数",
+    "description": {
+      "en": "Logarithm",
+      "vi": "Lôgarit",
+      "zh": "对数"
+    },
+    "pinyin1": "duì shù",
+    "pinyin2": "dui4 shu4",
+    "translation": {
+      "en": "logarithm",
+      "vi": "lôgarit"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "奇数",
+    "description": {
+      "en": "Odd number",
+      "vi": "Số lẻ",
+      "zh": "奇数"
+    },
+    "pinyin1": "jī shù",
+    "pinyin2": "ji1 shu4",
+    "translation": {
+      "en": "odd number",
+      "vi": "số lẻ"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "偶数",
+    "description": {
+      "en": "Even number",
+      "vi": "Số chẵn",
+      "zh": "偶数"
+    },
+    "pinyin1": "ǒu shù",
+    "pinyin2": "ou3 shu4",
+    "translation": {
+      "en": "even number",
+      "vi": "số chẵn"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "质数",
+    "description": {
+      "en": "Prime number",
+      "vi": "Số nguyên tố",
+      "zh": "质数"
+    },
+    "pinyin1": "zhì shù",
+    "pinyin2": "zhi4 shu4",
+    "translation": {
+      "en": "prime number",
+      "vi": "số nguyên tố"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "因数",
+    "description": {
+      "en": "Factor",
+      "vi": "Thừa số",
+      "zh": "因数"
+    },
+    "pinyin1": "yīn shù",
+    "pinyin2": "yin1 shu4",
+    "translation": {
+      "en": "factor",
+      "vi": "thừa số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "倍数",
+    "description": {
+      "en": "Multiple",
+      "vi": "Bội số",
+      "zh": "倍数"
+    },
+    "pinyin1": "bèi shù",
+    "pinyin2": "bei4 shu4",
+    "translation": {
+      "en": "multiple",
+      "vi": "bội số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "最大公约数",
+    "description": {
+      "en": "Greatest common divisor",
+      "vi": "Ước chung lớn nhất",
+      "zh": "最大公约数"
+    },
+    "pinyin1": "zuì dà gōng yuē shù",
+    "pinyin2": "zui4 da4 gong1 yue1 shu4",
+    "translation": {
+      "en": "greatest common divisor",
+      "vi": "ước chung lớn nhất"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "最小公倍数",
+    "description": {
+      "en": "Least common multiple",
+      "vi": "Bội chung nhỏ nhất",
+      "zh": "最小公倍数"
+    },
+    "pinyin1": "zuì xiǎo gōng bèi shù",
+    "pinyin2": "zui4 xiao3 gong1 bei4 shu4",
+    "translation": {
+      "en": "least common multiple",
+      "vi": "bội chung nhỏ nhất"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "大于",
+    "description": {
+      "en": "Greater than",
+      "vi": "Lớn hơn",
+      "zh": "大于"
+    },
+    "pinyin1": "dà yú",
+    "pinyin2": "da4 yu2",
+    "translation": {
+      "en": "greater than",
+      "vi": "lớn hơn"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "小于",
+    "description": {
+      "en": "Less than",
+      "vi": "Nhỏ hơn",
+      "zh": "小于"
+    },
+    "pinyin1": "xiǎo yú",
+    "pinyin2": "xiao3 yu2",
+    "translation": {
+      "en": "less than",
+      "vi": "nhỏ hơn"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "大于等于",
+    "description": {
+      "en": "Greater than or equal to",
+      "vi": "Lớn hơn hoặc bằng",
+      "zh": "大于等于"
+    },
+    "pinyin1": "dà yú děng yú",
+    "pinyin2": "da4 yu2 deng3 yu2",
+    "translation": {
+      "en": "greater than or equal to",
+      "vi": "lớn hơn hoặc bằng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "小于等于",
+    "description": {
+      "en": "Less than or equal to",
+      "vi": "Nhỏ hơn hoặc bằng",
+      "zh": "小于等于"
+    },
+    "pinyin1": "xiǎo yú děng yú",
+    "pinyin2": "xiao3 yu2 deng3 yu2",
+    "translation": {
+      "en": "less than or equal to",
+      "vi": "nhỏ hơn hoặc bằng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "不等于",
+    "description": {
+      "en": "Not equal to",
+      "vi": "Không bằng",
+      "zh": "不等于"
+    },
+    "pinyin1": "bù děng yú",
+    "pinyin2": "bu4 deng3 yu2",
+    "translation": {
+      "en": "not equal to",
+      "vi": "không bằng"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "加号",
+    "description": {
+      "en": "Plus sign",
+      "vi": "Dấu cộng",
+      "zh": "加号"
+    },
+    "pinyin1": "jiā hào",
+    "pinyin2": "jia1 hao4",
+    "translation": {
+      "en": "plus sign",
+      "vi": "dấu cộng"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "减号",
+    "description": {
+      "en": "Minus sign",
+      "vi": "Dấu trừ",
+      "zh": "减号"
+    },
+    "pinyin1": "jiǎn hào",
+    "pinyin2": "jian3 hao4",
+    "translation": {
+      "en": "minus sign",
+      "vi": "dấu trừ"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "乘号",
+    "description": {
+      "en": "Multiplication sign",
+      "vi": "Dấu nhân",
+      "zh": "乘号"
+    },
+    "pinyin1": "chéng hào",
+    "pinyin2": "cheng2 hao4",
+    "translation": {
+      "en": "multiplication sign",
+      "vi": "dấu nhân"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "除号",
+    "description": {
+      "en": "Division sign",
+      "vi": "Dấu chia",
+      "zh": "除号"
+    },
+    "pinyin1": "chú hào",
+    "pinyin2": "chu2 hao4",
+    "translation": {
+      "en": "division sign",
+      "vi": "dấu chia"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "等号",
+    "description": {
+      "en": "Equals sign",
+      "vi": "Dấu bằng",
+      "zh": "等号"
+    },
+    "pinyin1": "děng hào",
+    "pinyin2": "deng3 hao4",
+    "translation": {
+      "en": "equals sign",
+      "vi": "dấu bằng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "集合",
+    "description": {
+      "en": "Set",
+      "vi": "Tập hợp",
+      "zh": "集合"
+    },
+    "pinyin1": "jí hé",
+    "pinyin2": "ji2 he2",
+    "translation": {
+      "en": "set",
+      "vi": "tập hợp"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "交集",
+    "description": {
+      "en": "Intersection",
+      "vi": "Giao",
+      "zh": "交集"
+    },
+    "pinyin1": "jiāo jí",
+    "pinyin2": "jiao1 ji2",
+    "translation": {
+      "en": "intersection",
+      "vi": "giao"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "并集",
+    "description": {
+      "en": "Union",
+      "vi": "Hợp",
+      "zh": "并集"
+    },
+    "pinyin1": "bìng jí",
+    "pinyin2": "bing4 ji2",
+    "translation": {
+      "en": "union",
+      "vi": "hợp"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "补集",
+    "description": {
+      "en": "Complement",
+      "vi": "Phần bù",
+      "zh": "补集"
+    },
+    "pinyin1": "bǔ jí",
+    "pinyin2": "bu3 ji2",
+    "translation": {
+      "en": "complement",
+      "vi": "phần bù"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "子集",
+    "description": {
+      "en": "Subset",
+      "vi": "Tập con",
+      "zh": "子集"
+    },
+    "pinyin1": "zǐ jí",
+    "pinyin2": "zi3 ji2",
+    "translation": {
+      "en": "subset",
+      "vi": "tập con"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "空集",
+    "description": {
+      "en": "Empty set",
+      "vi": "Tập rỗng",
+      "zh": "空集"
+    },
+    "pinyin1": "kōng jí",
+    "pinyin2": "kong1 ji2",
+    "translation": {
+      "en": "empty set",
+      "vi": "tập rỗng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "三角函数",
+    "description": {
+      "en": "Trigonometric function",
+      "vi": "Hàm lượng giác",
+      "zh": "三角函数"
+    },
+    "pinyin1": "sān jiǎo hán shù",
+    "pinyin2": "san1 jiao3 han2 shu4",
+    "translation": {
+      "en": "trigonometric function",
+      "vi": "hàm lượng giác"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "正弦",
+    "description": {
+      "en": "Sine",
+      "vi": "Sin",
+      "zh": "正弦"
+    },
+    "pinyin1": "zhèng xián",
+    "pinyin2": "zheng4 xian2",
+    "translation": {
+      "en": "sine",
+      "vi": "sin"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "余弦",
+    "description": {
+      "en": "Cosine",
+      "vi": "Cos",
+      "zh": "余弦"
+    },
+    "pinyin1": "yú xián",
+    "pinyin2": "yu2 xian2",
+    "translation": {
+      "en": "cosine",
+      "vi": "cos"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "正切",
+    "description": {
+      "en": "Tangent",
+      "vi": "Tan",
+      "zh": "正切"
+    },
+    "pinyin1": "zhèng qiē",
+    "pinyin2": "zheng4 qie1",
+    "translation": {
+      "en": "tangent",
+      "vi": "tan"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "弧度",
+    "description": {
+      "en": "Radian",
+      "vi": "Radian",
+      "zh": "弧度"
+    },
+    "pinyin1": "hú dù",
+    "pinyin2": "hu2 du4",
+    "translation": {
+      "en": "radian",
+      "vi": "radian"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "度数",
+    "description": {
+      "en": "Degree",
+      "vi": "Độ",
+      "zh": "度数"
+    },
+    "pinyin1": "dù shù",
+    "pinyin2": "du4 shu4",
+    "translation": {
+      "en": "degree",
+      "vi": "độ"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "米",
+    "description": {
+      "en": "Meter",
+      "vi": "Mét",
+      "zh": "米"
+    },
+    "pinyin1": "mǐ",
+    "pinyin2": "mi3",
+    "translation": {
+      "en": "meter",
+      "vi": "mét"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "厘米",
+    "description": {
+      "en": "Centimeter",
+      "vi": "Xentimét",
+      "zh": "厘米"
+    },
+    "pinyin1": "lí mǐ",
+    "pinyin2": "li2 mi3",
+    "translation": {
+      "en": "centimeter",
+      "vi": "xentimét"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "毫米",
+    "description": {
+      "en": "Millimeter",
+      "vi": "Milimét",
+      "zh": "毫米"
+    },
+    "pinyin1": "háo mǐ",
+    "pinyin2": "hao2 mi3",
+    "translation": {
+      "en": "millimeter",
+      "vi": "milimét"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "千米",
+    "description": {
+      "en": "Kilometer",
+      "vi": "Kilômét",
+      "zh": "千米"
+    },
+    "pinyin1": "qiān mǐ",
+    "pinyin2": "qian1 mi3",
+    "translation": {
+      "en": "kilometer",
+      "vi": "kilômét"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "克",
+    "description": {
+      "en": "Gram",
+      "vi": "Gam",
+      "zh": "克"
+    },
+    "pinyin1": "kè",
+    "pinyin2": "ke4",
+    "translation": {
+      "en": "gram",
+      "vi": "gam"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "千克",
+    "description": {
+      "en": "Kilogram",
+      "vi": "Kilôgam",
+      "zh": "千克"
+    },
+    "pinyin1": "qiān kè",
+    "pinyin2": "qian1 ke4",
+    "translation": {
+      "en": "kilogram",
+      "vi": "kilôgam"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "吨",
+    "description": {
+      "en": "Ton",
+      "vi": "Tấn",
+      "zh": "吨"
+    },
+    "pinyin1": "dūn",
+    "pinyin2": "dun1",
+    "translation": {
+      "en": "ton",
+      "vi": "tấn"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "升",
+    "description": {
+      "en": "Liter",
+      "vi": "Lít",
+      "zh": "升"
+    },
+    "pinyin1": "shēng",
+    "pinyin2": "sheng1",
+    "translation": {
+      "en": "liter",
+      "vi": "lít"
+    }
+  },
+  {
+    "tags": ["HSK4", "math"],
+    "word": "毫升",
+    "description": {
+      "en": "Milliliter",
+      "vi": "Mililít",
+      "zh": "毫升"
+    },
+    "pinyin1": "háo shēng",
+    "pinyin2": "hao2 sheng1",
+    "translation": {
+      "en": "milliliter",
+      "vi": "mililít"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "线性",
+    "description": {
+      "en": "Linear",
+      "vi": "Tuyến tính",
+      "zh": "线性"
+    },
+    "pinyin1": "xiàn xìng",
+    "pinyin2": "xian4 xing4",
+    "translation": {
+      "en": "linear",
+      "vi": "tuyến tính"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "非线性",
+    "description": {
+      "en": "Nonlinear",
+      "vi": "Phi tuyến tính",
+      "zh": "非线性"
+    },
+    "pinyin1": "fēi xiàn xìng",
+    "pinyin2": "fei1 xian4 xing4",
+    "translation": {
+      "en": "nonlinear",
+      "vi": "phi tuyến tính"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "多项式",
+    "description": {
+      "en": "Polynomial",
+      "vi": "Đa thức",
+      "zh": "多项式"
+    },
+    "pinyin1": "duō xiàng shì",
+    "pinyin2": "duo1 xiang4 shi4",
+    "translation": {
+      "en": "polynomial",
+      "vi": "đa thức"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "二次方程",
+    "description": {
+      "en": "Quadratic equation",
+      "vi": "Phương trình bậc hai",
+      "zh": "二次方程"
+    },
+    "pinyin1": "èr cì fāng chéng",
+    "pinyin2": "er4 ci4 fang1 cheng2",
+    "translation": {
+      "en": "quadratic equation",
+      "vi": "phương trình bậc hai"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "一次方程",
+    "description": {
+      "en": "Linear equation",
+      "vi": "Phương trình bậc nhất",
+      "zh": "一次方程"
+    },
+    "pinyin1": "yī cì fāng chéng",
+    "pinyin2": "yi1 ci4 fang1 cheng2",
+    "translation": {
+      "en": "linear equation",
+      "vi": "phương trình bậc nhất"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "不等式",
+    "description": {
+      "en": "Inequality",
+      "vi": "Bất phương trình",
+      "zh": "不等式"
+    },
+    "pinyin1": "bù děng shì",
+    "pinyin2": "bu4 deng3 shi4",
+    "translation": {
+      "en": "inequality",
+      "vi": "bất phương trình"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "解",
+    "description": {
+      "en": "Solution",
+      "vi": "Nghiệm",
+      "zh": "解"
+    },
+    "pinyin1": "jiě",
+    "pinyin2": "jie3",
+    "translation": {
+      "en": "solution",
+      "vi": "nghiệm"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "根",
+    "description": {
+      "en": "Root",
+      "vi": "Nghiệm",
+      "zh": "根"
+    },
+    "pinyin1": "gēn",
+    "pinyin2": "gen1",
+    "translation": {
+      "en": "root",
+      "vi": "nghiệm"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "系数",
+    "description": {
+      "en": "Coefficient",
+      "vi": "Hệ số",
+      "zh": "系数"
+    },
+    "pinyin1": "xì shù",
+    "pinyin2": "xi4 shu4",
+    "translation": {
+      "en": "coefficient",
+      "vi": "hệ số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "项",
+    "description": {
+      "en": "Term",
+      "vi": "Số hạng",
+      "zh": "项"
+    },
+    "pinyin1": "xiàng",
+    "pinyin2": "xiang4",
+    "translation": {
+      "en": "term",
+      "vi": "số hạng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "抛物线",
+    "description": {
+      "en": "Parabola",
+      "vi": "Parabol",
+      "zh": "抛物线"
+    },
+    "pinyin1": "pāo wù xiàn",
+    "pinyin2": "pao1 wu4 xian4",
+    "translation": {
+      "en": "parabola",
+      "vi": "parabol"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "椭圆",
+    "description": {
+      "en": "Ellipse",
+      "vi": "Elip",
+      "zh": "椭圆"
+    },
+    "pinyin1": "tuǒ yuán",
+    "pinyin2": "tuo3 yuan2",
+    "translation": {
+      "en": "ellipse",
+      "vi": "elip"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "双曲线",
+    "description": {
+      "en": "Hyperbola",
+      "vi": "Hyperbol",
+      "zh": "双曲线"
+    },
+    "pinyin1": "shuāng qū xiàn",
+    "pinyin2": "shuang1 qu1 xian4",
+    "translation": {
+      "en": "hyperbola",
+      "vi": "hyperbol"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "渐近线",
+    "description": {
+      "en": "Asymptote",
+      "vi": "Tiệm cận",
+      "zh": "渐近线"
+    },
+    "pinyin1": "jiàn jìn xiàn",
+    "pinyin2": "jian4 jin4 xian4",
+    "translation": {
+      "en": "asymptote",
+      "vi": "tiệm cận"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "切线",
+    "description": {
+      "en": "Tangent line",
+      "vi": "Tiếp tuyến",
+      "zh": "切线"
+    },
+    "pinyin1": "qiē xiàn",
+    "pinyin2": "qie1 xian4",
+    "translation": {
+      "en": "tangent line",
+      "vi": "tiếp tuyến"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "法线",
+    "description": {
+      "en": "Normal line",
+      "vi": "Pháp tuyến",
+      "zh": "法线"
+    },
+    "pinyin1": "fǎ xiàn",
+    "pinyin2": "fa3 xian4",
+    "translation": {
+      "en": "normal line",
+      "vi": "pháp tuyến"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "斜率",
+    "description": {
+      "en": "Slope",
+      "vi": "Hệ số góc",
+      "zh": "斜率"
+    },
+    "pinyin1": "xié lǜ",
+    "pinyin2": "xie2 lv4",
+    "translation": {
+      "en": "slope",
+      "vi": "hệ số góc"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "截距",
+    "description": {
+      "en": "Intercept",
+      "vi": "Giao điểm",
+      "zh": "截距"
+    },
+    "pinyin1": "jié jù",
+    "pinyin2": "jie2 ju4",
+    "translation": {
+      "en": "intercept",
+      "vi": "giao điểm"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "顶点",
+    "description": {
+      "en": "Vertex",
+      "vi": "Đỉnh",
+      "zh": "顶点"
+    },
+    "pinyin1": "dǐng diǎn",
+    "pinyin2": "ding3 dian3",
+    "translation": {
+      "en": "vertex",
+      "vi": "đỉnh"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "焦点",
+    "description": {
+      "en": "Focus",
+      "vi": "Tiêu điểm",
+      "zh": "焦点"
+    },
+    "pinyin1": "jiāo diǎn",
+    "pinyin2": "jiao1 dian3",
+    "translation": {
+      "en": "focus",
+      "vi": "tiêu điểm"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "对称",
+    "description": {
+      "en": "Symmetry",
+      "vi": "Đối xứng",
+      "zh": "对称"
+    },
+    "pinyin1": "duì chèn",
+    "pinyin2": "dui4 chen4",
+    "translation": {
+      "en": "symmetry",
+      "vi": "đối xứng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "轴对称",
+    "description": {
+      "en": "Axial symmetry",
+      "vi": "Đối xứng trục",
+      "zh": "轴对称"
+    },
+    "pinyin1": "zhóu duì chèn",
+    "pinyin2": "zhou2 dui4 chen4",
+    "translation": {
+      "en": "axial symmetry",
+      "vi": "đối xứng trục"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "中心对称",
+    "description": {
+      "en": "Central symmetry",
+      "vi": "Đối xứng tâm",
+      "zh": "中心对称"
+    },
+    "pinyin1": "zhōng xīn duì chèn",
+    "pinyin2": "zhong1 xin1 dui4 chen4",
+    "translation": {
+      "en": "central symmetry",
+      "vi": "đối xứng tâm"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "变换",
+    "description": {
+      "en": "Transformation",
+      "vi": "Biến đổi",
+      "zh": "变换"
+    },
+    "pinyin1": "biàn huàn",
+    "pinyin2": "bian4 huan4",
+    "translation": {
+      "en": "transformation",
+      "vi": "biến đổi"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "平移",
+    "description": {
+      "en": "Translation",
+      "vi": "Tịnh tiến",
+      "zh": "平移"
+    },
+    "pinyin1": "píng yí",
+    "pinyin2": "ping2 yi2",
+    "translation": {
+      "en": "translation",
+      "vi": "tịnh tiến"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "旋转",
+    "description": {
+      "en": "Rotation",
+      "vi": "Quay",
+      "zh": "旋转"
+    },
+    "pinyin1": "xuán zhuǎn",
+    "pinyin2": "xuan2 zhuan3",
+    "translation": {
+      "en": "rotation",
+      "vi": "quay"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "反射",
+    "description": {
+      "en": "Reflection",
+      "vi": "Phản xạ",
+      "zh": "反射"
+    },
+    "pinyin1": "fǎn shè",
+    "pinyin2": "fan3 she4",
+    "translation": {
+      "en": "reflection",
+      "vi": "phản xạ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "缩放",
+    "description": {
+      "en": "Scaling",
+      "vi": "Tỷ lệ",
+      "zh": "缩放"
+    },
+    "pinyin1": "suō fàng",
+    "pinyin2": "suo1 fang4",
+    "translation": {
+      "en": "scaling",
+      "vi": "tỷ lệ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "图",
+    "description": {
+      "en": "Graph",
+      "vi": "Đồ thị",
+      "zh": "图"
+    },
+    "pinyin1": "tú",
+    "pinyin2": "tu2",
+    "translation": {
+      "en": "graph",
+      "vi": "đồ thị"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "图表",
+    "description": {
+      "en": "Chart, diagram",
+      "vi": "Biểu đồ",
+      "zh": "图表"
+    },
+    "pinyin1": "tú biǎo",
+    "pinyin2": "tu2 biao3",
+    "translation": {
+      "en": "chart, diagram",
+      "vi": "biểu đồ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "曲线",
+    "description": {
+      "en": "Curve",
+      "vi": "Đường cong",
+      "zh": "曲线"
+    },
+    "pinyin1": "qū xiàn",
+    "pinyin2": "qu1 xian4",
+    "translation": {
+      "en": "curve",
+      "vi": "đường cong"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "直线",
+    "description": {
+      "en": "Straight line",
+      "vi": "Đường thẳng",
+      "zh": "直线"
+    },
+    "pinyin1": "zhí xiàn",
+    "pinyin2": "zhi2 xian4",
+    "translation": {
+      "en": "straight line",
+      "vi": "đường thẳng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "线段",
+    "description": {
+      "en": "Line segment",
+      "vi": "Đoạn thẳng",
+      "zh": "线段"
+    },
+    "pinyin1": "xiàn duàn",
+    "pinyin2": "xian4 duan4",
+    "translation": {
+      "en": "line segment",
+      "vi": "đoạn thẳng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "射线",
+    "description": {
+      "en": "Ray",
+      "vi": "Tia",
+      "zh": "射线"
+    },
+    "pinyin1": "shè xiàn",
+    "pinyin2": "she4 xian4",
+    "translation": {
+      "en": "ray",
+      "vi": "tia"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "点",
+    "description": {
+      "en": "Point",
+      "vi": "Điểm",
+      "zh": "点"
+    },
+    "pinyin1": "diǎn",
+    "pinyin2": "dian3",
+    "translation": {
+      "en": "point",
+      "vi": "điểm"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "平面",
+    "description": {
+      "en": "Plane",
+      "vi": "Mặt phẳng",
+      "zh": "平面"
+    },
+    "pinyin1": "píng miàn",
+    "pinyin2": "ping2 mian4",
+    "translation": {
+      "en": "plane",
+      "vi": "mặt phẳng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "空间",
+    "description": {
+      "en": "Space",
+      "vi": "Không gian",
+      "zh": "空间"
+    },
+    "pinyin1": "kōng jiān",
+    "pinyin2": "kong1 jian1",
+    "translation": {
+      "en": "space",
+      "vi": "không gian"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "维度",
+    "description": {
+      "en": "Dimension",
+      "vi": "Chiều",
+      "zh": "维度"
+    },
+    "pinyin1": "wéi dù",
+    "pinyin2": "wei2 du4",
+    "translation": {
+      "en": "dimension",
+      "vi": "chiều"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "二维",
+    "description": {
+      "en": "Two-dimensional",
+      "vi": "Hai chiều",
+      "zh": "二维"
+    },
+    "pinyin1": "èr wéi",
+    "pinyin2": "er4 wei2",
+    "translation": {
+      "en": "two-dimensional",
+      "vi": "hai chiều"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "三维",
+    "description": {
+      "en": "Three-dimensional",
+      "vi": "Ba chiều",
+      "zh": "三维"
+    },
+    "pinyin1": "sān wéi",
+    "pinyin2": "san1 wei2",
+    "translation": {
+      "en": "three-dimensional",
+      "vi": "ba chiều"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "立体",
+    "description": {
+      "en": "Solid",
+      "vi": "Khối",
+      "zh": "立体"
+    },
+    "pinyin1": "lì tǐ",
+    "pinyin2": "li4 ti3",
+    "translation": {
+      "en": "solid",
+      "vi": "khối"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "表面",
+    "description": {
+      "en": "Surface",
+      "vi": "Bề mặt",
+      "zh": "表面"
+    },
+    "pinyin1": "biǎo miàn",
+    "pinyin2": "biao3 mian4",
+    "translation": {
+      "en": "surface",
+      "vi": "bề mặt"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "边",
+    "description": {
+      "en": "Edge, side",
+      "vi": "Cạnh",
+      "zh": "边"
+    },
+    "pinyin1": "biān",
+    "pinyin2": "bian1",
+    "translation": {
+      "en": "edge, side",
+      "vi": "cạnh"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "面",
+    "description": {
+      "en": "Face, surface",
+      "vi": "Mặt",
+      "zh": "面"
+    },
+    "pinyin1": "miàn",
+    "pinyin2": "mian4",
+    "translation": {
+      "en": "face, surface",
+      "vi": "mặt"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "棱",
+    "description": {
+      "en": "Edge",
+      "vi": "Cạnh",
+      "zh": "棱"
+    },
+    "pinyin1": "léng",
+    "pinyin2": "leng2",
+    "translation": {
+      "en": "edge",
+      "vi": "cạnh"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "对角线",
+    "description": {
+      "en": "Diagonal",
+      "vi": "Đường chéo",
+      "zh": "对角线"
+    },
+    "pinyin1": "duì jiǎo xiàn",
+    "pinyin2": "dui4 jiao3 xian4",
+    "translation": {
+      "en": "diagonal",
+      "vi": "đường chéo"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "多边形",
+    "description": {
+      "en": "Polygon",
+      "vi": "Đa giác",
+      "zh": "多边形"
+    },
+    "pinyin1": "duō biān xíng",
+    "pinyin2": "duo1 bian1 xing2",
+    "translation": {
+      "en": "polygon",
+      "vi": "đa giác"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "五边形",
+    "description": {
+      "en": "Pentagon",
+      "vi": "Ngũ giác",
+      "zh": "五边形"
+    },
+    "pinyin1": "wǔ biān xíng",
+    "pinyin2": "wu3 bian1 xing2",
+    "translation": {
+      "en": "pentagon",
+      "vi": "ngũ giác"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "六边形",
+    "description": {
+      "en": "Hexagon",
+      "vi": "Lục giác",
+      "zh": "六边形"
+    },
+    "pinyin1": "liù biān xíng",
+    "pinyin2": "liu4 bian1 xing2",
+    "translation": {
+      "en": "hexagon",
+      "vi": "lục giác"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "八边形",
+    "description": {
+      "en": "Octagon",
+      "vi": "Bát giác",
+      "zh": "八边形"
+    },
+    "pinyin1": "bā biān xíng",
+    "pinyin2": "ba1 bian1 xing2",
+    "translation": {
+      "en": "octagon",
+      "vi": "bát giác"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "梯形",
+    "description": {
+      "en": "Trapezoid",
+      "vi": "Hình thang",
+      "zh": "梯形"
+    },
+    "pinyin1": "tī xíng",
+    "pinyin2": "ti1 xing2",
+    "translation": {
+      "en": "trapezoid",
+      "vi": "hình thang"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "平行四边形",
+    "description": {
+      "en": "Parallelogram",
+      "vi": "Hình bình hành",
+      "zh": "平行四边形"
+    },
+    "pinyin1": "píng xíng sì biān xíng",
+    "pinyin2": "ping2 xing2 si4 bian1 xing2",
+    "translation": {
+      "en": "parallelogram",
+      "vi": "hình bình hành"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "菱形",
+    "description": {
+      "en": "Rhombus",
+      "vi": "Hình thoi",
+      "zh": "菱形"
+    },
+    "pinyin1": "líng xíng",
+    "pinyin2": "ling2 xing2",
+    "translation": {
+      "en": "rhombus",
+      "vi": "hình thoi"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "相似",
+    "description": {
+      "en": "Similar",
+      "vi": "Đồng dạng",
+      "zh": "相似"
+    },
+    "pinyin1": "xiāng sì",
+    "pinyin2": "xiang1 si4",
+    "translation": {
+      "en": "similar",
+      "vi": "đồng dạng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "全等",
+    "description": {
+      "en": "Congruent",
+      "vi": "Bằng nhau",
+      "zh": "全等"
+    },
+    "pinyin1": "quán děng",
+    "pinyin2": "quan2 deng3",
+    "translation": {
+      "en": "congruent",
+      "vi": "bằng nhau"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "比例尺",
+    "description": {
+      "en": "Scale",
+      "vi": "Tỷ lệ",
+      "zh": "比例尺"
+    },
+    "pinyin1": "bǐ lì chǐ",
+    "pinyin2": "bi3 li4 chi3",
+    "translation": {
+      "en": "scale",
+      "vi": "tỷ lệ"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "测量",
+    "description": {
+      "en": "Measurement",
+      "vi": "Đo lường",
+      "zh": "测量"
+    },
+    "pinyin1": "cè liáng",
+    "pinyin2": "ce4 liang2",
+    "translation": {
+      "en": "measurement",
+      "vi": "đo lường"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "单位",
+    "description": {
+      "en": "Unit",
+      "vi": "Đơn vị",
+      "zh": "单位"
+    },
+    "pinyin1": "dān wèi",
+    "pinyin2": "dan1 wei4",
+    "translation": {
+      "en": "unit",
+      "vi": "đơn vị"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "换算",
+    "description": {
+      "en": "Conversion",
+      "vi": "Chuyển đổi",
+      "zh": "换算"
+    },
+    "pinyin1": "huàn suàn",
+    "pinyin2": "huan4 suan4",
+    "translation": {
+      "en": "conversion",
+      "vi": "chuyển đổi"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "近似",
+    "description": {
+      "en": "Approximation",
+      "vi": "Gần đúng",
+      "zh": "近似"
+    },
+    "pinyin1": "jìn sì",
+    "pinyin2": "jin4 si4",
+    "translation": {
+      "en": "approximation",
+      "vi": "gần đúng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "精确",
+    "description": {
+      "en": "Precise, exact",
+      "vi": "Chính xác",
+      "zh": "精确"
+    },
+    "pinyin1": "jīng què",
+    "pinyin2": "jing1 que4",
+    "translation": {
+      "en": "precise, exact",
+      "vi": "chính xác"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "误差",
+    "description": {
+      "en": "Error",
+      "vi": "Sai số",
+      "zh": "误差"
+    },
+    "pinyin1": "wù chā",
+    "pinyin2": "wu4 cha1",
+    "translation": {
+      "en": "error",
+      "vi": "sai số"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "精度",
+    "description": {
+      "en": "Precision",
+      "vi": "Độ chính xác",
+      "zh": "精度"
+    },
+    "pinyin1": "jīng dù",
+    "pinyin2": "jing1 du4",
+    "translation": {
+      "en": "precision",
+      "vi": "độ chính xác"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "准确",
+    "description": {
+      "en": "Accurate",
+      "vi": "Chính xác",
+      "zh": "准确"
+    },
+    "pinyin1": "zhǔn què",
+    "pinyin2": "zhun3 que4",
+    "translation": {
+      "en": "accurate",
+      "vi": "chính xác"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "四舍五入",
+    "description": {
+      "en": "Round off",
+      "vi": "Làm tròn",
+      "zh": "四舍五入"
+    },
+    "pinyin1": "sì shě wǔ rù",
+    "pinyin2": "si4 she3 wu3 ru4",
+    "translation": {
+      "en": "round off",
+      "vi": "làm tròn"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "向上取整",
+    "description": {
+      "en": "Round up",
+      "vi": "Làm tròn lên",
+      "zh": "向上取整"
+    },
+    "pinyin1": "xiàng shàng qǔ zhěng",
+    "pinyin2": "xiang4 shang4 qu3 zheng3",
+    "translation": {
+      "en": "round up",
+      "vi": "làm tròn lên"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "向下取整",
+    "description": {
+      "en": "Round down",
+      "vi": "Làm tròn xuống",
+      "zh": "向下取整"
+    },
+    "pinyin1": "xiàng xià qǔ zhěng",
+    "pinyin2": "xiang4 xia4 qu3 zheng3",
+    "translation": {
+      "en": "round down",
+      "vi": "làm tròn xuống"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "有效数字",
+    "description": {
+      "en": "Significant digit",
+      "vi": "Chữ số có nghĩa",
+      "zh": "有效数字"
+    },
+    "pinyin1": "yǒu xiào shù zì",
+    "pinyin2": "you3 xiao4 shu4 zi4",
+    "translation": {
+      "en": "significant digit",
+      "vi": "chữ số có nghĩa"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "科学记数法",
+    "description": {
+      "en": "Scientific notation",
+      "vi": "Ký hiệu khoa học",
+      "zh": "科学记数法"
+    },
+    "pinyin1": "kē xué jì shù fǎ",
+    "pinyin2": "ke1 xue2 ji4 shu4 fa3",
+    "translation": {
+      "en": "scientific notation",
+      "vi": "ký hiệu khoa học"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "无穷",
+    "description": {
+      "en": "Infinity",
+      "vi": "Vô cực",
+      "zh": "无穷"
+    },
+    "pinyin1": "wú qióng",
+    "pinyin2": "wu2 qiong2",
+    "translation": {
+      "en": "infinity",
+      "vi": "vô cực"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "无穷大",
+    "description": {
+      "en": "Infinity",
+      "vi": "Vô cực",
+      "zh": "无穷大"
+    },
+    "pinyin1": "wú qióng dà",
+    "pinyin2": "wu2 qiong2 da4",
+    "translation": {
+      "en": "infinity",
+      "vi": "vô cực"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "无穷小",
+    "description": {
+      "en": "Infinitesimal",
+      "vi": "Vô cùng bé",
+      "zh": "无穷小"
+    },
+    "pinyin1": "wú qióng xiǎo",
+    "pinyin2": "wu2 qiong2 xiao3",
+    "translation": {
+      "en": "infinitesimal",
+      "vi": "vô cùng bé"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "定义域",
+    "description": {
+      "en": "Domain",
+      "vi": "Miền xác định",
+      "zh": "定义域"
+    },
+    "pinyin1": "dìng yì yù",
+    "pinyin2": "ding4 yi4 yu4",
+    "translation": {
+      "en": "domain",
+      "vi": "miền xác định"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "值域",
+    "description": {
+      "en": "Range",
+      "vi": "Miền giá trị",
+      "zh": "值域"
+    },
+    "pinyin1": "zhí yù",
+    "pinyin2": "zhi2 yu4",
+    "translation": {
+      "en": "range",
+      "vi": "miền giá trị"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "单调",
+    "description": {
+      "en": "Monotonic",
+      "vi": "Đơn điệu",
+      "zh": "单调"
+    },
+    "pinyin1": "dān diào",
+    "pinyin2": "dan1 diao4",
+    "translation": {
+      "en": "monotonic",
+      "vi": "đơn điệu"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "递增",
+    "description": {
+      "en": "Increasing",
+      "vi": "Tăng dần",
+      "zh": "递增"
+    },
+    "pinyin1": "dì zēng",
+    "pinyin2": "di4 zeng1",
+    "translation": {
+      "en": "increasing",
+      "vi": "tăng dần"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "递减",
+    "description": {
+      "en": "Decreasing",
+      "vi": "Giảm dần",
+      "zh": "递减"
+    },
+    "pinyin1": "dì jiǎn",
+    "pinyin2": "di4 jian3",
+    "translation": {
+      "en": "decreasing",
+      "vi": "giảm dần"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "极值",
+    "description": {
+      "en": "Extremum",
+      "vi": "Cực trị",
+      "zh": "极值"
+    },
+    "pinyin1": "jí zhí",
+    "pinyin2": "ji2 zhi2",
+    "translation": {
+      "en": "extremum",
+      "vi": "cực trị"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "最大值",
+    "description": {
+      "en": "Maximum",
+      "vi": "Giá trị lớn nhất",
+      "zh": "最大值"
+    },
+    "pinyin1": "zuì dà zhí",
+    "pinyin2": "zui4 da4 zhi2",
+    "translation": {
+      "en": "maximum",
+      "vi": "giá trị lớn nhất"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "最小值",
+    "description": {
+      "en": "Minimum",
+      "vi": "Giá trị nhỏ nhất",
+      "zh": "最小值"
+    },
+    "pinyin1": "zuì xiǎo zhí",
+    "pinyin2": "zui4 xiao3 zhi2",
+    "translation": {
+      "en": "minimum",
+      "vi": "giá trị nhỏ nhất"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "拐点",
+    "description": {
+      "en": "Inflection point",
+      "vi": "Điểm uốn",
+      "zh": "拐点"
+    },
+    "pinyin1": "guǎi diǎn",
+    "pinyin2": "guai3 dian3",
+    "translation": {
+      "en": "inflection point",
+      "vi": "điểm uốn"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "连续",
+    "description": {
+      "en": "Continuous",
+      "vi": "Liên tục",
+      "zh": "连续"
+    },
+    "pinyin1": "lián xù",
+    "pinyin2": "lian2 xu4",
+    "translation": {
+      "en": "continuous",
+      "vi": "liên tục"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "间断",
+    "description": {
+      "en": "Discontinuous",
+      "vi": "Gián đoạn",
+      "zh": "间断"
+    },
+    "pinyin1": "jiàn duàn",
+    "pinyin2": "jian4 duan4",
+    "translation": {
+      "en": "discontinuous",
+      "vi": "gián đoạn"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "可导",
+    "description": {
+      "en": "Differentiable",
+      "vi": "Khả vi",
+      "zh": "可导"
+    },
+    "pinyin1": "kě dǎo",
+    "pinyin2": "ke3 dao3",
+    "translation": {
+      "en": "differentiable",
+      "vi": "khả vi"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "可积",
+    "description": {
+      "en": "Integrable",
+      "vi": "Khả tích",
+      "zh": "可积"
+    },
+    "pinyin1": "kě jī",
+    "pinyin2": "ke3 ji1",
+    "translation": {
+      "en": "integrable",
+      "vi": "khả tích"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "定积分",
+    "description": {
+      "en": "Definite integral",
+      "vi": "Tích phân xác định",
+      "zh": "定积分"
+    },
+    "pinyin1": "dìng jī fēn",
+    "pinyin2": "ding4 ji1 fen1",
+    "translation": {
+      "en": "definite integral",
+      "vi": "tích phân xác định"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "不定积分",
+    "description": {
+      "en": "Indefinite integral",
+      "vi": "Tích phân bất định",
+      "zh": "不定积分"
+    },
+    "pinyin1": "bù dìng jī fēn",
+    "pinyin2": "bu4 ding4 ji1 fen1",
+    "translation": {
+      "en": "indefinite integral",
+      "vi": "tích phân bất định"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "偏导数",
+    "description": {
+      "en": "Partial derivative",
+      "vi": "Đạo hàm riêng",
+      "zh": "偏导数"
+    },
+    "pinyin1": "piān dǎo shù",
+    "pinyin2": "pian1 dao3 shu4",
+    "translation": {
+      "en": "partial derivative",
+      "vi": "đạo hàm riêng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "梯度",
+    "description": {
+      "en": "Gradient",
+      "vi": "Gradient",
+      "zh": "梯度"
+    },
+    "pinyin1": "tī dù",
+    "pinyin2": "ti1 du4",
+    "translation": {
+      "en": "gradient",
+      "vi": "gradient"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "散度",
+    "description": {
+      "en": "Divergence",
+      "vi": "Divergence",
+      "zh": "散度"
+    },
+    "pinyin1": "sàn dù",
+    "pinyin2": "san4 du4",
+    "translation": {
+      "en": "divergence",
+      "vi": "divergence"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "旋度",
+    "description": {
+      "en": "Curl",
+      "vi": "Curl",
+      "zh": "旋度"
+    },
+    "pinyin1": "xuán dù",
+    "pinyin2": "xuan2 du4",
+    "translation": {
+      "en": "curl",
+      "vi": "curl"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "重积分",
+    "description": {
+      "en": "Multiple integral",
+      "vi": "Tích phân bội",
+      "zh": "重积分"
+    },
+    "pinyin1": "chóng jī fēn",
+    "pinyin2": "chong2 ji1 fen1",
+    "translation": {
+      "en": "multiple integral",
+      "vi": "tích phân bội"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "曲线积分",
+    "description": {
+      "en": "Line integral",
+      "vi": "Tích phân đường",
+      "zh": "曲线积分"
+    },
+    "pinyin1": "qū xiàn jī fēn",
+    "pinyin2": "qu1 xian4 ji1 fen1",
+    "translation": {
+      "en": "line integral",
+      "vi": "tích phân đường"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "曲面积分",
+    "description": {
+      "en": "Surface integral",
+      "vi": "Tích phân mặt",
+      "zh": "曲面积分"
+    },
+    "pinyin1": "qū miàn jī fēn",
+    "pinyin2": "qu1 mian4 ji1 fen1",
+    "translation": {
+      "en": "surface integral",
+      "vi": "tích phân mặt"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "傅里叶级数",
+    "description": {
+      "en": "Fourier series",
+      "vi": "Chuỗi Fourier",
+      "zh": "傅里叶级数"
+    },
+    "pinyin1": "fù lǐ yè jí shù",
+    "pinyin2": "fu4 li3 ye4 ji2 shu4",
+    "translation": {
+      "en": "Fourier series",
+      "vi": "chuỗi Fourier"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "拉普拉斯变换",
+    "description": {
+      "en": "Laplace transform",
+      "vi": "Biến đổi Laplace",
+      "zh": "拉普拉斯变换"
+    },
+    "pinyin1": "lā pǔ lā sī biàn huàn",
+    "pinyin2": "la1 pu3 la1 si1 bian4 huan4",
+    "translation": {
+      "en": "Laplace transform",
+      "vi": "biến đổi Laplace"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "微分方程",
+    "description": {
+      "en": "Differential equation",
+      "vi": "Phương trình vi phân",
+      "zh": "微分方程"
+    },
+    "pinyin1": "wēi fēn fāng chéng",
+    "pinyin2": "wei1 fen1 fang1 cheng2",
+    "translation": {
+      "en": "differential equation",
+      "vi": "phương trình vi phân"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "常微分方程",
+    "description": {
+      "en": "Ordinary differential equation",
+      "vi": "Phương trình vi phân thường",
+      "zh": "常微分方程"
+    },
+    "pinyin1": "cháng wēi fēn fāng chéng",
+    "pinyin2": "chang2 wei1 fen1 fang1 cheng2",
+    "translation": {
+      "en": "ordinary differential equation",
+      "vi": "phương trình vi phân thường"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "偏微分方程",
+    "description": {
+      "en": "Partial differential equation",
+      "vi": "Phương trình đạo hàm riêng",
+      "zh": "偏微分方程"
+    },
+    "pinyin1": "piān wēi fēn fāng chéng",
+    "pinyin2": "pian1 wei1 fen1 fang1 cheng2",
+    "translation": {
+      "en": "partial differential equation",
+      "vi": "phương trình đạo hàm riêng"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "线性代数",
+    "description": {
+      "en": "Linear algebra",
+      "vi": "Đại số tuyến tính",
+      "zh": "线性代数"
+    },
+    "pinyin1": "xiàn xìng dài shù",
+    "pinyin2": "xian4 xing4 dai4 shu4",
+    "translation": {
+      "en": "linear algebra",
+      "vi": "đại số tuyến tính"
+    }
+  },
+  {
+    "tags": ["HSK5", "math"],
+    "word": "特征值",
+    "description": {
+      "en": "Eigenvalue",
+      "vi": "Giá trị riêng",
+      "zh": "特征值"
+    },
+    "pinyin1": "tè zhēng zhí",
+    "pinyin2": "te4 zheng1 zhi2",
+    "translation": {
+      "en": "eigenvalue",
+      "vi": "giá trị riêng"
+    }
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "tags": [
+      "HSK1",
+      "food"
+    ],
+    "word": "米饭",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mǐ fàn",
+    "pinyin2": "mi3 fan4",
+    "translation": {
+      "en": "rice, rice [cooked; boiled], rice",
+      "vi": "cơm, cơm [đã nấu chín], cơm"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "food"
+    ],
+    "word": "面条",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "miàn tiáo",
+    "pinyin2": "mian4 tiao2",
+    "translation": {
+      "en": "noodles",
+      "vi": "mì"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "food"
+    ],
+    "word": "包子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bāo zi",
+    "pinyin2": "bao1 zi",
+    "translation": {
+      "en": "steamed bun, bao zi [steamed stuffed bun], steamed bun",
+      "vi": "bánh bao, bánh bao [bánh hấp có nhân], bánh bao"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "food"
+    ],
+    "word": "饺子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiǎo zi",
+    "pinyin2": "jiao3 zi",
+    "translation": {
+      "en": "dumplings, dumpling, dumplings",
+      "vi": "bánh há cảo, bánh bao, bánh há cảo"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "food"
+    ],
+    "word": "馒头",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mán tou",
+    "pinyin2": "man2 tou2",
+    "translation": {
+      "en": "steamed bread, [steamed bread], steamed bread",
+      "vi": "bánh màn thầu, bánh bao, bánh màn thầu"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "鸡肉",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jī ròu",
+    "pinyin2": "ji1 rou4",
+    "translation": {
+      "en": "chicken",
+      "vi": "thịt gà"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "牛肉",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "niú ròu",
+    "pinyin2": "niu2 rou4",
+    "translation": {
+      "en": "beef",
+      "vi": "thịt bò"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "猪肉",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhū ròu",
+    "pinyin2": "zhu1 rou4",
+    "translation": {
+      "en": "pork",
+      "vi": "thịt heo"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "food"
+    ],
+    "word": "鱼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yú",
+    "pinyin2": "yu2",
+    "translation": {
+      "en": "fish",
+      "vi": "cá"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "虾",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiā",
+    "pinyin2": "xia1",
+    "translation": {
+      "en": "shrimp, shrimp; prawn, shrimp",
+      "vi": "tôm"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "蟹",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiè",
+    "pinyin2": "xie4",
+    "translation": {
+      "en": "crab",
+      "vi": "cua"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "贝类",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bèi lèi",
+    "pinyin2": "bei4 lei4",
+    "translation": {
+      "en": "shellfish",
+      "vi": "hải sản"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "food"
+    ],
+    "word": "鸡蛋",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jī dàn",
+    "pinyin2": "ji1 dan4",
+    "translation": {
+      "en": "egg, (chicken) egg, egg",
+      "vi": "trứng, trứng (gà), trứng"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "food"
+    ],
+    "word": "豆腐",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dòu fǔ",
+    "pinyin2": "dou4 fu3",
+    "translation": {
+      "en": "tofu, bean curd; tofu, tofu",
+      "vi": "đậu phụ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "蘑菇",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mó gū",
+    "pinyin2": "mo2 gu1",
+    "translation": {
+      "en": "mushroom",
+      "vi": "nấm"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "food"
+    ],
+    "word": "土豆",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tǔ dòu",
+    "pinyin2": "tu3 dou4",
+    "translation": {
+      "en": "potato",
+      "vi": "khoai tây"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "胡萝卜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hú luó bo",
+    "pinyin2": "hu2 luo2 bo",
+    "translation": {
+      "en": "carrot",
+      "vi": "cà rốt"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "白菜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bái cài",
+    "pinyin2": "bai2 cai4",
+    "translation": {
+      "en": "Chinese cabbage",
+      "vi": "cải thảo"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "青菜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qīng cài",
+    "pinyin2": "qing1 cai4",
+    "translation": {
+      "en": "greens/vegetables",
+      "vi": "rau xanh"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "food"
+    ],
+    "word": "西红柿",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xī hóng shì",
+    "pinyin2": "xi1 hong2 shi4",
+    "translation": {
+      "en": "tomato",
+      "vi": "cà chua"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "food"
+    ],
+    "word": "黄瓜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huáng guā",
+    "pinyin2": "huang2 gua1",
+    "translation": {
+      "en": "cucumber",
+      "vi": "dưa leo, dưa chuột, dưa leo"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "HSK7-9",
+      "food"
+    ],
+    "word": "辣椒",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "là jiāo",
+    "pinyin2": "la4 jiao1",
+    "translation": {
+      "en": "chili pepper, chilli, chili pepper, chili pepper",
+      "vi": "ớt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "蒜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "suàn",
+    "pinyin2": "suan4",
+    "translation": {
+      "en": "garlic",
+      "vi": "tỏi"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "洋葱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yáng cōng",
+    "pinyin2": "yang2 cong1",
+    "translation": {
+      "en": "onion",
+      "vi": "hành tây"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "生姜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shēng jiāng",
+    "pinyin2": "sheng1 jiang1",
+    "translation": {
+      "en": "ginger",
+      "vi": "gừng"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "food"
+    ],
+    "word": "玉米",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yù mǐ",
+    "pinyin2": "yu4 mi3",
+    "translation": {
+      "en": "corn, maize; corn, corn",
+      "vi": "ngô, ngô; bắp, ngô"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "food"
+    ],
+    "word": "面包",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "miàn bāo",
+    "pinyin2": "mian4 bao1",
+    "translation": {
+      "en": "bread",
+      "vi": "bánh mì"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "food"
+    ],
+    "word": "蛋糕",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dàn gāo",
+    "pinyin2": "dan4 gao1",
+    "translation": {
+      "en": "cake",
+      "vi": "bánh ngọt, bánh, bánh ngọt, bánh ngọt"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "food"
+    ],
+    "word": "饼干",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bǐng gān",
+    "pinyin2": "bing3 gan1",
+    "translation": {
+      "en": "biscuit/cookie, cookie; biscuit, biscuit/cookie, biscuit/cookie",
+      "vi": "bánh quy"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "糖果",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "táng guǒ",
+    "pinyin2": "tang2 guo3",
+    "translation": {
+      "en": "candy, candy; sweets, candy, candy",
+      "vi": "kẹo, kẹo; đồ ngọt, kẹo, kẹo"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "food"
+    ],
+    "word": "巧克力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qiǎo kè lì",
+    "pinyin2": "qiao3 ke4 li4",
+    "translation": {
+      "en": "chocolate",
+      "vi": "sô cô la"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "food"
+    ],
+    "word": "牛奶",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "niú nǎi",
+    "pinyin2": "niu2 nai3",
+    "translation": {
+      "en": "milk",
+      "vi": "sữa"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "酸奶",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "suān nǎi",
+    "pinyin2": "suan1 nai3",
+    "translation": {
+      "en": "yogurt",
+      "vi": "sữa chua"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "豆浆",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dòu jiāng",
+    "pinyin2": "dou4 jiang1",
+    "translation": {
+      "en": "soy milk, soybean milk, soy milk",
+      "vi": "sữa đậu nành"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "food"
+    ],
+    "word": "果汁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guǒ zhī",
+    "pinyin2": "guo3 zhi1",
+    "translation": {
+      "en": "fruit juice",
+      "vi": "nước ép trái cây"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "food"
+    ],
+    "word": "茶",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chá",
+    "pinyin2": "cha2",
+    "translation": {
+      "en": "tea",
+      "vi": "trà"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "food"
+    ],
+    "word": "咖啡",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kā fēi",
+    "pinyin2": "ka1 fei1",
+    "translation": {
+      "en": "coffee",
+      "vi": "cà phê"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "food"
+    ],
+    "word": "啤酒",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pí jiǔ",
+    "pinyin2": "pi2 jiu3",
+    "translation": {
+      "en": "beer",
+      "vi": "bia"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "food"
+    ],
+    "word": "水",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuǐ",
+    "pinyin2": "shui3",
+    "translation": {
+      "en": "water",
+      "vi": "nước"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "冰淇淋",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bīng qí lín",
+    "pinyin2": "bing1 qi2 lin2",
+    "translation": {
+      "en": "ice cream",
+      "vi": "kem"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "food",
+      "fruit"
+    ],
+    "word": "水果",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuǐ guǒ",
+    "pinyin2": "shui3 guo3",
+    "translation": {
+      "en": "fruit",
+      "vi": "trái cây"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "food",
+      "fruit"
+    ],
+    "word": "苹果",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "píng guǒ",
+    "pinyin2": "ping2 guo3",
+    "translation": {
+      "en": "apple",
+      "vi": "táo"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "food",
+      "fruit"
+    ],
+    "word": "香蕉",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiāng jiāo",
+    "pinyin2": "xiang1 jiao1",
+    "translation": {
+      "en": "banana",
+      "vi": "chuối"
+    }
+  },
+  {
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "word": "橙子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chéng zi",
+    "pinyin2": "cheng2 zi",
+    "translation": {
+      "en": "orange",
+      "vi": "cam"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "food",
+      "fruit"
+    ],
+    "word": "葡萄",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pú táo",
+    "pinyin2": "pu2 tao2",
+    "translation": {
+      "en": "grape, grapes, grape",
+      "vi": "nho"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "food",
+      "fruit"
+    ],
+    "word": "西瓜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xī guā",
+    "pinyin2": "xi1 gua1",
+    "translation": {
+      "en": "watermelon",
+      "vi": "dưa hấu"
+    }
+  },
+  {
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "word": "草莓",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cǎo méi",
+    "pinyin2": "cao3 mei2",
+    "translation": {
+      "en": "strawberry",
+      "vi": "dâu tây"
+    }
+  },
+  {
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "word": "樱桃",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yīng táo",
+    "pinyin2": "ying1 tao2",
+    "translation": {
+      "en": "cherry",
+      "vi": "anh đào"
+    }
+  },
+  {
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "word": "菠萝",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bō luó",
+    "pinyin2": "bo1 luo2",
+    "translation": {
+      "en": "pineapple",
+      "vi": "dứa"
+    }
+  },
+  {
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "word": "柠檬",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "níng méng",
+    "pinyin2": "ning2 meng2",
+    "translation": {
+      "en": "lemon",
+      "vi": "chanh"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food",
+      "fruit"
+    ],
+    "word": "椰子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yē zi",
+    "pinyin2": "ye1 zi",
+    "translation": {
+      "en": "coconut",
+      "vi": "dừa"
+    }
+  },
+  {
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "word": "龙眼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lóng yǎn",
+    "pinyin2": "long2 yan3",
+    "translation": {
+      "en": "longan",
+      "vi": "nhãn"
+    }
+  },
+  {
+    "tags": [
+      "food",
+      "fruit"
+    ],
+    "word": "荔枝",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lì zhī",
+    "pinyin2": "li4 zhi1",
+    "translation": {
+      "en": "lychee",
+      "vi": "vải"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "柿饼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì bǐng",
+    "pinyin2": "shi4 bing3",
+    "translation": {
+      "en": "dried persimmon",
+      "vi": "hồng khô"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "红枣",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hóng zǎo",
+    "pinyin2": "hong2 zao3",
+    "translation": {
+      "en": "red date",
+      "vi": "táo đỏ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "核桃",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé táo",
+    "pinyin2": "he2 tao2",
+    "translation": {
+      "en": "walnut",
+      "vi": "quả óc chó, quả óc chó; hồ đào"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "杏仁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xìng rén",
+    "pinyin2": "xing4 ren2",
+    "translation": {
+      "en": "almond",
+      "vi": "hạnh nhân"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "腰果",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yāo guǒ",
+    "pinyin2": "yao1 guo3",
+    "translation": {
+      "en": "cashew",
+      "vi": "hạt điều"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "松子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "sōng zǐ",
+    "pinyin2": "song1 zi3",
+    "translation": {
+      "en": "pine nut",
+      "vi": "hạt thông"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "开心果",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kāi xīn guǒ",
+    "pinyin2": "kai1 xin1 guo3",
+    "translation": {
+      "en": "pistachio",
+      "vi": "hạt dẻ cười"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "芝麻",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī má",
+    "pinyin2": "zhi1 ma2",
+    "translation": {
+      "en": "sesame",
+      "vi": "mè, vừng; mè"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "葵花籽",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kuí huā zǐ",
+    "pinyin2": "kui2 hua1 zi3",
+    "translation": {
+      "en": "sunflower seeds",
+      "vi": "hạt hướng dương"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "蜂蜜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēng mì",
+    "pinyin2": "feng1 mi4",
+    "translation": {
+      "en": "honey",
+      "vi": "mật ong"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "food"
+    ],
+    "word": "盐",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yán",
+    "pinyin2": "yan2",
+    "translation": {
+      "en": "salt",
+      "vi": "muối"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "food"
+    ],
+    "word": "糖",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "táng",
+    "pinyin2": "tang2",
+    "translation": {
+      "en": "sugar",
+      "vi": "đường"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "food"
+    ],
+    "word": "酱油",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiàng yóu",
+    "pinyin2": "jiang4 you2",
+    "translation": {
+      "en": "soy sauce",
+      "vi": "xì dầu, nước tương"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "food"
+    ],
+    "word": "醋",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cù",
+    "pinyin2": "cu4",
+    "translation": {
+      "en": "vinegar",
+      "vi": "giấm"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "辣椒酱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "là jiāo jiàng",
+    "pinyin2": "la4 jiao1 jiang4",
+    "translation": {
+      "en": "chili sauce",
+      "vi": "tương ớt"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "花生酱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huā shēng jiàng",
+    "pinyin2": "hua1 sheng1 jiang4",
+    "translation": {
+      "en": "peanut butter",
+      "vi": "bơ đậu phộng"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "黄油",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huáng yóu",
+    "pinyin2": "huang2 you2",
+    "translation": {
+      "en": "butter",
+      "vi": "bơ"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "果冻",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guǒ dòng",
+    "pinyin2": "guo3 dong4",
+    "translation": {
+      "en": "jelly",
+      "vi": "thạch"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "果酱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guǒ jiàng",
+    "pinyin2": "guo3 jiang4",
+    "translation": {
+      "en": "jam",
+      "vi": "mứt"
+    }
+  },
+  {
+    "tags": [
+      "food"
+    ],
+    "word": "水饺",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuǐ jiǎo",
+    "pinyin2": "shui3 jiao3",
+    "translation": {
+      "en": "dumplings",
+      "vi": "sủi cảo"
+    }
+  }
+]

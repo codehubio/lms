@@ -1,0 +1,3152 @@
+[
+  {
+    "tags": ["astronomy"],
+    "word": "天文学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān wén xué",
+    "pinyin2": "tian1 wen2 xue2",
+    "translation": {
+      "en": "astronomy",
+      "vi": "thiên văn học"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "天体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān tǐ",
+    "pinyin2": "tian1 ti3",
+    "translation": {
+      "en": "celestial body",
+      "vi": "thiên thể"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "恒星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "héng xīng",
+    "pinyin2": "heng2 xing1",
+    "translation": {
+      "en": "star",
+      "vi": "ngôi sao"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "行星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xíng xīng",
+    "pinyin2": "xing2 xing1",
+    "translation": {
+      "en": "planet",
+      "vi": "hành tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "卫星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wèi xīng",
+    "pinyin2": "wei4 xing1",
+    "translation": {
+      "en": "satellite",
+      "vi": "vệ tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "彗星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huì xīng",
+    "pinyin2": "hui4 xing1",
+    "translation": {
+      "en": "comet",
+      "vi": "sao chổi"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "小行星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiǎo xíng xīng",
+    "pinyin2": "xiao3 xing2 xing1",
+    "translation": {
+      "en": "asteroid",
+      "vi": "tiểu hành tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "流星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liú xīng",
+    "pinyin2": "liu2 xing1",
+    "translation": {
+      "en": "meteor",
+      "vi": "sao băng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "陨石",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔn shí",
+    "pinyin2": "yun3 shi2",
+    "translation": {
+      "en": "meteorite",
+      "vi": "thiên thạch"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太阳",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài yáng",
+    "pinyin2": "tai4 yang2",
+    "translation": {
+      "en": "sun",
+      "vi": "mặt trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "月亮",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuè liàng",
+    "pinyin2": "yue4 liang4",
+    "translation": {
+      "en": "moon",
+      "vi": "mặt trăng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "地球",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dì qiú",
+    "pinyin2": "di4 qiu2",
+    "translation": {
+      "en": "Earth",
+      "vi": "Trái Đất"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "水星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuǐ xīng",
+    "pinyin2": "shui3 xing1",
+    "translation": {
+      "en": "Mercury",
+      "vi": "Sao Thủy"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "金星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jīn xīng",
+    "pinyin2": "jin1 xing1",
+    "translation": {
+      "en": "Venus",
+      "vi": "Sao Kim"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "火星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huǒ xīng",
+    "pinyin2": "huo3 xing1",
+    "translation": {
+      "en": "Mars",
+      "vi": "Sao Hỏa"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "木星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mù xīng",
+    "pinyin2": "mu4 xing1",
+    "translation": {
+      "en": "Jupiter",
+      "vi": "Sao Mộc"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "土星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tǔ xīng",
+    "pinyin2": "tu3 xing1",
+    "translation": {
+      "en": "Saturn",
+      "vi": "Sao Thổ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "天王星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān wáng xīng",
+    "pinyin2": "tian1 wang2 xing1",
+    "translation": {
+      "en": "Uranus",
+      "vi": "Sao Thiên Vương"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "海王星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hǎi wáng xīng",
+    "pinyin2": "hai3 wang2 xing1",
+    "translation": {
+      "en": "Neptune",
+      "vi": "Sao Hải Vương"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "冥王星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "míng wáng xīng",
+    "pinyin2": "ming2 wang2 xing1",
+    "translation": {
+      "en": "Pluto",
+      "vi": "Sao Diêm Vương"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太阳系",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài yáng xì",
+    "pinyin2": "tai4 yang2 xi4",
+    "translation": {
+      "en": "solar system",
+      "vi": "hệ mặt trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "银河系",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yín hé xì",
+    "pinyin2": "yin2 he2 xi4",
+    "translation": {
+      "en": "Milky Way",
+      "vi": "Ngân Hà"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "星系",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīng xì",
+    "pinyin2": "xing1 xi4",
+    "translation": {
+      "en": "galaxy",
+      "vi": "thiên hà"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇宙",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ zhòu",
+    "pinyin2": "yu3 zhou4",
+    "translation": {
+      "en": "universe",
+      "vi": "vũ trụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "星座",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīng zuò",
+    "pinyin2": "xing1 zuo4",
+    "translation": {
+      "en": "constellation",
+      "vi": "chòm sao"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "轨道",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guǐ dào",
+    "pinyin2": "gui3 dao4",
+    "translation": {
+      "en": "orbit",
+      "vi": "quỹ đạo"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "公转",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gōng zhuàn",
+    "pinyin2": "gong1 zhuan4",
+    "translation": {
+      "en": "revolution",
+      "vi": "chuyển động quỹ đạo"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "自转",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì zhuàn",
+    "pinyin2": "zi4 zhuan4",
+    "translation": {
+      "en": "rotation",
+      "vi": "tự quay"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "日食",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rì shí",
+    "pinyin2": "ri4 shi2",
+    "translation": {
+      "en": "solar eclipse",
+      "vi": "nhật thực"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "月食",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuè shí",
+    "pinyin2": "yue4 shi2",
+    "translation": {
+      "en": "lunar eclipse",
+      "vi": "nguyệt thực"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "日全食",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rì quán shí",
+    "pinyin2": "ri4 quan2 shi2",
+    "translation": {
+      "en": "total solar eclipse",
+      "vi": "nhật thực toàn phần"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "日偏食",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rì piān shí",
+    "pinyin2": "ri4 pian1 shi2",
+    "translation": {
+      "en": "partial solar eclipse",
+      "vi": "nhật thực một phần"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "日环食",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rì huán shí",
+    "pinyin2": "ri4 huan2 shi2",
+    "translation": {
+      "en": "annular solar eclipse",
+      "vi": "nhật thực hình khuyên"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "新月",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīn yuè",
+    "pinyin2": "xin1 yue4",
+    "translation": {
+      "en": "new moon",
+      "vi": "trăng non"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "满月",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mǎn yuè",
+    "pinyin2": "man3 yue4",
+    "translation": {
+      "en": "full moon",
+      "vi": "trăng tròn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "上弦月",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shàng xián yuè",
+    "pinyin2": "shang4 xian2 yue4",
+    "translation": {
+      "en": "first quarter moon",
+      "vi": "trăng thượng huyền"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "下弦月",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xià xián yuè",
+    "pinyin2": "xia4 xian2 yue4",
+    "translation": {
+      "en": "last quarter moon",
+      "vi": "trăng hạ huyền"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "月相",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuè xiàng",
+    "pinyin2": "yue4 xiang4",
+    "translation": {
+      "en": "lunar phase",
+      "vi": "pha mặt trăng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "潮汐",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cháo xī",
+    "pinyin2": "chao2 xi1",
+    "translation": {
+      "en": "tide",
+      "vi": "thủy triều"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "涨潮",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǎng cháo",
+    "pinyin2": "zhang3 chao2",
+    "translation": {
+      "en": "high tide",
+      "vi": "thủy triều lên"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "退潮",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tuì cháo",
+    "pinyin2": "tui4 chao2",
+    "translation": {
+      "en": "low tide",
+      "vi": "thủy triều xuống"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "天文台",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān wén tái",
+    "pinyin2": "tian1 wen2 tai2",
+    "translation": {
+      "en": "observatory",
+      "vi": "đài thiên văn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "望远镜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wàng yuǎn jìng",
+    "pinyin2": "wang4 yuan3 jing4",
+    "translation": {
+      "en": "telescope",
+      "vi": "kính thiên văn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "反射望远镜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎn shè wàng yuǎn jìng",
+    "pinyin2": "fan3 she4 wang4 yuan3 jing4",
+    "translation": {
+      "en": "reflecting telescope",
+      "vi": "kính thiên văn phản xạ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "折射望远镜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhé shè wàng yuǎn jìng",
+    "pinyin2": "zhe2 she4 wang4 yuan3 jing4",
+    "translation": {
+      "en": "refracting telescope",
+      "vi": "kính thiên văn khúc xạ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "射电望远镜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shè diàn wàng yuǎn jìng",
+    "pinyin2": "she4 dian4 wang4 yuan3 jing4",
+    "translation": {
+      "en": "radio telescope",
+      "vi": "kính thiên văn vô tuyến"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太空",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài kōng",
+    "pinyin2": "tai4 kong1",
+    "translation": {
+      "en": "space",
+      "vi": "không gian"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太空站",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài kōng zhàn",
+    "pinyin2": "tai4 kong1 zhan4",
+    "translation": {
+      "en": "space station",
+      "vi": "trạm vũ trụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "航天器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "háng tiān qì",
+    "pinyin2": "hang2 tian1 qi4",
+    "translation": {
+      "en": "spacecraft",
+      "vi": "tàu vũ trụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "卫星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wèi xīng",
+    "pinyin2": "wei4 xing1",
+    "translation": {
+      "en": "artificial satellite",
+      "vi": "vệ tinh nhân tạo"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "火箭",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huǒ jiàn",
+    "pinyin2": "huo3 jian4",
+    "translation": {
+      "en": "rocket",
+      "vi": "tên lửa"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇航员",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ háng yuán",
+    "pinyin2": "yu3 hang2 yuan2",
+    "translation": {
+      "en": "astronaut",
+      "vi": "phi hành gia"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "光年",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng nián",
+    "pinyin2": "guang1 nian2",
+    "translation": {
+      "en": "light-year",
+      "vi": "năm ánh sáng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "天文单位",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān wén dān wèi",
+    "pinyin2": "tian1 wen2 dan1 wei4",
+    "translation": {
+      "en": "astronomical unit",
+      "vi": "đơn vị thiên văn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "秒差距",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "miǎo chā jù",
+    "pinyin2": "miao3 cha1 ju4",
+    "translation": {
+      "en": "parsec",
+      "vi": "parsec"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "视差",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì chā",
+    "pinyin2": "shi4 cha1",
+    "translation": {
+      "en": "parallax",
+      "vi": "thị sai"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "亮度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liàng dù",
+    "pinyin2": "liang4 du4",
+    "translation": {
+      "en": "brightness",
+      "vi": "độ sáng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "视星等",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì xīng děng",
+    "pinyin2": "shi4 xing1 deng3",
+    "translation": {
+      "en": "apparent magnitude",
+      "vi": "cấp sao biểu kiến"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "绝对星等",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jué duì xīng děng",
+    "pinyin2": "jue2 dui4 xing1 deng3",
+    "translation": {
+      "en": "absolute magnitude",
+      "vi": "cấp sao tuyệt đối"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "红巨星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hóng jù xīng",
+    "pinyin2": "hong2 ju4 xing1",
+    "translation": {
+      "en": "red giant",
+      "vi": "sao khổng lồ đỏ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "白矮星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bái ǎi xīng",
+    "pinyin2": "bai2 ai3 xing1",
+    "translation": {
+      "en": "white dwarf",
+      "vi": "sao lùn trắng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "中子星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng zǐ xīng",
+    "pinyin2": "zhong1 zi3 xing1",
+    "translation": {
+      "en": "neutron star",
+      "vi": "sao neutron"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "黑洞",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hēi dòng",
+    "pinyin2": "hei1 dong4",
+    "translation": {
+      "en": "black hole",
+      "vi": "lỗ đen"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "超新星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chāo xīn xīng",
+    "pinyin2": "chao1 xin1 xing1",
+    "translation": {
+      "en": "supernova",
+      "vi": "siêu tân tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "新星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīn xīng",
+    "pinyin2": "xin1 xing1",
+    "translation": {
+      "en": "nova",
+      "vi": "tân tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "变星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biàn xīng",
+    "pinyin2": "bian4 xing1",
+    "translation": {
+      "en": "variable star",
+      "vi": "sao biến quang"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "双星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuāng xīng",
+    "pinyin2": "shuang1 xing1",
+    "translation": {
+      "en": "binary star",
+      "vi": "sao đôi"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "星团",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīng tuán",
+    "pinyin2": "xing1 tuan2",
+    "translation": {
+      "en": "star cluster",
+      "vi": "cụm sao"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "球状星团",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qiú zhuàng xīng tuán",
+    "pinyin2": "qiu2 zhuang4 xing1 tuan2",
+    "translation": {
+      "en": "globular cluster",
+      "vi": "cụm sao cầu"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "疏散星团",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shū sàn xīng tuán",
+    "pinyin2": "shu1 san4 xing1 tuan2",
+    "translation": {
+      "en": "open cluster",
+      "vi": "cụm sao mở"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "星云",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīng yún",
+    "pinyin2": "xing1 yun2",
+    "translation": {
+      "en": "nebula",
+      "vi": "tinh vân"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "发射星云",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fā shè xīng yún",
+    "pinyin2": "fa1 she4 xing1 yun2",
+    "translation": {
+      "en": "emission nebula",
+      "vi": "tinh vân phát xạ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "反射星云",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎn shè xīng yún",
+    "pinyin2": "fan3 she4 xing1 yun2",
+    "translation": {
+      "en": "reflection nebula",
+      "vi": "tinh vân phản xạ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "暗星云",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "àn xīng yún",
+    "pinyin2": "an4 xing1 yun2",
+    "translation": {
+      "en": "dark nebula",
+      "vi": "tinh vân tối"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "行星状星云",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xíng xīng zhuàng xīng yún",
+    "pinyin2": "xing2 xing1 zhuang4 xing1 yun2",
+    "translation": {
+      "en": "planetary nebula",
+      "vi": "tinh vân hành tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "星等",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīng děng",
+    "pinyin2": "xing1 deng3",
+    "translation": {
+      "en": "magnitude",
+      "vi": "cấp sao"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "光谱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng pǔ",
+    "pinyin2": "guang1 pu3",
+    "translation": {
+      "en": "spectrum",
+      "vi": "quang phổ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "光谱型",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng pǔ xíng",
+    "pinyin2": "guang1 pu3 xing2",
+    "translation": {
+      "en": "spectral type",
+      "vi": "loại quang phổ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "主序星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ xù xīng",
+    "pinyin2": "zhu3 xu4 xing1",
+    "translation": {
+      "en": "main sequence star",
+      "vi": "sao dãy chính"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "赫罗图",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hè luó tú",
+    "pinyin2": "he4 luo2 tu2",
+    "translation": {
+      "en": "Hertzsprung-Russell diagram",
+      "vi": "biểu đồ Hertzsprung-Russell"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "温度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wēn dù",
+    "pinyin2": "wen1 du4",
+    "translation": {
+      "en": "temperature",
+      "vi": "nhiệt độ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "表面温度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biǎo miàn wēn dù",
+    "pinyin2": "biao3 mian4 wen1 du4",
+    "translation": {
+      "en": "surface temperature",
+      "vi": "nhiệt độ bề mặt"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "色指数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "sè zhǐ shù",
+    "pinyin2": "se4 zhi3 shu4",
+    "translation": {
+      "en": "color index",
+      "vi": "chỉ số màu"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "光度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng dù",
+    "pinyin2": "guang1 du4",
+    "translation": {
+      "en": "luminosity",
+      "vi": "độ sáng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "半径",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bàn jìng",
+    "pinyin2": "ban4 jing4",
+    "translation": {
+      "en": "radius",
+      "vi": "bán kính"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "质量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì liàng",
+    "pinyin2": "zhi4 liang4",
+    "translation": {
+      "en": "mass",
+      "vi": "khối lượng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "密度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mì dù",
+    "pinyin2": "mi4 du4",
+    "translation": {
+      "en": "density",
+      "vi": "mật độ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "年龄",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "nián líng",
+    "pinyin2": "nian2 ling2",
+    "translation": {
+      "en": "age",
+      "vi": "tuổi"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "寿命",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shòu mìng",
+    "pinyin2": "shou4 ming4",
+    "translation": {
+      "en": "lifetime",
+      "vi": "tuổi thọ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "核聚变",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé jù biàn",
+    "pinyin2": "he2 ju4 bian4",
+    "translation": {
+      "en": "nuclear fusion",
+      "vi": "phản ứng nhiệt hạch"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "氢",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qīng",
+    "pinyin2": "qing1",
+    "translation": {
+      "en": "hydrogen",
+      "vi": "hydro"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "氦",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hài",
+    "pinyin2": "hai4",
+    "translation": {
+      "en": "helium",
+      "vi": "heli"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "金属",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jīn shǔ",
+    "pinyin2": "jin1 shu3",
+    "translation": {
+      "en": "metal",
+      "vi": "kim loại"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "金属丰度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jīn shǔ fēng dù",
+    "pinyin2": "jin1 shu3 feng1 du4",
+    "translation": {
+      "en": "metallicity",
+      "vi": "độ giàu kim loại"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "自转",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì zhuàn",
+    "pinyin2": "zi4 zhuan4",
+    "translation": {
+      "en": "stellar rotation",
+      "vi": "sự tự quay của sao"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "磁场",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cí chǎng",
+    "pinyin2": "ci2 chang3",
+    "translation": {
+      "en": "magnetic field",
+      "vi": "từ trường"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太阳黑子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài yáng hēi zǐ",
+    "pinyin2": "tai4 yang2 hei1 zi3",
+    "translation": {
+      "en": "sunspot",
+      "vi": "vết đen mặt trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太阳风",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài yáng fēng",
+    "pinyin2": "tai4 yang2 feng1",
+    "translation": {
+      "en": "solar wind",
+      "vi": "gió mặt trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "日冕",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rì miǎn",
+    "pinyin2": "ri4 mian3",
+    "translation": {
+      "en": "corona",
+      "vi": "nhật hoa"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "色球层",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "sè qiú céng",
+    "pinyin2": "se4 qiu2 ceng2",
+    "translation": {
+      "en": "chromosphere",
+      "vi": "quyển sắc"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "光球层",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng qiú céng",
+    "pinyin2": "guang1 qiu2 ceng2",
+    "translation": {
+      "en": "photosphere",
+      "vi": "quang quyển"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太阳活动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài yáng huó dòng",
+    "pinyin2": "tai4 yang2 huo2 dong4",
+    "translation": {
+      "en": "solar activity",
+      "vi": "hoạt động mặt trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太阳周期",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài yáng zhōu qī",
+    "pinyin2": "tai4 yang2 zhou1 qi1",
+    "translation": {
+      "en": "solar cycle",
+      "vi": "chu kỳ mặt trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "极光",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jí guāng",
+    "pinyin2": "ji2 guang1",
+    "translation": {
+      "en": "aurora",
+      "vi": "cực quang"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "黄道",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huáng dào",
+    "pinyin2": "huang2 dao4",
+    "translation": {
+      "en": "ecliptic",
+      "vi": "hoàng đạo"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "黄道面",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huáng dào miàn",
+    "pinyin2": "huang2 dao4 mian4",
+    "translation": {
+      "en": "ecliptic plane",
+      "vi": "mặt phẳng hoàng đạo"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "赤道",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chì dào",
+    "pinyin2": "chi4 dao4",
+    "translation": {
+      "en": "equator",
+      "vi": "xích đạo"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "天赤道",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān chì dào",
+    "pinyin2": "tian1 chi4 dao4",
+    "translation": {
+      "en": "celestial equator",
+      "vi": "thiên xích đạo"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "天极",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān jí",
+    "pinyin2": "tian1 ji2",
+    "translation": {
+      "en": "celestial pole",
+      "vi": "thiên cực"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "天顶",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān dǐng",
+    "pinyin2": "tian1 ding3",
+    "translation": {
+      "en": "zenith",
+      "vi": "thiên đỉnh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "天底",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiān dǐ",
+    "pinyin2": "tian1 di3",
+    "translation": {
+      "en": "nadir",
+      "vi": "thiên để"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "地平线",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dì píng xiàn",
+    "pinyin2": "di4 ping2 xian4",
+    "translation": {
+      "en": "horizon",
+      "vi": "đường chân trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "方位角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fāng wèi jiǎo",
+    "pinyin2": "fang1 wei4 jiao3",
+    "translation": {
+      "en": "azimuth",
+      "vi": "góc phương vị"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "高度角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gāo dù jiǎo",
+    "pinyin2": "gao1 du4 jiao3",
+    "translation": {
+      "en": "altitude",
+      "vi": "góc cao độ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "时角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shí jiǎo",
+    "pinyin2": "shi2 jiao3",
+    "translation": {
+      "en": "hour angle",
+      "vi": "góc giờ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "赤纬",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chì wěi",
+    "pinyin2": "chi4 wei3",
+    "translation": {
+      "en": "declination",
+      "vi": "xích vĩ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "赤经",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chì jīng",
+    "pinyin2": "chi4 jing1",
+    "translation": {
+      "en": "right ascension",
+      "vi": "xích kinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "春分点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chūn fēn diǎn",
+    "pinyin2": "chun1 fen1 dian3",
+    "translation": {
+      "en": "vernal equinox",
+      "vi": "điểm xuân phân"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "秋分点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qiū fēn diǎn",
+    "pinyin2": "qiu1 fen1 dian3",
+    "translation": {
+      "en": "autumnal equinox",
+      "vi": "điểm thu phân"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "夏至点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xià zhì diǎn",
+    "pinyin2": "xia4 zhi4 dian3",
+    "translation": {
+      "en": "summer solstice",
+      "vi": "điểm hạ chí"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "冬至点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dōng zhì diǎn",
+    "pinyin2": "dong1 zhi4 dian3",
+    "translation": {
+      "en": "winter solstice",
+      "vi": "điểm đông chí"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "岁差",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "suì chā",
+    "pinyin2": "sui4 cha1",
+    "translation": {
+      "en": "precession",
+      "vi": "tuế sai"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "章动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāng dòng",
+    "pinyin2": "zhang1 dong4",
+    "translation": {
+      "en": "nutation",
+      "vi": "chương động"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "时区",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shí qū",
+    "pinyin2": "shi2 qu1",
+    "translation": {
+      "en": "time zone",
+      "vi": "múi giờ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "世界时",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì jiè shí",
+    "pinyin2": "shi4 jie4 shi2",
+    "translation": {
+      "en": "Universal Time",
+      "vi": "giờ quốc tế"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "恒星时",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "héng xīng shí",
+    "pinyin2": "heng2 xing1 shi2",
+    "translation": {
+      "en": "sidereal time",
+      "vi": "giờ sao"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "太阳时",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tài yáng shí",
+    "pinyin2": "tai4 yang2 shi2",
+    "translation": {
+      "en": "solar time",
+      "vi": "giờ mặt trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "平太阳时",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "píng tài yáng shí",
+    "pinyin2": "ping2 tai4 yang2 shi2",
+    "translation": {
+      "en": "mean solar time",
+      "vi": "giờ mặt trời trung bình"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "真太阳时",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn tài yáng shí",
+    "pinyin2": "zhen1 tai4 yang2 shi2",
+    "translation": {
+      "en": "apparent solar time",
+      "vi": "giờ mặt trời thực"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "时差",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shí chā",
+    "pinyin2": "shi2 cha1",
+    "translation": {
+      "en": "equation of time",
+      "vi": "phương trình thời gian"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "儒略日",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rú lüè rì",
+    "pinyin2": "ru2 lüe4 ri4",
+    "translation": {
+      "en": "Julian Day",
+      "vi": "ngày Julius"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "儒略年",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rú lüè nián",
+    "pinyin2": "ru2 lüe4 nian2",
+    "translation": {
+      "en": "Julian year",
+      "vi": "năm Julius"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "回归年",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huí guī nián",
+    "pinyin2": "hui2 gui1 nian2",
+    "translation": {
+      "en": "tropical year",
+      "vi": "năm phân điểm"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "恒星年",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "héng xīng nián",
+    "pinyin2": "heng2 xing1 nian2",
+    "translation": {
+      "en": "sidereal year",
+      "vi": "năm sao"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "朔望月",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuò wàng yuè",
+    "pinyin2": "shuo4 wang4 yue4",
+    "translation": {
+      "en": "synodic month",
+      "vi": "tháng giao hội"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "恒星月",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "héng xīng yuè",
+    "pinyin2": "heng2 xing1 yue4",
+    "translation": {
+      "en": "sidereal month",
+      "vi": "tháng sao"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "近地点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jìn dì diǎn",
+    "pinyin2": "jin4 di4 dian3",
+    "translation": {
+      "en": "perigee",
+      "vi": "cận điểm"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "远地点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuǎn dì diǎn",
+    "pinyin2": "yuan3 di4 dian3",
+    "translation": {
+      "en": "apogee",
+      "vi": "viễn điểm"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "近日点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jìn rì diǎn",
+    "pinyin2": "jin4 ri4 dian3",
+    "translation": {
+      "en": "perihelion",
+      "vi": "cận nhật điểm"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "远日点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuǎn rì diǎn",
+    "pinyin2": "yuan3 ri4 dian3",
+    "translation": {
+      "en": "aphelion",
+      "vi": "viễn nhật điểm"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "偏心率",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "piān xīn lǜ",
+    "pinyin2": "pian1 xin1 lü4",
+    "translation": {
+      "en": "eccentricity",
+      "vi": "độ lệch tâm"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "倾角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qīng jiǎo",
+    "pinyin2": "qing1 jiao3",
+    "translation": {
+      "en": "inclination",
+      "vi": "góc nghiêng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "升交点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shēng jiāo diǎn",
+    "pinyin2": "sheng1 jiao1 dian3",
+    "translation": {
+      "en": "ascending node",
+      "vi": "điểm lên"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "降交点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiàng jiāo diǎn",
+    "pinyin2": "jiang4 jiao1 dian3",
+    "translation": {
+      "en": "descending node",
+      "vi": "điểm xuống"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "近点角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jìn diǎn jiǎo",
+    "pinyin2": "jin4 dian3 jiao3",
+    "translation": {
+      "en": "anomaly",
+      "vi": "góc dị thường"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "平近点角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "píng jìn diǎn jiǎo",
+    "pinyin2": "ping2 jin4 dian3 jiao3",
+    "translation": {
+      "en": "mean anomaly",
+      "vi": "góc dị thường trung bình"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "真近点角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn jìn diǎn jiǎo",
+    "pinyin2": "zhen1 jin4 dian3 jiao3",
+    "translation": {
+      "en": "true anomaly",
+      "vi": "góc dị thường thực"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "偏近点角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "piān jìn diǎn jiǎo",
+    "pinyin2": "pian1 jin4 dian3 jiao3",
+    "translation": {
+      "en": "eccentric anomaly",
+      "vi": "góc dị thường tâm sai"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "开普勒定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kāi pǔ lè dìng lǜ",
+    "pinyin2": "kai1 pu3 le4 ding4 lü4",
+    "translation": {
+      "en": "Kepler's laws",
+      "vi": "định luật Kepler"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "开普勒第一定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kāi pǔ lè dì yī dìng lǜ",
+    "pinyin2": "kai1 pu3 le4 di4 yi1 ding4 lü4",
+    "translation": {
+      "en": "Kepler's first law",
+      "vi": "định luật Kepler thứ nhất"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "开普勒第二定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kāi pǔ lè dì èr dìng lǜ",
+    "pinyin2": "kai1 pu3 le4 di4 er4 ding4 lü4",
+    "translation": {
+      "en": "Kepler's second law",
+      "vi": "định luật Kepler thứ hai"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "开普勒第三定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kāi pǔ lè dì sān dìng lǜ",
+    "pinyin2": "kai1 pu3 le4 di4 san1 ding4 lü4",
+    "translation": {
+      "en": "Kepler's third law",
+      "vi": "định luật Kepler thứ ba"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "椭圆",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tuǒ yuán",
+    "pinyin2": "tuo3 yuan2",
+    "translation": {
+      "en": "ellipse",
+      "vi": "hình elip"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "焦点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiāo diǎn",
+    "pinyin2": "jiao1 dian3",
+    "translation": {
+      "en": "focus",
+      "vi": "tiêu điểm"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "半长轴",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bàn cháng zhóu",
+    "pinyin2": "ban4 chang2 zhou2",
+    "translation": {
+      "en": "semi-major axis",
+      "vi": "bán trục lớn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "半短轴",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bàn duǎn zhóu",
+    "pinyin2": "ban4 duan3 zhou2",
+    "translation": {
+      "en": "semi-minor axis",
+      "vi": "bán trục nhỏ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "周期",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōu qī",
+    "pinyin2": "zhou1 qi1",
+    "translation": {
+      "en": "period",
+      "vi": "chu kỳ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "轨道周期",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guǐ dào zhōu qī",
+    "pinyin2": "gui3 dao4 zhou1 qi1",
+    "translation": {
+      "en": "orbital period",
+      "vi": "chu kỳ quỹ đạo"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "角动量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiǎo dòng liàng",
+    "pinyin2": "jiao3 dong4 liang4",
+    "translation": {
+      "en": "angular momentum",
+      "vi": "mômen động lượng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "角动量守恒",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiǎo dòng liàng shǒu héng",
+    "pinyin2": "jiao3 dong4 liang4 shou3 heng2",
+    "translation": {
+      "en": "conservation of angular momentum",
+      "vi": "bảo toàn mômen động lượng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "引力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǐn lì",
+    "pinyin2": "yin3 li4",
+    "translation": {
+      "en": "gravitational force",
+      "vi": "lực hấp dẫn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "万有引力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wàn yǒu yǐn lì",
+    "pinyin2": "wan4 you3 yin3 li4",
+    "translation": {
+      "en": "universal gravitation",
+      "vi": "vạn vật hấp dẫn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "万有引力定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wàn yǒu yǐn lì dìng lǜ",
+    "pinyin2": "wan4 you3 yin3 li4 ding4 lü4",
+    "translation": {
+      "en": "law of universal gravitation",
+      "vi": "định luật vạn vật hấp dẫn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "引力常数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǐn lì cháng shù",
+    "pinyin2": "yin3 li4 chang2 shu4",
+    "translation": {
+      "en": "gravitational constant",
+      "vi": "hằng số hấp dẫn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "逃逸速度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "táo yì sù dù",
+    "pinyin2": "tao2 yi4 su4 du4",
+    "translation": {
+      "en": "escape velocity",
+      "vi": "vận tốc vũ trụ cấp hai"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "第一宇宙速度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dì yī yǔ zhòu sù dù",
+    "pinyin2": "di4 yi1 yu3 zhou4 su4 du4",
+    "translation": {
+      "en": "first cosmic velocity",
+      "vi": "vận tốc vũ trụ cấp một"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "第二宇宙速度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dì èr yǔ zhòu sù dù",
+    "pinyin2": "di4 er4 yu3 zhou4 su4 du4",
+    "translation": {
+      "en": "second cosmic velocity",
+      "vi": "vận tốc vũ trụ cấp hai"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "第三宇宙速度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dì sān yǔ zhòu sù dù",
+    "pinyin2": "di4 san1 yu3 zhou4 su4 du4",
+    "translation": {
+      "en": "third cosmic velocity",
+      "vi": "vận tốc vũ trụ cấp ba"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "拉格朗日点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lā gé láng rì diǎn",
+    "pinyin2": "la1 ge2 lang2 ri4 dian3",
+    "translation": {
+      "en": "Lagrangian point",
+      "vi": "điểm Lagrange"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "洛希极限",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "luò xī jí xiàn",
+    "pinyin2": "luo4 xi1 ji2 xian4",
+    "translation": {
+      "en": "Roche limit",
+      "vi": "giới hạn Roche"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "潮汐锁定",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cháo xī suǒ dìng",
+    "pinyin2": "chao2 xi1 suo3 ding4",
+    "translation": {
+      "en": "tidal locking",
+      "vi": "khóa thủy triều"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "系外行星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xì wài xíng xīng",
+    "pinyin2": "xi4 wai4 xing2 xing1",
+    "translation": {
+      "en": "exoplanet",
+      "vi": "hành tinh ngoài hệ mặt trời"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宜居带",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yí jū dài",
+    "pinyin2": "yi2 ju1 dai4",
+    "translation": {
+      "en": "habitable zone",
+      "vi": "vùng có thể ở được"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "类地行星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lèi dì xíng xīng",
+    "pinyin2": "lei4 di4 xing2 xing1",
+    "translation": {
+      "en": "terrestrial planet",
+      "vi": "hành tinh đất đá"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "类木行星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lèi mù xíng xīng",
+    "pinyin2": "lei4 mu4 xing2 xing1",
+    "translation": {
+      "en": "gas giant",
+      "vi": "hành tinh khí khổng lồ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "矮行星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "ǎi xíng xīng",
+    "pinyin2": "ai3 xing2 xing1",
+    "translation": {
+      "en": "dwarf planet",
+      "vi": "hành tinh lùn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "柯伊伯带",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kē yī bó dài",
+    "pinyin2": "ke1 yi1 bo2 dai4",
+    "translation": {
+      "en": "Kuiper Belt",
+      "vi": "vành đai Kuiper"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "奥尔特云",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "ào ěr tè yún",
+    "pinyin2": "ao4 er3 te4 yun2",
+    "translation": {
+      "en": "Oort Cloud",
+      "vi": "đám mây Oort"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "小行星带",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiǎo xíng xīng dài",
+    "pinyin2": "xiao3 xing2 xing1 dai4",
+    "translation": {
+      "en": "asteroid belt",
+      "vi": "vành đai tiểu hành tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "原行星盘",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuán xíng xīng pán",
+    "pinyin2": "yuan2 xing2 xing1 pan2",
+    "translation": {
+      "en": "protoplanetary disk",
+      "vi": "đĩa tiền hành tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "吸积",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xī jī",
+    "pinyin2": "xi1 ji1",
+    "translation": {
+      "en": "accretion",
+      "vi": "bồi tụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "吸积盘",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xī jī pán",
+    "pinyin2": "xi1 ji1 pan2",
+    "translation": {
+      "en": "accretion disk",
+      "vi": "đĩa bồi tụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "暗物质",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "àn wù zhì",
+    "pinyin2": "an4 wu4 zhi4",
+    "translation": {
+      "en": "dark matter",
+      "vi": "vật chất tối"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "暗能量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "àn néng liàng",
+    "pinyin2": "an4 neng2 liang4",
+    "translation": {
+      "en": "dark energy",
+      "vi": "năng lượng tối"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇宙膨胀",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ zhòu péng zhàng",
+    "pinyin2": "yu3 zhou4 peng2 zhang4",
+    "translation": {
+      "en": "cosmic expansion",
+      "vi": "sự giãn nở của vũ trụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "哈勃常数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hā bó cháng shù",
+    "pinyin2": "ha1 bo2 chang2 shu4",
+    "translation": {
+      "en": "Hubble constant",
+      "vi": "hằng số Hubble"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "红移",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hóng yí",
+    "pinyin2": "hong2 yi2",
+    "translation": {
+      "en": "redshift",
+      "vi": "dịch chuyển đỏ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "蓝移",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lán yí",
+    "pinyin2": "lan2 yi2",
+    "translation": {
+      "en": "blueshift",
+      "vi": "dịch chuyển xanh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "多普勒效应",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "duō pǔ lè xiào yìng",
+    "pinyin2": "duo1 pu3 le4 xiao4 ying4",
+    "translation": {
+      "en": "Doppler effect",
+      "vi": "hiệu ứng Doppler"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "大爆炸",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dà bào zhà",
+    "pinyin2": "da4 bao4 zha4",
+    "translation": {
+      "en": "Big Bang",
+      "vi": "Vụ Nổ Lớn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇宙微波背景辐射",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ zhòu wēi bō bèi jǐng fú shè",
+    "pinyin2": "yu3 zhou4 wei1 bo1 bei4 jing3 fu2 she4",
+    "translation": {
+      "en": "cosmic microwave background",
+      "vi": "bức xạ nền vi sóng vũ trụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇宙年龄",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ zhòu nián líng",
+    "pinyin2": "yu3 zhou4 nian2 ling2",
+    "translation": {
+      "en": "age of the universe",
+      "vi": "tuổi của vũ trụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "视界",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì jiè",
+    "pinyin2": "shi4 jie4",
+    "translation": {
+      "en": "event horizon",
+      "vi": "chân trời sự kiện"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "史瓦西半径",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shǐ wǎ xī bàn jìng",
+    "pinyin2": "shi3 wa3 xi1 ban4 jing4",
+    "translation": {
+      "en": "Schwarzschild radius",
+      "vi": "bán kính Schwarzschild"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "引力波",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǐn lì bō",
+    "pinyin2": "yin3 li4 bo1",
+    "translation": {
+      "en": "gravitational wave",
+      "vi": "sóng hấp dẫn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "脉冲星",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mài chōng xīng",
+    "pinyin2": "mai4 chong1 xing1",
+    "translation": {
+      "en": "pulsar",
+      "vi": "sao xung"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "类星体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lèi xīng tǐ",
+    "pinyin2": "lei4 xing1 ti3",
+    "translation": {
+      "en": "quasar",
+      "vi": "chuẩn tinh"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "活动星系核",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huó dòng xīng xì hé",
+    "pinyin2": "huo2 dong4 xing1 xi4 he2",
+    "translation": {
+      "en": "active galactic nucleus",
+      "vi": "hạt nhân thiên hà hoạt động"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "星系团",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīng xì tuán",
+    "pinyin2": "xing1 xi4 tuan2",
+    "translation": {
+      "en": "galaxy cluster",
+      "vi": "cụm thiên hà"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "超星系团",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chāo xīng xì tuán",
+    "pinyin2": "chao1 xing1 xi4 tuan2",
+    "translation": {
+      "en": "supercluster",
+      "vi": "siêu cụm thiên hà"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "大尺度结构",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dà chǐ dù jié gòu",
+    "pinyin2": "da4 chi3 du4 jie2 gou4",
+    "translation": {
+      "en": "large-scale structure",
+      "vi": "cấu trúc quy mô lớn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇宙网",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ zhòu wǎng",
+    "pinyin2": "yu3 zhou4 wang3",
+    "translation": {
+      "en": "cosmic web",
+      "vi": "mạng lưới vũ trụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇宙空洞",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ zhòu kōng dòng",
+    "pinyin2": "yu3 zhou4 kong1 dong4",
+    "translation": {
+      "en": "cosmic void",
+      "vi": "khoảng trống vũ trụ"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇宙长城",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ zhòu cháng chéng",
+    "pinyin2": "yu3 zhou4 chang2 cheng2",
+    "translation": {
+      "en": "Great Wall",
+      "vi": "Bức tường lớn"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "观测宇宙学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guān cè yǔ zhòu xué",
+    "pinyin2": "guan1 ce4 yu3 zhou4 xue2",
+    "translation": {
+      "en": "observational cosmology",
+      "vi": "vũ trụ học quan sát"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "理论宇宙学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lǐ lùn yǔ zhòu xué",
+    "pinyin2": "li3 lun4 yu3 zhou4 xue2",
+    "translation": {
+      "en": "theoretical cosmology",
+      "vi": "vũ trụ học lý thuyết"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "宇宙学原理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǔ zhòu xué yuán lǐ",
+    "pinyin2": "yu3 zhou4 xue2 yuan2 li3",
+    "translation": {
+      "en": "cosmological principle",
+      "vi": "nguyên lý vũ trụ học"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "各向同性",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gè xiàng tóng xìng",
+    "pinyin2": "ge4 xiang4 tong2 xing4",
+    "translation": {
+      "en": "isotropy",
+      "vi": "tính đẳng hướng"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "各向同性",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gè xiàng tóng xìng",
+    "pinyin2": "ge4 xiang4 tong2 xing4",
+    "translation": {
+      "en": "homogeneity",
+      "vi": "tính đồng nhất"
+    }
+  },
+  {
+    "tags": ["astronomy"],
+    "word": "各向异性",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gè xiàng yì xìng",
+    "pinyin2": "ge4 xiang4 yi4 xing4",
+    "translation": {
+      "en": "anisotropy",
+      "vi": "tính dị hướng"
+    }
+  }
+]
