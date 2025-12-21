@@ -1,0 +1,167 @@
+{
+  "id": "de-particles",
+  "title": "的 vs 得 vs 地",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "的 vs 得 vs 地",
+    "vi": "的 vs 得 vs 地",
+    "zh": "的 vs 得 vs 地"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "的 vs 得 vs 地 - Overview",
+          "vi": "的 vs 得 vs 地 - Tổng quan",
+          "zh": "的 vs 得 vs 地 - 概述"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The three particles **的** (de), **得** (de), and **地** (de) all sound the same but have completely different grammatical functions in Chinese. They are among the most commonly confused characters for learners.\n\n**Key differences:**\n- **的** - Attributive/possessive particle: connects attributes to nouns (\"my book\", \"red car\")\n- **得** - Complement particle: introduces complements after verbs/adjectives (\"run fast\", \"very good\")\n- **地** - Adverbial particle: connects adverbs to verbs/adjectives (\"carefully read\", \"quickly run\")\n\n**Memory tip:**\n- **的** → **的** + Noun (的 connects to nouns)\n- **得** → Verb/Adj + **得** (得 comes after verb/adjective)\n- **地** → **地** + Verb/Adj (地 connects to verbs/adjectives)\n\n**Basic examples:**\n- 我**的**书 (my book - 的 connects \"my\" to \"book\")\n- 跑**得**快 (run fast - 得 introduces complement \"fast\")\n- 仔细**地**读 (carefully read - 地 connects adverb \"carefully\" to verb)",
+          "vi": "Ba trợ từ **的** (de), **得** (de), và **地** (de) đều phát âm giống nhau nhưng có chức năng ngữ pháp hoàn toàn khác nhau trong tiếng Trung. Chúng là một trong những ký tự thường bị nhầm lẫn nhất đối với người học.\n\n**Sự khác biệt chính:**\n- **的** - Trợ từ định ngữ/sở hữu: kết nối thuộc tính với danh từ (\"sách của tôi\", \"xe màu đỏ\")\n- **得** - Trợ từ bổ ngữ: giới thiệu bổ ngữ sau động từ/tính từ (\"chạy nhanh\", \"rất tốt\")\n- **地** - Trợ từ trạng ngữ: kết nối phó từ với động từ/tính từ (\"đọc cẩn thận\", \"chạy nhanh\")\n\n**Mẹo ghi nhớ:**\n- **的** → **的** + Danh từ (的 kết nối với danh từ)\n- **得** → Động từ/Tính từ + **得** (得 đứng sau động từ/tính từ)\n- **地** → **地** + Động từ/Tính từ (地 kết nối với động từ/tính từ)\n\n**Ví dụ cơ bản:**\n- 我**的**书 (sách của tôi - 的 kết nối \"của tôi\" với \"sách\")\n- 跑**得**快 (chạy nhanh - 得 giới thiệu bổ ngữ \"nhanh\")\n- 仔细**地**读 (đọc cẩn thận - 地 kết nối phó từ \"cẩn thận\" với động từ)",
+          "zh": "三个助词**的**（de）、**得**（de）和**地**（de）读音相同，但在汉语中的语法功能完全不同。它们是学习者最容易混淆的字符之一。\n\n**主要区别：**\n- **的** - 定语/所有格助词：连接定语与名词（\"我的书\"、\"红色的车\"）\n- **得** - 补语助词：在动词/形容词后引入补语（\"跑得快\"、\"非常好\"）\n- **地** - 状语助词：连接副词与动词/形容词（\"仔细地读\"、\"快速地跑\"）\n\n**记忆技巧：**\n- **的** → **的** + 名词（的连接名词）\n- **得** → 动词/形容词 + **得**（得位于动词/形容词后）\n- **地** → **地** + 动词/形容词（地连接动词/形容词）\n\n**基本例句：**\n- 我**的**书（的连接\"我的\"与\"书\"）\n- 跑**得**快（得引入补语\"快\"）\n- 仔细**地**读（地连接副词\"仔细\"与动词）"
+        }
+      },
+      "placeholders": [{
+        "particle1": "的",
+        "particle2": "得",
+        "particle3": "地"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "的 (de) - Attributive/Possessive Particle",
+          "vi": "的 (de) - Trợ từ định ngữ/sở hữu",
+          "zh": "的 (de) - 定语/所有格助词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**的** (de) is the attributive/possessive particle. It connects attributes (adjectives, nouns, pronouns) to nouns, indicating possession, description, or relationship.\n\n**Key functions:**\n1. **Possession** - Shows ownership or belonging\n   - 我**的**书 (my book)\n   - 他**的**朋友 (his friend)\n\n2. **Attribution** - Connects adjectives to nouns\n   - 红色**的**花 (red flower)\n   - 美丽**的**风景 (beautiful scenery)\n\n3. **Relationship** - Shows relationships between nouns\n   - 学校**的**老师 (school's teacher / teacher of the school)\n   - 中国**的**文化 (Chinese culture)\n\n**Structure:** Attribute + **的** + Noun\n\n**Important notes:**\n- **的** is often omitted when the relationship is clear or in informal speech\n- Some fixed phrases don't use **的** (e.g., 我妈妈 \"my mother\")\n- **的** can be used at the end of a sentence to create a nominal phrase\n\n**Examples:**\n- 这是**我**的**书。 (This is my book.)\n- 那本红色**的**书很贵。 (That red book is expensive.)\n- 学习**的**方法很重要。 (Learning methods are important.)\n- 这本书是我**的**。 (This book is mine.)",
+          "vi": "**的** (de) là trợ từ định ngữ/sở hữu. Nó kết nối các thuộc tính (tính từ, danh từ, đại từ) với danh từ, chỉ sự sở hữu, mô tả hoặc mối quan hệ.\n\n**Chức năng chính:**\n1. **Sở hữu** - Chỉ quyền sở hữu hoặc thuộc về\n   - 我**的**书 (sách của tôi)\n   - 他**的**朋友 (bạn của anh ấy)\n\n2. **Thuộc tính** - Kết nối tính từ với danh từ\n   - 红色**的**花 (hoa màu đỏ)\n   - 美丽**的**风景 (phong cảnh đẹp)\n\n3. **Mối quan hệ** - Chỉ mối quan hệ giữa các danh từ\n   - 学校**的**老师 (giáo viên của trường)\n   - 中国**的**文化 (văn hóa Trung Quốc)\n\n**Cấu trúc:** Thuộc tính + **的** + Danh từ\n\n**Lưu ý quan trọng:**\n- **的** thường được bỏ qua khi mối quan hệ rõ ràng hoặc trong lời nói không trang trọng\n- Một số cụm từ cố định không sử dụng **的** (ví dụ: 我妈妈 \"mẹ tôi\")\n- **的** có thể được sử dụng ở cuối câu để tạo cụm danh từ\n\n**Ví dụ:**\n- 这是**我**的**书。 (Đây là sách của tôi.)\n- 那本红色**的**书很贵。 (Cuốn sách màu đỏ đó rất đắt.)\n- 学习**的**方法很重要。 (Phương pháp học tập rất quan trọng.)\n- 这本书是我**的**。 (Cuốn sách này là của tôi.)",
+          "zh": "**的**（de）是定语/所有格助词。它连接定语（形容词、名词、代词）与名词，表示所属、描述或关系。\n\n**主要功能：**\n1. **所有** - 表示所属或归属\n   - 我**的**书\n   - 他**的**朋友\n\n2. **属性** - 连接形容词与名词\n   - 红色**的**花\n   - 美丽**的**风景\n\n3. **关系** - 表示名词之间的关系\n   - 学校**的**老师\n   - 中国**的**文化\n\n**结构：** 定语 + **的** + 名词\n\n**重要提示：**\n- 当关系明确或非正式口语中，**的**常可省略\n- 某些固定短语不使用**的**（如：我妈妈）\n- **的**可用于句末构成名词性短语\n\n**例句：**\n- 这是**我**的**书。\n- 那本红色**的**书很贵。\n- 学习**的**方法很重要。\n- 这本书是我**的**。"
+        }
+      },
+      "placeholders": [{
+        "de1": "的",
+        "de2": "的",
+        "de3": "的",
+        "de4": "的",
+        "de5": "的"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "得 (de) - Complement Particle",
+          "vi": "得 (de) - Trợ từ bổ ngữ",
+          "zh": "得 (de) - 补语助词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**得** (de) is the complement particle. It comes **after** a verb or adjective to introduce a complement that describes the result, degree, possibility, or manner of the action or state.\n\n**Key functions:**\n1. **Resultative complement** - Describes the result of an action\n   - 跑**得**快 (run fast)\n   - 说**得**清楚 (speak clearly)\n\n2. **Degree complement** - Describes the degree or extent\n   - 好**得**很 (very good)\n   - 累**得**要命 (extremely tired)\n\n3. **Potential complement** - Indicates possibility (with 不 or 得)\n   - 听**得**懂 (can understand)\n   - 看**不**见 (cannot see)\n\n4. **Manner complement** - Describes how an action is performed\n   - 写**得**很好 (write very well)\n   - 唱**得**不错 (sing quite well)\n\n**Structure:** Verb/Adjective + **得** + Complement\n\n**Important notes:**\n- **得** always comes AFTER the verb/adjective\n- The complement describes HOW or TO WHAT EXTENT\n- Can be used with adjectives, phrases, or even sentences as complements\n- Negative potential: Verb + **不** + Complement (no 得 needed)\n\n**Examples:**\n- 他跑**得**很快。 (He runs very fast.)\n- 这个菜做**得**很好吃。 (This dish is cooked very deliciously.)\n- 我累**得**走不动了。 (I'm so tired I can't walk.)\n- 他说**得**大家都笑了。 (He spoke in a way that made everyone laugh.)\n- 我**听**得**懂中文。 (I can understand Chinese.)",
+          "vi": "**得** (de) là trợ từ bổ ngữ. Nó đứng **sau** động từ hoặc tính từ để giới thiệu bổ ngữ mô tả kết quả, mức độ, khả năng hoặc cách thức của hành động hoặc trạng thái.\n\n**Chức năng chính:**\n1. **Bổ ngữ kết quả** - Mô tả kết quả của một hành động\n   - 跑**得**快 (chạy nhanh)\n   - 说**得**清楚 (nói rõ ràng)\n\n2. **Bổ ngữ mức độ** - Mô tả mức độ hoặc phạm vi\n   - 好**得**很 (rất tốt)\n   - 累**得**要命 (cực kỳ mệt)\n\n3. **Bổ ngữ khả năng** - Chỉ khả năng (với 不 hoặc 得)\n   - 听**得**懂 (có thể hiểu)\n   - 看**不**见 (không thể thấy)\n\n4. **Bổ ngữ cách thức** - Mô tả cách thức thực hiện hành động\n   - 写**得**很好 (viết rất tốt)\n   - 唱**得**不错 (hát khá tốt)\n\n**Cấu trúc:** Động từ/Tính từ + **得** + Bổ ngữ\n\n**Lưu ý quan trọng:**\n- **得** luôn đứng SAU động từ/tính từ\n- Bổ ngữ mô tả NHƯ THẾ NÀO hoặc ĐẾN MỨC ĐỘ NÀO\n- Có thể sử dụng với tính từ, cụm từ hoặc thậm chí câu làm bổ ngữ\n- Khả năng phủ định: Động từ + **不** + Bổ ngữ (không cần 得)\n\n**Ví dụ:**\n- 他跑**得**很快。 (Anh ấy chạy rất nhanh.)\n- 这个菜做**得**很好吃。 (Món ăn này được nấu rất ngon.)\n- 我累**得**走不动了。 (Tôi mệt đến mức không thể đi được.)\n- 他说**得**大家都笑了。 (Anh ấy nói khiến mọi người đều cười.)\n- 我**听**得**懂中文。 (Tôi có thể hiểu tiếng Trung.)",
+          "zh": "**得**（de）是补语助词。它位于动词或形容词**之后**，引入描述动作或状态的结果、程度、可能性或方式的补语。\n\n**主要功能：**\n1. **结果补语** - 描述动作的结果\n   - 跑**得**快\n   - 说**得**清楚\n\n2. **程度补语** - 描述程度或范围\n   - 好**得**很\n   - 累**得**要命\n\n3. **可能补语** - 表示可能性（与不或得连用）\n   - 听**得**懂\n   - 看**不**见\n\n4. **方式补语** - 描述动作的执行方式\n   - 写**得**很好\n   - 唱**得**不错\n\n**结构：** 动词/形容词 + **得** + 补语\n\n**重要提示：**\n- **得**总是位于动词/形容词之后\n- 补语描述如何或到什么程度\n- 可用形容词、短语甚至句子作补语\n- 否定可能：动词 + **不** + 补语（不需要得）\n\n**例句：**\n- 他跑**得**很快。\n- 这个菜做**得**很好吃。\n- 我累**得**走不动了。\n- 他说**得**大家都笑了。\n- 我**听**得**懂中文。"
+        }
+      },
+      "placeholders": [{
+        "de1": "得",
+        "de2": "得",
+        "de3": "得",
+        "de4": "得",
+        "de5": "得"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "地 (de) - Adverbial Particle",
+          "vi": "地 (de) - Trợ từ trạng ngữ",
+          "zh": "地 (de) - 状语助词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**地** (de) is the adverbial particle. It comes **before** a verb or adjective to connect an adverb (usually a disyllabic adjective) that describes how an action is performed or how a state exists.\n\n**Key functions:**\n1. **Manner adverb** - Describes how an action is done\n   - 仔细**地**读 (read carefully)\n   - 快速**地**跑 (run quickly)\n\n2. **Degree adverb** - Describes the degree of an action or state\n   - 认真**地**学习 (study seriously)\n   - 努力**地**工作 (work hard)\n\n3. **Emotional adverb** - Describes emotional manner\n   - 高兴**地**说 (speak happily)\n   - 伤心**地**哭 (cry sadly)\n\n**Structure:** Adverb (usually disyllabic) + **地** + Verb/Adjective\n\n**Important notes:**\n- **地** comes BEFORE the verb/adjective (opposite of **得**)\n- Usually used with disyllabic (two-character) adjectives/adverbs\n- Monosyllabic adverbs often don't need **地** (e.g., 快跑 \"run fast\")\n- **地** is often omitted in informal speech\n- Can be used with some monosyllabic words for emphasis\n\n**Examples:**\n- 他仔细**地**看书。 (He carefully reads books.)\n- 学生们认真**地**听讲。 (Students listen attentively.)\n- 她高兴**地**笑了。 (She smiled happily.)\n- 他慢慢**地**走过来。 (He slowly walked over.)\n- 我们要努力**地**学习。 (We must study hard.)",
+          "vi": "**地** (de) là trợ từ trạng ngữ. Nó đứng **trước** động từ hoặc tính từ để kết nối phó từ (thường là tính từ hai âm tiết) mô tả cách thức thực hiện hành động hoặc cách thức tồn tại của trạng thái.\n\n**Chức năng chính:**\n1. **Phó từ chỉ cách thức** - Mô tả cách thức thực hiện hành động\n   - 仔细**地**读 (đọc cẩn thận)\n   - 快速**地**跑 (chạy nhanh)\n\n2. **Phó từ chỉ mức độ** - Mô tả mức độ của hành động hoặc trạng thái\n   - 认真**地**学习 (học nghiêm túc)\n   - 努力**地**工作 (làm việc chăm chỉ)\n\n3. **Phó từ chỉ cảm xúc** - Mô tả cách thức cảm xúc\n   - 高兴**地**说 (nói vui vẻ)\n   - 伤心**地**哭 (khóc buồn)\n\n**Cấu trúc:** Phó từ (thường là hai âm tiết) + **地** + Động từ/Tính từ\n\n**Lưu ý quan trọng:**\n- **地** đứng TRƯỚC động từ/tính từ (ngược với **得**)\n- Thường được sử dụng với tính từ/phó từ hai âm tiết\n- Phó từ đơn âm tiết thường không cần **地** (ví dụ: 快跑 \"chạy nhanh\")\n- **地** thường được bỏ qua trong lời nói không trang trọng\n- Có thể được sử dụng với một số từ đơn âm tiết để nhấn mạnh\n\n**Ví dụ:**\n- 他仔细**地**看书。 (Anh ấy cẩn thận đọc sách.)\n- 学生们认真**地**听讲。 (Học sinh chăm chú nghe giảng.)\n- 她高兴**地**笑了。 (Cô ấy cười vui vẻ.)\n- 他慢慢**地**走过来。 (Anh ấy từ từ đi lại.)\n- 我们要努力**地**学习。 (Chúng ta phải học chăm chỉ.)",
+          "zh": "**地**（de）是状语助词。它位于动词或形容词**之前**，连接副词（通常是双音节形容词），描述动作的执行方式或状态的呈现方式。\n\n**主要功能：**\n1. **方式状语** - 描述动作的执行方式\n   - 仔细**地**读\n   - 快速**地**跑\n\n2. **程度状语** - 描述动作或状态的程度\n   - 认真**地**学习\n   - 努力**地**工作\n\n3. **情感状语** - 描述情感方式\n   - 高兴**地**说\n   - 伤心**地**哭\n\n**结构：** 副词（通常为双音节）+ **地** + 动词/形容词\n\n**重要提示：**\n- **地**位于动词/形容词之前（与**得**相反）\n- 通常与双音节形容词/副词连用\n- 单音节副词通常不需要**地**（如：快跑）\n- 非正式口语中常省略**地**\n- 可与某些单音节词连用以表示强调\n\n**例句：**\n- 他仔细**地**看书。\n- 学生们认真**地**听讲。\n- 她高兴**地**笑了。\n- 他慢慢**地**走过来。\n- 我们要努力**地**学习。"
+        }
+      },
+      "placeholders": [{
+        "di1": "地",
+        "di2": "地",
+        "di3": "地",
+        "di4": "地",
+        "di5": "地"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Comparison and When to Use Each",
+          "vi": "So sánh và khi nào sử dụng từng trợ từ",
+          "zh": "比较和使用时机"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here's a clear comparison to help you choose the correct particle:\n\n**的 (de) - Attributive/Possessive**\n- **Position:** Before a noun\n- **Function:** Connects attributes to nouns\n- **Pattern:** Attribute + **的** + Noun\n- **Examples:**\n  - 我**的**书 (my book)\n  - 红色**的**花 (red flower)\n  - 学习**的**方法 (learning method)\n\n**得 (de) - Complement**\n- **Position:** After a verb/adjective\n- **Function:** Introduces complements describing result/degree/manner\n- **Pattern:** Verb/Adj + **得** + Complement\n- **Examples:**\n  - 跑**得**快 (run fast)\n  - 好**得**很 (very good)\n  - 说**得**清楚 (speak clearly)\n\n**地 (de) - Adverbial**\n- **Position:** Before a verb/adjective\n- **Function:** Connects adverbs to verbs/adjectives\n- **Pattern:** Adverb + **地** + Verb/Adj\n- **Examples:**\n  - 仔细**地**读 (carefully read)\n  - 快速**地**跑 (quickly run)\n  - 认真**地**学习 (seriously study)\n\n**Quick decision guide:**\n1. Is it before a noun? → Use **的**\n2. Is it after a verb/adjective describing HOW/TO WHAT EXTENT? → Use **得**\n3. Is it before a verb/adjective connecting an adverb? → Use **地**",
+          "vi": "Dưới đây là so sánh rõ ràng để giúp bạn chọn đúng trợ từ:\n\n**的 (de) - Định ngữ/Sở hữu**\n- **Vị trí:** Trước danh từ\n- **Chức năng:** Kết nối thuộc tính với danh từ\n- **Mẫu:** Thuộc tính + **的** + Danh từ\n- **Ví dụ:**\n  - 我**的**书 (sách của tôi)\n  - 红色**的**花 (hoa màu đỏ)\n  - 学习**的**方法 (phương pháp học tập)\n\n**得 (de) - Bổ ngữ**\n- **Vị trí:** Sau động từ/tính từ\n- **Chức năng:** Giới thiệu bổ ngữ mô tả kết quả/mức độ/cách thức\n- **Mẫu:** Động từ/Tính từ + **得** + Bổ ngữ\n- **Ví dụ:**\n  - 跑**得**快 (chạy nhanh)\n  - 好**得**很 (rất tốt)\n  - 说**得**清楚 (nói rõ ràng)\n\n**地 (de) - Trạng ngữ**\n- **Vị trí:** Trước động từ/tính từ\n- **Chức năng:** Kết nối phó từ với động từ/tính từ\n- **Mẫu:** Phó từ + **地** + Động từ/Tính từ\n- **Ví dụ:**\n  - 仔细**地**读 (đọc cẩn thận)\n  - 快速**地**跑 (chạy nhanh)\n  - 认真**地**学习 (học nghiêm túc)\n\n**Hướng dẫn quyết định nhanh:**\n1. Nó có đứng trước danh từ không? → Dùng **的**\n2. Nó có đứng sau động từ/tính từ mô tả NHƯ THẾ NÀO/ĐẾN MỨC ĐỘ NÀO không? → Dùng **得**\n3. Nó có đứng trước động từ/tính từ kết nối phó từ không? → Dùng **地**",
+          "zh": "以下是对比，帮助您选择正确的助词：\n\n**的 (de) - 定语/所有格**\n- **位置：** 名词前\n- **功能：** 连接定语与名词\n- **模式：** 定语 + **的** + 名词\n- **例句：**\n  - 我**的**书\n  - 红色**的**花\n  - 学习**的**方法\n\n**得 (de) - 补语**\n- **位置：** 动词/形容词后\n- **功能：** 引入描述结果/程度/方式的补语\n- **模式：** 动词/形容词 + **得** + 补语\n- **例句：**\n  - 跑**得**快\n  - 好**得**很\n  - 说**得**清楚\n\n**地 (de) - 状语**\n- **位置：** 动词/形容词前\n- **功能：** 连接副词与动词/形容词\n- **模式：** 副词 + **地** + 动词/形容词\n- **例句：**\n  - 仔细**地**读\n  - 快速**地**跑\n  - 认真**地**学习\n\n**快速决策指南：**\n1. 是否在名词前？ → 用**的**\n2. 是否在动词/形容词后，描述如何/到什么程度？ → 用**得**\n3. 是否在动词/形容词前，连接副词？ → 用**地**"
+        }
+      },
+      "placeholders": [{
+        "comp1": "的",
+        "comp2": "得",
+        "comp3": "地"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes and Tips",
+          "vi": "Lỗi thường gặp và mẹo",
+          "zh": "常见错误和提示"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**Common mistakes and how to avoid them:**\n\n**Mistake 1: Confusing 的 and 得**\n- ❌ Wrong: 我跑**的**快 (I run fast)\n- ✅ Correct: 我跑**得**快\n- **Why:** 得 comes after the verb to introduce the complement \"fast\"\n\n**Mistake 2: Confusing 地 and 得**\n- ❌ Wrong: 仔细**得**读 (carefully read)\n- ✅ Correct: 仔细**地**读\n- **Why:** 地 connects the adverb \"carefully\" to the verb \"read\"\n\n**Mistake 3: Using 的 instead of 地**\n- ❌ Wrong: 认真**的**学习 (seriously study)\n- ✅ Correct: 认真**地**学习\n- **Why:** When modifying a verb with an adverb, use 地, not 的\n\n**Mistake 4: Using 地 instead of 得**\n- ❌ Wrong: 跑**地**很快 (run very fast)\n- ✅ Correct: 跑**得**很快\n- **Why:** When describing HOW FAST you run (complement), use 得 after the verb\n\n**Memory tips:**\n1. **的** = \"of\" or \"'s\" → connects to nouns\n2. **得** = \"so... that\" or \"-ly\" → comes after verb/adjective\n3. **地** = \"-ly\" → comes before verb/adjective\n\n**Practice pattern:**\n- 我**的**书 (my book - 的 + noun)\n- 我跑**得**快 (I run fast - verb + 得)\n- 我仔细**地**读 (I read carefully - adverb + 地 + verb)",
+          "vi": "**Lỗi thường gặp và cách tránh:**\n\n**Lỗi 1: Nhầm lẫn 的 và 得**\n- ❌ Sai: 我跑**的**快 (Tôi chạy nhanh)\n- ✅ Đúng: 我跑**得**快\n- **Lý do:** 得 đứng sau động từ để giới thiệu bổ ngữ \"nhanh\"\n\n**Lỗi 2: Nhầm lẫn 地 và 得**\n- ❌ Sai: 仔细**得**读 (đọc cẩn thận)\n- ✅ Đúng: 仔细**地**读\n- **Lý do:** 地 kết nối phó từ \"cẩn thận\" với động từ \"đọc\"\n\n**Lỗi 3: Dùng 的 thay vì 地**\n- ❌ Sai: 认真**的**学习 (học nghiêm túc)\n- ✅ Đúng: 认真**地**学习\n- **Lý do:** Khi bổ nghĩa cho động từ bằng phó từ, dùng 地, không phải 的\n\n**Lỗi 4: Dùng 地 thay vì 得**\n- ❌ Sai: 跑**地**很快 (chạy rất nhanh)\n- ✅ Đúng: 跑**得**很快\n- **Lý do:** Khi mô tả BẠN CHẠY NHANH NHƯ THẾ NÀO (bổ ngữ), dùng 得 sau động từ\n\n**Mẹo ghi nhớ:**\n1. **的** = \"của\" hoặc \"'s\" → kết nối với danh từ\n2. **得** = \"đến mức\" hoặc \"-ly\" → đứng sau động từ/tính từ\n3. **地** = \"-ly\" → đứng trước động từ/tính từ\n\n**Mẫu luyện tập:**\n- 我**的**书 (sách của tôi - 的 + danh từ)\n- 我跑**得**快 (Tôi chạy nhanh - động từ + 得)\n- 我仔细**地**读 (Tôi đọc cẩn thận - phó từ + 地 + động từ)",
+          "zh": "**常见错误及避免方法：**\n\n**错误1：混淆 的 和 得**\n- ❌ 错误：我跑**的**快\n- ✅ 正确：我跑**得**快\n- **原因：** 得位于动词后，引入补语\"快\"\n\n**错误2：混淆 地 和 得**\n- ❌ 错误：仔细**得**读\n- ✅ 正确：仔细**地**读\n- **原因：** 地连接副词\"仔细\"与动词\"读\"\n\n**错误3：用 的 代替 地**\n- ❌ 错误：认真**的**学习\n- ✅ 正确：认真**地**学习\n- **原因：** 用副词修饰动词时，用 地，不用 的\n\n**错误4：用 地 代替 得**\n- ❌ 错误：跑**地**很快\n- ✅ 正确：跑**得**很快\n- **原因：** 描述跑得如何快（补语）时，动词后用 得\n\n**记忆技巧：**\n1. **的** = \"的\"或\"'s\" → 连接名词\n2. **得** = \"得\"或\"-ly\" → 位于动词/形容词后\n3. **地** = \"-ly\" → 位于动词/形容词前\n\n**练习模式：**\n- 我**的**书（的 + 名词）\n- 我跑**得**快（动词 + 得）\n- 我仔细**地**读（副词 + 地 + 动词）"
+        }
+      },
+      "placeholders": [{
+        "tip1": "的",
+        "tip2": "得",
+        "tip3": "地"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Practice Examples",
+          "vi": "Ví dụ luyện tập",
+          "zh": "练习例句"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**Practice identifying which particle to use:**\n\n**Examples with 的:**\n- 这**是**我**的**新书。 (This is my new book.)\n- 他**的**朋友很友好。 (His friend is very friendly.)\n- 红色**的**苹果很甜。 (Red apples are very sweet.)\n- 学习**的**方法很重要。 (Learning methods are important.)\n- 那**是**我**的**。 (That is mine.)\n\n**Examples with 得:**\n- 他跑**得**很快。 (He runs very fast.)\n- 这个菜做**得**很好吃。 (This dish is cooked very deliciously.)\n- 她说**得**很清楚。 (She speaks very clearly.)\n- 我累**得**走不动了。 (I'm so tired I can't walk.)\n- 我**听**得**懂中文。 (I can understand Chinese.)\n\n**Examples with 地:**\n- 他仔细**地**看书。 (He carefully reads books.)\n- 学生们认真**地**听讲。 (Students listen attentively.)\n- 她高兴**地**笑了。 (She smiled happily.)\n- 他慢慢**地**走过来。 (He slowly walked over.)\n- 我们要努力**地**学习。 (We must study hard.)\n\n**Mixed examples:**\n- 我**的**朋友跑**得**很快。 (My friend runs very fast.)\n- 他认真**地**读我**的**书。 (He carefully reads my book.)\n- 这个菜做**得**很好吃，我高兴**地**吃了。 (This dish is cooked very deliciously, I ate it happily.)",
+          "vi": "**Luyện tập xác định trợ từ nào cần sử dụng:**\n\n**Ví dụ với 的:**\n- 这**是**我**的**新书。 (Đây là cuốn sách mới của tôi.)\n- 他**的**朋友很友好。 (Bạn của anh ấy rất thân thiện.)\n- 红色**的**苹果很甜。 (Táo màu đỏ rất ngọt.)\n- 学习**的**方法很重要。 (Phương pháp học tập rất quan trọng.)\n- 那**是**我**的**。 (Đó là của tôi.)\n\n**Ví dụ với 得:**\n- 他跑**得**很快。 (Anh ấy chạy rất nhanh.)\n- 这个菜做**得**很好吃。 (Món ăn này được nấu rất ngon.)\n- 她说**得**很清楚。 (Cô ấy nói rất rõ ràng.)\n- 我累**得**走不动了。 (Tôi mệt đến mức không thể đi được.)\n- 我**听**得**懂中文。 (Tôi có thể hiểu tiếng Trung.)\n\n**Ví dụ với 地:**\n- 他仔细**地**看书。 (Anh ấy cẩn thận đọc sách.)\n- 学生们认真**地**听讲。 (Học sinh chăm chú nghe giảng.)\n- 她高兴**地**笑了。 (Cô ấy cười vui vẻ.)\n- 他慢慢**地**走过来。 (Anh ấy từ từ đi lại.)\n- 我们要努力**地**学习。 (Chúng ta phải học chăm chỉ.)\n\n**Ví dụ hỗn hợp:**\n- 我**的**朋友跑**得**很快。 (Bạn của tôi chạy rất nhanh.)\n- 他认真**地**读我**的**书。 (Anh ấy cẩn thận đọc sách của tôi.)\n- 这个菜做**得**很好吃，我高兴**地**吃了。 (Món ăn này được nấu rất ngon, tôi đã ăn một cách vui vẻ.)",
+          "zh": "**练习识别应使用哪个助词：**\n\n**使用 的 的例句：**\n- 这**是**我**的**新书。\n- 他**的**朋友很友好。\n- 红色**的**苹果很甜。\n- 学习**的**方法很重要。\n- 那**是**我**的**。\n\n**使用 得 的例句：**\n- 他跑**得**很快。\n- 这个菜做**得**很好吃。\n- 她说**得**很清楚。\n- 我累**得**走不动了。\n- 我**听**得**懂中文。\n\n**使用 地 的例句：**\n- 他仔细**地**看书。\n- 学生们认真**地**听讲。\n- 她高兴**地**笑了。\n- 他慢慢**地**走过来。\n- 我们要努力**地**学习。\n\n**混合例句：**\n- 我**的**朋友跑**得**很快。\n- 他认真**地**读我**的**书。\n- 这个菜做**得**很好吃，我高兴**地**吃了。"
+        }
+      },
+      "placeholders": [{
+        "prac1": "的",
+        "prac2": "得",
+        "prac3": "地",
+        "prac4": "的",
+        "prac5": "得",
+        "prac6": "地"
+      }]
+    }
+  ]
+}

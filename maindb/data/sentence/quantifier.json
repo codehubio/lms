@@ -1,0 +1,38 @@
+[{
+  "sentence": "我工作八小时。",
+  "tags": ["quantifier"],
+  "pinyin1": "wǒ gōng zuò bā xiǎo shí",
+  "pinyin2": "wo3 go1ng zuo4 ba1 xia3o shi2",
+  "translation": {
+    "en": "I work for eight hours.",
+    "vi": "Tôi làm việc tám giờ."
+  }
+}, {
+  "sentence": "我买了三公斤苹果。",
+  "tags": ["quantifier"],
+  "pinyin1": "wǒ mǎi le sān gōng jīn píng guǒ",
+  "pinyin2": "wo3 ma3i le sa1n go1ng ji1n pi2ng guo3",
+  "translation": {
+    "en": "I bought three kilograms of apples.",
+    "vi": "Tôi đã mua ba ki-lô-gam táo."
+  }
+}, {
+  "sentence": "我住在第三层。",
+  "tags": ["quantifier"],
+  "pinyin1": "wǒ zhù zài dì sān céng",
+  "pinyin2": "wo3 zhu4 za4i di4 sa1n ce2ng",
+  "translation": {
+    "en": "I live on the third floor.",
+    "vi": "Tôi sống ở tầng ba."
+  }
+}, {
+  "sentence": "我买了一辆车。",
+  "tags": ["quantifier"],
+  "pinyin1": "wǒ mǎi le yī liàng chē",
+  "pinyin2": "wo3 ma3i le yi1 lia4ng che1",
+  "translation": {
+    "en": "I bought a car.",
+    "vi": "Tôi đã mua một chiếc xe."
+  }
+}]
+

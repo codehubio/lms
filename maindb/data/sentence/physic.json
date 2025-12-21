@@ -1,0 +1,64 @@
+[{
+  "sentence": "通过分析光谱可以了解物质的成分。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "tōng guò fēn xī guāng pǔ kě yǐ liǎo jiě wù zhì de chéng fèn",
+  "pinyin2": "tong1 guo4 fen1 xi1 guang1 pu3 ke3 yi3 liao3 jie3 wu4 zhi4 de cheng2 fen4",
+  "translation": {
+    "en": "By analyzing the spectrum, we can understand the composition of matter.",
+    "vi": "Bằng cách phân tích quang phổ, chúng ta có thể hiểu thành phần của vật chất."
+  }
+}, {
+  "sentence": "温度是表示物体冷热程度的物理量。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "wēn dù shì biǎo shì wù tǐ lěng rè chéng dù de wù lǐ liàng",
+  "pinyin2": "wen1 du4 shi4 biao3 shi4 wu4 ti3 leng3 re4 cheng2 du4 de wu4 li3 liang4",
+  "translation": {
+    "en": "Temperature is a physical quantity that represents the degree of hotness or coldness of an object.",
+    "vi": "Nhiệt độ là đại lượng vật lý biểu thị mức độ nóng lạnh của vật thể."
+  }
+}, {
+  "sentence": "核聚变是太阳产生能量的方式。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "hé jù biàn shì tài yáng chǎn shēng néng liàng de fāng shì",
+  "pinyin2": "he2 ju4 bian4 shi4 tai4 yang2 chan3 sheng1 neng2 liang4 de fang1 shi4",
+  "translation": {
+    "en": "Nuclear fusion is how the sun produces energy.",
+    "vi": "Phản ứng nhiệt hạch là cách mặt trời tạo ra năng lượng."
+  }
+}, {
+  "sentence": "磁场是磁力作用的区域。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "cí chǎng shì cí lì zuò yòng de qū yù",
+  "pinyin2": "ci2 chang3 shi4 ci2 li4 zuo4 yong4 de qu1 yu4",
+  "translation": {
+    "en": "A magnetic field is a region where magnetic forces act.",
+    "vi": "Từ trường là vùng mà lực từ tác dụng."
+  }
+}, {
+  "sentence": "透镜的焦点是光线汇聚的点。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "tòu jìng de jiāo diǎn shì guāng xiàn huì jù de diǎn",
+  "pinyin2": "tou4 jing4 de jiao1 dian3 shi4 guang1 xian4 hui4 ju4 de dian3",
+  "translation": {
+    "en": "The focus of a lens is the point where light rays converge.",
+    "vi": "Tiêu điểm của thấu kính là điểm mà các tia sáng hội tụ."
+  }
+}, {
+  "sentence": "物体的体积可以通过排水法测量。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "wù tǐ de tǐ jī kě yǐ tōng guò pái shuǐ fǎ cè liáng",
+  "pinyin2": "wu4 ti3 de ti3 ji1 ke3 yi3 tong1 guo4 pai2 shui3 fa3 ce4 liang2",
+  "translation": {
+    "en": "The volume of an object can be measured by the water displacement method.",
+    "vi": "Thể tích của vật thể có thể được đo bằng phương pháp dời nước."
+  }
+}, {
+  "sentence": "振动是物体在平衡位置附近的往复运动。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "zhèn dòng shì wù tǐ zài píng héng wèi zhì fù jìn de wǎng fù yùn dòng",
+  "pinyin2": "zhen4 dong4 shi4 wu4 ti3 zai4 ping2 heng2 wei4 zhi4 fu4 jin4 de wang3 fu4 yun4 dong4",
+  "translation": {
+    "en": "Vibration is the oscillatory motion of an object around its equilibrium position.",
+    "vi": "Dao động là chuyển động qua lại của vật thể xung quanh vị trí cân bằng của nó."
+  }
+}]

@@ -1,0 +1,121 @@
+{
+  "id": "suoyou-quanbu",
+  "title": "所有 vs 全部",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "所有 vs 全部",
+    "vi": "所有 vs 全部",
+    "zh": "所有 vs 全部"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "所有 vs 全部 - Overview",
+          "vi": "所有 vs 全部 - Tổng quan",
+          "zh": "所有 vs 全部 - 概述"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Both **所有** (suǒyǒu) and **全部** (quánbù) mean \"all\" or \"entire\" in English, but they are used in different contexts and have subtle differences in meaning.\n\n**Key differences:**\n- **所有** emphasizes \"all\" in the sense of \"every one\" or \"everything that belongs to\" - it focuses on individual items in a collection\n- **全部** emphasizes \"entire\" or \"complete\" in the sense of \"the whole thing\" - it focuses on the completeness of a single entity or group\n- **所有** is more commonly used as an attributive (before nouns)\n- **全部** can be used as both an attributive and an adverbial (can modify verbs)\n\n**Basic examples:**\n- **所有**的学生都来了。 (All the students came.)\n- 我**全部**完成了。 (I completed everything.)",
+          "vi": "Cả **所有** (suǒyǒu) và **全部** (quánbù) đều có nghĩa là \"tất cả\" hoặc \"toàn bộ\" trong tiếng Anh, nhưng chúng được sử dụng trong các ngữ cảnh khác nhau và có sự khác biệt tinh tế về ý nghĩa.\n\n**Sự khác biệt chính:**\n- **所有** nhấn mạnh \"tất cả\" theo nghĩa \"mỗi một\" hoặc \"tất cả những gì thuộc về\" - tập trung vào từng mục trong một tập hợp\n- **全部** nhấn mạnh \"toàn bộ\" hoặc \"hoàn toàn\" theo nghĩa \"toàn bộ sự việc\" - tập trung vào tính hoàn chỉnh của một thực thể hoặc nhóm đơn lẻ\n- **所有** thường được sử dụng như một định ngữ (trước danh từ)\n- **全部** có thể được sử dụng như cả định ngữ và trạng ngữ (có thể bổ nghĩa cho động từ)\n\n**Ví dụ cơ bản:**\n- **所有**的学生都来了。 (Tất cả học sinh đều đến.)\n- 我**全部**完成了。 (Tôi đã hoàn thành tất cả.)",
+          "zh": "**所有**（suǒyǒu）和**全部**（quánbù）在英语中都表示\"all\"或\"entire\"，但它们的使用语境不同，含义也有细微差别。\n\n**主要区别：**\n- **所有**强调\"所有\"，指\"每一个\"或\"属于某物的全部\"——侧重于集合中的各个项目\n- **全部**强调\"全部\"或\"完整\"，指\"整个事物\"——侧重于单个实体或群体的完整性\n- **所有**更常用作定语（位于名词前）\n- **全部**既可用作定语，也可用作状语（可修饰动词）\n\n**基本例句：**\n- **所有**的学生都来了。\n- 我**全部**完成了。"
+        }
+      },
+      "placeholders": [{
+        "word1": "所有",
+        "word2": "全部"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "所有 (suǒyǒu) - Usage and Examples",
+          "vi": "所有 (suǒyǒu) - Cách sử dụng và ví dụ",
+          "zh": "所有 (suǒyǒu) - 用法和例句"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**所有** (suǒyǒu) means \"all\" and emphasizes individual items in a collection. It is primarily used as an attributive before nouns.\n\n**Key characteristics:**\n- Used before nouns to mean \"all\" or \"every\"\n- Emphasizes each individual item in a group\n- Often used with **的** (de) particle\n- Can be used with abstract concepts\n- Commonly used in formal and written language\n\n**Examples:**\n- **所有**的学生都参加了考试。 (All students took the exam.)\n- 我**所有**的朋友都很友好。 (All my friends are very friendly.)\n- **所有**的问题都已经解决了。 (All problems have been solved.)\n- 这是**所有**人的责任。 (This is everyone's responsibility.)\n- **所有**的答案都是正确的。 (All answers are correct.)",
+          "vi": "**所有** (suǒyǒu) có nghĩa là \"tất cả\" và nhấn mạnh từng mục riêng lẻ trong một tập hợp. Nó chủ yếu được sử dụng như một định ngữ trước danh từ.\n\n**Đặc điểm chính:**\n- Được sử dụng trước danh từ để có nghĩa \"tất cả\" hoặc \"mỗi\"\n- Nhấn mạnh từng mục riêng lẻ trong một nhóm\n- Thường được sử dụng với trợ từ **的** (de)\n- Có thể được sử dụng với các khái niệm trừu tượng\n- Thường được sử dụng trong ngôn ngữ trang trọng và văn viết\n\n**Ví dụ:**\n- **所有**的学生都参加了考试。 (Tất cả học sinh đều tham gia kỳ thi.)\n- 我**所有**的朋友都很友好。 (Tất cả bạn bè của tôi đều rất thân thiện.)\n- **所有**的问题都已经解决了。 (Tất cả vấn đề đều đã được giải quyết.)\n- 这是**所有**人的责任。 (Đây là trách nhiệm của tất cả mọi người.)\n- **所有**的答案都是正确的。 (Tất cả câu trả lời đều đúng.)",
+          "zh": "**所有**（suǒyǒu）表示\"所有\"，强调集合中的各个项目。主要用作名词前的定语。\n\n**主要特点：**\n- 位于名词前，表示\"所有\"或\"每一个\"\n- 强调群体中的每个个体\n- 常与助词**的**（de）连用\n- 可用于抽象概念\n- 常用于正式和书面语\n\n**例句：**\n- **所有**的学生都参加了考试。\n- 我**所有**的朋友都很友好。\n- **所有**的问题都已经解决了。\n- 这是**所有**人的责任。\n- **所有**的答案都是正确的。"
+        }
+      },
+      "placeholders": [{
+        "suoyou1": "所有",
+        "suoyou2": "所有",
+        "suoyou3": "所有",
+        "suoyou4": "所有",
+        "suoyou5": "所有"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "全部 (quánbù) - Usage and Examples",
+          "vi": "全部 (quánbù) - Cách sử dụng và ví dụ",
+          "zh": "全部 (quánbù) - 用法和例句"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**全部** (quánbù) means \"entire\" or \"complete\" and emphasizes the wholeness or completeness of something. It can be used as both an attributive and an adverbial.\n\n**Key characteristics:**\n- Can be used before nouns (attributive) or after verbs (adverbial)\n- Emphasizes the completeness or entirety of a whole\n- Often used to describe the completion of an action\n- More flexible in sentence position than **所有**\n- Commonly used in both spoken and written language\n\n**Examples:**\n- 我**全部**完成了作业。 (I completed all the homework.)\n- **全部**的人都到了。 (All people have arrived.)\n- 他把**全部**的钱都花完了。 (He spent all the money.)\n- 这些书我**全部**都读过了。 (I have read all these books.)\n- **全部**的工作已经做完了。 (All the work has been completed.)",
+          "vi": "**全部** (quánbù) có nghĩa là \"toàn bộ\" hoặc \"hoàn toàn\" và nhấn mạnh tính toàn vẹn hoặc tính hoàn chỉnh của một cái gì đó. Nó có thể được sử dụng như cả định ngữ và trạng ngữ.\n\n**Đặc điểm chính:**\n- Có thể được sử dụng trước danh từ (định ngữ) hoặc sau động từ (trạng ngữ)\n- Nhấn mạnh tính hoàn chỉnh hoặc tính toàn vẹn của một tổng thể\n- Thường được sử dụng để mô tả sự hoàn thành của một hành động\n- Linh hoạt hơn về vị trí trong câu so với **所有**\n- Thường được sử dụng trong cả ngôn ngữ nói và viết\n\n**Ví dụ:**\n- 我**全部**完成了作业。 (Tôi đã hoàn thành tất cả bài tập.)\n- **全部**的人都到了。 (Tất cả mọi người đều đã đến.)\n- 他把**全部**的钱都花完了。 (Anh ấy đã tiêu hết tất cả tiền.)\n- 这些书我**全部**都读过了。 (Tôi đã đọc hết tất cả những cuốn sách này.)\n- **全部**的工作已经做完了。 (Tất cả công việc đã được hoàn thành.)",
+          "zh": "**全部**（quánbù）表示\"全部\"或\"完整\"，强调事物的整体性或完整性。既可用作定语，也可用作状语。\n\n**主要特点：**\n- 可用于名词前（定语）或动词后（状语）\n- 强调整体的完整性或全部性\n- 常用于描述动作的完成\n- 在句中的位置比**所有**更灵活\n- 常用于口语和书面语\n\n**例句：**\n- 我**全部**完成了作业。\n- **全部**的人都到了。\n- 他把**全部**的钱都花完了。\n- 这些书我**全部**都读过了。\n- **全部**的工作已经做完了。"
+        }
+      },
+      "placeholders": [{
+        "quanbu1": "全部",
+        "quanbu2": "全部",
+        "quanbu3": "全部",
+        "quanbu4": "全部",
+        "quanbu5": "全部"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Key Differences and When to Use Each",
+          "vi": "Sự khác biệt chính và khi nào sử dụng từng từ",
+          "zh": "主要区别和使用时机"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding when to use **所有** vs **全部**:\n\n**Use 所有 when:**\n- Describing individual items in a collection (\"all students\", \"all books\")\n- Emphasizing each member of a group\n- Used as an attributive before nouns\n- In formal or written contexts\n\n**Use 全部 when:**\n- Emphasizing the completeness or entirety of something\n- Describing the completion of an action (can be used as an adverbial)\n- Wanting more flexibility in sentence structure\n- In both formal and informal contexts\n\n**Comparison examples:**\n- **所有**的学生都来了。 (All students came - emphasizes each student)\n- 学生**全部**都来了。 (Students all came - emphasizes completeness)\n- **所有**的书都在这里。 (All books are here - emphasizes each book)\n- 书**全部**都在这里。 (Books are all here - emphasizes completeness)\n\n**Note:** In many cases, both can be used, but the emphasis is different.",
+          "vi": "Hiểu khi nào sử dụng **所有** vs **全部**:\n\n**Sử dụng 所有 khi:**\n- Mô tả từng mục riêng lẻ trong một tập hợp (\"tất cả học sinh\", \"tất cả sách\")\n- Nhấn mạnh từng thành viên của một nhóm\n- Được sử dụng như một định ngữ trước danh từ\n- Trong các ngữ cảnh trang trọng hoặc văn viết\n\n**Sử dụng 全部 khi:**\n- Nhấn mạnh tính hoàn chỉnh hoặc tính toàn vẹn của một cái gì đó\n- Mô tả sự hoàn thành của một hành động (có thể được sử dụng như một trạng ngữ)\n- Muốn có sự linh hoạt hơn trong cấu trúc câu\n- Trong cả ngữ cảnh trang trọng và không trang trọng\n\n**Ví dụ so sánh:**\n- **所有**的学生都来了。 (Tất cả học sinh đều đến - nhấn mạnh từng học sinh)\n- 学生**全部**都来了。 (Học sinh tất cả đều đến - nhấn mạnh tính hoàn chỉnh)\n- **所有**的书都在这里。 (Tất cả sách đều ở đây - nhấn mạnh từng cuốn sách)\n- 书**全部**都在这里。 (Sách tất cả đều ở đây - nhấn mạnh tính hoàn chỉnh)\n\n**Lưu ý:** Trong nhiều trường hợp, cả hai đều có thể được sử dụng, nhưng sự nhấn mạnh là khác nhau.",
+          "zh": "了解何时使用**所有**与**全部**：\n\n**使用 所有 当：**\n- 描述集合中的各个项目（\"所有学生\"、\"所有书\"）\n- 强调群体中的每个成员\n- 用作名词前的定语\n- 在正式或书面语境中\n\n**使用 全部 当：**\n- 强调事物的完整性或全部性\n- 描述动作的完成（可用作状语）\n- 需要更灵活的句子结构\n- 在正式和非正式语境中\n\n**对比例句：**\n- **所有**的学生都来了。（强调每个学生）\n- 学生**全部**都来了。（强调完整性）\n- **所有**的书都在这里。（强调每本书）\n- 书**全部**都在这里。（强调完整性）\n\n**注意：** 在许多情况下，两者都可以使用，但强调的重点不同。"
+        }
+      },
+      "placeholders": [{
+        "comp1": "所有",
+        "comp2": "全部",
+        "comp3": "所有",
+        "comp4": "全部"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Phrases and Fixed Expressions",
+          "vi": "Cụm từ thông dụng và cách diễn đạt cố định",
+          "zh": "常用短语和固定表达"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are some common phrases and fixed expressions using **所有** and **全部**:\n\n**Common phrases with 所有:**\n- **所有**人 (all people, everyone)\n- **所有**的 (all of, everything)\n- **所有**权 (ownership, property rights)\n- **所有**制 (ownership system)\n- 在**所有**情况下 (in all cases)\n\n**Common phrases with 全部:**\n- **全部**完成 (completely finished)\n- **全部**结束 (all over, completely ended)\n- **全部**内容 (all content, entire content)\n- **全部**责任 (full responsibility)\n- **全部**时间 (all the time, entire time)\n\n**Examples:**\n- **所有**人都应该遵守规则。 (Everyone should follow the rules.)\n- 我**全部**完成了任务。 (I completely finished the task.)\n- 这是**所有**人的权利。 (This is everyone's right.)\n- 他**全部**都说了。 (He said everything.)",
+          "vi": "Dưới đây là một số cụm từ thông dụng và cách diễn đạt cố định sử dụng **所有** và **全部**:\n\n**Cụm từ thông dụng với 所有:**\n- **所有**人 (tất cả mọi người, mọi người)\n- **所有**的 (tất cả, mọi thứ)\n- **所有**权 (quyền sở hữu)\n- **所有**制 (chế độ sở hữu)\n- 在**所有**情况下 (trong tất cả các trường hợp)\n\n**Cụm từ thông dụng với 全部:**\n- **全部**完成 (hoàn thành hoàn toàn)\n- **全部**结束 (kết thúc hoàn toàn)\n- **全部**内容 (toàn bộ nội dung)\n- **全部**责任 (trách nhiệm hoàn toàn)\n- **全部**时间 (toàn bộ thời gian)\n\n**Ví dụ:**\n- **所有**人都应该遵守规则。 (Mọi người đều nên tuân theo quy tắc.)\n- 我**全部**完成了任务。 (Tôi đã hoàn thành hoàn toàn nhiệm vụ.)\n- 这是**所有**人的权利。 (Đây là quyền của tất cả mọi người.)\n- 他**全部**都说了。 (Anh ấy đã nói tất cả.)",
+          "zh": "以下是一些使用**所有**和**全部**的常用短语和固定表达：\n\n**所有 的常用短语：**\n- **所有**人（所有人，每个人）\n- **所有**的（所有的，一切）\n- **所有**权（所有权，财产权）\n- **所有**制（所有制）\n- 在**所有**情况下（在所有情况下）\n\n**全部 的常用短语：**\n- **全部**完成（全部完成）\n- **全部**结束（全部结束）\n- **全部**内容（全部内容）\n- **全部**责任（全部责任）\n- **全部**时间（全部时间）\n\n**例句：**\n- **所有**人都应该遵守规则。\n- 我**全部**完成了任务。\n- 这是**所有**人的权利。\n- 他**全部**都说了。"
+        }
+      },
+      "placeholders": [{
+        "phrase1": "所有",
+        "phrase2": "全部",
+        "phrase3": "所有",
+        "phrase4": "全部"
+      }]
+    }
+  ]
+}
