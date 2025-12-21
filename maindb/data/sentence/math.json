@@ -22,5 +22,17 @@
       "en": "This ratio is one to three.",
       "vi": "Tỷ lệ này là một đối ba."
     }
+  },
+  {
+    "sentence": "这两个三角形相似。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè liǎng gè sān jiǎo xíng xiāng sì",
+    "pinyin2": "zhe4 liang3 ge4 san1 jiao3 xing2 xiang1 si4",
+    "translation": {
+      "en": "These two triangles are similar.",
+      "vi": "Hai tam giác này tương tự nhau."
+    }
   }
 ]
