@@ -23,10 +23,6 @@ RUN npm ci
 # Copy source code (excluding files in .dockerignore)
 COPY . .
 
-# Explicitly copy database file (needed for build-time static generation)
-# This must be done separately because .dockerignore excludes *.duckdb
-COPY data/database.duckdb data/database.duckdb
-
 ENV NODE_ENV=production
 
 # Build the application
