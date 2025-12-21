@@ -12,8 +12,6 @@ services:
     environment:
       - NODE_ENV=production
       - PORT=3333
-    env_file:
-      - ./ui/.env
     restart: unless-stopped
   seaweed-master:
     image: chrislusf/seaweedfs:latest

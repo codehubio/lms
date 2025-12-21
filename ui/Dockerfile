@@ -1,6 +1,15 @@
 # Stage 1: Dependencies
-FROM node:24-alpine
+# Use Debian-based image instead of Alpine for DuckDB compatibility
+# DuckDB requires glibc which is not available in Alpine (musl)
+FROM node:24-slim
 WORKDIR /app
+
+# Install required system libraries for DuckDB native bindings
+RUN apt-get update && apt-get install -y \
+    python3 \
+    make \
+    g++ \
+    && rm -rf /var/lib/apt/lists/*
 
 # Set Node.js options for increased memory during build
 ENV NODE_OPTIONS="--max-old-space-size=4096"
