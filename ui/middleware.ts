@@ -20,7 +20,7 @@ export const config = {
      * - favicon.ico, icon.svg (favicon files)
      * - files with image extensions (png, jpg, etc.)
      */
-    '/((?!api|_next/static|_next/image|favicon.ico|icon.svg|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico)$).*)',
+    '/((?!api|_next/static|_next/image|favicon.ico|icon.svg|sitemap\\.xml|robots\\.txt|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico)$).*)',
     '/', // Explicitly include root path
   ],
 };

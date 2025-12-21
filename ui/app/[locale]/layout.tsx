@@ -1,15 +1,7 @@
 import type { Metadata } from 'next';
-import { Outfit } from 'next/font/google';
 import NavBar from '@/components/NavBar';
 import { locales, type Locale, defaultLocale } from '@/proxy';
 import { getUiText } from '@/lib/ui-text';
-import '../globals.css';
-
-const outfit = Outfit({
-  subsets: ['latin'],
-  weight: ['400', '600', '800'],
-  variable: '--font-outfit',
-});
 
 /**
  * Generate metadata for the locale layout with multilingual support
@@ -62,13 +54,13 @@ export default async function LocaleLayout({
   const { locale } = await params;
   const validLocale: Locale = locales.includes(locale as Locale) ? (locale as Locale) : defaultLocale;
   
+  // Nested layout should not have html/body tags
+  // The root layout provides those
   return (
-    <html lang={validLocale} suppressHydrationWarning>
-      <body className={`${outfit.variable} font-sans`} suppressHydrationWarning>
-        <NavBar />
-        {children}
-      </body>
-    </html>
+    <>
+      <NavBar />
+      {children}
+    </>
   );
 }
 

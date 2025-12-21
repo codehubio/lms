@@ -8,9 +8,11 @@ import { fetchGrammarEntries } from '@/lib/data';
  */
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Determine base URL from environment variables or use default
+  // Priority: NEXT_PUBLIC_BASE_URL > VERCEL_URL > default
+  // Set NEXT_PUBLIC_BASE_URL in .env.local or your deployment platform
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 
     (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : null) ||
-    'https://yourdomain.com'; // Update this with your actual domain
+    'https://lms.codehub.io'; // Default domain - update this or set NEXT_PUBLIC_BASE_URL
   
   const entries: MetadataRoute.Sitemap = [];
   

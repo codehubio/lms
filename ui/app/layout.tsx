@@ -1,5 +1,12 @@
 import type { Metadata } from 'next'
+import { Outfit } from 'next/font/google'
 import './globals.css'
+
+const outfit = Outfit({
+  subsets: ['latin'],
+  weight: ['400', '600', '800'],
+  variable: '--font-outfit',
+})
 
 export const metadata: Metadata = {
   title: 'Chinese LMS',
@@ -16,7 +23,14 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
-  // Root layout just passes through - locale layout provides html/body
-  return children
+  // Root layout must have html and body tags for Next.js
+  // This is required for metadata routes like sitemap to work properly
+  return (
+    <html>
+      <body className={`${outfit.variable} font-sans`}>
+        {children}
+      </body>
+    </html>
+  )
 }
 

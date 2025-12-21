@@ -9,6 +9,12 @@ export const defaultLocale: Locale = 'en';
 export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  // Exclude metadata routes (sitemap, robots.txt, etc.) from locale redirection
+  const metadataRoutes = ['/sitemap.xml', '/robots.txt', '/manifest.json'];
+  if (metadataRoutes.some(route => pathname === route || pathname.startsWith(route))) {
+    return NextResponse.next();
+  }
+
   // Check if pathname already has a locale
   const pathnameHasLocale = locales.some(
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
