@@ -20,8 +20,12 @@ COPY package.json package-lock.json ./
 # Install all dependencies (including devDependencies for tsx)
 RUN npm ci
 
-# Copy source code
+# Copy source code (excluding files in .dockerignore)
 COPY . .
+
+# Explicitly copy database file (needed for build-time static generation)
+# This must be done separately because .dockerignore excludes *.duckdb
+COPY data/database.duckdb data/database.duckdb
 
 ENV NODE_ENV=production
 
