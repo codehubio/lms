@@ -220,6 +220,19 @@
         "vi": "Từ vựng liên quan đến học tập và giáo dục",
         "zh": "学习和教育相关词汇"
       }
+    },
+    {
+      "name": "economy",
+      "display_name": {
+        "en": "Economy",
+        "vi": "Kinh tế",
+        "zh": "经济"
+      },
+      "description": {
+        "en": "Economy, finance, business, and commerce related vocabulary",
+        "vi": "Từ vựng liên quan đến kinh tế, tài chính, kinh doanh và thương mại",
+        "zh": "经济、金融、商业和贸易相关词汇"
+      }
     }]
 }, {
   "name": "science",
