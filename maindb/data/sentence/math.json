@@ -10,5 +10,17 @@
       "en": "This ship has a load capacity of one thousand tons.",
       "vi": "Con tàu này có trọng tải một nghìn tấn."
     }
+  },
+  {
+    "sentence": "这个比例是一比三。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè bǐ lì shì yī bǐ sān",
+    "pinyin2": "zhe4 ge4 bi3 li4 shi4 yi1 bi3 san1",
+    "translation": {
+      "en": "This ratio is one to three.",
+      "vi": "Tỷ lệ này là một đối ba."
+    }
   }
 ]
