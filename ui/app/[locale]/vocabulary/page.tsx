@@ -6,6 +6,7 @@ import VocabularyTagFilter from '@/components/VocabularyTagFilter';
 import VocabularyPagination from '@/components/VocabularyPagination';
 import { locales, type Locale, defaultLocale } from '@/proxy';
 import { getUiText } from '@/lib/ui-text';
+import { generateSEOMetadata } from '@/lib/seo';
 import type { Metadata } from 'next';
 
 // Disable static generation - page needs database access
@@ -33,18 +34,17 @@ export async function generateMetadata({ params }: VocabularyPageProps): Promise
   // Fallback to English if translation is missing
   const fallbackText = await getUiText('en');
   
-  const title = text.dictionary?.title || fallbackText.dictionary?.title || 'Chinese Vocabulary Dictionary';
+  const pageTitle = text.dictionary?.title || fallbackText.dictionary?.title || 'Chinese Vocabulary Dictionary';
   const description = text.dictionary?.subtitle || fallbackText.dictionary?.subtitle || 'Comprehensive HSK vocabulary with pinyin, translations, and search functionality';
+  const title = `${pageTitle} - ${text.nav?.dictionary || fallbackText.nav?.dictionary || 'Vocabulary'}`;
   
-  return {
-    title: `${title} - ${text.nav?.dictionary || fallbackText.nav?.dictionary || 'Vocabulary'}`,
+  return generateSEOMetadata({
+    title,
     description,
-    openGraph: {
-      title: `${title} - ${text.nav?.dictionary || fallbackText.nav?.dictionary || 'Vocabulary'}`,
-      description,
-      locale: validLocale,
-    },
-  };
+    locale: validLocale,
+    path: `/${validLocale}/vocabulary`,
+    keywords: ['HSK vocabulary', 'Chinese dictionary', 'vocabulary search', 'Chinese words', 'pinyin'],
+  });
 }
 
 /**

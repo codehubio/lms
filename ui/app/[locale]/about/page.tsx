@@ -1,5 +1,6 @@
 import { locales, type Locale, defaultLocale } from '@/proxy';
 import { getUiText } from '@/lib/ui-text';
+import { generateSEOMetadata } from '@/lib/seo';
 import Footer from '@/components/Footer';
 import type { Metadata } from 'next';
 
@@ -21,18 +22,17 @@ export async function generateMetadata({ params }: AboutPageProps): Promise<Meta
   // Fallback to English if translation is missing
   const fallbackText = await getUiText('en');
   
-  const title = text.about?.title || fallbackText.about?.title || 'About';
+  const pageTitle = text.about?.title || fallbackText.about?.title || 'About';
   const description = text.about?.description || fallbackText.about?.description || 'Learn about the Chinese Vocabulary Dictionary';
+  const title = `${pageTitle} - ${text.nav?.brand || fallbackText.nav?.brand || 'Chinese Vocabulary'}`;
   
-  return {
-    title: `${title} - ${text.nav?.brand || fallbackText.nav?.brand || 'Chinese Vocabulary'}`,
+  return generateSEOMetadata({
+    title,
     description,
-    openGraph: {
-      title: `${title} - ${text.nav?.brand || fallbackText.nav?.brand || 'Chinese Vocabulary'}`,
-      description,
-      locale: validLocale,
-    },
-  };
+    locale: validLocale,
+    path: `/${validLocale}/about`,
+    keywords: ['about', 'Chinese learning', 'vocabulary dictionary'],
+  });
 }
 
 /**

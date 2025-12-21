@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import NavBar from '@/components/NavBar';
 import { locales, type Locale, defaultLocale } from '@/proxy';
 import { getUiText } from '@/lib/ui-text';
+import { generateSEOMetadata } from '@/lib/seo';
 
 /**
  * Generate metadata for the locale layout with multilingual support
@@ -18,25 +19,27 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     const description = text.metadata?.description || fallbackText.metadata?.description || 'Master Chinese vocabulary with comprehensive HSK word lists, pinyin, and translations. Search and explore thousands of Chinese words.';
     
     return {
-      title,
-      description,
+      ...generateSEOMetadata({
+        title,
+        description,
+        locale: validLocale,
+        path: `/${validLocale}`,
+        keywords: ['HSK vocabulary', 'Chinese learning', 'Mandarin dictionary'],
+      }),
       icons: {
         icon: '/icon.svg',
         shortcut: '/icon.svg',
         apple: '/icon.svg',
       },
-      openGraph: {
-        title,
-        description,
-        locale: validLocale,
-      },
     };
   } catch (error) {
     // Fallback to English if there's an error
-    return {
+    return generateSEOMetadata({
       title: 'Chinese Vocabulary Dictionary - HSK Word Lists',
       description: 'Master Chinese vocabulary with comprehensive HSK word lists, pinyin, and translations. Search and explore thousands of Chinese words.',
-    };
+      locale: validLocale,
+      path: `/${validLocale}`,
+    });
   }
 }
 

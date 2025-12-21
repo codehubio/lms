@@ -1,6 +1,7 @@
 import { fetchGrammarEntries } from '@/lib/data';
 import { locales, type Locale, defaultLocale } from '@/proxy';
 import { getUiText } from '@/lib/ui-text';
+import { generateSEOMetadata } from '@/lib/seo';
 import type { Metadata } from 'next';
 import { redirect } from 'next/navigation';
 
@@ -25,18 +26,17 @@ export async function generateMetadata({ params }: GrammarPageProps): Promise<Me
   // Fallback to English if translation is missing
   const fallbackText = await getUiText('en');
   
-  const title = text.grammar?.title || fallbackText.grammar?.title || 'Chinese Grammar';
+  const pageTitle = text.grammar?.title || fallbackText.grammar?.title || 'Chinese Grammar';
   const description = text.grammar?.subtitle || fallbackText.grammar?.subtitle || 'Comprehensive Chinese grammar explanations';
+  const title = `${pageTitle} - ${text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar'}`;
   
-  return {
-    title: `${title} - ${text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar'}`,
+  return generateSEOMetadata({
+    title,
     description,
-    openGraph: {
-      title: `${title} - ${text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar'}`,
-      description,
-      locale: validLocale,
-    },
-  };
+    locale: validLocale,
+    path: `/${validLocale}/grammar`,
+    keywords: ['Chinese grammar', 'grammar explanations', 'Mandarin grammar', 'Chinese language'],
+  });
 }
 
 /**

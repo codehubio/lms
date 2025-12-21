@@ -3,6 +3,7 @@ import { fetchGrammarEntries } from '@/lib/data';
 import GrammarEntry from '@/components/GrammarEntry';
 import { locales, type Locale, defaultLocale } from '@/proxy';
 import { getUiText } from '@/lib/ui-text';
+import { generateSEOMetadata } from '@/lib/seo';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 
@@ -28,26 +29,32 @@ export async function generateMetadata({ params }: GrammarEntryPageProps): Promi
   const grammarEntries = await fetchGrammarEntries({ language: validLocale });
   const selectedEntry = grammarEntries.find(e => e.id === entry);
   
+  const pageTitle = text.grammar?.title || fallbackText.grammar?.title || 'Chinese Grammar';
+  const baseDescription = text.grammar?.subtitle || fallbackText.grammar?.subtitle || 'Comprehensive Chinese grammar explanations';
+  
   if (!selectedEntry) {
-    return {
-      title: `${text.grammar?.title || fallbackText.grammar?.title || 'Chinese Grammar'} - ${text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar'}`,
-      description: text.grammar?.subtitle || fallbackText.grammar?.subtitle || 'Comprehensive Chinese grammar explanations',
-    };
+    const title = `${pageTitle} - ${text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar'}`;
+    return generateSEOMetadata({
+      title,
+      description: baseDescription,
+      locale: validLocale,
+      path: `/${validLocale}/grammar`,
+      keywords: ['Chinese grammar', 'grammar explanations'],
+    });
   }
   
   const entryTitle = selectedEntry.translation[validLocale] || selectedEntry.translation.en || selectedEntry.title;
-  const title = `${entryTitle} - ${text.grammar?.title || fallbackText.grammar?.title || 'Chinese Grammar'}`;
-  const description = text.grammar?.subtitle || fallbackText.grammar?.subtitle || 'Comprehensive Chinese grammar explanations';
+  const title = `${entryTitle} - ${pageTitle} - ${text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar'}`;
+  const description = `${entryTitle}: ${baseDescription}`;
   
-  return {
-    title: `${title} - ${text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar'}`,
+  return generateSEOMetadata({
+    title,
     description,
-    openGraph: {
-      title: `${title} - ${text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar'}`,
-      description,
-      locale: validLocale,
-    },
-  };
+    locale: validLocale,
+    path: `/${validLocale}/grammar/${entry}`,
+    keywords: ['Chinese grammar', entryTitle, 'grammar explanations', 'Mandarin'],
+    type: 'article',
+  });
 }
 
 /**

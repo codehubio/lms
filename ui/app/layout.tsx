@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Outfit } from 'next/font/google'
 import './globals.css'
+import { generateSEOMetadata, getBaseUrl } from '@/lib/seo'
 
 const outfit = Outfit({
   subsets: ['latin'],
@@ -9,13 +10,19 @@ const outfit = Outfit({
 })
 
 export const metadata: Metadata = {
-  title: 'Chinese LMS',
-  description: 'Master Chinese with interactive lessons and immersive content.',
+  ...generateSEOMetadata({
+    title: 'Chinese Vocabulary Dictionary - HSK Word Lists | Learn Chinese',
+    description: 'Master Chinese vocabulary with comprehensive HSK word lists, pinyin, translations, and grammar explanations. Search thousands of Chinese words with examples and stroke order animations.',
+    locale: 'en',
+    keywords: ['HSK vocabulary', 'Chinese learning', 'Mandarin dictionary'],
+  }),
   icons: {
     icon: '/icon.svg',
     shortcut: '/icon.svg',
     apple: '/icon.svg',
   },
+  manifest: '/manifest.json',
+  category: 'education',
 }
 
 export default function RootLayout({
