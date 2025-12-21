@@ -94,6 +94,88 @@ export default function StrokeOrder({ word, size = 100 }: StrokeOrderProps) {
               // Ensure container is empty before creating new writers
               container.innerHTML = '';
               
+              // Create background skeleton grid (mizige - 米字格) for the container
+              // This creates a traditional Chinese character practice grid with center cross lines and diagonals
+              // Reference: https://hanziwriter.org/docs.html#custom-backgrounds
+              const createSkeletonGrid = () => {
+                const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+                svg.setAttribute('width', `${size}`);
+                svg.setAttribute('height', `${size}`);
+                svg.style.position = 'absolute';
+                svg.style.top = '0';
+                svg.style.left = '0';
+                svg.style.pointerEvents = 'none';
+                svg.style.zIndex = '0';
+                svg.style.opacity = '0.25';
+                
+                const centerX = size / 2;
+                const centerY = size / 2;
+                
+                // Center cross lines (vertical and horizontal) - divides cell into 4 quadrants
+                const centerVLine = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+                centerVLine.setAttribute('x1', `${centerX}`);
+                centerVLine.setAttribute('y1', '0');
+                centerVLine.setAttribute('x2', `${centerX}`);
+                centerVLine.setAttribute('y2', `${size}`);
+                centerVLine.setAttribute('stroke', '#9ca3af');
+                centerVLine.setAttribute('stroke-width', '1');
+                svg.appendChild(centerVLine);
+                
+                const centerHLine = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+                centerHLine.setAttribute('x1', '0');
+                centerHLine.setAttribute('y1', `${centerY}`);
+                centerHLine.setAttribute('x2', `${size}`);
+                centerHLine.setAttribute('y2', `${centerY}`);
+                centerHLine.setAttribute('stroke', '#9ca3af');
+                centerHLine.setAttribute('stroke-width', '1');
+                svg.appendChild(centerHLine);
+                
+                // Diagonal lines from corners to center - creates mizige (米字格) structure
+                // Top-left to center
+                const diag1 = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+                diag1.setAttribute('x1', '0');
+                diag1.setAttribute('y1', '0');
+                diag1.setAttribute('x2', `${centerX}`);
+                diag1.setAttribute('y2', `${centerY}`);
+                diag1.setAttribute('stroke', '#9ca3af');
+                diag1.setAttribute('stroke-width', '1');
+                svg.appendChild(diag1);
+                
+                // Top-right to center
+                const diag2 = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+                diag2.setAttribute('x1', `${size}`);
+                diag2.setAttribute('y1', '0');
+                diag2.setAttribute('x2', `${centerX}`);
+                diag2.setAttribute('y2', `${centerY}`);
+                diag2.setAttribute('stroke', '#9ca3af');
+                diag2.setAttribute('stroke-width', '1');
+                svg.appendChild(diag2);
+                
+                // Bottom-left to center
+                const diag3 = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+                diag3.setAttribute('x1', '0');
+                diag3.setAttribute('y1', `${size}`);
+                diag3.setAttribute('x2', `${centerX}`);
+                diag3.setAttribute('y2', `${centerY}`);
+                diag3.setAttribute('stroke', '#9ca3af');
+                diag3.setAttribute('stroke-width', '1');
+                svg.appendChild(diag3);
+                
+                // Bottom-right to center
+                const diag4 = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+                diag4.setAttribute('x1', `${size}`);
+                diag4.setAttribute('y1', `${size}`);
+                diag4.setAttribute('x2', `${centerX}`);
+                diag4.setAttribute('y2', `${centerY}`);
+                diag4.setAttribute('stroke', '#9ca3af');
+                diag4.setAttribute('stroke-width', '1');
+                svg.appendChild(diag4);
+                
+                return svg;
+              };
+              
+              const skeletonGrid = createSkeletonGrid();
+              
               // Create 3 separate divs for the 3 speeds, stacked on top of each other
               const slowDiv = document.createElement('div');
               slowDiv.style.position = 'absolute';
@@ -102,6 +184,7 @@ export default function StrokeOrder({ word, size = 100 }: StrokeOrderProps) {
               slowDiv.style.top = '0';
               slowDiv.style.left = '0';
               slowDiv.style.display = 'none'; // Hidden by default
+              slowDiv.style.zIndex = '1';
               
               const normalDiv = document.createElement('div');
               normalDiv.style.position = 'absolute';
@@ -110,6 +193,7 @@ export default function StrokeOrder({ word, size = 100 }: StrokeOrderProps) {
               normalDiv.style.top = '0';
               normalDiv.style.left = '0';
               normalDiv.style.display = 'block'; // Visible by default
+              normalDiv.style.zIndex = '1';
               
               const fastDiv = document.createElement('div');
               fastDiv.style.position = 'absolute';
@@ -118,8 +202,10 @@ export default function StrokeOrder({ word, size = 100 }: StrokeOrderProps) {
               fastDiv.style.top = '0';
               fastDiv.style.left = '0';
               fastDiv.style.display = 'none'; // Hidden by default
+              fastDiv.style.zIndex = '1';
               
               container.style.position = 'relative';
+              container.appendChild(skeletonGrid); // Add skeleton grid first (behind everything)
               container.appendChild(slowDiv);
               container.appendChild(normalDiv);
               container.appendChild(fastDiv);
@@ -468,10 +554,72 @@ export default function StrokeOrder({ word, size = 100 }: StrokeOrderProps) {
               {characters.map((_, index) => (
                 <div
                   key={index}
-                  className="border-2 border-gray-200 rounded bg-gray-50"
-                  style={{ width: size, height: size }}
+                  className="border-2 border-gray-200 rounded bg-gray-50 relative"
+                  style={{ 
+                    width: size, 
+                    height: size
+                  }}
                 >
-                  <div className="w-full h-full flex items-center justify-center">
+                  {/* Skeleton grid placeholder (mizige - 米字格) - will be replaced by actual grid when loaded */}
+                  <svg 
+                    className="absolute inset-0 pointer-events-none z-0"
+                    width={size}
+                    height={size}
+                    style={{ opacity: 0.25 }}
+                  >
+                    {/* Vertical center line */}
+                    <line 
+                      x1={size / 2} 
+                      y1={0} 
+                      x2={size / 2} 
+                      y2={size} 
+                      stroke="#9ca3af" 
+                      strokeWidth="1"
+                    />
+                    {/* Horizontal center line */}
+                    <line 
+                      x1={0} 
+                      y1={size / 2} 
+                      x2={size} 
+                      y2={size / 2} 
+                      stroke="#9ca3af" 
+                      strokeWidth="1"
+                    />
+                    {/* Diagonal lines from corners to center */}
+                    <line 
+                      x1={0} 
+                      y1={0} 
+                      x2={size / 2} 
+                      y2={size / 2} 
+                      stroke="#9ca3af" 
+                      strokeWidth="1"
+                    />
+                    <line 
+                      x1={size} 
+                      y1={0} 
+                      x2={size / 2} 
+                      y2={size / 2} 
+                      stroke="#9ca3af" 
+                      strokeWidth="1"
+                    />
+                    <line 
+                      x1={0} 
+                      y1={size} 
+                      x2={size / 2} 
+                      y2={size / 2} 
+                      stroke="#9ca3af" 
+                      strokeWidth="1"
+                    />
+                    <line 
+                      x1={size} 
+                      y1={size} 
+                      x2={size / 2} 
+                      y2={size / 2} 
+                      stroke="#9ca3af" 
+                      strokeWidth="1"
+                    />
+                  </svg>
+                  <div className="w-full h-full flex items-center justify-center relative z-10">
                     <div className="w-8 h-8 bg-gray-300 rounded animate-pulse"></div>
                   </div>
                 </div>
@@ -521,9 +669,14 @@ export default function StrokeOrder({ word, size = 100 }: StrokeOrderProps) {
                 ref={(el) => {
                   containerRefs.current[index] = el;
                 }}
-                className="border border-gray-200 rounded-lg bg-white"
-                style={{ width: size, height: size }}
-              />
+                className="border border-gray-200 rounded-lg bg-white relative"
+                style={{ 
+                  width: size, 
+                  height: size
+                }}
+              >
+                {/* Skeleton grid (tianzige - 田字格) is added programmatically as SVG background */}
+              </div>
               {characters.length > 1 && (
                 <span className="text-xs text-gray-500 mt-1">{char}</span>
               )}
