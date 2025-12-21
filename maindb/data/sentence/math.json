@@ -34,5 +34,17 @@
       "en": "These two triangles are similar.",
       "vi": "Hai tam giác này tương tự nhau."
     }
+  },
+  {
+    "sentence": "这个立方体的体积是八立方米。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè lì fāng tǐ de tǐ jī shì bā lì fāng mǐ",
+    "pinyin2": "zhe4 ge4 li4 fang1 ti3 de ti3 ji1 shi4 ba1 li4 fang1 mi3",
+    "translation": {
+      "en": "The volume of this cube is eight cubic meters.",
+      "vi": "Thể tích của khối lập phương này là tám mét khối."
+    }
   }
 ]
