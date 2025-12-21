@@ -108,7 +108,7 @@ export default function VocabularyPagination({
                 <button
                   onClick={() => handlePageChange(1)}
                   disabled={currentPage === 1}
-                  className="p-1.5 sm:p-2 border border-gray-300 rounded-lg hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed transition"
+                  className="p-1.5 sm:p-2 border border-gray-300 rounded-lg hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer transition"
                   aria-label={text.dictionary.first}
                   title={text.dictionary.first}
                 >
@@ -119,7 +119,7 @@ export default function VocabularyPagination({
                 <button
                   onClick={() => handlePageChange(currentPage - 1)}
                   disabled={currentPage === 1}
-                  className="p-1.5 sm:p-2 border border-gray-300 rounded-lg hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed transition"
+                  className="p-1.5 sm:p-2 border border-gray-300 rounded-lg hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer transition"
                   aria-label={text.dictionary.previous}
                   title={text.dictionary.previous}
                 >
@@ -141,7 +141,7 @@ export default function VocabularyPagination({
                 <button
                   onClick={() => handlePageChange(currentPage + 1)}
                   disabled={currentPage === totalPages}
-                  className="p-1.5 sm:p-2 border border-gray-300 rounded-lg hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed transition"
+                  className="p-1.5 sm:p-2 border border-gray-300 rounded-lg hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer transition"
                   aria-label={text.dictionary.next}
                   title={text.dictionary.next}
                 >
@@ -152,7 +152,7 @@ export default function VocabularyPagination({
                 <button
                   onClick={() => handlePageChange(totalPages)}
                   disabled={currentPage === totalPages}
-                  className="p-1.5 sm:p-2 border border-gray-300 rounded-lg hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed transition"
+                  className="p-1.5 sm:p-2 border border-gray-300 rounded-lg hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer transition"
                   aria-label={text.dictionary.last}
                   title={text.dictionary.last}
                 >
