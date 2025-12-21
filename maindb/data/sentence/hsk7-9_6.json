@@ -43,5 +43,14 @@
     "en": "He is very successful in business.",
     "vi": "Anh ấy làm ăn rất thành công."
   }
+}, {
+  "sentence": "这家商店给会员提供特别折扣。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè jiā shāng diàn gěi huì yuán tí gōng tè bié zhé kòu",
+  "pinyin2": "zhe4 jia1 shang1 dian4 gei3 hui4 yuan2 ti2 gong1 te4 bie2 zhe2 kou4",
+  "translation": {
+    "en": "This store offers special discounts to members.",
+    "vi": "Cửa hàng này cung cấp chiết khấu đặc biệt cho thành viên."
+  }
 }]
 

@@ -79,5 +79,14 @@
     "en": "He keeps coughing.",
     "vi": "Anh ấy cứ ho mãi."
   }
+}, {
+  "sentence": "零售业正在经历数字化转型。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "líng shòu yè zhèng zài jīng lì shù zì huà zhuǎn xíng",
+  "pinyin2": "ling2 shou4 ye4 zheng4 zai4 jing1 li4 shu4 zi4 hua4 zhuan3 xing2",
+  "translation": {
+    "en": "The retail industry is undergoing digital transformation.",
+    "vi": "Ngành bán lẻ đang trải qua quá trình chuyển đổi số."
+  }
 }]
 

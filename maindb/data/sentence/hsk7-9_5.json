@@ -71,13 +71,31 @@
       "vi": "Tôi thích quan sát các chòm sao khác nhau trên bầu trời đêm."
     }
   }, {
-    "sentence": "他用望远镜观察远处的星星。",
-    "tags": ["HSK7-9"],
-    "pinyin1": "tā yòng wàng yuǎn jìng guān chá yuǎn chù de xīng xīng",
-    "pinyin2": "ta1 yong4 wang4 yuan3 jing4 guan1 cha2 yuan3 chu4 de xing1 xing1",
-    "translation": {
-      "en": "He uses a telescope to observe distant stars.",
-      "vi": "Anh ấy dùng kính thiên văn để quan sát những ngôi sao xa xôi."
-    }
-  }]
+  "sentence": "他用望远镜观察远处的星星。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā yòng wàng yuǎn jìng guān chá yuǎn chù de xīng xīng",
+  "pinyin2": "ta1 yong4 wang4 yuan3 jing4 guan1 cha2 yuan3 chu4 de xing1 xing1",
+  "translation": {
+    "en": "He uses a telescope to observe distant stars.",
+    "vi": "Anh ấy dùng kính thiên văn để quan sát những ngôi sao xa xôi."
+  }
+}, {
+  "sentence": "他每个月都能领到养老金。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā měi gè yuè dōu néng lǐng dào yǎng lǎo jīn",
+  "pinyin2": "ta1 mei3 ge4 yue4 dou1 neng2 ling3 dao4 yang3 lao3 jin1",
+  "translation": {
+    "en": "He receives his pension every month.",
+    "vi": "Ông ấy mỗi tháng đều nhận được lương hưu."
+  }
+}, {
+  "sentence": "现代物流系统大大提高了运输效率。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "xiàn dài wù liú xì tǒng dà dà tí gāo le yùn shū xiào lǜ",
+  "pinyin2": "xian4 dai4 wu4 liu2 xi4 tong3 da4 da4 ti2 gao1 le yun4 shu1 xiao4 lv4",
+  "translation": {
+    "en": "Modern logistics systems have greatly improved transportation efficiency.",
+    "vi": "Hệ thống logistics hiện đại đã nâng cao hiệu quả vận chuyển rất nhiều."
+  }
+}]
 

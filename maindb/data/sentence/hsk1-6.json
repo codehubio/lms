@@ -25234,5 +25234,197 @@
       "en": "The dog is holding a bone in its mouth.",
       "vi": "Con chó đang ngậm xương."
     }
+  },
+  {
+    "sentence": "人民币是中国的货币。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "rén mín bì shì zhōng guó de huò bì",
+    "pinyin2": "ren2 min2 bi4 shi4 zhong1 guo2 de huo4 bi4",
+    "translation": {
+      "en": "Renminbi is the currency of China.",
+      "vi": "Nhân dân tệ là tiền tệ của Trung Quốc."
+    }
+  },
+  {
+    "sentence": "这个月的支出比上个月多了很多。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè yuè de zhī chū bǐ shàng gè yuè duō le hěn duō",
+    "pinyin2": "zhe4 ge4 yue4 de zhi1 chu1 bi3 shang4 ge4 yue4 duo1 le hen3 duo1",
+    "translation": {
+      "en": "This month's expenses are much more than last month's.",
+      "vi": "Chi tiêu tháng này nhiều hơn tháng trước rất nhiều."
+    }
+  },
+  {
+    "sentence": "我们需要做一个详细的预算。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men xū yào zuò yī gè xiáng xì de yù suàn",
+    "pinyin2": "wo3 men xu1 yao4 zuo4 yi1 ge4 xiang2 xi4 de yu4 suan4",
+    "translation": {
+      "en": "We need to make a detailed budget.",
+      "vi": "Chúng ta cần lập một ngân sách chi tiết."
+    }
+  },
+  {
+    "sentence": "公司的资产已经超过了一亿元。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "gōng sī de zī chǎn yǐ jīng chāo guò le yī yì yuán",
+    "pinyin2": "gong1 si1 de zi1 chan3 yi3 jing1 chao1 guo4 le yi1 yi4 yuan2",
+    "translation": {
+      "en": "The company's assets have exceeded 100 million yuan.",
+      "vi": "Tài sản của công ty đã vượt quá một trăm triệu nhân dân tệ."
+    }
+  },
+  {
+    "sentence": "这家公司需要更多的资本来扩大业务。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè jiā gōng sī xū yào gèng duō de zī běn lái kuò dà yè wù",
+    "pinyin2": "zhe4 jia1 gong1 si1 xu1 yao4 geng4 duo1 de zi1 ben3 lai2 kuo4 da4 ye4 wu4",
+    "translation": {
+      "en": "This company needs more capital to expand its business.",
+      "vi": "Công ty này cần thêm vốn để mở rộng kinh doanh."
+    }
+  },
+  {
+    "sentence": "金融市场的波动很大。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "jīn róng shì chǎng de bō dòng hěn dà",
+    "pinyin2": "jin1 rong2 shi4 chang3 de bo1 dong4 hen3 da4",
+    "translation": {
+      "en": "The financial market is very volatile.",
+      "vi": "Thị trường tài chính biến động rất lớn."
+    }
+  },
+  {
+    "sentence": "通货膨胀导致物价上涨。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tōng huò péng zhàng dǎo zhì wù jià shàng zhǎng",
+    "pinyin2": "tong1 huo4 peng2 zhang4 dao3 zhi4 wu4 jia4 shang4 zhang3",
+    "translation": {
+      "en": "Inflation causes prices to rise.",
+      "vi": "Lạm phát khiến giá cả tăng lên."
+    }
+  },
+  {
+    "sentence": "政府正在努力增加就业机会。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhèng fǔ zhèng zài nǔ lì zēng jiā jiù yè jī huì",
+    "pinyin2": "zheng4 fu3 zheng4 zai4 nu3 li4 zeng1 jia1 jiu4 ye4 ji1 hui4",
+    "translation": {
+      "en": "The government is working hard to increase employment opportunities.",
+      "vi": "Chính phủ đang nỗ lực tăng cơ hội việc làm."
+    }
+  },
+  {
+    "sentence": "这家公司垄断了整个市场。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè jiā gōng sī lǒng duàn le zhěng gè shì chǎng",
+    "pinyin2": "zhe4 jia1 gong1 si1 long3 duan4 le zheng3 ge4 shi4 chang3",
+    "translation": {
+      "en": "This company monopolized the entire market.",
+      "vi": "Công ty này độc quyền toàn bộ thị trường."
+    }
+  },
+  {
+    "sentence": "股东们对公司的未来充满信心。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "gǔ dōng men duì gōng sī de wèi lái chōng mǎn xìn xīn",
+    "pinyin2": "gu3 dong1 men dui4 gong1 si1 de wei4 lai2 chong1 man3 xin4 xin1",
+    "translation": {
+      "en": "The shareholders are confident about the company's future.",
+      "vi": "Các cổ đông đầy tin tưởng vào tương lai của công ty."
+    }
+  },
+  {
+    "sentence": "员工福利包括医疗保险和带薪假期。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "yuán gōng fú lì bāo kuò yī liáo bǎo xiǎn hé dài xīn jià qī",
+    "pinyin2": "yuan2 gong1 fu2 li4 bao1 kuo4 yi1 liao2 bao3 xian3 he2 dai4 xin1 jia4 qi1",
+    "translation": {
+      "en": "Employee benefits include medical insurance and paid leave.",
+      "vi": "Phúc lợi nhân viên bao gồm bảo hiểm y tế và nghỉ phép có lương."
+    }
+  },
+  {
+    "sentence": "这个商标已经注册了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè shāng biāo yǐ jīng zhù cè le",
+    "pinyin2": "zhe4 ge4 shang1 biao1 yi3 jing1 zhu4 ce4 le",
+    "translation": {
+      "en": "This trademark has already been registered.",
+      "vi": "Nhãn hiệu này đã được đăng ký."
+    }
+  },
+  {
+    "sentence": "批发价格比零售价格便宜很多。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "pī fā jià gé bǐ líng shòu jià gé pián yi hěn duō",
+    "pinyin2": "pi1 fa1 jia4 ge2 bi3 ling2 shou4 jia4 ge2 pian2 yi hen3 duo1",
+    "translation": {
+      "en": "Wholesale prices are much cheaper than retail prices.",
+      "vi": "Giá bán sỉ rẻ hơn giá bán lẻ rất nhiều."
+    }
+  },
+  {
+    "sentence": "这家连锁店在全国有很多分店。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè jiā lián suǒ diàn zài quán guó yǒu hěn duō fēn diàn",
+    "pinyin2": "zhe4 jia1 lian2 suo3 dian4 zai4 quan2 guo2 you3 hen3 duo1 fen1 dian4",
+    "translation": {
+      "en": "This chain store has many branches across the country.",
+      "vi": "Cửa hàng chuỗi này có nhiều chi nhánh trên toàn quốc."
+    }
+  },
+  {
+    "sentence": "我需要有人为我担保这笔贷款。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ xū yào yǒu rén wèi wǒ dān bǎo zhè bǐ dài kuǎn",
+    "pinyin2": "wo3 xu1 yao4 you3 ren2 wei4 wo3 dan1 bao3 zhe4 bi3 dai4 kuan3",
+    "translation": {
+      "en": "I need someone to guarantee this loan for me.",
+      "vi": "Tôi cần ai đó bảo lãnh khoản vay này cho tôi."
+    }
+  },
+  {
+    "sentence": "他投资了一只基金。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā tóu zī le yī zhī jī jīn",
+    "pinyin2": "ta1 tou2 zi1 le yi1 zhi1 ji1 jin1",
+    "translation": {
+      "en": "He invested in a fund.",
+      "vi": "Anh ấy đã đầu tư vào một quỹ."
+    }
   }
 ]

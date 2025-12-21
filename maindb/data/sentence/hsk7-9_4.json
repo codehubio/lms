@@ -79,5 +79,14 @@
     "en": "All my relatives came.",
     "vi": "Tất cả họ hàng của tôi đều đến."
   }
+}, {
+  "sentence": "政府提高了税收以增加财政收入。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhèng fǔ tí gāo le shuì shōu yǐ zēng jiā cái zhèng shōu rù",
+  "pinyin2": "zheng4 fu3 ti2 gao1 le shui4 shou1 yi3 zeng1 jia1 cai2 zheng4 shou1 ru4",
+  "translation": {
+    "en": "The government raised taxes to increase fiscal revenue.",
+    "vi": "Chính phủ tăng thuế để tăng thu nhập tài chính."
+  }
 }]
 

@@ -1,322 +1,322 @@
 [
   {
-    "word": "化肥",
-    "fileName": "hsk1-6.json"
+    "word": "货币",
+    "fileName": "economy.json"
   },
   {
-    "word": "化验",
+    "word": "货币",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "北极",
-    "fileName": "hsk1-6.json"
+    "word": "支出",
+    "fileName": "economy.json"
   },
   {
-    "word": "匪徒",
+    "word": "支出",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "区分",
-    "fileName": "hsk1-6.json"
+    "word": "购买",
+    "fileName": "economy.json"
   },
   {
-    "word": "十足",
-    "fileName": "hsk1-6.json"
+    "word": "税收",
+    "fileName": "economy.json"
   },
   {
-    "word": "千方百计",
-    "fileName": "hsk1-6.json"
+    "word": "税收",
+    "fileName": "hsk7-9_4.json"
   },
   {
-    "word": "华丽",
-    "fileName": "hsk1-6.json"
+    "word": "预算",
+    "fileName": "economy.json"
   },
   {
-    "word": "华侨",
+    "word": "预算",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "协会",
-    "fileName": "hsk1-6.json"
+    "word": "资产",
+    "fileName": "economy.json"
   },
   {
-    "word": "协助",
+    "word": "资产",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "协商",
-    "fileName": "hsk1-6.json"
+    "word": "负债",
+    "fileName": "economy.json"
   },
   {
-    "word": "卑鄙",
-    "fileName": "hsk1-6.json"
+    "word": "资本",
+    "fileName": "economy.json"
   },
   {
-    "word": "卓越",
+    "word": "资本",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "博大精深",
-    "fileName": "hsk1-6.json"
+    "word": "金融",
+    "fileName": "economy.json"
   },
   {
-    "word": "博览会",
+    "word": "金融",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "占据",
-    "fileName": "hsk1-6.json"
+    "word": "通货膨胀",
+    "fileName": "economy.json"
   },
   {
-    "word": "占有",
+    "word": "通货膨胀",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "占领",
-    "fileName": "hsk1-6.json"
+    "word": "就业",
+    "fileName": "economy.json"
   },
   {
-    "word": "卡通",
+    "word": "就业",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "印刷",
-    "fileName": "hsk1-6.json"
+    "word": "垄断",
+    "fileName": "economy.json"
   },
   {
-    "word": "危机",
+    "word": "垄断",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "即便",
-    "fileName": "hsk1-6.json"
+    "word": "供应",
+    "fileName": "economy.json"
   },
   {
-    "word": "历代",
-    "fileName": "hsk1-6.json"
+    "word": "供应商",
+    "fileName": "economy.json"
   },
   {
-    "word": "历来",
-    "fileName": "hsk1-6.json"
+    "word": "消费者",
+    "fileName": "economy.json"
   },
   {
-    "word": "压制",
-    "fileName": "hsk1-6.json"
+    "word": "投资者",
+    "fileName": "economy.json"
   },
   {
-    "word": "压岁钱",
-    "fileName": "hsk1-6.json"
+    "word": "股东",
+    "fileName": "economy.json"
   },
   {
-    "word": "压抑",
+    "word": "股东",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "压榨",
-    "fileName": "hsk1-6.json"
+    "word": "董事会",
+    "fileName": "economy.json"
   },
   {
-    "word": "压迫",
-    "fileName": "hsk1-6.json"
+    "word": "董事会",
+    "fileName": "hsk7-9_1.json"
   },
   {
-    "word": "厌恶",
-    "fileName": "hsk1-6.json"
+    "word": "福利",
+    "fileName": "economy.json"
   },
   {
-    "word": "原先",
+    "word": "福利",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "原告",
-    "fileName": "hsk1-6.json"
+    "word": "养老金",
+    "fileName": "economy.json"
   },
   {
-    "word": "原始",
-    "fileName": "hsk1-6.json"
+    "word": "养老金",
+    "fileName": "hsk7-9_5.json"
   },
   {
-    "word": "参照",
-    "fileName": "hsk1-6.json"
+    "word": "取款",
+    "fileName": "economy.json"
   },
   {
-    "word": "参谋",
-    "fileName": "hsk1-6.json"
+    "word": "转账",
+    "fileName": "economy.json"
   },
   {
-    "word": "及早",
-    "fileName": "hsk1-6.json"
+    "word": "借记卡",
+    "fileName": "economy.json"
   },
   {
-    "word": "双胞胎",
-    "fileName": "hsk1-6.json"
+    "word": "支付",
+    "fileName": "economy.json"
   },
   {
-    "word": "反倒",
-    "fileName": "hsk1-6.json"
+    "word": "收款",
+    "fileName": "economy.json"
   },
   {
-    "word": "反动",
-    "fileName": "hsk1-6.json"
+    "word": "折扣",
+    "fileName": "economy.json"
   },
   {
-    "word": "反常",
-    "fileName": "hsk1-6.json"
+    "word": "折扣",
+    "fileName": "hsk7-9_6.json"
   },
   {
-    "word": "反思",
-    "fileName": "hsk1-6.json"
+    "word": "促销",
+    "fileName": "economy.json"
   },
   {
-    "word": "反感",
-    "fileName": "hsk1-6.json"
+    "word": "营销",
+    "fileName": "economy.json"
   },
   {
-    "word": "反抗",
-    "fileName": "hsk1-6.json"
+    "word": "品牌",
+    "fileName": "economy.json"
   },
   {
-    "word": "反问",
-    "fileName": "hsk1-6.json"
+    "word": "商标",
+    "fileName": "economy.json"
   },
   {
-    "word": "反面",
+    "word": "商标",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "反馈",
-    "fileName": "hsk1-6.json"
+    "word": "版权",
+    "fileName": "economy.json"
   },
   {
-    "word": "反驳",
-    "fileName": "hsk1-6.json"
+    "word": "知识产权",
+    "fileName": "economy.json"
   },
   {
-    "word": "发动",
-    "fileName": "hsk1-6.json"
+    "word": "研发",
+    "fileName": "economy.json"
   },
   {
-    "word": "发扬",
-    "fileName": "hsk1-6.json"
+    "word": "生产力",
+    "fileName": "economy.json"
   },
   {
-    "word": "发火",
-    "fileName": "hsk1-6.json"
+    "word": "物流",
+    "fileName": "economy.json"
   },
   {
-    "word": "发炎",
-    "fileName": "hsk1-6.json"
+    "word": "物流",
+    "fileName": "hsk7-9_5.json"
   },
   {
-    "word": "发育",
-    "fileName": "hsk1-6.json"
+    "word": "供应链",
+    "fileName": "economy.json"
   },
   {
-    "word": "发行",
-    "fileName": "hsk1-6.json"
+    "word": "分销",
+    "fileName": "economy.json"
   },
   {
-    "word": "发觉",
-    "fileName": "hsk1-6.json"
+    "word": "零售",
+    "fileName": "economy.json"
   },
   {
-    "word": "发誓",
-    "fileName": "hsk1-6.json"
+    "word": "零售",
+    "fileName": "hsk7-9_3.json"
   },
   {
-    "word": "发财",
-    "fileName": "hsk1-6.json"
+    "word": "批发",
+    "fileName": "economy.json"
   },
   {
-    "word": "取缔",
+    "word": "批发",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "受罪",
-    "fileName": "hsk1-6.json"
+    "word": "代理商",
+    "fileName": "economy.json"
   },
   {
-    "word": "变故",
-    "fileName": "hsk1-6.json"
+    "word": "经销商",
+    "fileName": "economy.json"
   },
   {
-    "word": "变质",
-    "fileName": "hsk1-6.json"
+    "word": "加盟",
+    "fileName": "economy.json"
   },
   {
-    "word": "变迁",
-    "fileName": "hsk1-6.json"
+    "word": "连锁",
+    "fileName": "economy.json"
   },
   {
-    "word": "口头",
+    "word": "连锁",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "口气",
-    "fileName": "hsk1-6.json"
+    "word": "营业额",
+    "fileName": "economy.json"
   },
   {
-    "word": "口腔",
-    "fileName": "hsk1-6.json"
+    "word": "销售额",
+    "fileName": "economy.json"
   },
   {
-    "word": "口音",
-    "fileName": "hsk1-6.json"
+    "word": "市场份额",
+    "fileName": "economy.json"
   },
   {
-    "word": "古怪",
-    "fileName": "hsk1-6.json"
+    "word": "增长率",
+    "fileName": "economy.json"
   },
   {
-    "word": "古董",
-    "fileName": "hsk1-6.json"
+    "word": "收益率",
+    "fileName": "economy.json"
   },
   {
-    "word": "叮嘱",
-    "fileName": "hsk1-6.json"
+    "word": "担保",
+    "fileName": "economy.json"
   },
   {
-    "word": "可口",
+    "word": "担保",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "可恶",
-    "fileName": "hsk1-6.json"
+    "word": "抵押",
+    "fileName": "economy.json"
   },
   {
-    "word": "可笑",
-    "fileName": "hsk1-6.json"
+    "word": "抵押",
+    "fileName": "hsk7-9_1.json"
   },
   {
-    "word": "可行",
-    "fileName": "hsk1-6.json"
+    "word": "基金",
+    "fileName": "economy.json"
   },
   {
-    "word": "可观",
+    "word": "基金",
     "fileName": "hsk1-6.json"
   },
   {
-    "word": "台风",
-    "fileName": "hsk1-6.json"
+    "word": "证券",
+    "fileName": "economy.json"
   },
   {
-    "word": "号召",
-    "fileName": "hsk1-6.json"
+    "word": "期货",
+    "fileName": "economy.json"
   },
   {
-    "word": "司令",
-    "fileName": "hsk1-6.json"
+    "word": "期权",
+    "fileName": "economy.json"
   },
   {
-    "word": "司法",
-    "fileName": "hsk1-6.json"
+    "word": "市值",
+    "fileName": "economy.json"
   },
   {
-    "word": "叹气",
-    "fileName": "hsk1-6.json"
+    "word": "估值",
+    "fileName": "economy.json"
   },
   {
-    "word": "叼",
-    "fileName": "hsk1-6.json"
+    "word": "清算",
+    "fileName": "economy.json"
   }
 ]

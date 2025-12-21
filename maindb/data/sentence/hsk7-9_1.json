@@ -889,5 +889,23 @@
     "en": "I drink soy milk for breakfast.",
     "vi": "Tôi uống sữa đậu nành cho bữa sáng."
   }
+}, {
+  "sentence": "董事会决定扩大公司的业务范围。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "dǒng shì huì jué dìng kuò dà gōng sī de yè wù fàn wéi",
+  "pinyin2": "dong3 shi4 hui4 jue2 ding4 kuo4 da4 gong1 si1 de ye4 wu4 fan4 wei2",
+  "translation": {
+    "en": "The board of directors decided to expand the company's business scope.",
+    "vi": "Hội đồng quản trị quyết định mở rộng phạm vi kinh doanh của công ty."
+  }
+}, {
+  "sentence": "他用房产作为抵押申请贷款。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā yòng fáng chǎn zuò wéi dǐ yā shēn qǐng dài kuǎn",
+  "pinyin2": "ta1 yong4 fang2 chan3 zuo4 wei2 di3 ya1 shen1 qing3 dai4 kuan3",
+  "translation": {
+    "en": "He used his property as collateral to apply for a loan.",
+    "vi": "Anh ấy dùng bất động sản làm thế chấp để xin vay."
+  }
 }]
 
