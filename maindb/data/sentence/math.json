@@ -58,5 +58,17 @@
       "en": "The area of this square is sixteen square meters.",
       "vi": "Diện tích của hình vuông này là mười sáu mét vuông."
     }
+  },
+  {
+    "sentence": "这个数学公式很复杂。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè shù xué gōng shì hěn fù zá",
+    "pinyin2": "zhe4 ge4 shu4 xue2 gong1 shi4 hen3 fu4 za2",
+    "translation": {
+      "en": "This mathematical formula is very complex.",
+      "vi": "Công thức toán học này rất phức tạp."
+    }
   }
 ]

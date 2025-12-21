@@ -70,4 +70,13 @@
     "en": "This physics instrument can measure temperature.",
     "vi": "Thiết bị vật lý này có thể đo nhiệt độ."
   }
+}, {
+  "sentence": "这个物理公式描述了能量守恒。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "zhè gè wù lǐ gōng shì miáo shù le néng liàng shǒu héng",
+  "pinyin2": "zhe4 ge4 wu4 li3 gong1 shi4 miao2 shu4 le neng2 liang4 shou3 heng2",
+  "translation": {
+    "en": "This physics formula describes the conservation of energy.",
+    "vi": "Công thức vật lý này mô tả sự bảo toàn năng lượng."
+  }
 }]
