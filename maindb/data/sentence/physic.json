@@ -61,4 +61,13 @@
     "en": "Vibration is the oscillatory motion of an object around its equilibrium position.",
     "vi": "Dao động là chuyển động qua lại của vật thể xung quanh vị trí cân bằng của nó."
   }
+}, {
+  "sentence": "这个物理仪器可以测量温度。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "zhè gè wù lǐ yí qì kě yǐ cè liáng wēn dù",
+  "pinyin2": "zhe4 ge4 wu4 li3 yi2 qi4 ke3 yi3 ce4 liang2 wen1 du4",
+  "translation": {
+    "en": "This physics instrument can measure temperature.",
+    "vi": "Thiết bị vật lý này có thể đo nhiệt độ."
+  }
 }]

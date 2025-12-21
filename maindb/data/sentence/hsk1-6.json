@@ -21430,5 +21430,953 @@
       "en": "We need to be careful to avoid mistakes.",
       "vi": "Chúng ta cần cẩn thận để tránh sai lầm."
     }
+  },
+  {
+    "sentence": "以往的经验告诉我们。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "yǐ wǎng de jīng yàn gào sù wǒ men",
+    "pinyin2": "yi3 wang3 de jing1 yan4 gao4 su4 wo3 men",
+    "translation": {
+      "en": "Past experience tells us.",
+      "vi": "Kinh nghiệm trong quá khứ cho chúng ta biết."
+    }
+  },
+  {
+    "sentence": "这个仪器很精密。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè yí qì hěn jīng mì",
+    "pinyin2": "zhe4 ge4 yi2 qi4 hen3 jing1 mi4",
+    "translation": {
+      "en": "This instrument is very precise.",
+      "vi": "Thiết bị này rất tinh vi."
+    }
+  },
+  {
+    "sentence": "我们举行了开幕式仪式。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men jǔ xíng le kāi mù shì yí shì",
+    "pinyin2": "wo3 men ju3 xing2 le kai1 mu4 shi4 yi2 shi4",
+    "translation": {
+      "en": "We held an opening ceremony.",
+      "vi": "Chúng tôi đã tổ chức lễ khai mạc."
+    }
+  },
+  {
+    "sentence": "他被任命为经理。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā bèi rèn mìng wéi jīng lǐ",
+    "pinyin2": "ta1 bei4 ren4 ming4 wei2 jing1 li3",
+    "translation": {
+      "en": "He was appointed as manager.",
+      "vi": "Anh ấy đã được bổ nhiệm làm quản lý."
+    }
+  },
+  {
+    "sentence": "这个孩子很任性。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè hái zi hěn rèn xìng",
+    "pinyin2": "zhe4 ge4 hai2 zi hen3 ren4 xing4",
+    "translation": {
+      "en": "This child is very willful.",
+      "vi": "Đứa trẻ này rất bướng bỉnh."
+    }
+  },
+  {
+    "sentence": "你可以任意选择。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "nǐ kě yǐ rèn yì xuǎn zé",
+    "pinyin2": "ni3 ke3 yi3 ren4 yi4 xuan3 ze2",
+    "translation": {
+      "en": "You can choose freely.",
+      "vi": "Bạn có thể chọn tùy ý."
+    }
+  },
+  {
+    "sentence": "我们的任务任重道远。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men de rèn wu rèn zhòng dào yuǎn",
+    "pinyin2": "wo3 men de ren4 wu ren4 zhong4 dao4 yuan3",
+    "translation": {
+      "en": "Our task is arduous and the road ahead is long.",
+      "vi": "Nhiệm vụ của chúng ta nặng nề và đường còn dài."
+    }
+  },
+  {
+    "sentence": "众所周知，健康很重要。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhòng suǒ zhōu zhī, jiàn kāng hěn zhòng yào",
+    "pinyin2": "zhong4 suo3 zhou1 zhi1, jian4 kang1 hen3 zhong4 yao4",
+    "translation": {
+      "en": "As everyone knows, health is very important.",
+      "vi": "Như mọi người đều biết, sức khỏe rất quan trọng."
+    }
+  },
+  {
+    "sentence": "我们要优先考虑这个问题。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào yōu xiān kǎo lǜ zhè gè wèn tí",
+    "pinyin2": "wo3 men yao4 you1 xian1 kao3 lv4 zhe4 ge4 wen4 ti2",
+    "translation": {
+      "en": "We need to prioritize this issue.",
+      "vi": "Chúng ta cần ưu tiên xem xét vấn đề này."
+    }
+  },
+  {
+    "sentence": "他取得了优异的成绩。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā qǔ dé le yōu yì de chéng jì",
+    "pinyin2": "ta1 qu3 de2 le you1 yi4 de cheng2 ji4",
+    "translation": {
+      "en": "He achieved excellent results.",
+      "vi": "Anh ấy đã đạt được thành tích xuất sắc."
+    }
+  },
+  {
+    "sentence": "这是优胜劣汰的规律。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè shì yōu shèng liè tài de guī lǜ",
+    "pinyin2": "zhe4 shi4 you1 sheng4 lie4 tai4 de gui1 lv4",
+    "translation": {
+      "en": "This is the law of survival of the fittest.",
+      "vi": "Đây là quy luật chọn lọc tự nhiên."
+    }
+  },
+  {
+    "sentence": "这个条件很优越。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè tiáo jiàn hěn yōu yuè",
+    "pinyin2": "zhe4 ge4 tiao2 jian4 hen3 you1 yue4",
+    "translation": {
+      "en": "These conditions are very favorable.",
+      "vi": "Điều kiện này rất ưu việt."
+    }
+  },
+  {
+    "sentence": "两国领导人会晤了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "liǎng guó lǐng dǎo rén huì wù le",
+    "pinyin2": "liang3 guo2 ling3 dao3 ren2 hui4 wu4 le",
+    "translation": {
+      "en": "The leaders of the two countries met.",
+      "vi": "Lãnh đạo hai nước đã gặp gỡ."
+    }
+  },
+  {
+    "sentence": "老师传授知识给学生。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "lǎo shī chuán shòu zhī shi gěi xué sheng",
+    "pinyin2": "lao3 shi1 chuan2 shou4 zhi1 shi gei3 xue2 sheng",
+    "translation": {
+      "en": "The teacher imparts knowledge to students.",
+      "vi": "Giáo viên truyền đạt kiến thức cho học sinh."
+    }
+  },
+  {
+    "sentence": "我读了一本名人传记。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ dú le yī běn míng rén zhuàn jì",
+    "pinyin2": "wo3 du2 le yi1 ben3 ming2 ren2 zhuan4 ji4",
+    "translation": {
+      "en": "I read a biography of a famous person.",
+      "vi": "Tôi đã đọc một cuốn tiểu sử của người nổi tiếng."
+    }
+  },
+  {
+    "sentence": "请传达我的问候。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "qǐng chuán dá wǒ de wèn hòu",
+    "pinyin2": "qing3 chuan2 da2 wo3 de wen4 hou4",
+    "translation": {
+      "en": "Please convey my greetings.",
+      "vi": "Vui lòng chuyển lời chào của tôi."
+    }
+  },
+  {
+    "sentence": "这个问题真伤脑筋。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè wèn tí zhēn shāng nǎo jīn",
+    "pinyin2": "zhe4 ge4 wen4 ti2 zhen1 shang1 nao3 jin1",
+    "translation": {
+      "en": "This problem is really troublesome.",
+      "vi": "Vấn đề này thật đau đầu."
+    }
+  },
+  {
+    "sentence": "他伪造了文件。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā wěi zào le wén jiàn",
+    "pinyin2": "ta1 wei3 zao4 le wen2 jian4",
+    "translation": {
+      "en": "He forged the document.",
+      "vi": "Anh ấy đã làm giả tài liệu."
+    }
+  },
+  {
+    "sentence": "我的伯母很和蔼。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ de bó mǔ hěn hé ǎi",
+    "pinyin2": "wo3 de bo2 mu3 hen3 he2 ai3",
+    "translation": {
+      "en": "My aunt is very kind.",
+      "vi": "Bác gái của tôi rất hiền lành."
+    }
+  },
+  {
+    "sentence": "这个孩子很伶俐。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè hái zi hěn líng lì",
+    "pinyin2": "zhe4 ge4 hai2 zi hen3 ling2 li4",
+    "translation": {
+      "en": "This child is very clever.",
+      "vi": "Đứa trẻ này rất thông minh."
+    }
+  },
+  {
+    "sentence": "他伺候老人。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā cì hou lǎo rén",
+    "pinyin2": "ta1 ci4 hou lao3 ren2",
+    "translation": {
+      "en": "He takes care of the elderly.",
+      "vi": "Anh ấy chăm sóc người già."
+    }
+  },
+  {
+    "sentence": "这是他的住宅。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè shì tā de zhù zhái",
+    "pinyin2": "zhe4 shi4 ta1 de zhu4 zhai2",
+    "translation": {
+      "en": "This is his residence.",
+      "vi": "Đây là nơi ở của anh ấy."
+    }
+  },
+  {
+    "sentence": "我们要建立完整的体系。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào jiàn lì wán zhěng de tǐ xì",
+    "pinyin2": "wo3 men yao4 jian4 li4 wan2 zheng3 de ti3 xi4",
+    "translation": {
+      "en": "We need to establish a complete system.",
+      "vi": "Chúng ta cần xây dựng một hệ thống hoàn chỉnh."
+    }
+  },
+  {
+    "sentence": "我们要体谅别人的困难。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào tǐ liàng bié rén de kùn nan",
+    "pinyin2": "wo3 men yao4 ti3 liang4 bie2 ren2 de kun4 nan2",
+    "translation": {
+      "en": "We should understand others' difficulties.",
+      "vi": "Chúng ta cần thông cảm với khó khăn của người khác."
+    }
+  },
+  {
+    "sentence": "他穿得很体面。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā chuān dé hěn tǐ miàn",
+    "pinyin2": "ta1 chuan1 de hen3 ti3 mian4",
+    "translation": {
+      "en": "He dresses very decently.",
+      "vi": "Anh ấy ăn mặc rất lịch sự."
+    }
+  },
+  {
+    "sentence": "这张票已经作废了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè zhāng piào yǐ jīng zuò fèi le",
+    "pinyin2": "zhe4 zhang1 piao4 yi3 jing1 zuo4 fei4 le",
+    "translation": {
+      "en": "This ticket has been voided.",
+      "vi": "Tấm vé này đã bị hủy."
+    }
+  },
+  {
+    "sentence": "考试时不要作弊。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "kǎo shì shí bù yào zuò bì",
+    "pinyin2": "kao3 shi4 shi2 bu4 yao4 zuo4 bi4",
+    "translation": {
+      "en": "Don't cheat during exams.",
+      "vi": "Khi thi đừng gian lận."
+    }
+  },
+  {
+    "sentence": "他的工作作风很好。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā de gōng zuò zuò fēng hěn hǎo",
+    "pinyin2": "ta1 de gong1 zuo4 zuo4 feng1 hen3 hao3",
+    "translation": {
+      "en": "His work style is very good.",
+      "vi": "Tác phong làm việc của anh ấy rất tốt."
+    }
+  },
+  {
+    "sentence": "这是中国的传统佳肴。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè shì zhōng guó de chuán tǒng jiā yáo",
+    "pinyin2": "zhe4 shi4 zhong1 guo2 de chuan2 tong3 jia1 yao2",
+    "translation": {
+      "en": "This is a traditional Chinese delicacy.",
+      "vi": "Đây là món ăn truyền thống của Trung Quốc."
+    }
+  },
+  {
+    "sentence": "我们的使命是帮助他人。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men de shǐ mìng shì bāng zhù tā rén",
+    "pinyin2": "wo3 men de shi3 ming4 shi4 bang1 zhu4 ta1 ren2",
+    "translation": {
+      "en": "Our mission is to help others.",
+      "vi": "Sứ mệnh của chúng ta là giúp đỡ người khác."
+    }
+  },
+  {
+    "sentence": "这是例外情况。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè shì lì wài qíng kuàng",
+    "pinyin2": "zhe4 shi4 li4 wai4 qing2 kuang4",
+    "translation": {
+      "en": "This is an exception.",
+      "vi": "Đây là trường hợp ngoại lệ."
+    }
+  },
+  {
+    "sentence": "这个产品供不应求。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè chǎn pǐn gōng bù yìng qiú",
+    "pinyin2": "zhe4 ge4 chan3 pin3 gong1 bu4 ying4 qiu2",
+    "translation": {
+      "en": "This product is in short supply.",
+      "vi": "Sản phẩm này cung không đủ cầu."
+    }
+  },
+  {
+    "sentence": "我们要保证供给充足。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào bǎo zhèng gōng jǐ chōng zú",
+    "pinyin2": "wo3 men yao4 bao3 zheng4 gong1 ji3 chong1 zu2",
+    "translation": {
+      "en": "We need to ensure adequate supply.",
+      "vi": "Chúng ta cần đảm bảo cung cấp đầy đủ."
+    }
+  },
+  {
+    "sentence": "我们依托这个平台发展。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yī tuō zhè gè píng tái fā zhǎn",
+    "pinyin2": "wo3 men yi1 tuo1 zhe4 ge4 ping2 tai2 fa1 zhan3",
+    "translation": {
+      "en": "We rely on this platform for development.",
+      "vi": "Chúng ta dựa vào nền tảng này để phát triển."
+    }
+  },
+  {
+    "sentence": "我们要依据事实判断。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào yī jù shì shí pàn duàn",
+    "pinyin2": "wo3 men yao4 yi1 ju4 shi4 shi2 pan4 duan4",
+    "translation": {
+      "en": "We need to judge based on facts.",
+      "vi": "Chúng ta cần phán đoán dựa trên sự thật."
+    }
+  },
+  {
+    "sentence": "他依旧很努力。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā yī jiù hěn nǔ lì",
+    "pinyin2": "ta1 yi1 jiu4 hen3 nu3 li4",
+    "translation": {
+      "en": "He is still working hard.",
+      "vi": "Anh ấy vẫn rất nỗ lực."
+    }
+  },
+  {
+    "sentence": "请依次排队。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "qǐng yī cì pái duì",
+    "pinyin2": "qing3 yi1 ci4 pai2 dui4",
+    "translation": {
+      "en": "Please queue in order.",
+      "vi": "Vui lòng xếp hàng theo thứ tự."
+    }
+  },
+  {
+    "sentence": "我们要依靠自己。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào yī kào zì jǐ",
+    "pinyin2": "wo3 men yao4 yi1 kao4 zi4 ji3",
+    "translation": {
+      "en": "We need to rely on ourselves.",
+      "vi": "Chúng ta cần dựa vào chính mình."
+    }
+  },
+  {
+    "sentence": "他是一名侦探。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā shì yī míng zhēn tàn",
+    "pinyin2": "ta1 shi4 yi1 ming2 zhen1 tan4",
+    "translation": {
+      "en": "He is a detective.",
+      "vi": "Anh ấy là một thám tử."
+    }
+  },
+  {
+    "sentence": "我们从侧面了解情况。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men cóng cè miàn liǎo jiě qíng kuàng",
+    "pinyin2": "wo3 men cong2 ce4 mian4 liao3 jie3 qing2 kuang4",
+    "translation": {
+      "en": "We understand the situation from the side.",
+      "vi": "Chúng ta hiểu tình hình từ phía bên."
+    }
+  },
+  {
+    "sentence": "不要侮辱别人。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "bù yào wǔ rǔ bié rén",
+    "pinyin2": "bu4 yao4 wu3 ru3 bie2 ren2",
+    "translation": {
+      "en": "Don't insult others.",
+      "vi": "Đừng xúc phạm người khác."
+    }
+  },
+  {
+    "sentence": "不要侵犯他人的权利。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "bù yào qīn fàn tā rén de quán lì",
+    "pinyin2": "bu4 yao4 qin1 fan4 ta1 ren2 de quan2 li4",
+    "translation": {
+      "en": "Don't violate others' rights.",
+      "vi": "Đừng xâm phạm quyền lợi của người khác."
+    }
+  },
+  {
+    "sentence": "这个设计便于使用。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè shè jì biàn yú shǐ yòng",
+    "pinyin2": "zhe4 ge4 she4 ji4 bian4 yu2 shi3 yong4",
+    "translation": {
+      "en": "This design is convenient to use.",
+      "vi": "Thiết kế này tiện sử dụng."
+    }
+  },
+  {
+    "sentence": "这里交通很便利。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè lǐ jiāo tōng hěn biàn lì",
+    "pinyin2": "zhe4 li3 jiao1 tong1 hen3 bian4 li4",
+    "translation": {
+      "en": "The transportation here is very convenient.",
+      "vi": "Giao thông ở đây rất thuận tiện."
+    }
+  },
+  {
+    "sentence": "我留了一张便条。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ liú le yī zhāng biàn tiáo",
+    "pinyin2": "wo3 liu2 le yi1 zhang1 bian4 tiao2",
+    "translation": {
+      "en": "I left a note.",
+      "vi": "Tôi đã để lại một mảnh giấy nhắn."
+    }
+  },
+  {
+    "sentence": "俗话说，熟能生巧。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "sú huà shuō, shú néng shēng qiǎo",
+    "pinyin2": "su2 hua4 shuo1, shu2 neng2 sheng1 qiao3",
+    "translation": {
+      "en": "As the saying goes, practice makes perfect.",
+      "vi": "Như câu tục ngữ nói, quen tay hay việc."
+    }
+  },
+  {
+    "sentence": "他们俘虏了敌人。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā men fú lǔ le dí rén",
+    "pinyin2": "ta1 men fu2 lu3 le di2 ren2",
+    "translation": {
+      "en": "They captured the enemy.",
+      "vi": "Họ đã bắt được kẻ thù."
+    }
+  },
+  {
+    "sentence": "我们要保养汽车。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào bǎo yǎng qì chē",
+    "pinyin2": "wo3 men yao4 bao3 yang3 qi4 che1",
+    "translation": {
+      "en": "We need to maintain the car.",
+      "vi": "Chúng ta cần bảo dưỡng xe."
+    }
+  },
+  {
+    "sentence": "我们要保卫国家。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào bǎo wèi guó jiā",
+    "pinyin2": "wo3 men yao4 bao3 wei4 guo2 jia1",
+    "translation": {
+      "en": "We must defend our country.",
+      "vi": "Chúng ta phải bảo vệ đất nước."
+    }
+  },
+  {
+    "sentence": "他的思想很保守。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā de sī xiǎng hěn bǎo shǒu",
+    "pinyin2": "ta1 de si1 xiang3 hen3 bao3 shou3",
+    "translation": {
+      "en": "His thinking is very conservative.",
+      "vi": "Tư tưởng của anh ấy rất bảo thủ."
+    }
+  },
+  {
+    "sentence": "我们要保密。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào bǎo mì",
+    "pinyin2": "wo3 men yao4 bao3 mi4",
+    "translation": {
+      "en": "We need to keep it secret.",
+      "vi": "Chúng ta cần giữ bí mật."
+    }
+  },
+  {
+    "sentence": "请保重身体。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "qǐng bǎo zhòng shēn tǐ",
+    "pinyin2": "qing3 bao3 zhong4 shen1 ti3",
+    "translation": {
+      "en": "Please take care of yourself.",
+      "vi": "Vui lòng giữ gìn sức khỏe."
+    }
+  },
+  {
+    "sentence": "我们要保障人民的安全。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào bǎo zhàng rén mín de ān quán",
+    "pinyin2": "wo3 men yao4 bao3 zhang4 ren2 min2 de an1 quan2",
+    "translation": {
+      "en": "We must ensure people's safety.",
+      "vi": "Chúng ta phải đảm bảo an toàn cho nhân dân."
+    }
+  },
+  {
+    "sentence": "我们要坚持自己的信仰。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào jiān chí zì jǐ de xìn yǎng",
+    "pinyin2": "wo3 men yao4 jian1 chi2 zi4 ji3 de xin4 yang3",
+    "translation": {
+      "en": "We must stick to our beliefs.",
+      "vi": "Chúng ta phải kiên trì với niềm tin của mình."
+    }
+  },
+  {
+    "sentence": "他有坚定的信念。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā yǒu jiān dìng de xìn niàn",
+    "pinyin2": "ta1 you3 jian1 ding4 de xin4 nian4",
+    "translation": {
+      "en": "He has firm convictions.",
+      "vi": "Anh ấy có niềm tin vững chắc."
+    }
+  },
+  {
+    "sentence": "这家公司信誉很好。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè jiā gōng sī xìn yù hěn hǎo",
+    "pinyin2": "zhe4 jia1 gong1 si1 xin4 yu4 hen3 hao3",
+    "translation": {
+      "en": "This company has a very good reputation.",
+      "vi": "Công ty này có uy tín rất tốt."
+    }
+  },
+  {
+    "sentence": "我信赖他的能力。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ xìn lài tā de néng lì",
+    "pinyin2": "wo3 xin4 lai4 ta1 de neng2 li4",
+    "translation": {
+      "en": "I trust his ability.",
+      "vi": "Tôi tin tưởng khả năng của anh ấy."
+    }
+  },
+  {
+    "sentence": "他很有修养。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā hěn yǒu xiū yǎng",
+    "pinyin2": "ta1 hen3 you3 xiu1 yang3",
+    "translation": {
+      "en": "He is very cultured.",
+      "vi": "Anh ấy rất có tu dưỡng."
+    }
+  },
+  {
+    "sentence": "我们要修复这座桥。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào xiū fù zhè zuò qiáo",
+    "pinyin2": "wo3 men yao4 xiu1 fu4 zhe4 zuo4 qiao2",
+    "translation": {
+      "en": "We need to repair this bridge.",
+      "vi": "Chúng ta cần sửa chữa cây cầu này."
+    }
+  },
+  {
+    "sentence": "我们修建了一座新楼。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men xiū jiàn le yī zuò xīn lóu",
+    "pinyin2": "wo3 men xiu1 jian4 le yi1 zuo4 xin1 lou2",
+    "translation": {
+      "en": "We built a new building.",
+      "vi": "Chúng tôi đã xây dựng một tòa nhà mới."
+    }
+  },
+  {
+    "sentence": "他俯仰之间就完成了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā fǔ yǎng zhī jiān jiù wán chéng le",
+    "pinyin2": "ta1 fu3 yang3 zhi1 jian1 jiu4 wan2 cheng2 le",
+    "translation": {
+      "en": "He completed it in an instant.",
+      "vi": "Anh ấy đã hoàn thành trong chốc lát."
+    }
+  },
+  {
+    "sentence": "这家公司倒闭了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè jiā gōng sī dǎo bì le",
+    "pinyin2": "zhe4 jia1 gong1 si1 dao3 bi4 le",
+    "translation": {
+      "en": "This company went bankrupt.",
+      "vi": "Công ty này đã phá sản."
+    }
+  },
+  {
+    "sentence": "他是候选人之一。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā shì hòu xuǎn rén zhī yī",
+    "pinyin2": "ta1 shi4 hou4 xuan3 ren2 zhi1 yi1",
+    "translation": {
+      "en": "He is one of the candidates.",
+      "vi": "Anh ấy là một trong những ứng viên."
+    }
+  },
+  {
+    "sentence": "我们借助工具完成了工作。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men jiè zhù gōng jù wán chéng le gōng zuò",
+    "pinyin2": "wo3 men jie4 zhu4 gong1 ju4 wan2 cheng2 le gong1 zuo4",
+    "translation": {
+      "en": "We completed the work with the help of tools.",
+      "vi": "Chúng tôi đã hoàn thành công việc nhờ công cụ."
+    }
+  },
+  {
+    "sentence": "我们要借鉴成功经验。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào jiè jiàn chéng gōng jīng yàn",
+    "pinyin2": "wo3 men yao4 jie4 jian4 cheng2 gong1 jing1 yan4",
+    "translation": {
+      "en": "We should learn from successful experiences.",
+      "vi": "Chúng ta cần học hỏi từ kinh nghiệm thành công."
+    }
+  },
+  {
+    "sentence": "我们倡导环保。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men chàng dǎo huán bǎo",
+    "pinyin2": "wo3 men chang4 dao3 huan2 bao3",
+    "translation": {
+      "en": "We advocate environmental protection.",
+      "vi": "Chúng ta ủng hộ bảo vệ môi trường."
+    }
+  },
+  {
+    "sentence": "他提出了一个倡议。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā tí chū le yī gè chàng yì",
+    "pinyin2": "ta1 ti2 chu1 le yi1 ge4 chang4 yi4",
+    "translation": {
+      "en": "He put forward a proposal.",
+      "vi": "Anh ấy đã đưa ra một đề xuất."
+    }
+  },
+  {
+    "sentence": "他买了政府债券。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā mǎi le zhèng fǔ zhài quàn",
+    "pinyin2": "ta1 mai3 le zheng4 fu3 zhai4 quan4",
+    "translation": {
+      "en": "He bought government bonds.",
+      "vi": "Anh ấy đã mua trái phiếu chính phủ."
+    }
+  },
+  {
+    "sentence": "他有这个倾向。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā yǒu zhè gè qīng xiàng",
+    "pinyin2": "ta1 you3 zhe4 ge4 qing1 xiang4",
+    "translation": {
+      "en": "He has this tendency.",
+      "vi": "Anh ấy có xu hướng này."
+    }
+  },
+  {
+    "sentence": "我们要倾听群众的意见。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào qīng tīng qún zhòng de yì jiàn",
+    "pinyin2": "wo3 men yao4 qing1 ting1 qun2 zhong4 de yi4 jian4",
+    "translation": {
+      "en": "We need to listen to the opinions of the masses.",
+      "vi": "Chúng ta cần lắng nghe ý kiến của quần chúng."
+    }
+  },
+  {
+    "sentence": "这面墙倾斜了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè miàn qiáng qīng xié le",
+    "pinyin2": "zhe4 mian4 qiang2 qing1 xie2 le",
+    "translation": {
+      "en": "This wall is tilted.",
+      "vi": "Bức tường này bị nghiêng."
+    }
+  },
+  {
+    "sentence": "假使你不来，我们就开始。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "jiǎ shǐ nǐ bù lái, wǒ men jiù kāi shǐ",
+    "pinyin2": "jia3 shi3 ni3 bu4 lai2, wo3 men jiu4 kai1 shi3",
+    "translation": {
+      "en": "If you don't come, we'll start.",
+      "vi": "Nếu bạn không đến, chúng tôi sẽ bắt đầu."
+    }
+  },
+  {
+    "sentence": "他偏偏在这个时候来了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā piān piān zài zhè gè shí hou lái le",
+    "pinyin2": "ta1 pian1 pian1 zai4 zhe4 ge4 shi2 hou lai2 le",
+    "translation": {
+      "en": "He came at this very moment.",
+      "vi": "Anh ấy lại đến đúng lúc này."
+    }
+  },
+  {
+    "sentence": "这个村庄很偏僻。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè cūn zhuāng hěn piān pì",
+    "pinyin2": "zhe4 ge4 cun1 zhuang1 hen3 pian1 pi4",
+    "translation": {
+      "en": "This village is very remote.",
+      "vi": "Ngôi làng này rất hẻo lánh."
+    }
+  },
+  {
+    "sentence": "这个结果有偏差。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè jié guǒ yǒu piān chā",
+    "pinyin2": "zhe4 ge4 jie2 guo3 you3 pian1 cha1",
+    "translation": {
+      "en": "This result has a deviation.",
+      "vi": "Kết quả này có sai lệch."
+    }
+  },
+  {
+    "sentence": "不要有偏见。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "bù yào yǒu piān jiàn",
+    "pinyin2": "bu4 yao4 you3 pian1 jian4",
+    "translation": {
+      "en": "Don't have prejudice.",
+      "vi": "Đừng có thành kiến."
+    }
+  },
+  {
+    "sentence": "今天我请客做东。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "jīn tiān wǒ qǐng kè zuò dōng",
+    "pinyin2": "jin1 tian1 wo3 qing3 ke4 zuo4 dong1",
+    "translation": {
+      "en": "Today I'm treating everyone.",
+      "vi": "Hôm nay tôi mời khách."
+    }
+  },
+  {
+    "sentence": "这件事由你做主。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè jiàn shì yóu nǐ zuò zhǔ",
+    "pinyin2": "zhe4 jian4 shi4 you2 ni3 zuo4 zhu3",
+    "translation": {
+      "en": "You decide on this matter.",
+      "vi": "Việc này do bạn quyết định."
+    }
+  },
+  {
+    "sentence": "船停泊在港口。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "chuán tíng bó zài gǎng kǒu",
+    "pinyin2": "chuan2 ting2 bo2 zai4 gang3 kou3",
+    "translation": {
+      "en": "The ship is docked at the port.",
+      "vi": "Tàu đã cập bến ở cảng."
+    }
   }
 ]
