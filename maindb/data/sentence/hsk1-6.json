@@ -24274,5 +24274,965 @@
       "en": "This is a dinosaur fossil.",
       "vi": "Đây là hóa thạch khủng long."
     }
+  },
+  {
+    "sentence": "农民使用化肥来提高产量。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "nóng mín shǐ yòng huà féi lái tí gāo chǎn liàng",
+    "pinyin2": "nong2 min2 shi3 yong4 hua4 fei2 lai2 ti2 gao1 chan3 liang4",
+    "translation": {
+      "en": "Farmers use chemical fertilizer to increase yield.",
+      "vi": "Nông dân sử dụng phân bón hóa học để tăng sản lượng."
+    }
+  },
+  {
+    "sentence": "医生要化验血液。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "yī shēng yào huà yàn xuè yè",
+    "pinyin2": "yi1 sheng1 yao4 hua4 yan4 xue4 ye4",
+    "translation": {
+      "en": "The doctor needs to test the blood.",
+      "vi": "Bác sĩ cần xét nghiệm máu."
+    }
+  },
+  {
+    "sentence": "北极很冷。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "běi jí hěn lěng",
+    "pinyin2": "bei3 ji2 hen3 leng3",
+    "translation": {
+      "en": "The North Pole is very cold.",
+      "vi": "Bắc Cực rất lạnh."
+    }
+  },
+  {
+    "sentence": "警察抓住了匪徒。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "jǐng chá zhuā zhù le fěi tú",
+    "pinyin2": "jing3 cha2 zhua1 zhu4 le fei3 tu2",
+    "translation": {
+      "en": "The police caught the bandits.",
+      "vi": "Cảnh sát đã bắt được bọn cướp."
+    }
+  },
+  {
+    "sentence": "我们要区分好坏。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào qū fēn hǎo huài",
+    "pinyin2": "wo3 men yao4 qu1 fen1 hao3 huai4",
+    "translation": {
+      "en": "We need to distinguish between good and bad.",
+      "vi": "Chúng ta cần phân biệt tốt xấu."
+    }
+  },
+  {
+    "sentence": "他信心十足。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā xìn xīn shí zú",
+    "pinyin2": "ta1 xin4 xin1 shi2 zu2",
+    "translation": {
+      "en": "He is full of confidence.",
+      "vi": "Anh ấy rất tự tin."
+    }
+  },
+  {
+    "sentence": "我们要千方百计完成任务。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào qiān fāng bǎi jì wán chéng rèn wu",
+    "pinyin2": "wo3 men yao4 qian1 fang1 bai3 ji4 wan2 cheng2 ren4 wu",
+    "translation": {
+      "en": "We must do everything possible to complete the task.",
+      "vi": "Chúng ta phải làm mọi cách để hoàn thành nhiệm vụ."
+    }
+  },
+  {
+    "sentence": "这个建筑很华丽。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè jiàn zhù hěn huá lì",
+    "pinyin2": "zhe4 ge4 jian4 zhu4 hen3 hua2 li4",
+    "translation": {
+      "en": "This building is very magnificent.",
+      "vi": "Tòa nhà này rất lộng lẫy."
+    }
+  },
+  {
+    "sentence": "很多华侨回国投资。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "hěn duō huá qiáo huí guó tóu zī",
+    "pinyin2": "hen3 duo1 hua2 qiao2 hui2 guo2 tou2 zi1",
+    "translation": {
+      "en": "Many overseas Chinese return to invest in their homeland.",
+      "vi": "Nhiều kiều bào về nước đầu tư."
+    }
+  },
+  {
+    "sentence": "他加入了作家协会。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā jiā rù le zuò jiā xié huì",
+    "pinyin2": "ta1 jia1 ru4 le zuo4 jia1 xie2 hui4",
+    "translation": {
+      "en": "He joined the writers' association.",
+      "vi": "Anh ấy đã tham gia hiệp hội nhà văn."
+    }
+  },
+  {
+    "sentence": "我们要协助他。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào xié zhù tā",
+    "pinyin2": "wo3 men yao4 xie2 zhu4 ta1",
+    "translation": {
+      "en": "We need to assist him.",
+      "vi": "Chúng ta cần hỗ trợ anh ấy."
+    }
+  },
+  {
+    "sentence": "双方需要协商。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "shuāng fāng xū yào xié shāng",
+    "pinyin2": "shuang1 fang1 xu1 yao4 xie2 shang1",
+    "translation": {
+      "en": "Both sides need to negotiate.",
+      "vi": "Hai bên cần thương lượng."
+    }
+  },
+  {
+    "sentence": "这种行为很卑鄙。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè zhǒng xíng wéi hěn bēi bǐ",
+    "pinyin2": "zhe4 zhong3 xing2 wei2 hen3 bei1 bi3",
+    "translation": {
+      "en": "This behavior is very despicable.",
+      "vi": "Hành vi này rất đê tiện."
+    }
+  },
+  {
+    "sentence": "他取得了卓越的成就。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā qǔ dé le zhuó yuè de chéng jiù",
+    "pinyin2": "ta1 qu3 de2 le zhuo2 yue4 de cheng2 jiu4",
+    "translation": {
+      "en": "He achieved outstanding accomplishments.",
+      "vi": "Anh ấy đã đạt được thành tựu xuất sắc."
+    }
+  },
+  {
+    "sentence": "中国文化博大精深。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhōng guó wén huà bó dà jīng shēn",
+    "pinyin2": "zhong1 guo2 wen2 hua4 bo2 da4 jing1 shen1",
+    "translation": {
+      "en": "Chinese culture is extensive and profound.",
+      "vi": "Văn hóa Trung Quốc rộng lớn và sâu sắc."
+    }
+  },
+  {
+    "sentence": "我们参观了博览会。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men cān guān le bó lǎn huì",
+    "pinyin2": "wo3 men can1 guan1 le bo2 lan3 hui4",
+    "translation": {
+      "en": "We visited the expo.",
+      "vi": "Chúng tôi đã tham quan hội chợ triển lãm."
+    }
+  },
+  {
+    "sentence": "这个产品占据了市场。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè chǎn pǐn zhàn jù le shì chǎng",
+    "pinyin2": "zhe4 ge4 chan3 pin3 zhan4 ju4 le shi4 chang3",
+    "translation": {
+      "en": "This product has occupied the market.",
+      "vi": "Sản phẩm này đã chiếm lĩnh thị trường."
+    }
+  },
+  {
+    "sentence": "他占有大量股份。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā zhàn yǒu dà liàng gǔ fèn",
+    "pinyin2": "ta1 zhan4 you3 da4 liang4 gu3 fen4",
+    "translation": {
+      "en": "He owns a large number of shares.",
+      "vi": "Anh ấy sở hữu một lượng lớn cổ phiếu."
+    }
+  },
+  {
+    "sentence": "军队占领了城市。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "jūn duì zhàn lǐng le chéng shì",
+    "pinyin2": "jun1 dui4 zhan4 ling3 le cheng2 shi4",
+    "translation": {
+      "en": "The army occupied the city.",
+      "vi": "Quân đội đã chiếm đóng thành phố."
+    }
+  },
+  {
+    "sentence": "孩子们喜欢看卡通片。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "hái zi men xǐ huān kàn kǎ tōng piàn",
+    "pinyin2": "hai2 zi men xi3 huan1 kan4 ka3 tong1 pian4",
+    "translation": {
+      "en": "Children like to watch cartoons.",
+      "vi": "Trẻ em thích xem phim hoạt hình."
+    }
+  },
+  {
+    "sentence": "这本书印刷精美。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè běn shū yìn shuā jīng měi",
+    "pinyin2": "zhe4 ben3 shu1 yin4 shua1 jing1 mei3",
+    "translation": {
+      "en": "This book is beautifully printed.",
+      "vi": "Cuốn sách này được in rất đẹp."
+    }
+  },
+  {
+    "sentence": "我们面临经济危机。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men miàn lín jīng jì wēi jī",
+    "pinyin2": "wo3 men mian4 lin2 jing1 ji4 wei1 ji1",
+    "translation": {
+      "en": "We are facing an economic crisis.",
+      "vi": "Chúng ta đang đối mặt với khủng hoảng kinh tế."
+    }
+  },
+  {
+    "sentence": "即便下雨，我们也要去。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "jí biàn xià yǔ, wǒ men yě yào qù",
+    "pinyin2": "ji2 bian4 xia4 yu3, wo3 men ye3 yao4 qu4",
+    "translation": {
+      "en": "Even if it rains, we still need to go.",
+      "vi": "Dù trời mưa, chúng ta vẫn phải đi."
+    }
+  },
+  {
+    "sentence": "这是历代皇帝的宫殿。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè shì lì dài huáng dì de gōng diàn",
+    "pinyin2": "zhe4 shi4 li4 dai4 huang2 di4 de gong1 dian4",
+    "translation": {
+      "en": "This is the palace of emperors throughout history.",
+      "vi": "Đây là cung điện của các hoàng đế qua các triều đại."
+    }
+  },
+  {
+    "sentence": "这历来是我们的传统。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè lì lái shì wǒ men de chuán tǒng",
+    "pinyin2": "zhe4 li4 lai2 shi4 wo3 men de chuan2 tong3",
+    "translation": {
+      "en": "This has always been our tradition.",
+      "vi": "Đây vốn là truyền thống của chúng ta."
+    }
+  },
+  {
+    "sentence": "我们要压制这种情绪。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào yā zhì zhè zhǒng qíng xù",
+    "pinyin2": "wo3 men yao4 ya1 zhi4 zhe4 zhong3 qing2 xu4",
+    "translation": {
+      "en": "We need to suppress this emotion.",
+      "vi": "Chúng ta cần kiềm chế cảm xúc này."
+    }
+  },
+  {
+    "sentence": "孩子们收到了压岁钱。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "hái zi men shōu dào le yā suì qián",
+    "pinyin2": "hai2 zi men shou1 dao4 le ya1 sui4 qian2",
+    "translation": {
+      "en": "The children received lucky money.",
+      "vi": "Trẻ em đã nhận được tiền lì xì."
+    }
+  },
+  {
+    "sentence": "他感到压抑。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā gǎn dào yā yì",
+    "pinyin2": "ta1 gan3 dao4 ya1 yi4",
+    "translation": {
+      "en": "He feels depressed.",
+      "vi": "Anh ấy cảm thấy bị đè nén."
+    }
+  },
+  {
+    "sentence": "不要压榨工人。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "bù yào yā zhà gōng rén",
+    "pinyin2": "bu4 yao4 ya1 zha4 gong1 ren2",
+    "translation": {
+      "en": "Don't exploit workers.",
+      "vi": "Đừng bóc lột công nhân."
+    }
+  },
+  {
+    "sentence": "我们要反对压迫。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào fǎn duì yā pò",
+    "pinyin2": "wo3 men yao4 fan3 dui4 ya1 po4",
+    "translation": {
+      "en": "We must oppose oppression.",
+      "vi": "Chúng ta phải chống lại sự áp bức."
+    }
+  },
+  {
+    "sentence": "我厌恶这种行为。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ yàn wù zhè zhǒng xíng wéi",
+    "pinyin2": "wo3 yan4 wu4 zhe4 zhong3 xing2 wei2",
+    "translation": {
+      "en": "I detest this behavior.",
+      "vi": "Tôi ghét hành vi này."
+    }
+  },
+  {
+    "sentence": "原先的计划改变了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "yuán xiān de jì huà gǎi biàn le",
+    "pinyin2": "yuan2 xian1 de ji4 hua4 gai3 bian4 le",
+    "translation": {
+      "en": "The original plan has changed.",
+      "vi": "Kế hoạch ban đầu đã thay đổi."
+    }
+  },
+  {
+    "sentence": "原告提出了诉讼。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "yuán gào tí chū le sù sòng",
+    "pinyin2": "yuan2 gao4 ti2 chu1 le su4 song4",
+    "translation": {
+      "en": "The plaintiff filed a lawsuit.",
+      "vi": "Nguyên đơn đã đệ đơn kiện."
+    }
+  },
+  {
+    "sentence": "这是原始森林。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè shì yuán shǐ sēn lín",
+    "pinyin2": "zhe4 shi4 yuan2 shi3 sen1 lin2",
+    "translation": {
+      "en": "This is a primeval forest.",
+      "vi": "Đây là rừng nguyên sinh."
+    }
+  },
+  {
+    "sentence": "我们要参照这个标准。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào cān zhào zhè gè biāo zhǔn",
+    "pinyin2": "wo3 men yao4 can1 zhao4 zhe4 ge4 biao1 zhun3",
+    "translation": {
+      "en": "We need to refer to this standard.",
+      "vi": "Chúng ta cần tham chiếu tiêu chuẩn này."
+    }
+  },
+  {
+    "sentence": "他是军事参谋。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā shì jūn shì cān móu",
+    "pinyin2": "ta1 shi4 jun1 shi4 can1 mou2",
+    "translation": {
+      "en": "He is a military staff officer.",
+      "vi": "Anh ấy là sĩ quan tham mưu quân sự."
+    }
+  },
+  {
+    "sentence": "我们要及早处理。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào jí zǎo chǔ lǐ",
+    "pinyin2": "wo3 men yao4 ji2 zao3 chu3 li3",
+    "translation": {
+      "en": "We need to handle it as soon as possible.",
+      "vi": "Chúng ta cần xử lý sớm."
+    }
+  },
+  {
+    "sentence": "他们是双胞胎。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā men shì shuāng bāo tāi",
+    "pinyin2": "ta1 men shi4 shuang1 bao1 tai1",
+    "translation": {
+      "en": "They are twins.",
+      "vi": "Họ là anh em sinh đôi."
+    }
+  },
+  {
+    "sentence": "他不但不帮忙，反倒添乱。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā bù dàn bù bāng máng, fǎn dào tiān luàn",
+    "pinyin2": "ta1 bu4 dan4 bu4 bang1 mang2, fan3 dao4 tian1 luan4",
+    "translation": {
+      "en": "Not only did he not help, but he actually caused trouble.",
+      "vi": "Anh ấy không những không giúp, mà còn gây rối."
+    }
+  },
+  {
+    "sentence": "我们要反对反动势力。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào fǎn duì fǎn dòng shì lì",
+    "pinyin2": "wo3 men yao4 fan3 dui4 fan3 dong4 shi4 li4",
+    "translation": {
+      "en": "We must oppose reactionary forces.",
+      "vi": "Chúng ta phải chống lại thế lực phản động."
+    }
+  },
+  {
+    "sentence": "这个现象很反常。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè xiàn xiàng hěn fǎn cháng",
+    "pinyin2": "zhe4 ge4 xian4 xiang4 hen3 fan3 chang2",
+    "translation": {
+      "en": "This phenomenon is very abnormal.",
+      "vi": "Hiện tượng này rất bất thường."
+    }
+  },
+  {
+    "sentence": "我们要反思过去。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào fǎn sī guò qù",
+    "pinyin2": "wo3 men yao4 fan3 si1 guo4 qu4",
+    "translation": {
+      "en": "We need to reflect on the past.",
+      "vi": "Chúng ta cần suy ngẫm về quá khứ."
+    }
+  },
+  {
+    "sentence": "他对这个建议很反感。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā duì zhè gè jiàn yì hěn fǎn gǎn",
+    "pinyin2": "ta1 dui4 zhe4 ge4 jian4 yi4 hen3 fan3 gan3",
+    "translation": {
+      "en": "He is very averse to this suggestion.",
+      "vi": "Anh ấy rất phản cảm với đề xuất này."
+    }
+  },
+  {
+    "sentence": "人民起来反抗压迫。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "rén mín qǐ lái fǎn kàng yā pò",
+    "pinyin2": "ren2 min2 qi3 lai2 fan3 kang4 ya1 po4",
+    "translation": {
+      "en": "The people rose up to resist oppression.",
+      "vi": "Nhân dân đã đứng lên chống lại áp bức."
+    }
+  },
+  {
+    "sentence": "他反问了一个问题。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā fǎn wèn le yī gè wèn tí",
+    "pinyin2": "ta1 fan3 wen4 le yi1 ge4 wen4 ti2",
+    "translation": {
+      "en": "He asked a counter-question.",
+      "vi": "Anh ấy đã hỏi ngược lại một câu hỏi."
+    }
+  },
+  {
+    "sentence": "我们要看问题的反面。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào kàn wèn tí de fǎn miàn",
+    "pinyin2": "wo3 men yao4 kan4 wen4 ti2 de fan3 mian4",
+    "translation": {
+      "en": "We need to look at the opposite side of the issue.",
+      "vi": "Chúng ta cần nhìn vào mặt trái của vấn đề."
+    }
+  },
+  {
+    "sentence": "我们要收集用户反馈。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào shōu jí yòng hù fǎn kuì",
+    "pinyin2": "wo3 men yao4 shou1 ji2 yong4 hu4 fan3 kui4",
+    "translation": {
+      "en": "We need to collect user feedback.",
+      "vi": "Chúng ta cần thu thập phản hồi từ người dùng."
+    }
+  },
+  {
+    "sentence": "他反驳了我的观点。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā fǎn bó le wǒ de guān diǎn",
+    "pinyin2": "ta1 fan3 bo2 le wo3 de guan1 dian3",
+    "translation": {
+      "en": "He refuted my viewpoint.",
+      "vi": "Anh ấy đã bác bỏ quan điểm của tôi."
+    }
+  },
+  {
+    "sentence": "我们要发动群众。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào fā dòng qún zhòng",
+    "pinyin2": "wo3 men yao4 fa1 dong4 qun2 zhong4",
+    "translation": {
+      "en": "We need to mobilize the masses.",
+      "vi": "Chúng ta cần động viên quần chúng."
+    }
+  },
+  {
+    "sentence": "我们要发扬优良传统。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào fā yáng yōu liáng chuán tǒng",
+    "pinyin2": "wo3 men yao4 fa1 yang2 you1 liang2 chuan2 tong3",
+    "translation": {
+      "en": "We should carry forward fine traditions.",
+      "vi": "Chúng ta cần phát huy truyền thống tốt đẹp."
+    }
+  },
+  {
+    "sentence": "他发火了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā fā huǒ le",
+    "pinyin2": "ta1 fa1 huo3 le",
+    "translation": {
+      "en": "He got angry.",
+      "vi": "Anh ấy đã nổi giận."
+    }
+  },
+  {
+    "sentence": "伤口发炎了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "shāng kǒu fā yán le",
+    "pinyin2": "shang1 kou3 fa1 yan2 le",
+    "translation": {
+      "en": "The wound became inflamed.",
+      "vi": "Vết thương đã bị viêm."
+    }
+  },
+  {
+    "sentence": "孩子正在发育。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "hái zi zhèng zài fā yù",
+    "pinyin2": "hai2 zi zheng4 zai4 fa1 yu4",
+    "translation": {
+      "en": "The child is growing.",
+      "vi": "Đứa trẻ đang phát triển."
+    }
+  },
+  {
+    "sentence": "这本书发行了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè běn shū fā xíng le",
+    "pinyin2": "zhe4 ben3 shu1 fa1 xing2 le",
+    "translation": {
+      "en": "This book has been published.",
+      "vi": "Cuốn sách này đã được phát hành."
+    }
+  },
+  {
+    "sentence": "他发觉了问题。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā fā jué le wèn tí",
+    "pinyin2": "ta1 fa1 jue2 le wen4 ti2",
+    "translation": {
+      "en": "He discovered the problem.",
+      "vi": "Anh ấy đã phát hiện vấn đề."
+    }
+  },
+  {
+    "sentence": "他发誓要成功。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā fā shì yào chéng gōng",
+    "pinyin2": "ta1 fa1 shi4 yao4 cheng2 gong1",
+    "translation": {
+      "en": "He swore to succeed.",
+      "vi": "Anh ấy đã thề sẽ thành công."
+    }
+  },
+  {
+    "sentence": "他做生意发财了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā zuò shēng yì fā cái le",
+    "pinyin2": "ta1 zuo4 sheng1 yi4 fa1 cai2 le",
+    "translation": {
+      "en": "He made a fortune in business.",
+      "vi": "Anh ấy đã làm ăn phát tài."
+    }
+  },
+  {
+    "sentence": "政府取缔了非法组织。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhèng fǔ qǔ dì le fēi fǎ zǔ zhī",
+    "pinyin2": "zheng4 fu3 qu3 di4 le fei1 fa3 zu3 zhi1",
+    "translation": {
+      "en": "The government banned the illegal organization.",
+      "vi": "Chính phủ đã đóng cửa tổ chức bất hợp pháp."
+    }
+  },
+  {
+    "sentence": "他受罪了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā shòu zuì le",
+    "pinyin2": "ta1 shou4 zui4 le",
+    "translation": {
+      "en": "He suffered.",
+      "vi": "Anh ấy đã chịu khổ."
+    }
+  },
+  {
+    "sentence": "发生了变故。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "fā shēng le biàn gù",
+    "pinyin2": "fa1 sheng1 le bian4 gu4",
+    "translation": {
+      "en": "An unexpected event occurred.",
+      "vi": "Đã xảy ra biến cố."
+    }
+  },
+  {
+    "sentence": "食物变质了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "shí wù biàn zhì le",
+    "pinyin2": "shi2 wu4 bian4 zhi4 le",
+    "translation": {
+      "en": "The food has gone bad.",
+      "vi": "Thực phẩm đã bị biến chất."
+    }
+  },
+  {
+    "sentence": "社会发生了变迁。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "shè huì fā shēng le biàn qiān",
+    "pinyin2": "she4 hui4 fa1 sheng1 le bian4 qian1",
+    "translation": {
+      "en": "Society has undergone changes.",
+      "vi": "Xã hội đã có sự thay đổi."
+    }
+  },
+  {
+    "sentence": "这只是口头承诺。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè zhǐ shì kǒu tóu chéng nuò",
+    "pinyin2": "zhe4 zhi3 shi4 kou3 tou2 cheng2 nuo4",
+    "translation": {
+      "en": "This is just a verbal promise.",
+      "vi": "Đây chỉ là lời hứa miệng."
+    }
+  },
+  {
+    "sentence": "他的口气很严肃。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā de kǒu qì hěn yán sù",
+    "pinyin2": "ta1 de kou3 qi4 hen3 yan2 su4",
+    "translation": {
+      "en": "His tone is very serious.",
+      "vi": "Giọng điệu của anh ấy rất nghiêm túc."
+    }
+  },
+  {
+    "sentence": "医生检查了口腔。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "yī shēng jiǎn chá le kǒu qiāng",
+    "pinyin2": "yi1 sheng1 jian3 cha2 le kou3 qiang1",
+    "translation": {
+      "en": "The doctor examined the oral cavity.",
+      "vi": "Bác sĩ đã kiểm tra khoang miệng."
+    }
+  },
+  {
+    "sentence": "他有南方口音。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā yǒu nán fāng kǒu yīn",
+    "pinyin2": "ta1 you3 nan2 fang1 kou3 yin1",
+    "translation": {
+      "en": "He has a southern accent.",
+      "vi": "Anh ấy có giọng miền Nam."
+    }
+  },
+  {
+    "sentence": "这个人的行为很古怪。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè rén de xíng wéi hěn gǔ guài",
+    "pinyin2": "zhe4 ge4 ren2 de xing2 wei2 hen3 gu3 guai4",
+    "translation": {
+      "en": "This person's behavior is very strange.",
+      "vi": "Hành vi của người này rất kỳ lạ."
+    }
+  },
+  {
+    "sentence": "他收藏了很多古董。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā shōu cáng le hěn duō gǔ dǒng",
+    "pinyin2": "ta1 shou1 cang2 le hen3 duo1 gu3 dong3",
+    "translation": {
+      "en": "He collected many antiques.",
+      "vi": "Anh ấy đã sưu tầm nhiều đồ cổ."
+    }
+  },
+  {
+    "sentence": "妈妈叮嘱我要小心。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "mā ma dīng zhǔ wǒ yào xiǎo xīn",
+    "pinyin2": "ma1 ma ding1 zhu3 wo3 yao4 xiao3 xin1",
+    "translation": {
+      "en": "Mom reminded me to be careful.",
+      "vi": "Mẹ đã dặn dò tôi phải cẩn thận."
+    }
+  },
+  {
+    "sentence": "这个菜很可口。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè cài hěn kě kǒu",
+    "pinyin2": "zhe4 ge4 cai4 hen3 ke3 kou3",
+    "translation": {
+      "en": "This dish is very delicious.",
+      "vi": "Món ăn này rất ngon."
+    }
+  },
+  {
+    "sentence": "这种行为很可恶。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè zhǒng xíng wéi hěn kě wù",
+    "pinyin2": "zhe4 zhong3 xing2 wei2 hen3 ke3 wu4",
+    "translation": {
+      "en": "This behavior is very detestable.",
+      "vi": "Hành vi này rất đáng ghét."
+    }
+  },
+  {
+    "sentence": "这个笑话很可笑。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè xiào huà hěn kě xiào",
+    "pinyin2": "zhe4 ge4 xiao4 hua4 hen3 ke3 xiao4",
+    "translation": {
+      "en": "This joke is very funny.",
+      "vi": "Câu chuyện cười này rất buồn cười."
+    }
+  },
+  {
+    "sentence": "这个方案可行。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè fāng àn kě xíng",
+    "pinyin2": "zhe4 ge4 fang1 an4 ke3 xing2",
+    "translation": {
+      "en": "This plan is feasible.",
+      "vi": "Phương án này khả thi."
+    }
+  },
+  {
+    "sentence": "他赚了可观的钱。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā zhuàn le kě guān de qián",
+    "pinyin2": "ta1 zhuan4 le ke3 guan1 de qian2",
+    "translation": {
+      "en": "He earned a considerable amount of money.",
+      "vi": "Anh ấy đã kiếm được một khoản tiền đáng kể."
+    }
+  },
+  {
+    "sentence": "台风来了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tái fēng lái le",
+    "pinyin2": "tai2 feng1 lai2 le",
+    "translation": {
+      "en": "The typhoon is coming.",
+      "vi": "Bão đã đến."
+    }
+  },
+  {
+    "sentence": "政府号召大家节约用水。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhèng fǔ hào zhào dà jiā jié yuē yòng shuǐ",
+    "pinyin2": "zheng4 fu3 hao4 zhao4 da4 jia1 jie2 yue1 yong4 shui3",
+    "translation": {
+      "en": "The government calls on everyone to save water.",
+      "vi": "Chính phủ kêu gọi mọi người tiết kiệm nước."
+    }
+  },
+  {
+    "sentence": "他是军队司令。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā shì jūn duì sī lìng",
+    "pinyin2": "ta1 shi4 jun1 dui4 si1 ling4",
+    "translation": {
+      "en": "He is the army commander.",
+      "vi": "Anh ấy là tư lệnh quân đội."
+    }
+  },
+  {
+    "sentence": "我们要完善司法制度。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "wǒ men yào wán shàn sī fǎ zhì dù",
+    "pinyin2": "wo3 men yao4 wan2 shan4 si1 fa3 zhi4 du4",
+    "translation": {
+      "en": "We need to improve the judicial system.",
+      "vi": "Chúng ta cần hoàn thiện hệ thống tư pháp."
+    }
+  },
+  {
+    "sentence": "他叹了一口气。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā tàn le yī kǒu qì",
+    "pinyin2": "ta1 tan4 le yi1 kou3 qi4",
+    "translation": {
+      "en": "He sighed.",
+      "vi": "Anh ấy đã thở dài."
+    }
+  },
+  {
+    "sentence": "狗叼着骨头。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "gǒu diāo zhe gǔ tou",
+    "pinyin2": "gou3 diao1 zhe gu3 tou",
+    "translation": {
+      "en": "The dog is holding a bone in its mouth.",
+      "vi": "Con chó đang ngậm xương."
+    }
   }
 ]
