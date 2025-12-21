@@ -31,5 +31,5 @@ jobs:
           file: ./ui/Dockerfile
           push: true
           tags: |
-            hoa/lms-ui:latest
-            hoa/lms-ui:${{ github.sha }}
+            ${{ vars.DOCKERHUB_USERNAME }}/lms-ui:latest
+            ${{ vars.DOCKERHUB_USERNAME }}/lms-ui:${{ github.sha }}
