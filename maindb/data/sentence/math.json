@@ -46,5 +46,17 @@
       "en": "The volume of this cube is eight cubic meters.",
       "vi": "Thể tích của khối lập phương này là tám mét khối."
     }
+  },
+  {
+    "sentence": "这个正方形的面积是十六平方米。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè zhèng fāng xíng de miàn jī shì shí liù píng fāng mǐ",
+    "pinyin2": "zhe4 ge4 zheng4 fang1 xing2 de mian4 ji1 shi4 shi2 liu4 ping2 fang1 mi3",
+    "translation": {
+      "en": "The area of this square is sixteen square meters.",
+      "vi": "Diện tích của hình vuông này là mười sáu mét vuông."
+    }
   }
 ]
