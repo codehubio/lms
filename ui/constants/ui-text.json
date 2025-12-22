@@ -547,10 +547,30 @@
       "vi": "Chủ đề",
       "zh": "主题"
     },
+    "searchPlaceholder": {
+      "en": "Search grammar topics...",
+      "vi": "Tìm kiếm chủ đề ngữ pháp...",
+      "zh": "搜索语法主题..."
+    },
+    "searchButton": {
+      "en": "Search",
+      "vi": "Tìm kiếm",
+      "zh": "搜索"
+    },
+    "clearButton": {
+      "en": "Clear",
+      "vi": "Xóa",
+      "zh": "清除"
+    },
     "noResults": {
       "en": "No grammar topics found",
       "vi": "Không tìm thấy chủ đề ngữ pháp nào",
       "zh": "未找到语法主题"
+    },
+    "noResultsMatching": {
+      "en": "No grammar topics found matching \"{search}\".",
+      "vi": "Không tìm thấy chủ đề ngữ pháp nào khớp với \"{search}\".",
+      "zh": "未找到匹配 \"{search}\" 的语法主题。"
     }
   },
   "language": {

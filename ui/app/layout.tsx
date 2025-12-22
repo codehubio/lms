@@ -34,8 +34,9 @@ export default function RootLayout({
   // Root layout must have html and body tags for Next.js
   // This is required for metadata routes like sitemap to work properly
   // Default lang is set here, LocaleHtmlLang component will update it for locale routes
+  // suppressHydrationWarning is needed because the locale layout script updates the lang attribute
   return (
-    <html lang={defaultLocale}>
+    <html lang={defaultLocale} suppressHydrationWarning>
       <body className={`${outfit.variable} font-sans`}>
         {children}
       </body>

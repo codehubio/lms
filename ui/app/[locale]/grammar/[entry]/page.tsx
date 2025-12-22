@@ -1,6 +1,9 @@
 import Link from 'next/link';
+import { Suspense } from 'react';
 import { fetchGrammarEntries } from '@/lib/data';
 import GrammarEntry from '@/components/GrammarEntry';
+import GrammarSearch from '@/components/GrammarSearch';
+import GrammarTopicsList from '@/components/GrammarTopicsList';
 import { locales, type Locale, defaultLocale } from '@/proxy';
 import { getUiText } from '@/lib/ui-text';
 import { generateSEOMetadata } from '@/lib/seo';
@@ -12,6 +15,7 @@ export const dynamic = 'force-dynamic';
 
 interface GrammarEntryPageProps {
   params: Promise<{ locale: string; entry: string }>;
+  searchParams: Promise<{ search?: string }>;
 }
 
 /**
@@ -61,7 +65,7 @@ export async function generateMetadata({ params }: GrammarEntryPageProps): Promi
  * Grammar Entry Page - Server Component
  * Displays a specific grammar entry
  */
-export default async function GrammarEntryPage({ params }: GrammarEntryPageProps) {
+export default async function GrammarEntryPage({ params, searchParams }: GrammarEntryPageProps) {
   const { locale, entry } = await params;
   const validLocale: Locale = locales.includes(locale as Locale) ? (locale as Locale) : defaultLocale;
   
@@ -112,31 +116,20 @@ export default async function GrammarEntryPage({ params }: GrammarEntryPageProps
               <h2 className="text-lg font-semibold text-gray-900 mb-3">
                 {text.grammar?.topics || 'Topics'}
               </h2>
+              <Suspense fallback={<div className="mb-4 h-20 bg-gray-100 rounded-lg animate-pulse" />}>
+                <GrammarSearch />
+              </Suspense>
               {grammarEntries.length === 0 ? (
                 <p className="text-gray-500 text-sm">
                   {text.grammar?.noResults || 'No grammar topics found'}
                 </p>
               ) : (
-                <div className="space-y-2">
-                  {grammarEntries.map((entryItem) => {
-                    const entryTitle = entryItem.translation[validLocale] || entryItem.translation.en || entryItem.title;
-                    const isSelected = selectedEntry?.id === entryItem.id;
-                    
-                    return (
-                      <Link
-                        key={entryItem.id}
-                        href={`/${validLocale}/grammar/${entryItem.id}`}
-                        className={`block p-3 rounded-lg border transition ${
-                          isSelected
-                            ? 'bg-teal-50 border-teal-300 text-teal-900 font-semibold'
-                            : 'bg-white border-gray-200 text-gray-700 hover:bg-gray-50'
-                        }`}
-                      >
-                        {entryTitle}
-                      </Link>
-                    );
-                  })}
-                </div>
+                <Suspense fallback={<div className="space-y-2"><div className="h-12 bg-gray-100 rounded-lg animate-pulse" /><div className="h-12 bg-gray-100 rounded-lg animate-pulse" /></div>}>
+                  <GrammarTopicsList 
+                    entries={grammarEntries} 
+                    selectedEntryId={selectedEntry.id}
+                  />
+                </Suspense>
               )}
             </div>
           </div>
