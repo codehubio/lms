@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Outfit } from 'next/font/google'
 import './globals.css'
 import { generateSEOMetadata, getBaseUrl } from '@/lib/seo'
+import { defaultLocale } from '@/proxy'
 
 const outfit = Outfit({
   subsets: ['latin'],
@@ -32,8 +33,9 @@ export default function RootLayout({
 }) {
   // Root layout must have html and body tags for Next.js
   // This is required for metadata routes like sitemap to work properly
+  // Default lang is set here, LocaleHtmlLang component will update it for locale routes
   return (
-    <html>
+    <html lang={defaultLocale}>
       <body className={`${outfit.variable} font-sans`}>
         {children}
       </body>

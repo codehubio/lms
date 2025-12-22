@@ -59,8 +59,15 @@ export default async function LocaleLayout({
   
   // Nested layout should not have html/body tags
   // The root layout provides those
+  // We use an inline script to set the lang attribute immediately
   return (
     <>
+      <script
+        suppressHydrationWarning
+        dangerouslySetInnerHTML={{
+          __html: `if(typeof document!=='undefined'){document.documentElement.setAttribute('lang','${validLocale}');}`,
+        }}
+      />
       <NavBar />
       {children}
     </>
