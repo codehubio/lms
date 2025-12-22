@@ -70,5 +70,17 @@
       "en": "This mathematical formula is very complex.",
       "vi": "Công thức toán học này rất phức tạp."
     }
+  },
+  {
+    "sentence": "两条垂直的直线相交成直角。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "liǎng tiáo chuí zhí de zhí xiàn xiāng jiāo chéng zhí jiǎo",
+    "pinyin2": "liang3 tiao2 chui2 zhi2 de zhi2 xian4 xiang1 jiao1 cheng2 zhi2 jiao3",
+    "translation": {
+      "en": "Two perpendicular lines intersect at a right angle.",
+      "vi": "Hai đường thẳng vuông góc cắt nhau tạo thành góc vuông."
+    }
   }
 ]

@@ -88,4 +88,13 @@
     "en": "In elastic collisions, both kinetic energy and momentum are conserved.",
     "vi": "Trong va chạm đàn hồi, cả động năng và động lượng đều được bảo toàn."
   }
+}, {
+  "sentence": "重力方向是垂直向下的。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "zhòng lì fāng xiàng shì chuí zhí xiàng xià de",
+  "pinyin2": "zhong4 li4 fang1 xiang4 shi4 chui2 zhi2 xiang4 xia4 de",
+  "translation": {
+    "en": "The direction of gravity is vertically downward.",
+    "vi": "Hướng của trọng lực là thẳng đứng xuống dưới."
+  }
 }]
