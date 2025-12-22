@@ -97,5 +97,32 @@
     "en": "Modern logistics systems have greatly improved transportation efficiency.",
     "vi": "Hệ thống logistics hiện đại đã nâng cao hiệu quả vận chuyển rất nhiều."
   }
+}, {
+  "sentence": "经济萧条时期失业率大幅上升。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "jīng jì xiāo tiáo shí qī shī yè lǜ dà fú shàng shēng",
+  "pinyin2": "jing1 ji4 xiao1 tiao2 shi2 qi1 shi1 ye4 lv4 da4 fu2 shang4 sheng1",
+  "translation": {
+    "en": "During the economic depression, the unemployment rate rose sharply.",
+    "vi": "Trong thời kỳ trì trệ kinh tế, tỷ lệ thất nghiệp tăng mạnh."
+  }
+}, {
+  "sentence": "市场需求萎缩导致企业减产。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "shì chǎng xū qiú wěi suō dǎo zhì qǐ yè jiǎn chǎn",
+  "pinyin2": "shi4 chang3 xu1 qiu2 wei3 suo1 dao3 zhi4 qi3 ye4 jian3 chan3",
+  "translation": {
+    "en": "Shrinking market demand led to production cuts by enterprises.",
+    "vi": "Nhu cầu thị trường thu hẹp khiến doanh nghiệp giảm sản xuất."
+  }
+}, {
+  "sentence": "两国签署了双边贸易协定。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "liǎng guó qiān shǔ le shuāng biān mào yì xié dìng",
+  "pinyin2": "liang3 guo2 qian1 shu3 le shuang1 bian1 mao4 yi4 xie2 ding4",
+  "translation": {
+    "en": "The two countries signed a bilateral trade agreement.",
+    "vi": "Hai nước đã ký thỏa thuận thương mại song phương."
+  }
 }]
 

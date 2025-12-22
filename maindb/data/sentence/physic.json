@@ -79,4 +79,13 @@
     "en": "This physics formula describes the conservation of energy.",
     "vi": "Công thức vật lý này mô tả sự bảo toàn năng lượng."
   }
+}, {
+  "sentence": "弹性碰撞中动能和动量都守恒。",
+  "tags": ["physics", "physic"],
+  "pinyin1": "tán xìng pèng zhuàng zhōng dòng néng hé dòng liàng dōu shǒu héng",
+  "pinyin2": "tan2 xing4 peng4 zhuang4 zhong1 dong4 neng2 he2 dong4 liang4 dou1 shou3 heng2",
+  "translation": {
+    "en": "In elastic collisions, both kinetic energy and momentum are conserved.",
+    "vi": "Trong va chạm đàn hồi, cả động năng và động lượng đều được bảo toàn."
+  }
 }]

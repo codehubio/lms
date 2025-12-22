@@ -88,5 +88,14 @@
     "en": "The retail industry is undergoing digital transformation.",
     "vi": "Ngành bán lẻ đang trải qua quá trình chuyển đổi số."
   }
+}, {
+  "sentence": "央行实施了紧缩政策以控制通胀。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "yāng háng shí shī le jǐn suō zhèng cè yǐ kòng zhì tōng zhàng",
+  "pinyin2": "yang1 hang2 shi2 shi1 le jin3 suo1 zheng4 ce4 yi3 kong4 zhi4 tong1 zhang4",
+  "translation": {
+    "en": "The central bank implemented a tightening policy to control inflation.",
+    "vi": "Ngân hàng trung ương thực hiện chính sách thắt chặt để kiểm soát lạm phát."
+  }
 }]
 

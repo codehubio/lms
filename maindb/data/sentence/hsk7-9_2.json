@@ -79,5 +79,23 @@
     "en": "The climate here is very dry.",
     "vi": "Khí hậu ở đây rất khô."
   }
+}, {
+  "sentence": "提高关税会影响国际贸易。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tí gāo guān shuì huì yǐng xiǎng guó jì mào yì",
+  "pinyin2": "ti2 gao1 guan1 shui4 hui4 ying3 xiang3 guo2 ji4 mao4 yi4",
+  "translation": {
+    "en": "Raising tariffs will affect international trade.",
+    "vi": "Tăng thuế quan sẽ ảnh hưởng đến thương mại quốc tế."
+  }
+}, {
+  "sentence": "市场出现供过于求的过剩现象。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "shì chǎng chū xiàn gōng guò yú qiú de guò shèng xiàn xiàng",
+  "pinyin2": "shi4 chang3 chu1 xian4 gong1 guo4 yu2 qiu2 de guo4 sheng4 xian4 xiang4",
+  "translation": {
+    "en": "The market shows an oversupply phenomenon.",
+    "vi": "Thị trường xuất hiện hiện tượng dư thừa do cung vượt cầu."
+  }
 }]
 

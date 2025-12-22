@@ -25426,5 +25426,233 @@
       "en": "He invested in a fund.",
       "vi": "Anh ấy đã đầu tư vào một quỹ."
     }
+  },
+  {
+    "sentence": "两家公司合并后规模更大了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "liǎng jiā gōng sī hé bìng hòu guī mó gèng dà le",
+    "pinyin2": "liang3 jia1 gong1 si1 he2 bing4 hou4 gui1 mo2 geng4 da4 le",
+    "translation": {
+      "en": "After the two companies merged, the scale became larger.",
+      "vi": "Sau khi hai công ty sáp nhập, quy mô lớn hơn."
+    }
+  },
+  {
+    "sentence": "公司今年盈利了五百万元。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "gōng sī jīn nián yíng lì le wǔ bǎi wàn yuán",
+    "pinyin2": "gong1 si1 jin1 nian2 ying2 li4 le wu3 bai3 wan4 yuan2",
+    "translation": {
+      "en": "The company made a profit of five million yuan this year.",
+      "vi": "Công ty năm nay có lãi năm triệu nhân dân tệ."
+    }
+  },
+  {
+    "sentence": "经济衰退影响了就业市场。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "jīng jì shuāi tuì yǐng xiǎng le jiù yè shì chǎng",
+    "pinyin2": "jing1 ji4 shuai1 tui4 ying3 xiang3 le jiu4 ye4 shi4 chang3",
+    "translation": {
+      "en": "Economic recession affected the job market.",
+      "vi": "Suy thoái kinh tế ảnh hưởng đến thị trường việc làm."
+    }
+  },
+  {
+    "sentence": "房地产泡沫破裂后房价下跌。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "fáng dì chǎn pào mò pò liè hòu fáng jià xià diē",
+    "pinyin2": "fang2 di4 chan3 pao4 mo4 po4 lie4 hou4 fang2 jia4 xia4 die1",
+    "translation": {
+      "en": "After the real estate bubble burst, housing prices fell.",
+      "vi": "Sau khi bong bóng bất động sản vỡ, giá nhà giảm."
+    }
+  },
+  {
+    "sentence": "政府为农民提供补贴。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhèng fǔ wèi nóng mín tí gōng bǔ tiē",
+    "pinyin2": "zheng4 fu3 wei4 nong2 min2 ti2 gong1 bu3 tie1",
+    "translation": {
+      "en": "The government provides subsidies to farmers.",
+      "vi": "Chính phủ cung cấp trợ cấp cho nông dân."
+    }
+  },
+  {
+    "sentence": "多个国家组成了经济联盟。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "duō gè guó jiā zǔ chéng le jīng jì lián méng",
+    "pinyin2": "duo1 ge4 guo2 jia1 zu3 cheng2 le jing1 ji4 lian2 meng2",
+    "translation": {
+      "en": "Multiple countries formed an economic alliance.",
+      "vi": "Nhiều quốc gia đã thành lập liên minh kinh tế."
+    }
+  },
+  {
+    "sentence": "两国签署了和平条约。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "liǎng guó qiān shǔ le hé píng tiáo yuē",
+    "pinyin2": "liang3 guo2 qian1 shu3 le he2 ping2 tiao2 yue1",
+    "translation": {
+      "en": "The two countries signed a peace treaty.",
+      "vi": "Hai nước đã ký hiệp ước hòa bình."
+    }
+  },
+  {
+    "sentence": "双方签署了合作备忘录。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "shuāng fāng qiān shǔ le hé zuò bèi wàng lù",
+    "pinyin2": "shuang1 fang1 qian1 shu3 le he2 zuo4 bei4 wang4 lu4",
+    "translation": {
+      "en": "Both sides signed a memorandum of cooperation.",
+      "vi": "Hai bên đã ký biên bản ghi nhớ hợp tác."
+    }
+  },
+  {
+    "sentence": "这个材料很有弹性。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè cái liào hěn yǒu tán xìng",
+    "pinyin2": "zhe4 ge4 cai2 liao4 hen3 you3 tan2 xing4",
+    "translation": {
+      "en": "This material is very elastic.",
+      "vi": "Vật liệu này rất có tính đàn hồi."
+    }
+  },
+  {
+    "sentence": "他叹了口气，看起来很累。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā tàn le kǒu qì, kàn qǐ lái hěn lèi",
+    "pinyin2": "ta1 tan4 le kou3 qi4, kan4 qi3 lai2 hen3 lei4",
+    "translation": {
+      "en": "He sighed and looked very tired.",
+      "vi": "Anh ấy thở dài, trông rất mệt mỏi."
+    }
+  },
+  {
+    "sentence": "这项工作很吃力。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè xiàng gōng zuò hěn chī lì",
+    "pinyin2": "zhe4 xiang4 gong1 zuo4 hen3 chi1 li4",
+    "translation": {
+      "en": "This work is very strenuous.",
+      "vi": "Công việc này rất vất vả."
+    }
+  },
+  {
+    "sentence": "他从小就学会了吃苦。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā cóng xiǎo jiù xué huì le chī kǔ",
+    "pinyin2": "ta1 cong2 xiao3 jiu4 xue2 hui4 le chi1 ku3",
+    "translation": {
+      "en": "He learned to endure hardship from a young age.",
+      "vi": "Anh ấy đã học cách chịu khổ từ nhỏ."
+    }
+  },
+  {
+    "sentence": "会议上大家各抒己见。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "huì yì shàng dà jiā gè shū jǐ jiàn",
+    "pinyin2": "hui4 yi4 shang4 da4 jia1 ge4 shu1 ji3 jian4",
+    "translation": {
+      "en": "Everyone expressed their own opinions at the meeting.",
+      "vi": "Trong cuộc họp, mọi người đều bày tỏ ý kiến của mình."
+    }
+  },
+  {
+    "sentence": "他们各自回家了。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā men gè zì huí jiā le",
+    "pinyin2": "ta1 men ge4 zi4 hui2 jia1 le",
+    "translation": {
+      "en": "They each went home.",
+      "vi": "Họ đã về nhà riêng."
+    }
+  },
+  {
+    "sentence": "这个决定合乎情理。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè jué dìng hé hū qíng lǐ",
+    "pinyin2": "zhe4 ge4 jue2 ding4 he2 hu1 qing2 li3",
+    "translation": {
+      "en": "This decision is reasonable.",
+      "vi": "Quyết định này hợp lý."
+    }
+  },
+  {
+    "sentence": "他们合伙开了一家餐厅。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā men hé huǒ kāi le yī jiā cān tīng",
+    "pinyin2": "ta1 men he2 huo3 kai1 le yi1 jia1 can1 ting1",
+    "translation": {
+      "en": "They partnered to open a restaurant.",
+      "vi": "Họ hợp tác mở một nhà hàng."
+    }
+  },
+  {
+    "sentence": "这两种物质可以合成一种新材料。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè liǎng zhǒng wù zhì kě yǐ hé chéng yī zhǒng xīn cái liào",
+    "pinyin2": "zhe4 liang3 zhong3 wu4 zhi4 ke3 yi3 he2 cheng2 yi1 zhong3 xin1 cai2 liao4",
+    "translation": {
+      "en": "These two substances can be synthesized into a new material.",
+      "vi": "Hai chất này có thể tổng hợp thành một vật liệu mới."
+    }
+  },
+  {
+    "sentence": "买这个很合算。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "mǎi zhè gè hěn hé suàn",
+    "pinyin2": "mai3 zhe4 ge4 hen3 he2 suan4",
+    "translation": {
+      "en": "Buying this is very cost-effective.",
+      "vi": "Mua cái này rất hợp lý."
+    }
+  },
+  {
+    "sentence": "红色在中国是吉祥的颜色。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "hóng sè zài zhōng guó shì jí xiáng de yán sè",
+    "pinyin2": "hong2 se4 zai4 zhong1 guo2 shi4 ji2 xiang2 de yan2 se4",
+    "translation": {
+      "en": "Red is an auspicious color in China.",
+      "vi": "Màu đỏ ở Trung Quốc là màu may mắn."
+    }
   }
 ]
