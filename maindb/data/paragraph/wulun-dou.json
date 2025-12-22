@@ -1,0 +1,113 @@
+{
+  "id": "wulun-dou",
+  "title": "无论……都 - Universal Conditional Pattern",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "无论……都 - Universal Conditional Pattern",
+    "vi": "无论……都 - Mẫu câu điều kiện phổ quát",
+    "zh": "无论……都 - 无条件句型"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "无论……都 - Basic Universal Conditional Pattern (无论……都)",
+          "vi": "无论……都 - Mẫu câu điều kiện phổ quát cơ bản (无论……都)",
+          "zh": "无论……都 - 基本无条件句型"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**无论……都** (wúlùn...dōu) is a universal conditional pattern in Chinese that means \"no matter...all\" or \"regardless of...all.\" It expresses that something is true in **all cases** or **regardless of conditions**.\n\n**Basic Structure:**\n无论 + Condition + 都 + Result\n\n**Key Points:**\n- **无论** (wúlùn) means \"no matter\" or \"regardless of\" and introduces the condition\n- **都** (dōu) means \"all\" or \"both\" and emphasizes that the result applies universally\n- The condition clause comes first, followed by the result clause\n- **都** is essential and cannot be omitted - it emphasizes universality\n- This pattern is stronger than **如果……就** because it covers ALL possible conditions\n\n**Examples:**\n- **无论**天气怎么样，我**都**要去。 (**No matter** what the weather is like, I **will** go.)\n- **无论**多忙，他**都**坚持锻炼。 (**No matter** how busy, he **always** insists on exercising.)\n- **无论**你去不去，我**都**去。 (**No matter** whether you go or not, I **will** go.)\n\n**Note:** **无论** can also be written as **不論** (bùlùn) in traditional Chinese, but **无论** is more commonly used in simplified Chinese.",
+          "vi": "**无论……都** (wúlùn...dōu) là mẫu câu điều kiện phổ quát trong tiếng Trung có nghĩa là \"bất kể...đều\" hoặc \"dù...đều.\" Nó diễn đạt rằng điều gì đó đúng trong **tất cả các trường hợp** hoặc **bất kể điều kiện**.\n\n**Cấu trúc cơ bản:**\n无论 + Điều kiện + 都 + Kết quả\n\n**Điểm quan trọng:**\n- **无论** (wúlùn) có nghĩa là \"bất kể\" hoặc \"dù\" và giới thiệu điều kiện\n- **都** (dōu) có nghĩa là \"đều\" hoặc \"cả\" và nhấn mạnh rằng kết quả áp dụng phổ quát\n- Mệnh đề điều kiện đứng trước, theo sau là mệnh đề kết quả\n- **都** là cần thiết và không thể bỏ qua - nó nhấn mạnh tính phổ quát\n- Mẫu này mạnh hơn **如果……就** vì nó bao gồm TẤT CẢ các điều kiện có thể\n\n**Ví dụ:**\n- **无论**天气怎么样，我**都**要去。 (**Dù** thời tiết thế nào, tôi **đều** sẽ đi.)\n- **无论**多忙，他**都**坚持锻炼。 (**Dù** bận đến đâu, anh ấy **đều** kiên trì tập thể dục.)\n- **无论**你去不去，我**都**去。 (**Dù** bạn đi hay không, tôi **đều** sẽ đi.)\n\n**Lưu ý:** **无论** cũng có thể được viết là **不論** (bùlùn) trong tiếng Trung phồn thể, nhưng **无论** được dùng phổ biến hơn trong tiếng Trung giản thể.",
+          "zh": "**无论……都**（wúlùn...dōu）是汉语中的无条件句型，意思是\"无论……都\"或\"不管……都\"。它表达某事在**所有情况下**或**无论什么条件**都是真的。\n\n**基本结构：**\n无论 + 条件 + 都 + 结果\n\n**要点：**\n- **无论**（wúlùn）意思是\"无论\"或\"不管\"，引出条件\n- **都**（dōu）意思是\"都\"或\"都\"，强调结果普遍适用\n- 条件分句在前，结果分句在后\n- **都**是必需的，不能省略 - 它强调普遍性\n- 这个模式比**如果……就**更强，因为它涵盖所有可能的条件\n\n**例句：**\n- **无论**天气怎么样，我**都**要去。\n- **无论**多忙，他**都**坚持锻炼。\n- **无论**你去不去，我**都**去。\n\n**注意：** **无论**在繁体中文中也可以写成**不論**（bùlùn），但**无论**在简体中文中更常用。"
+        }
+      },
+      "placeholders": [{
+        "wulun": "无论",
+        "dou": "都",
+        "condition": "天气怎么样",
+        "result": "要去"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Structures with 无论……都",
+          "vi": "Cấu trúc thường dùng với 无论……都",
+          "zh": "无论……都的常见结构"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**无论……都** can be used with different types of conditions. Here are the most common structures:\n\n**1. 无论 + Question Word (什么, 怎么, 哪里, etc.):**\n- **无论**什么**都**可以。 (**No matter** what, **all** are acceptable.)\n- **无论**怎么**都**不行。 (**No matter** how, **all** won't work.)\n- **无论**哪里**都**一样。 (**No matter** where, **all** are the same.)\n\n**2. 无论 + A 还是 B (A or B):**\n- **无论**你去**还是**不去，我**都**去。 (**No matter** whether you go **or** not, I **will** go.)\n- **无论**晴天**还是**雨天，我**都**出门。 (**No matter** sunny **or** rainy, I **will** go out.)\n\n**3. 无论 + 多/多么 + Adjective:**\n- **无论**多**难，我**都**要坚持。 (**No matter** how **difficult**, I **will** persist.)\n- **无论**多么**累，他**都**不休息。 (**No matter** how **tired**, he **doesn't** rest.)\n\n**4. 无论 + 谁/什么时候/什么地方:**\n- **无论**谁**来，我**都**欢迎。 (**No matter** who comes, I **will** welcome them.)\n- **无论**什么时候**都**可以。 (**No matter** when, **all** are fine.)\n- **无论**什么地方**都**一样。 (**No matter** what place, **all** are the same.)\n\n**Key Points:**\n- Question words (什么, 怎么, 哪里, etc.) are commonly used after **无论**\n- **还是** (or) is used to present alternatives\n- **多/多么** (how) is used with adjectives to express degree\n- **都** always comes after the condition and before the result",
+          "vi": "**无论……都** có thể được dùng với các loại điều kiện khác nhau. Dưới đây là các cấu trúc thường dùng nhất:\n\n**1. 无论 + Từ để hỏi (什么, 怎么, 哪里, etc.):**\n- **无论**什么**都**可以。 (**Dù** là gì, **đều** có thể.)\n- **无论**怎么**都**不行。 (**Dù** thế nào, **đều** không được.)\n- **无论**哪里**都**一样。 (**Dù** ở đâu, **đều** giống nhau.)\n\n**2. 无论 + A 还是 B (A hoặc B):**\n- **无论**你去**还是**不去，我**都**去。 (**Dù** bạn đi **hay** không, tôi **đều** sẽ đi.)\n- **无论**晴天**还是**雨天，我**都**出门。 (**Dù** nắng **hay** mưa, tôi **đều** ra ngoài.)\n\n**3. 无论 + 多/多么 + Tính từ:**\n- **无论**多**难，我**都**要坚持。 (**Dù** khó đến đâu, tôi **đều** sẽ kiên trì.)\n- **无论**多么**累，他**都**不休息。 (**Dù** mệt đến đâu, anh ấy **đều** không nghỉ.)\n\n**4. 无论 + 谁/什么时候/什么地方:**\n- **无论**谁**来，我**都**欢迎。 (**Dù** ai đến, tôi **đều** hoan nghênh.)\n- **无论**什么时候**都**可以。 (**Dù** khi nào, **đều** có thể.)\n- **无论**什么地方**都**一样。 (**Dù** nơi nào, **đều** giống nhau.)\n\n**Điểm quan trọng:**\n- Từ để hỏi (什么, 怎么, 哪里, etc.) thường được dùng sau **无论**\n- **还是** (hoặc) được dùng để trình bày các lựa chọn\n- **多/多么** (đến mức nào) được dùng với tính từ để diễn đạt mức độ\n- **都** luôn đứng sau điều kiện và trước kết quả",
+          "zh": "**无论……都**可以与不同类型的条件一起使用。以下是最常见的结构：\n\n**1. 无论 + 疑问词（什么、怎么、哪里等）：**\n- **无论**什么**都**可以。\n- **无论**怎么**都**不行。\n- **无论**哪里**都**一样。\n\n**2. 无论 + A 还是 B（A或B）：**\n- **无论**你去**还是**不去，我**都**去。\n- **无论**晴天**还是**雨天，我**都**出门。\n\n**3. 无论 + 多/多么 + 形容词：**\n- **无论**多**难，我**都**要坚持。\n- **无论**多么**累，他**都**不休息。\n\n**4. 无论 + 谁/什么时候/什么地方：**\n- **无论**谁**来，我**都**欢迎。\n- **无论**什么时候**都**可以。\n- **无论**什么地方**都**一样。\n\n**要点：**\n- 疑问词（什么、怎么、哪里等）常用于**无论**之后\n- **还是**（或）用于表示选择\n- **多/多么**（多么）与形容词一起使用表示程度\n- **都**总是在条件之后、结果之前"
+        }
+      },
+      "placeholders": [{
+        "wulun": "无论",
+        "dou": "都",
+        "shenme": "什么",
+        "zenme": "怎么",
+        "nali": "哪里",
+        "haishi": "还是",
+        "duo": "多",
+        "duome": "多么",
+        "shui": "谁",
+        "shenmeshihou": "什么时候",
+        "shenmedifang": "什么地方"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Variations and Related Patterns",
+          "vi": "Biến thể và mẫu liên quan",
+          "zh": "变体和相关模式"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "There are several variations and related patterns to **无论……都**:\n\n**1. 不管……都 (bùguǎn...dōu) - Similar meaning:**\n- **不管**天气怎么样，我**都**要去。 (**No matter** what the weather is like, I **will** go.)\n- **不管** can be used interchangeably with **无论** in most cases\n- **不管** is slightly more casual and conversational\n\n**2. 不论……都 (bùlùn...dōu) - Formal variant:**\n- **不论**困难多大，我们**都**要坚持。 (**No matter** how great the difficulty, we **will** persist.)\n- **不论** is more formal and literary\n- Less commonly used in everyday speech\n\n**3. 任凭……都 (rènpíng...dōu) - \"Even if\":**\n- **任凭**你怎么说，我**都**不相信。 (**Even if** you say anything, I **won't** believe it.)\n- **任凭** emphasizes \"even if\" and is more emphatic\n\n**4. 即使……也 (jíshǐ...yě) - \"Even if\":**\n- **即使**下雨，我**也**要去。 (**Even if** it rains, I **will still** go.)\n- **即使……也** is similar but uses **也** instead of **都**\n- **即使** focuses on a specific condition, while **无论** covers all conditions\n\n**5. Omitting 无论 in spoken Chinese:**\n- 天气怎么样，我**都**要去。 (No matter what the weather is like, I will go.)\n- **无论** is implied but can be omitted in casual speech\n\n**Key Differences:**\n- **无论/不管/不论……都**: Emphasizes \"all cases\" or \"regardless of\"\n- **即使……也**: Emphasizes \"even if\" (a specific condition)\n- **任凭……都**: More emphatic, \"even if\" with stronger tone",
+          "vi": "Có nhiều biến thể và mẫu liên quan đến **无论……都**:\n\n**1. 不管……都 (bùguǎn...dōu) - Nghĩa tương tự:**\n- **不管**天气怎么样，我**都**要去。 (**Dù** thời tiết thế nào, tôi **đều** sẽ đi.)\n- **不管** có thể dùng thay thế cho **无论** trong hầu hết trường hợp\n- **不管** hơi thân mật và đàm thoại hơn\n\n**2. 不论……都 (bùlùn...dōu) - Biến thể trang trọng:**\n- **不论**困难多大，我们**都**要坚持。 (**Dù** khó khăn lớn đến đâu, chúng ta **đều** sẽ kiên trì.)\n- **不论** trang trọng và văn học hơn\n- Ít được dùng trong lời nói hàng ngày\n\n**3. 任凭……都 (rènpíng...dōu) - \"Ngay cả nếu\":**\n- **任凭**你怎么说，我**都**不相信。 (**Ngay cả** bạn nói gì, tôi **đều** không tin.)\n- **任凭** nhấn mạnh \"ngay cả nếu\" và mạnh mẽ hơn\n\n**4. 即使……也 (jíshǐ...yě) - \"Ngay cả nếu\":**\n- **即使**下雨，我**也**要去。 (**Ngay cả** trời mưa, tôi **cũng** sẽ đi.)\n- **即使……也** tương tự nhưng dùng **也** thay vì **都**\n- **即使** tập trung vào một điều kiện cụ thể, trong khi **无论** bao gồm tất cả điều kiện\n\n**5. Bỏ 无论 trong tiếng Trung nói:**\n- 天气怎么样，我**都**要去。 (Dù thời tiết thế nào, tôi đều sẽ đi.)\n- **无论** được ngụ ý nhưng có thể bỏ qua trong lời nói thân mật\n\n**Sự khác biệt chính:**\n- **无论/不管/不论……都**: Nhấn mạnh \"tất cả trường hợp\" hoặc \"bất kể\"\n- **即使……也**: Nhấn mạnh \"ngay cả nếu\" (một điều kiện cụ thể)\n- **任凭……都**: Mạnh mẽ hơn, \"ngay cả nếu\" với giọng điệu mạnh hơn",
+          "zh": "**无论……都**有几种变体和相关模式：\n\n**1. 不管……都（bùguǎn...dōu）- 意思相似：**\n- **不管**天气怎么样，我**都**要去。\n- **不管**在大多数情况下可以与**无论**互换使用\n- **不管**稍微更随意和口语化\n\n**2. 不论……都（bùlùn...dōu）- 正式变体：**\n- **不论**困难多大，我们**都**要坚持。\n- **不论**更正式和书面化\n- 在日常口语中较少使用\n\n**3. 任凭……都（rènpíng...dōu）- \"即使\"：**\n- **任凭**你怎么说，我**都**不相信。\n- **任凭**强调\"即使\"，语气更强\n\n**4. 即使……也（jíshǐ...yě）- \"即使\"：**\n- **即使**下雨，我**也**要去。\n- **即使……也**相似但使用**也**而不是**都**\n- **即使**专注于特定条件，而**无论**涵盖所有条件\n\n**5. 在口语中省略无论：**\n- 天气怎么样，我**都**要去。\n- **无论**被暗示但在随意口语中可以省略\n\n**主要区别：**\n- **无论/不管/不论……都**：强调\"所有情况\"或\"无论\"\n- **即使……也**：强调\"即使\"（特定条件）\n- **任凭……都**：更强调，\"即使\"语气更强"
+        }
+      },
+      "placeholders": [{
+        "wulun": "无论",
+        "buguan": "不管",
+        "bulun": "不论",
+        "renping": "任凭",
+        "jishi": "即使",
+        "dou": "都",
+        "ye": "也"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes and Tips",
+          "vi": "Lỗi thường gặp và mẹo",
+          "zh": "常见错误和提示"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are common mistakes and useful tips when using **无论……都**:\n\n**Common Mistakes:**\n\n**1. Forgetting 都:**\n- ❌ **无论**天气怎么样，我要去。 (missing 都 - incorrect)\n- ✅ **无论**天气怎么样，我**都**要去。 (correct)\n\n**2. Wrong word order:**\n- ❌ 我**都**要去，**无论**天气怎么样。 (wrong - condition should come first)\n- ✅ **无论**天气怎么样，我**都**要去。 (correct)\n\n**3. Using 就 instead of 都:**\n- ❌ **无论**天气怎么样，我**就**要去。 (wrong - use 都, not 就)\n- ✅ **无论**天气怎么样，我**都**要去。 (correct)\n- **Note:** **就** is used with **如果** (if), while **都** is used with **无论** (no matter)\n\n**4. Confusing with 即使……也:**\n- ❌ **无论**下雨，我**也**去。 (less natural - 无论 usually pairs with 都)\n- ✅ **无论**下不下雨，我**都**去。 (correct - covers all conditions)\n- ✅ **即使**下雨，我**也**去。 (correct - specific condition)\n\n**5. Missing question word or alternative structure:**\n- ❌ **无论**天气，我**都**去。 (incomplete - needs \"怎么样\" or structure)\n- ✅ **无论**天气怎么样，我**都**去。 (correct)\n- ✅ **无论**晴天还是雨天，我**都**去。 (correct)\n\n**Useful Tips:**\n- Always remember: **无论** (condition) + **都** (universal result)\n- **都** is essential and cannot be omitted - it emphasizes universality\n- Use question words (什么, 怎么, 哪里) or **还是** (or) after **无论**\n- **无论……都** is stronger than **如果……就** because it covers ALL conditions\n- Practice with simple conditions first, then add complexity\n- **无论** and **不管** are interchangeable, but **无论** is slightly more formal",
+          "vi": "Dưới đây là các lỗi thường gặp và mẹo hữu ích khi sử dụng **无论……都**:\n\n**Lỗi thường gặp:**\n\n**1. Quên 都:**\n- ❌ **无论**天气怎么样，我要去。 (thiếu 都 - sai)\n- ✅ **无论**天气怎么样，我**都**要去。 (đúng)\n\n**2. Thứ tự từ sai:**\n- ❌ 我**都**要去，**无论**天气怎么样。 (sai - điều kiện nên đứng trước)\n- ✅ **无论**天气怎么样，我**都**要去。 (đúng)\n\n**3. Dùng 就 thay cho 都:**\n- ❌ **无论**天气怎么样，我**就**要去。 (sai - dùng 都, không phải 就)\n- ✅ **无论**天气怎么样，我**都**要去。 (đúng)\n- **Lưu ý:** **就** được dùng với **如果** (nếu), trong khi **都** được dùng với **无论** (dù)\n\n**4. Nhầm lẫn với 即使……也:**\n- ❌ **无论**下雨，我**也**去。 (kém tự nhiên - **无论** thường đi với **都**)\n- ✅ **无论**下不下雨，我**都**去。 (đúng - bao gồm tất cả điều kiện)\n- ✅ **即使**下雨，我**也**去。 (đúng - điều kiện cụ thể)\n\n**5. Thiếu từ để hỏi hoặc cấu trúc thay thế:**\n- ❌ **无论**天气，我**都**去。 (chưa hoàn chỉnh - cần \"怎么样\" hoặc cấu trúc)\n- ✅ **无论**天气怎么样，我**都**去。 (đúng)\n- ✅ **无论**晴天还是雨天，我**都**去。 (đúng)\n\n**Mẹo hữu ích:**\n- Luôn nhớ: **无论** (điều kiện) + **都** (kết quả phổ quát)\n- **都** là cần thiết và không thể bỏ qua - nó nhấn mạnh tính phổ quát\n- Dùng từ để hỏi (什么, 怎么, 哪里) hoặc **还是** (hoặc) sau **无论**\n- **无论……都** mạnh hơn **如果……就** vì nó bao gồm TẤT CẢ điều kiện\n- Luyện tập với điều kiện đơn giản trước, sau đó thêm độ phức tạp\n- **无论** và **不管** có thể thay thế cho nhau, nhưng **无论** hơi trang trọng hơn",
+          "zh": "以下是使用**无论……都**时的常见错误和有用提示：\n\n**常见错误：**\n\n**1. 忘记都：**\n- ❌ **无论**天气怎么样，我要去。（缺少都 - 错误）\n- ✅ **无论**天气怎么样，我**都**要去。（正确）\n\n**2. 词序错误：**\n- ❌ 我**都**要去，**无论**天气怎么样。（错误 - 条件应该在前）\n- ✅ **无论**天气怎么样，我**都**要去。（正确）\n\n**3. 使用就代替都：**\n- ❌ **无论**天气怎么样，我**就**要去。（错误 - 使用都，不是就）\n- ✅ **无论**天气怎么样，我**都**要去。（正确）\n- **注意：** **就**与**如果**（如果）一起使用，而**都**与**无论**（无论）一起使用\n\n**4. 与即使……也混淆：**\n- ❌ **无论**下雨，我**也**去。（不太自然 - **无论**通常与**都**配对）\n- ✅ **无论**下不下雨，我**都**去。（正确 - 涵盖所有条件）\n- ✅ **即使**下雨，我**也**去。（正确 - 特定条件）\n\n**5. 缺少疑问词或替代结构：**\n- ❌ **无论**天气，我**都**去。（不完整 - 需要\"怎么样\"或结构）\n- ✅ **无论**天气怎么样，我**都**去。（正确）\n- ✅ **无论**晴天还是雨天，我**都**去。（正确）\n\n**有用提示：**\n- 始终记住：**无论**（条件）+ **都**（普遍结果）\n- **都**是必需的，不能省略 - 它强调普遍性\n- 在**无论**后使用疑问词（什么、怎么、哪里）或**还是**（或）\n- **无论……都**比**如果……就**更强，因为它涵盖所有条件\n- 先练习简单条件，然后增加复杂性\n- **无论**和**不管**可以互换，但**无论**稍微更正式"
+        }
+      },
+      "placeholders": [{
+        "wulun": "无论",
+        "dou": "都",
+        "jiu": "就",
+        "ye": "也",
+        "jishi": "即使",
+        "ruguo": "如果",
+        "buguan": "不管"
+      }]
+    }
+  ]
+}
+
