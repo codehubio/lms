@@ -26616,6 +26616,18 @@
     }
   },
   {
+    "sentence": "听到坏消息，她不停地叹气。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tīng dào huài xiāo xī, tā bù tíng de tàn qì",
+    "pinyin2": "ting1 dao4 huai4 xiao1 xi1, ta1 bu4 ting2 de tan4 qi4",
+    "translation": {
+      "en": "Hearing the bad news, she kept sighing.",
+      "vi": "Nghe tin xấu, cô ấy cứ thở dài không ngừng."
+    }
+  },
+  {
     "sentence": "嘿，你在干什么？",
     "tags": [
       "HSK1-6"
