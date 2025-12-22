@@ -131,7 +131,7 @@ export default async function VocabularyPage({ params, searchParams }: Vocabular
         {/* Two-column layout */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 sm:gap-6 lg:gap-8">
           {/* Left column: Search and Tag Filters */}
-          <div className="lg:col-span-3 order-2 lg:order-1">
+          <div className="lg:col-span-3 order-1 lg:order-1">
             <div className="lg:sticky lg:top-6">
               <Suspense fallback={<div className="mb-4 sm:mb-6">{text.dictionary.loadingSearch}</div>}>
                 <VocabularySearch />
@@ -143,7 +143,7 @@ export default async function VocabularyPage({ params, searchParams }: Vocabular
           </div>
 
           {/* Right column: Word List */}
-          <div className="lg:col-span-9 order-1 lg:order-2">
+          <div className="lg:col-span-9 order-2 lg:order-2">
             <div className="mb-6">
               <VocabularyPagination
                 currentPage={result.page}
