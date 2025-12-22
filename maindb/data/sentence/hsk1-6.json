@@ -26604,6 +26604,18 @@
     }
   },
   {
+    "sentence": "他叹了口气，看起来很累。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "tā tàn le kǒu qì, kàn qǐ lái hěn lèi",
+    "pinyin2": "ta1 tan4 le kou3 qi4, kan4 qi3 lai2 hen3 lei4",
+    "translation": {
+      "en": "He sighed and looked very tired.",
+      "vi": "Anh ấy thở dài, trông rất mệt mỏi."
+    }
+  },
+  {
     "sentence": "嘿，你在干什么？",
     "tags": [
       "HSK1-6"
