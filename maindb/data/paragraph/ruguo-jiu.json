@@ -1,0 +1,105 @@
+{
+  "id": "ruguo-jiu",
+  "title": "如果……就 - Conditional Sentences",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "如果……就 - Conditional Sentences",
+    "vi": "如果……就 - Câu điều kiện",
+    "zh": "如果……就 - 条件句"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "如果……就 - Basic Conditional Pattern (如果……就)",
+          "vi": "如果……就 - Mẫu câu điều kiện cơ bản (如果……就)",
+          "zh": "如果……就 - 基本条件句型"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**如果……就** (rúguǒ...jiù) is a common conditional pattern in Chinese that means \"if...then.\" It is used to express hypothetical situations and their consequences.\n\n**Basic Structure:**\n如果 + Condition + 就 + Result\n\n**Key Points:**\n- **如果** (rúguǒ) means \"if\" and introduces the condition\n- **就** (jiù) means \"then\" and introduces the result\n- The condition clause comes first, followed by the result clause\n- **就** can sometimes be omitted in informal speech, but it's more common to include it\n\n**Examples:**\n- **如果**下雨，我**就**不去。 (**If** it rains, **then** I won't go.)\n- **如果**你有时间，**就**来找我。 (**If** you have time, **then** come find me.)\n- **如果**他同意，我们**就**开始。 (**If** he agrees, **then** we'll start.)\n\n**Note:** In spoken Chinese, **如果** can sometimes be shortened to just **如** (rú) in formal contexts, but **如果** is more commonly used.",
+          "vi": "**如果……就** (rúguǒ...jiù) là mẫu câu điều kiện phổ biến trong tiếng Trung có nghĩa là \"nếu...thì.\" Nó được dùng để diễn đạt tình huống giả định và hậu quả của chúng.\n\n**Cấu trúc cơ bản:**\n如果 + Điều kiện + 就 + Kết quả\n\n**Điểm quan trọng:**\n- **如果** (rúguǒ) có nghĩa là \"nếu\" và giới thiệu điều kiện\n- **就** (jiù) có nghĩa là \"thì\" và giới thiệu kết quả\n- Mệnh đề điều kiện đứng trước, theo sau là mệnh đề kết quả\n- **就** đôi khi có thể bỏ qua trong lời nói thân mật, nhưng thường thì nên bao gồm nó\n\n**Ví dụ:**\n- **如果**下雨，我**就**不去。 (**Nếu** trời mưa, **thì** tôi sẽ không đi.)\n- **如果**你有时间，**就**来找我。 (**Nếu** bạn có thời gian, **thì** hãy đến tìm tôi.)\n- **如果**他同意，我们**就**开始。 (**Nếu** anh ấy đồng ý, **thì** chúng ta sẽ bắt đầu.)\n\n**Lưu ý:** Trong tiếng Trung nói, **如果** đôi khi có thể được rút ngắn thành chỉ **如** (rú) trong ngữ cảnh trang trọng, nhưng **如果** được dùng phổ biến hơn.",
+          "zh": "**如果……就**（rúguǒ...jiù）是汉语中常见的条件句型，意思是\"如果……那么\"。它用于表达假设情况及其结果。\n\n**基本结构：**\n如果 + 条件 + 就 + 结果\n\n**要点：**\n- **如果**（rúguǒ）意思是\"如果\"，引出条件\n- **就**（jiù）意思是\"那么\"，引出结果\n- 条件分句在前，结果分句在后\n- **就**在非正式口语中有时可以省略，但通常包含它更常见\n\n**例句：**\n- **如果**下雨，我**就**不去。\n- **如果**你有时间，**就**来找我。\n- **如果**他同意，我们**就**开始。\n\n**注意：**在汉语口语中，**如果**有时在正式语境中可以简化为**如**（rú），但**如果**更常用。"
+        }
+      },
+      "placeholders": [{
+        "ruguo": "如果",
+        "jiu": "就",
+        "condition": "下雨",
+        "result": "不去"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Using 也 (also) with 如果……就",
+          "vi": "Sử dụng 也 (cũng) với 如果……就",
+          "zh": "在如果……就中使用也（也）"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "When you want to express \"also\" or \"too\" in the result clause of a conditional sentence, you can add **也** (yě) before the verb in the result clause.\n\n**Structure:**\n如果 + Condition + 就 + 也 + Verb/Result\n\n**Key Points:**\n- **也** means \"also\" or \"too\" and emphasizes that the result applies in addition to something else\n- **也** is placed after **就** and before the verb in the result clause\n- This pattern is used when the result is similar to or in addition to another situation\n\n**Examples:**\n- **如果**你去，我**就也**去。 (**If** you go, **then** I'll **also** go.)\n- **如果**他同意，我们**就也**同意。 (**If** he agrees, **then** we'll **also** agree.)\n- **如果**明天不下雨，我**就也**去公园。 (**If** it doesn't rain tomorrow, **then** I'll **also** go to the park.)\n\n**Alternative Structure:**\nSometimes **也** can come after the verb:\n- **如果**你去，我**就**去**也**。 (less common, but acceptable)\n\n**Note:** The most natural and common structure is: 如果...就也...",
+          "vi": "Khi bạn muốn diễn đạt \"cũng\" hoặc \"cũng vậy\" trong mệnh đề kết quả của câu điều kiện, bạn có thể thêm **也** (yě) trước động từ trong mệnh đề kết quả.\n\n**Cấu trúc:**\n如果 + Điều kiện + 就 + 也 + Động từ/Kết quả\n\n**Điểm quan trọng:**\n- **也** có nghĩa là \"cũng\" hoặc \"cũng vậy\" và nhấn mạnh rằng kết quả áp dụng thêm vào điều gì đó khác\n- **也** được đặt sau **就** và trước động từ trong mệnh đề kết quả\n- Mẫu này được dùng khi kết quả tương tự hoặc bổ sung cho tình huống khác\n\n**Ví dụ:**\n- **如果**你去，我**就也**去。 (**Nếu** bạn đi, **thì** tôi **cũng** sẽ đi.)\n- **如果**他同意，我们**就也**同意。 (**Nếu** anh ấy đồng ý, **thì** chúng ta **cũng** sẽ đồng ý.)\n- **如果**明天不下雨，我**就也**去公园。 (**Nếu** ngày mai không mưa, **thì** tôi **cũng** sẽ đi công viên.)\n\n**Cấu trúc thay thế:**\nĐôi khi **也** có thể đứng sau động từ:\n- **如果**你去，我**就**去**也**。 (ít phổ biến hơn, nhưng có thể chấp nhận)\n\n**Lưu ý:** Cấu trúc tự nhiên và phổ biến nhất là: 如果...就也...",
+          "zh": "当你想在条件句的结果分句中表达\"也\"或\"同样\"时，可以在结果分句的动词前添加**也**（yě）。\n\n**结构：**\n如果 + 条件 + 就 + 也 + 动词/结果\n\n**要点：**\n- **也**意思是\"也\"或\"同样\"，强调结果也适用于其他情况\n- **也**放在**就**之后，结果分句的动词之前\n- 当结果与另一种情况相似或补充时使用此模式\n\n**例句：**\n- **如果**你去，我**就也**去。\n- **如果**他同意，我们**就也**同意。\n- **如果**明天不下雨，我**就也**去公园。\n\n**替代结构：**\n有时**也**可以放在动词后：\n- **如果**你去，我**就**去**也**。（较少见，但可以接受）\n\n**注意：**最自然和常见的结构是：如果...就也..."
+        }
+      },
+      "placeholders": [{
+        "ruguo": "如果",
+        "jiu": "就",
+        "ye": "也",
+        "condition1": "你去",
+        "result1": "去",
+        "condition2": "他同意",
+        "result2": "同意"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Variations and Related Patterns",
+          "vi": "Biến thể và mẫu liên quan",
+          "zh": "变体和相关模式"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "There are several variations and related patterns to **如果……就**:\n\n**1. Omitting 如果 (in spoken Chinese):**\n- 下雨**就**不去。 (If it rains, then don't go.) - **如果** is implied\n- 有时间**就**来。 (If you have time, then come.)\n\n**2. Using 要是 (yàoshi) instead of 如果:**\n- **要是**下雨，我**就**不去。 (**If** it rains, I won't go.)\n- **要是** can be used interchangeably with **如果** in most cases\n\n**3. Using 假如 (jiǎrú) or 假若 (jiǎruò) for formal/hypothetical:**\n- **假如**我有钱，我**就**买房子。 (**If** I had money, **then** I would buy a house.)\n- More formal and often used for hypothetical situations\n\n**4. Negative conditions:**\n- **如果**不**下雨，我**就**去。 (**If** it **doesn't** rain, **then** I'll go.)\n- **如果**你**不**来，我**就**自己走。 (**If** you **don't** come, **then** I'll go alone.)\n\n**5. Multiple conditions:**\n- **如果**你有时间**而且**有兴趣，**就**来吧。 (**If** you have time **and** interest, **then** come.)\n\n**Key Points:**\n- **如果** is the most common and versatile\n- **要是** is slightly more casual\n- **假如/假若** are more formal and hypothetical",
+          "vi": "Có nhiều biến thể và mẫu liên quan đến **如果……就**:\n\n**1. Bỏ 如果 (trong tiếng Trung nói):**\n- 下雨**就**不去。 (Nếu trời mưa, thì đừng đi.) - **如果** được ngụ ý\n- 有时间**就**来。 (Nếu có thời gian, thì hãy đến.)\n\n**2. Dùng 要是 (yàoshi) thay cho 如果:**\n- **要是**下雨，我**就**不去。 (**Nếu** trời mưa, tôi sẽ không đi.)\n- **要是** có thể dùng thay thế cho **如果** trong hầu hết trường hợp\n\n**3. Dùng 假如 (jiǎrú) hoặc 假若 (jiǎruò) cho trang trọng/giả định:**\n- **假如**我有钱，我**就**买房子。 (**Nếu** tôi có tiền, **thì** tôi sẽ mua nhà.)\n- Trang trọng hơn và thường dùng cho tình huống giả định\n\n**4. Điều kiện phủ định:**\n- **如果**不**下雨，我**就**去。 (**Nếu** **không** mưa, **thì** tôi sẽ đi.)\n- **如果**你**不**来，我**就**自己走。 (**Nếu** bạn **không** đến, **thì** tôi sẽ đi một mình.)\n\n**5. Nhiều điều kiện:**\n- **如果**你有时间**而且**有兴趣，**就**来吧。 (**Nếu** bạn có thời gian **và** có hứng thú, **thì** hãy đến.)\n\n**Điểm quan trọng:**\n- **如果** là phổ biến và linh hoạt nhất\n- **要是** hơi thân mật hơn\n- **假如/假若** trang trọng hơn và giả định hơn",
+          "zh": "**如果……就**有几种变体和相关模式：\n\n**1. 省略如果（在口语中）：**\n- 下雨**就**不去。（如果下雨，那么不去。）- **如果**被暗示\n- 有时间**就**来。（如果有时间，那么来。）\n\n**2. 使用要是（yàoshi）代替如果：**\n- **要是**下雨，我**就**不去。\n- **要是**在大多数情况下可以与**如果**互换使用\n\n**3. 使用假如（jiǎrú）或假若（jiǎruò）表示正式/假设：**\n- **假如**我有钱，我**就**买房子。\n- 更正式，常用于假设情况\n\n**4. 否定条件：**\n- **如果**不**下雨，我**就**去。\n- **如果**你**不**来，我**就**自己走。\n\n**5. 多个条件：**\n- **如果**你有时间**而且**有兴趣，**就**来吧。\n\n**要点：**\n- **如果**是最常见和通用的\n- **要是**稍微更随意\n- **假如/假若**更正式和假设性"
+        }
+      },
+      "placeholders": [{
+        "ruguo": "如果",
+        "yaoshi": "要是",
+        "jiaru": "假如",
+        "jiu": "就",
+        "ye": "也"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes and Tips",
+          "vi": "Lỗi thường gặp và mẹo",
+          "zh": "常见错误和提示"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are common mistakes and useful tips when using **如果……就**:\n\n**Common Mistakes:**\n\n**1. Forgetting 就:**\n- ❌ **如果**下雨，我不去。 (missing 就 - less natural)\n- ✅ **如果**下雨，我**就**不去。 (correct)\n\n**2. Wrong word order:**\n- ❌ 我**就**不去，**如果**下雨。 (wrong - condition should come first)\n- ✅ **如果**下雨，我**就**不去。 (correct)\n\n**3. Using 也 incorrectly:**\n- ❌ **如果**你去，我**也**去。 (missing 就 - less natural)\n- ✅ **如果**你去，我**就也**去。 (correct - includes 就)\n\n**4. Confusing with 因为...所以...:**\n- ❌ **如果**下雨，**所以**我不去。 (wrong - use 就, not 所以)\n- ✅ **如果**下雨，我**就**不去。 (correct)\n- ✅ **因为**下雨，**所以**我不去。 (correct - but this is cause-effect, not conditional)\n\n**Useful Tips:**\n- Always remember: **如果** (condition) + **就** (result)\n- **就** can sometimes be omitted in very casual speech, but it's better to include it\n- **也** adds emphasis that the result is \"also\" or \"too\"\n- Practice with simple conditions first, then add complexity",
+          "vi": "Dưới đây là các lỗi thường gặp và mẹo hữu ích khi sử dụng **如果……就**:\n\n**Lỗi thường gặp:**\n\n**1. Quên 就:**\n- ❌ **如果**下雨，我不去。 (thiếu 就 - kém tự nhiên hơn)\n- ✅ **如果**下雨，我**就**不去。 (đúng)\n\n**2. Thứ tự từ sai:**\n- ❌ 我**就**不去，**如果**下雨。 (sai - điều kiện nên đứng trước)\n- ✅ **如果**下雨，我**就**不去。 (đúng)\n\n**3. Dùng 也 sai:**\n- ❌ **如果**你去，我**也**去。 (thiếu 就 - kém tự nhiên hơn)\n- ✅ **如果**你去，我**就也**去。 (đúng - bao gồm 就)\n\n**4. Nhầm lẫn với 因为...所以...:**\n- ❌ **如果**下雨，**所以**我不去。 (sai - dùng 就, không phải 所以)\n- ✅ **如果**下雨，我**就**不去。 (đúng)\n- ✅ **因为**下雨，**所以**我不去。 (đúng - nhưng đây là nguyên nhân-kết quả, không phải điều kiện)\n\n**Mẹo hữu ích:**\n- Luôn nhớ: **如果** (điều kiện) + **就** (kết quả)\n- **就** đôi khi có thể bỏ qua trong lời nói rất thân mật, nhưng tốt hơn là nên bao gồm nó\n- **也** thêm nhấn mạnh rằng kết quả là \"cũng\" hoặc \"cũng vậy\"\n- Luyện tập với điều kiện đơn giản trước, sau đó thêm độ phức tạp",
+          "zh": "以下是使用**如果……就**时的常见错误和有用提示：\n\n**常见错误：**\n\n**1. 忘记就：**\n- ❌ **如果**下雨，我不去。（缺少就 - 不太自然）\n- ✅ **如果**下雨，我**就**不去。（正确）\n\n**2. 词序错误：**\n- ❌ 我**就**不去，**如果**下雨。（错误 - 条件应该在前）\n- ✅ **如果**下雨，我**就**不去。（正确）\n\n**3. 错误使用也：**\n- ❌ **如果**你去，我**也**去。（缺少就 - 不太自然）\n- ✅ **如果**你去，我**就也**去。（正确 - 包含就）\n\n**4. 与因为...所以...混淆：**\n- ❌ **如果**下雨，**所以**我不去。（错误 - 使用就，不是所以）\n- ✅ **如果**下雨，我**就**不去。（正确）\n- ✅ **因为**下雨，**所以**我不去。（正确 - 但这是因果关系，不是条件）\n\n**有用提示：**\n- 始终记住：**如果**（条件）+ **就**（结果）\n- **就**在非常随意的口语中有时可以省略，但最好包含它\n- **也**强调结果也是\"也\"或\"同样\"\n- 先练习简单条件，然后增加复杂性"
+        }
+      },
+      "placeholders": [{
+        "ruguo": "如果",
+        "jiu": "就",
+        "ye": "也",
+        "yinwei": "因为",
+        "suoyi": "所以"
+      }]
+    }
+  ]
+}
+
