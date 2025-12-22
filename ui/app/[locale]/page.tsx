@@ -49,7 +49,9 @@ export default async function Home({ params }: HomePageProps) {
   return (
     <div className="min-h-screen flex flex-col">
       <Hero locale={validLocale} />
-      <HomeSections locale={validLocale} />
+      <main>
+        <HomeSections locale={validLocale} />
+      </main>
       <Footer locale={validLocale} />
     </div>
   );

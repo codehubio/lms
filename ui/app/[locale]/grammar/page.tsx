@@ -83,7 +83,7 @@ export default async function GrammarPage({ params, searchParams }: GrammarPageP
   
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
-      <div className="flex-1 py-6 sm:py-8 md:py-12 px-4 sm:px-6 md:px-8 w-full">
+      <main className="flex-1 py-6 sm:py-8 md:py-12 px-4 sm:px-6 md:px-8 w-full">
         <div className="mb-6 sm:mb-8">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-gray-900 mb-3">
             {text.grammar?.title || 'Chinese Grammar'}
@@ -97,7 +97,7 @@ export default async function GrammarPage({ params, searchParams }: GrammarPageP
             {text.grammar?.noResults || 'No grammar topics found'}
           </p>
         </div>
-      </div>
+      </main>
     </div>
   );
 }

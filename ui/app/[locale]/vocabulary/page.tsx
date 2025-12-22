@@ -117,7 +117,7 @@ export default async function VocabularyPage({ params, searchParams }: Vocabular
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
-      <div className="flex-1 py-6 sm:py-8 md:py-12 px-4 sm:px-6 md:px-8 w-full">
+      <main className="flex-1 py-6 sm:py-8 md:py-12 px-4 sm:px-6 md:px-8 w-full">
         {/* Header */}
         <div className="mb-6 sm:mb-8">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-gray-900 mb-3">
@@ -173,7 +173,7 @@ export default async function VocabularyPage({ params, searchParams }: Vocabular
             )}
           </div>
         </div>
-      </div>
+      </main>
     </div>
   );
 }

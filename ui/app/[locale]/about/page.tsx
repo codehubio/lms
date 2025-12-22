@@ -46,7 +46,7 @@ export default async function AboutPage({ params }: AboutPageProps) {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
-      <div className="flex-1 py-8 sm:py-12 px-4 sm:px-6 md:px-8 max-w-4xl mx-auto w-full">
+      <main className="flex-1 py-8 sm:py-12 px-4 sm:px-6 md:px-8 max-w-4xl mx-auto w-full">
         {/* Header */}
         <div className="mb-8 sm:mb-12 text-center">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-900 mb-4">
@@ -144,7 +144,7 @@ export default async function AboutPage({ params }: AboutPageProps) {
             </div>
           </div>
         </div>
-      </div>
+      </main>
       <Footer locale={validLocale} />
     </div>
   );
