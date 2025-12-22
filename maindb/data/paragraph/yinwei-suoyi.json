@@ -1,0 +1,104 @@
+{
+  "id": "yinwei-suoyi",
+  "title": "因为……所以 - Cause and Effect Pattern",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "因为……所以 - Cause and Effect Pattern",
+    "vi": "因为……所以 - Mẫu câu nguyên nhân và kết quả",
+    "zh": "因为……所以 - 因果关系句型"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "因为……所以 - Basic Cause and Effect Pattern (因为……所以)",
+          "vi": "因为……所以 - Mẫu câu nguyên nhân và kết quả cơ bản (因为……所以)",
+          "zh": "因为……所以 - 基本因果关系句型"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**因为……所以** (yīnwèi...suǒyǐ) is a fundamental cause-and-effect pattern in Chinese that means \"because...therefore\" or \"because...so.\" It is used to express a logical relationship between a cause and its effect or result.\n\n**Basic Structure:**\n因为 + Cause + 所以 + Effect/Result\n\n**Key Points:**\n- **因为** (yīnwèi) means \"because\" and introduces the **cause** or reason\n- **所以** (suǒyǐ) means \"therefore\" or \"so\" and introduces the **effect** or result\n- The cause clause comes first, followed by the result clause\n- Both **因为** and **所以** can be used together, or either can be used alone\n- This pattern shows a clear logical connection between two events or situations\n- It is one of the most common ways to express cause and effect in Chinese\n\n**Examples:**\n- **因为**下雨，**所以**我们没去。 (**Because** it rained, **therefore** we didn't go.)\n- **因为**他很忙，**所以**没时间休息。 (**Because** he is very busy, **therefore** he has no time to rest.)\n- **因为**生病了，**所以**他不能来。 (**Because** he is sick, **therefore** he cannot come.)\n\n**Note:** In spoken Chinese, **因为** can sometimes be shortened to **因** (yīn) in formal contexts, but **因为** is more commonly used. Similarly, **所以** is sometimes shortened to **故** (gù) in formal writing.",
+          "vi": "**因为……所以** (yīnwèi...suǒyǐ) là mẫu câu nguyên nhân và kết quả cơ bản trong tiếng Trung có nghĩa là \"vì...nên\" hoặc \"vì...cho nên.\" Nó được dùng để diễn đạt mối quan hệ logic giữa nguyên nhân và hậu quả hoặc kết quả của nó.\n\n**Cấu trúc cơ bản:**\n因为 + Nguyên nhân + 所以 + Hậu quả/Kết quả\n\n**Điểm quan trọng:**\n- **因为** (yīnwèi) có nghĩa là \"vì\" và giới thiệu **nguyên nhân** hoặc lý do\n- **所以** (suǒyǐ) có nghĩa là \"nên\" hoặc \"cho nên\" và giới thiệu **hậu quả** hoặc kết quả\n- Mệnh đề nguyên nhân đứng trước, theo sau là mệnh đề kết quả\n- Cả **因为** và **所以** đều có thể được dùng cùng nhau, hoặc một trong hai có thể được dùng một mình\n- Mẫu này thể hiện mối liên hệ logic rõ ràng giữa hai sự kiện hoặc tình huống\n- Đây là một trong những cách phổ biến nhất để diễn đạt nguyên nhân và kết quả trong tiếng Trung\n\n**Ví dụ:**\n- **因为**下雨，**所以**我们没去。 (**Vì** trời mưa, **nên** chúng tôi không đi.)\n- **因为**他很忙，**所以**没时间休息。 (**Vì** anh ấy rất bận, **nên** không có thời gian nghỉ ngơi.)\n- **因为**生病了，**所以**他不能来。 (**Vì** bị ốm, **nên** anh ấy không thể đến.)\n\n**Lưu ý:** Trong tiếng Trung nói, **因为** đôi khi có thể được rút ngắn thành **因** (yīn) trong ngữ cảnh trang trọng, nhưng **因为** được dùng phổ biến hơn. Tương tự, **所以** đôi khi được rút ngắn thành **故** (gù) trong văn viết trang trọng.",
+          "zh": "**因为……所以**（yīnwèi...suǒyǐ）是汉语中基本的因果关系句型，意思是\"因为……所以\"或\"因为……因此\"。它用于表达原因与其结果或后果之间的逻辑关系。\n\n**基本结构：**\n因为 + 原因 + 所以 + 结果/后果\n\n**要点：**\n- **因为**（yīnwèi）意思是\"因为\"，引出**原因**或理由\n- **所以**（suǒyǐ）意思是\"所以\"或\"因此\"，引出**结果**或后果\n- 原因分句在前，结果分句在后\n- **因为**和**所以**可以一起使用，也可以单独使用其中一个\n- 此模式显示两个事件或情况之间的清晰逻辑联系\n- 这是汉语中表达因果关系最常用的方式之一\n\n**例句：**\n- **因为**下雨，**所以**我们没去。\n- **因为**他很忙，**所以**没时间休息。\n- **因为**生病了，**所以**他不能来。\n\n**注意：** 在汉语口语中，**因为**有时在正式语境中可以简化为**因**（yīn），但**因为**更常用。同样，**所以**有时在正式写作中被简化为**故**（gù）。"
+        }
+      },
+      "placeholders": [{
+        "yinwei": "因为",
+        "suoyi": "所以",
+        "cause": "下雨",
+        "effect": "没去"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Using 因为 and 所以 Separately",
+          "vi": "Sử dụng 因为 và 所以 riêng biệt",
+          "zh": "单独使用因为和所以"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "While **因为……所以** is often used together, each part can also be used independently:\n\n**1. Using only 因为 (because):**\n- **因为**下雨，我们没去。 (**Because** it rained, we didn't go.)\n- **因为**时间不够，我没做完。 (**Because** there wasn't enough time, I didn't finish.)\n- **因为** can stand alone to introduce a reason\n- The result is implied or stated without **所以**\n\n**2. Using only 所以 (therefore/so):**\n- 下雨了，**所以**我们没去。 (It rained, **so** we didn't go.)\n- 他很忙，**所以**没时间。 (He is busy, **so** he has no time.)\n- **所以** can stand alone to introduce a result\n- The cause is stated first without **因为**\n\n**3. Using both together (most explicit):**\n- **因为**下雨，**所以**我们没去。 (**Because** it rained, **therefore** we didn't go.)\n- **因为**他很忙，**所以**没时间休息。 (**Because** he is busy, **therefore** he has no time to rest.)\n- Using both makes the cause-effect relationship very clear\n\n**Key Points:**\n- **因为** alone: Emphasizes the reason\n- **所以** alone: Emphasizes the result\n- **因为……所以**: Makes both cause and effect explicit\n- All three forms are grammatically correct\n- The choice depends on emphasis and context",
+          "vi": "Mặc dù **因为……所以** thường được dùng cùng nhau, nhưng mỗi phần cũng có thể được dùng độc lập:\n\n**1. Chỉ dùng 因为 (vì):**\n- **因为**下雨，我们没去。 (**Vì** trời mưa, chúng tôi không đi.)\n- **因为**时间不够，我没做完。 (**Vì** không đủ thời gian, tôi đã không hoàn thành.)\n- **因为** có thể đứng một mình để giới thiệu lý do\n- Kết quả được ngụ ý hoặc được nêu ra mà không cần **所以**\n\n**2. Chỉ dùng 所以 (nên/cho nên):**\n- 下雨了，**所以**我们没去。 (Trời mưa, **nên** chúng tôi không đi.)\n- 他很忙，**所以**没时间。 (Anh ấy bận, **nên** không có thời gian.)\n- **所以** có thể đứng một mình để giới thiệu kết quả\n- Nguyên nhân được nêu ra trước mà không cần **因为**\n\n**3. Dùng cả hai cùng nhau (rõ ràng nhất):**\n- **因为**下雨，**所以**我们没去。 (**Vì** trời mưa, **nên** chúng tôi không đi.)\n- **因为**他很忙，**所以**没时间休息。 (**Vì** anh ấy bận, **nên** không có thời gian nghỉ ngơi.)\n- Dùng cả hai làm cho mối quan hệ nguyên nhân-kết quả rất rõ ràng\n\n**Điểm quan trọng:**\n- Chỉ **因为**: Nhấn mạnh lý do\n- Chỉ **所以**: Nhấn mạnh kết quả\n- **因为……所以**: Làm cho cả nguyên nhân và kết quả rõ ràng\n- Cả ba dạng đều đúng ngữ pháp\n- Sự lựa chọn phụ thuộc vào sự nhấn mạnh và ngữ cảnh",
+          "zh": "虽然**因为……所以**经常一起使用，但每个部分也可以独立使用：\n\n**1. 仅使用因为（因为）：**\n- **因为**下雨，我们没去。\n- **因为**时间不够，我没做完。\n- **因为**可以单独使用来引出原因\n- 结果被暗示或不用**所以**陈述\n\n**2. 仅使用所以（因此/所以）：**\n- 下雨了，**所以**我们没去。\n- 他很忙，**所以**没时间。\n- **所以**可以单独使用来引出结果\n- 原因先陈述，不用**因为**\n\n**3. 两者一起使用（最明确）：**\n- **因为**下雨，**所以**我们没去。\n- **因为**他很忙，**所以**没时间休息。\n- 两者一起使用使因果关系非常清晰\n\n**要点：**\n- 仅**因为**：强调原因\n- 仅**所以**：强调结果\n- **因为……所以**：使原因和结果都明确\n- 所有三种形式在语法上都是正确的\n- 选择取决于强调和语境"
+        }
+      },
+      "placeholders": [{
+        "yinwei": "因为",
+        "suoyi": "所以",
+        "xiayu": "下雨",
+        "meiqu": "没去"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Variations and Related Patterns",
+          "vi": "Biến thể và mẫu liên quan",
+          "zh": "变体和相关模式"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "There are several variations and related patterns to **因为……所以**:\n\n**1. 由于……因此 (yóuyú...yīncǐ) - More formal:**\n- **由于**天气不好，**因此**我们取消了计划。 (**Due to** bad weather, **therefore** we cancelled the plan.)\n- **由于** is more formal and literary than **因为**\n- **因此** is more formal than **所以**\n- Often used in written Chinese or formal speech\n\n**2. 既然……就 (jìrán...jiù) - \"Since...then\":**\n- **既然**你来了，**就**一起吃饭吧。 (**Since** you're here, **then** let's eat together.)\n- **既然** implies the cause is already known or accepted\n- **就** is used instead of **所以**\n- Often used for suggestions or conclusions based on existing facts\n\n**3. 为了……所以 (wèile...suǒyǐ) - \"In order to...therefore\":**\n- **为了**健康，**所以**他每天锻炼。 (**In order to** be healthy, **therefore** he exercises every day.)\n- **为了** indicates purpose or goal\n- Can be combined with **所以** to show purpose-result relationship\n\n**4. 由于……所以 (yóuyú...suǒyǐ) - Mixed formal/casual:**\n- **由于**时间紧迫，**所以**我们必须加快速度。 (**Due to** time constraints, **therefore** we must speed up.)\n- Combines formal **由于** with casual **所以**\n\n**5. Negative cause-effect:**\n- **因为**没时间，**所以**不能去。 (**Because** there's no time, **therefore** can't go.)\n- **因为**不努力，**所以**没成功。 (**Because** didn't work hard, **therefore** didn't succeed.)\n\n**Key Differences:**\n- **因为……所以**: Most common, neutral tone\n- **由于……因此**: More formal, written style\n- **既然……就**: Based on known facts, often for suggestions\n- **为了……所以**: Shows purpose-result relationship",
+          "vi": "Có nhiều biến thể và mẫu liên quan đến **因为……所以**:\n\n**1. 由于……因此 (yóuyú...yīncǐ) - Trang trọng hơn:**\n- **由于**天气不好，**因此**我们取消了计划。 (**Do** thời tiết xấu, **vì vậy** chúng tôi đã hủy kế hoạch.)\n- **由于** trang trọng và văn học hơn **因为**\n- **因此** trang trọng hơn **所以**\n- Thường được dùng trong tiếng Trung viết hoặc lời nói trang trọng\n\n**2. 既然……就 (jìrán...jiù) - \"Vì...thì\":**\n- **既然**你来了，**就**一起吃饭吧。 (**Vì** bạn đã đến, **thì** hãy cùng ăn cơm nhé.)\n- **既然** ngụ ý nguyên nhân đã được biết hoặc chấp nhận\n- **就** được dùng thay cho **所以**\n- Thường được dùng cho đề xuất hoặc kết luận dựa trên sự thật hiện có\n\n**3. 为了……所以 (wèile...suǒyǐ) - \"Để...nên\":**\n- **为了**健康，**所以**他每天锻炼。 (**Để** khỏe mạnh, **nên** anh ấy tập thể dục mỗi ngày.)\n- **为了** chỉ mục đích hoặc mục tiêu\n- Có thể kết hợp với **所以** để thể hiện mối quan hệ mục đích-kết quả\n\n**4. 由于……所以 (yóuyú...suǒyǐ) - Kết hợp trang trọng/thân mật:**\n- **由于**时间紧迫，**所以**我们必须加快速度。 (**Do** thời gian gấp, **nên** chúng tôi phải tăng tốc.)\n- Kết hợp **由于** trang trọng với **所以** thân mật\n\n**5. Nguyên nhân-kết quả phủ định:**\n- **因为**没时间，**所以**不能去。 (**Vì** không có thời gian, **nên** không thể đi.)\n- **因为**不努力，**所以**没成功。 (**Vì** không nỗ lực, **nên** không thành công.)\n\n**Sự khác biệt chính:**\n- **因为……所以**: Phổ biến nhất, giọng điệu trung tính\n- **由于……因此**: Trang trọng hơn, phong cách viết\n- **既然……就**: Dựa trên sự thật đã biết, thường cho đề xuất\n- **为了……所以**: Thể hiện mối quan hệ mục đích-kết quả",
+          "zh": "**因为……所以**有几种变体和相关模式：\n\n**1. 由于……因此（yóuyú...yīncǐ）- 更正式：**\n- **由于**天气不好，**因此**我们取消了计划。\n- **由于**比**因为**更正式和书面化\n- **因此**比**所以**更正式\n- 常用于书面中文或正式讲话\n\n**2. 既然……就（jìrán...jiù）- \"既然……那么\"：**\n- **既然**你来了，**就**一起吃饭吧。\n- **既然**暗示原因已经知道或接受\n- 使用**就**而不是**所以**\n- 常用于基于现有事实的建议或结论\n\n**3. 为了……所以（wèile...suǒyǐ）- \"为了……因此\"：**\n- **为了**健康，**所以**他每天锻炼。\n- **为了**表示目的或目标\n- 可以与**所以**结合以显示目的-结果关系\n\n**4. 由于……所以（yóuyú...suǒyǐ）- 混合正式/随意：**\n- **由于**时间紧迫，**所以**我们必须加快速度。\n- 结合正式的**由于**和随意的**所以**\n\n**5. 否定因果关系：**\n- **因为**没时间，**所以**不能去。\n- **因为**不努力，**所以**没成功。\n\n**主要区别：**\n- **因为……所以**：最常见，中性语气\n- **由于……因此**：更正式，书面风格\n- **既然……就**：基于已知事实，常用于建议\n- **为了……所以**：显示目的-结果关系"
+        }
+      },
+      "placeholders": [{
+        "yinwei": "因为",
+        "suoyi": "所以",
+        "youyu": "由于",
+        "yinci": "因此",
+        "jiran": "既然",
+        "jiu": "就",
+        "weile": "为了"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes and Tips",
+          "vi": "Lỗi thường gặp và mẹo",
+          "zh": "常见错误和提示"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are common mistakes and useful tips when using **因为……所以**:\n\n**Common Mistakes:**\n\n**1. Using both in wrong order:**\n- ❌ **所以**下雨，**因为**我们没去。 (wrong - cause should come before effect)\n- ✅ **因为**下雨，**所以**我们没去。 (correct)\n\n**2. Confusing with 如果……就:**\n- ❌ **因为**下雨，我**就**不去。 (less natural - use 所以 with 因为)\n- ✅ **因为**下雨，**所以**我不去。 (correct - cause-effect)\n- ✅ **如果**下雨，我**就**不去。 (correct - conditional)\n- **Note:** **因为……所以** = cause-effect (real), **如果……就** = conditional (hypothetical)\n\n**3. Using 所以 without a clear cause:**\n- ❌ 我去了，**所以**。 (incomplete - missing the result)\n- ✅ 下雨了，**所以**我没去。 (correct)\n\n**4. Redundant use in simple sentences:**\n- ❌ **因为**我很累，**所以**我睡觉。 (grammatically correct but can be simplified)\n- ✅ 我很累，**所以**我睡觉。 (more natural - 因为 can be omitted)\n- ✅ **因为**很累，我睡觉。 (also natural - 所以 can be omitted)\n\n**5. Confusing 因为 with 为了:**\n- ❌ **因为**学习，我**所以**来中国。 (wrong - use 为了 for purpose)\n- ✅ **为了**学习，我**所以**来中国。 (correct - purpose)\n- ✅ **因为**想学习，我**所以**来中国。 (correct - reason)\n\n**Useful Tips:**\n- Always remember: **因为** (cause) comes first, **所以** (effect) comes second\n- **因为** and **所以** can be used together or separately\n- **因为……所以** shows real cause-effect relationships (not hypothetical)\n- **如果……就** shows hypothetical conditions (not real cause-effect)\n- In casual speech, either **因为** or **所以** can often be omitted\n- **为了** indicates purpose/goal, **因为** indicates reason/cause\n- Practice identifying whether you need cause-effect (因为……所以) or conditional (如果……就)",
+          "vi": "Dưới đây là các lỗi thường gặp và mẹo hữu ích khi sử dụng **因为……所以**:\n\n**Lỗi thường gặp:**\n\n**1. Dùng cả hai theo thứ tự sai:**\n- ❌ **所以**下雨，**因为**我们没去。 (sai - nguyên nhân nên đứng trước hậu quả)\n- ✅ **因为**下雨，**所以**我们没去。 (đúng)\n\n**2. Nhầm lẫn với 如果……就:**\n- ❌ **因为**下雨，我**就**不去。 (kém tự nhiên - dùng 所以 với 因为)\n- ✅ **因为**下雨，**所以**我不去。 (đúng - nguyên nhân-kết quả)\n- ✅ **如果**下雨，我**就**不去。 (đúng - điều kiện)\n- **Lưu ý:** **因为……所以** = nguyên nhân-kết quả (thực tế), **如果……就** = điều kiện (giả định)\n\n**3. Dùng 所以 mà không có nguyên nhân rõ ràng:**\n- ❌ 我去了，**所以**。 (chưa hoàn chỉnh - thiếu kết quả)\n- ✅ 下雨了，**所以**我没去。 (đúng)\n\n**4. Sử dụng thừa trong câu đơn giản:**\n- ❌ **因为**我很累，**所以**我睡觉。 (đúng ngữ pháp nhưng có thể đơn giản hóa)\n- ✅ 我很累，**所以**我睡觉。 (tự nhiên hơn - 因为 có thể bỏ qua)\n- ✅ **因为**很累，我睡觉。 (cũng tự nhiên - 所以 có thể bỏ qua)\n\n**5. Nhầm lẫn 因为 với 为了:**\n- ❌ **因为**学习，我**所以**来中国。 (sai - dùng 为了 cho mục đích)\n- ✅ **为了**学习，我**所以**来中国。 (đúng - mục đích)\n- ✅ **因为**想学习，我**所以**来中国。 (đúng - lý do)\n\n**Mẹo hữu ích:**\n- Luôn nhớ: **因为** (nguyên nhân) đứng trước, **所以** (hậu quả) đứng sau\n- **因为** và **所以** có thể được dùng cùng nhau hoặc riêng biệt\n- **因为……所以** thể hiện mối quan hệ nguyên nhân-kết quả thực tế (không phải giả định)\n- **如果……就** thể hiện điều kiện giả định (không phải nguyên nhân-kết quả thực tế)\n- Trong lời nói thân mật, **因为** hoặc **所以** thường có thể bỏ qua\n- **为了** chỉ mục đích/mục tiêu, **因为** chỉ lý do/nguyên nhân\n- Luyện tập xác định bạn cần nguyên nhân-kết quả (因为……所以) hay điều kiện (如果……就)",
+          "zh": "以下是使用**因为……所以**时的常见错误和有用提示：\n\n**常见错误：**\n\n**1. 两者顺序错误：**\n- ❌ **所以**下雨，**因为**我们没去。（错误 - 原因应该在结果之前）\n- ✅ **因为**下雨，**所以**我们没去。（正确）\n\n**2. 与如果……就混淆：**\n- ❌ **因为**下雨，我**就**不去。（不太自然 - 因为应该与所以一起使用）\n- ✅ **因为**下雨，**所以**我不去。（正确 - 因果关系）\n- ✅ **如果**下雨，我**就**不去。（正确 - 条件）\n- **注意：** **因为……所以** = 因果关系（真实的），**如果……就** = 条件（假设的）\n\n**3. 使用所以但没有明确的原因：**\n- ❌ 我去了，**所以**。（不完整 - 缺少结果）\n- ✅ 下雨了，**所以**我没去。（正确）\n\n**4. 在简单句子中冗余使用：**\n- ❌ **因为**我很累，**所以**我睡觉。（语法正确但可以简化）\n- ✅ 我很累，**所以**我睡觉。（更自然 - 因为可以省略）\n- ✅ **因为**很累，我睡觉。（也自然 - 所以可以省略）\n\n**5. 混淆因为和为了：**\n- ❌ **因为**学习，我**所以**来中国。（错误 - 目的用为了）\n- ✅ **为了**学习，我**所以**来中国。（正确 - 目的）\n- ✅ **因为**想学习，我**所以**来中国。（正确 - 原因）\n\n**有用提示：**\n- 始终记住：**因为**（原因）在前，**所以**（结果）在后\n- **因为**和**所以**可以一起使用或单独使用\n- **因为……所以**显示真实的因果关系（不是假设的）\n- **如果……就**显示假设条件（不是真实的因果关系）\n- 在随意口语中，**因为**或**所以**通常可以省略\n- **为了**表示目的/目标，**因为**表示原因/原因\n- 练习识别你需要因果关系（因为……所以）还是条件（如果……就）"
+        }
+      },
+      "placeholders": [{
+        "yinwei": "因为",
+        "suoyi": "所以",
+        "ruguo": "如果",
+        "jiu": "就",
+        "weile": "为了"
+      }]
+    }
+  ]
+}
+
