@@ -82,5 +82,15 @@
       "en": "Two perpendicular lines intersect at a right angle.",
       "vi": "Hai đường thẳng vuông góc cắt nhau tạo thành góc vuông."
     }
+  },
+  {
+    "sentence": "这个图形是轴对称的。",
+    "tags": ["math"],
+    "pinyin1": "zhè gè tú xíng shì zhóu duì chèn de",
+    "pinyin2": "zhe4 ge4 tu2 xing2 shi4 zhou2 dui4 chen4 de",
+    "translation": {
+      "en": "This figure is axially symmetric.",
+      "vi": "Hình này có tính đối xứng trục."
+    }
   }
 ]

@@ -28510,5 +28510,775 @@
       "en": "They exchanged pleasantries when they met.",
       "vi": "Họ đã chào hỏi vài câu khi gặp nhau."
     }
+  },
+  {
+    "sentence": "这个寓言故事告诉我们做人的道理。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè yù yán gù shi gào sù wǒ men zuò rén de dào lǐ",
+    "pinyin2": "zhe4 ge4 yu4 yan2 gu4 shi gao4 su4 wo3 men zuo4 ren2 de dao4 li3",
+    "translation": {
+      "en": "This fable tells us the principles of being a person.",
+      "vi": "Câu chuyện ngụ ngôn này dạy chúng ta đạo lý làm người."
+    }
+  },
+  {
+    "sentence": "我们必须想办法对付这个困难。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men bì xū xiǎng bàn fǎ duì fu zhè gè kùn nan",
+    "pinyin2": "wo3 men bi4 xu1 xiang3 ban4 fa3 dui4 fu zhe4 ge4 kun4 nan",
+    "translation": {
+      "en": "We must find a way to deal with this difficulty.",
+      "vi": "Chúng ta phải tìm cách đối phó với khó khăn này."
+    }
+  },
+  {
+    "sentence": "这两个词的意思是对应的。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè liǎng gè cí de yì si shì duì yìng de",
+    "pinyin2": "zhe4 liang3 ge4 ci2 de yi4 si shi4 dui4 ying4 de",
+    "translation": {
+      "en": "The meanings of these two words correspond to each other.",
+      "vi": "Ý nghĩa của hai từ này tương ứng với nhau."
+    }
+  },
+  {
+    "sentence": "他们决定对抗不公平的待遇。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā men jué dìng duì kàng bù gōng píng de dài yù",
+    "pinyin2": "ta1 men jue2 ding4 dui4 kang4 bu4 gong1 ping2 de dai4 yu4",
+    "translation": {
+      "en": "They decided to resist unfair treatment.",
+      "vi": "Họ quyết định chống lại sự đối xử bất công."
+    }
+  },
+  {
+    "sentence": "请对照原文检查翻译是否正确。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "qǐng duì zhào yuán wén jiǎn chá fān yì shì fǒu zhèng què",
+    "pinyin2": "qing3 dui4 zhao4 yuan2 wen2 jian3 cha2 fan1 yi4 shi4 fou3 zheng4 que4",
+    "translation": {
+      "en": "Please compare with the original text to check if the translation is correct.",
+      "vi": "Vui lòng đối chiếu với văn bản gốc để kiểm tra bản dịch có đúng không."
+    }
+  },
+  {
+    "sentence": "这座建筑的设计是对称的。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè zuò jiàn zhù de shè jì shì duì chèn de",
+    "pinyin2": "zhe4 zuo4 jian4 zhu4 de she4 ji4 shi4 dui4 chen4 de",
+    "translation": {
+      "en": "The design of this building is symmetrical.",
+      "vi": "Thiết kế của tòa nhà này là đối xứng."
+    }
+  },
+  {
+    "sentence": "他们的观点完全对立。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā men de guān diǎn wán quán duì lì",
+    "pinyin2": "ta1 men de guan1 dian3 wan2 quan2 dui4 li4",
+    "translation": {
+      "en": "Their views are completely opposite.",
+      "vi": "Quan điểm của họ hoàn toàn đối lập."
+    }
+  },
+  {
+    "sentence": "我们需要制定一个对策来解决这个问题。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men xū yào zhì dìng yī gè duì cè lái jiě jué zhè gè wèn tí",
+    "pinyin2": "wo3 men xu1 yao4 zhi4 ding4 yi1 ge4 dui4 ce4 lai2 jie3 jue2 zhe4 ge4 wen4 ti2",
+    "translation": {
+      "en": "We need to formulate a countermeasure to solve this problem.",
+      "vi": "Chúng ta cần đưa ra một đối sách để giải quyết vấn đề này."
+    }
+  },
+  {
+    "sentence": "春节时，家家户户都贴对联。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "chūn jié shí, jiā jiā hù hù dōu tiē duì lián",
+    "pinyin2": "chun1 jie2 shi2, jia1 jia1 hu4 hu4 dou1 tie1 dui4 lian2",
+    "translation": {
+      "en": "During Spring Festival, every household pastes couplets.",
+      "vi": "Vào dịp Tết, mọi nhà đều dán câu đối."
+    }
+  },
+  {
+    "sentence": "他在图书馆里寻觅那本丢失的书。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā zài tú shū guǎn lǐ xún mì nà běn diū shī de shū",
+    "pinyin2": "ta1 zai4 tu2 shu1 guan3 li3 xun2 mi4 na4 ben3 diu1 shi1 de shu1",
+    "translation": {
+      "en": "He searched for that lost book in the library.",
+      "vi": "Anh ấy tìm kiếm cuốn sách bị mất trong thư viện."
+    }
+  },
+  {
+    "sentence": "这个政策导向了经济的发展。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè zhèng cè dǎo xiàng le jīng jì de fā zhǎn",
+    "pinyin2": "zhe4 ge4 zheng4 ce4 dao3 xiang4 le jing1 ji4 de fa1 zhan3",
+    "translation": {
+      "en": "This policy guided the development of the economy.",
+      "vi": "Chính sách này đã định hướng sự phát triển của nền kinh tế."
+    }
+  },
+  {
+    "sentence": "导弹准确击中了目标。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "dǎo dàn zhǔn què jī zhòng le mù biāo",
+    "pinyin2": "dao3 dan4 zhun3 que4 ji1 zhong4 le mu4 biao1",
+    "translation": {
+      "en": "The missile accurately hit the target.",
+      "vi": "Tên lửa đã bắn trúng mục tiêu một cách chính xác."
+    }
+  },
+  {
+    "sentence": "GPS导航系统帮助我们找到正确的路线。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "GPS dǎo háng xì tǒng bāng zhù wǒ men zhǎo dào zhèng què de lù xiàn",
+    "pinyin2": "GPS dao3 hang2 xi4 tong3 bang1 zhu4 wo3 men zhao3 dao4 zheng4 que4 de lu4 xian4",
+    "translation": {
+      "en": "The GPS navigation system helps us find the correct route.",
+      "vi": "Hệ thống định vị GPS giúp chúng ta tìm đường đúng."
+    }
+  },
+  {
+    "sentence": "封建社会已经成为了历史。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "fēng jiàn shè huì yǐ jīng chéng wéi le lì shǐ",
+    "pinyin2": "feng1 jian4 she4 hui4 yi3 jing1 cheng2 wei2 le li4 shi3",
+    "translation": {
+      "en": "Feudal society has become history.",
+      "vi": "Xã hội phong kiến đã trở thành lịch sử."
+    }
+  },
+  {
+    "sentence": "政府封锁了那条道路。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhèng fǔ fēng suǒ le nà tiáo dào lù",
+    "pinyin2": "zheng4 fu3 feng1 suo3 le na4 tiao2 dao4 lu4",
+    "translation": {
+      "en": "The government blocked that road.",
+      "vi": "Chính phủ đã phong tỏa con đường đó."
+    }
+  },
+  {
+    "sentence": "这个房间是完全封闭的。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè fáng jiān shì wán quán fēng bì de",
+    "pinyin2": "zhe4 ge4 fang2 jian1 shi4 wan2 quan2 feng1 bi4 de",
+    "translation": {
+      "en": "This room is completely sealed.",
+      "vi": "Căn phòng này hoàn toàn kín."
+    }
+  },
+  {
+    "sentence": "他将近五十岁了。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā jiāng jìn wǔ shí suì le",
+    "pinyin2": "ta1 jiang1 jin4 wu3 shi2 sui4 le",
+    "translation": {
+      "en": "He is nearly fifty years old.",
+      "vi": "Ông ấy gần năm mươi tuổi rồi."
+    }
+  },
+  {
+    "sentence": "每个人都应该维护自己的尊严。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "měi gè rén dōu yīng gāi wéi hù zì jǐ de zūn yán",
+    "pinyin2": "mei3 ge4 ren2 dou1 ying1 gai1 wei2 hu4 zi4 ji3 de zun1 yan2",
+    "translation": {
+      "en": "Everyone should maintain their dignity.",
+      "vi": "Mỗi người đều nên bảo vệ phẩm giá của mình."
+    }
+  },
+  {
+    "sentence": "他小心翼翼地打开了那个盒子。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā xiǎo xīn yì yì de dǎ kāi le nà gè hé zi",
+    "pinyin2": "ta1 xiao3 xin1 yi4 yi4 de da3 kai1 le na4 ge4 he2 zi",
+    "translation": {
+      "en": "He carefully opened that box.",
+      "vi": "Anh ấy cẩn thận mở chiếc hộp đó."
+    }
+  },
+  {
+    "sentence": "他很小气，从不请客。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā hěn xiǎo qì, cóng bù qǐng kè",
+    "pinyin2": "ta1 hen3 xiao3 qi4, cong2 bu4 qing3 ke4",
+    "translation": {
+      "en": "He is very stingy and never treats others.",
+      "vi": "Anh ấy rất keo kiệt, không bao giờ mời khách."
+    }
+  },
+  {
+    "sentence": "这是最尖端的科技产品。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè shì zuì jiān duān de kē jì chǎn pǐn",
+    "pinyin2": "zhe4 shi4 zui4 jian1 duan1 de ke1 ji4 chan3 pin3",
+    "translation": {
+      "en": "This is the most advanced technology product.",
+      "vi": "Đây là sản phẩm công nghệ tiên tiến nhất."
+    }
+  },
+  {
+    "sentence": "我们应该尝试新的方法。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men yīng gāi cháng shì xīn de fāng fǎ",
+    "pinyin2": "wo3 men ying1 gai1 chang2 shi4 xin1 de fang1 fa3",
+    "translation": {
+      "en": "We should try new methods.",
+      "vi": "Chúng ta nên thử phương pháp mới."
+    }
+  },
+  {
+    "sentence": "新总统明天就职。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "xīn zǒng tǒng míng tiān jiù zhí",
+    "pinyin2": "xin1 zong3 tong3 ming2 tian1 jiu4 zhi2",
+    "translation": {
+      "en": "The new president will take office tomorrow.",
+      "vi": "Tổng thống mới sẽ nhậm chức vào ngày mai."
+    }
+  },
+  {
+    "sentence": "我们应该就近选择学校。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men yīng gāi jiù jìn xuǎn zé xué xiào",
+    "pinyin2": "wo3 men ying1 gai1 jiu4 jin4 xuan3 ze2 xue2 xiao4",
+    "translation": {
+      "en": "We should choose a school nearby.",
+      "vi": "Chúng ta nên chọn trường học gần đây."
+    }
+  },
+  {
+    "sentence": "这个情况让他感到很尴尬。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè qíng kuàng ràng tā gǎn dào hěn gān gà",
+    "pinyin2": "zhe4 ge4 qing2 kuang4 rang4 ta1 gan3 dao4 hen3 gan1 ga4",
+    "translation": {
+      "en": "This situation made him feel very embarrassed.",
+      "vi": "Tình huống này khiến anh ấy cảm thấy rất xấu hổ."
+    }
+  },
+  {
+    "sentence": "警察发现了那具尸体。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "jǐng chá fā xiàn le nà jù shī tǐ",
+    "pinyin2": "jing3 cha2 fa1 xian4 le na4 ju4 shi1 ti3",
+    "translation": {
+      "en": "The police found that corpse.",
+      "vi": "Cảnh sát đã phát hiện thi thể đó."
+    }
+  },
+  {
+    "sentence": "请尽快完成这项工作。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "qǐng jìn kuài wán chéng zhè xiàng gōng zuò",
+    "pinyin2": "qing3 jin4 kuai4 wan2 cheng2 zhe4 xiang4 gong1 zuo4",
+    "translation": {
+      "en": "Please complete this work as soon as possible.",
+      "vi": "Vui lòng hoàn thành công việc này càng sớm càng tốt."
+    }
+  },
+  {
+    "sentence": "这只是局部的问题，不影响整体。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè zhǐ shì jú bù de wèn tí, bù yǐng xiǎng zhěng tǐ",
+    "pinyin2": "zhe4 zhi3 shi4 ju2 bu4 de wen4 ti2, bu4 ying3 xiang3 zheng3 ti3",
+    "translation": {
+      "en": "This is only a local problem and does not affect the whole.",
+      "vi": "Đây chỉ là vấn đề cục bộ, không ảnh hưởng đến toàn thể."
+    }
+  },
+  {
+    "sentence": "我们的能力不应该局限于此。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men de néng lì bù yīng gāi jú xiàn yú cǐ",
+    "pinyin2": "wo3 men de neng2 li4 bu4 ying1 gai1 ju2 xian4 yu2 ci3",
+    "translation": {
+      "en": "Our abilities should not be limited to this.",
+      "vi": "Khả năng của chúng ta không nên bị giới hạn ở đây."
+    }
+  },
+  {
+    "sentence": "这个局面很难控制。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè jú miàn hěn nán kòng zhì",
+    "pinyin2": "zhe4 ge4 ju2 mian4 hen3 nan2 kong4 zhi4",
+    "translation": {
+      "en": "This situation is difficult to control.",
+      "vi": "Tình huống này rất khó kiểm soát."
+    }
+  },
+  {
+    "sentence": "他坐在椅子上，屁股有点疼。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā zuò zài yǐ zi shàng, pì gu yǒu diǎn téng",
+    "pinyin2": "ta1 zuo4 zai4 yi3 zi shang4, pi4 gu you3 dian3 teng2",
+    "translation": {
+      "en": "He sat on the chair, and his bottom hurt a bit.",
+      "vi": "Anh ấy ngồi trên ghế, mông hơi đau."
+    }
+  },
+  {
+    "sentence": "新的问题层出不穷。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "xīn de wèn tí céng chū bù qióng",
+    "pinyin2": "xin1 de wen4 ti2 ceng2 chu1 bu4 qiong2",
+    "translation": {
+      "en": "New problems keep emerging.",
+      "vi": "Các vấn đề mới xuất hiện không ngừng."
+    }
+  },
+  {
+    "sentence": "这个社会有不同的层次。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè shè huì yǒu bù tóng de céng cì",
+    "pinyin2": "zhe4 ge4 she4 hui4 you3 bu4 tong2 de ceng2 ci4",
+    "translation": {
+      "en": "This society has different levels.",
+      "vi": "Xã hội này có các tầng lớp khác nhau."
+    }
+  },
+  {
+    "sentence": "他居住在北京已经十年了。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā jū zhù zài běi jīng yǐ jīng shí nián le",
+    "pinyin2": "ta1 ju1 zhu4 zai4 bei3 jing1 yi3 jing1 shi2 nian2 le",
+    "translation": {
+      "en": "He has been living in Beijing for ten years.",
+      "vi": "Anh ấy đã sống ở Bắc Kinh được mười năm rồi."
+    }
+  },
+  {
+    "sentence": "他绝不会屈服于压力。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā jué bù huì qū fú yú yā lì",
+    "pinyin2": "ta1 jue2 bu4 hui4 qu1 fu2 yu2 ya1 li4",
+    "translation": {
+      "en": "He will never yield to pressure.",
+      "vi": "Anh ấy sẽ không bao giờ khuất phục trước áp lực."
+    }
+  },
+  {
+    "sentence": "这座山是天然的屏障。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè zuò shān shì tiān rán de píng zhàng",
+    "pinyin2": "zhe4 zuo4 shan1 shi4 tian1 ran2 de ping2 zhang4",
+    "translation": {
+      "en": "This mountain is a natural barrier.",
+      "vi": "Ngọn núi này là một rào cản tự nhiên."
+    }
+  },
+  {
+    "sentence": "让我们展望未来。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "ràng wǒ men zhǎn wàng wèi lái",
+    "pinyin2": "rang4 wo3 men zhan3 wang4 wei4 lai2",
+    "translation": {
+      "en": "Let us look forward to the future.",
+      "vi": "Hãy để chúng ta nhìn về tương lai."
+    }
+  },
+  {
+    "sentence": "这次展览展现了中国的传统文化。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè cì zhǎn lǎn zhǎn xiàn le zhōng guó de chuán tǒng wén huà",
+    "pinyin2": "zhe4 ci4 zhan3 lan3 zhan3 xian4 le zhong1 guo2 de chuan2 tong3 wen2 hua4",
+    "translation": {
+      "en": "This exhibition displayed China's traditional culture.",
+      "vi": "Triển lãm này đã thể hiện văn hóa truyền thống của Trung Quốc."
+    }
+  },
+  {
+    "sentence": "博物馆展示了珍贵的历史文物。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "bó wù guǎn zhǎn shì le zhēn guì de lì shǐ wén wù",
+    "pinyin2": "bo2 wu4 guan3 zhan3 shi4 le zhen1 gui4 de li4 shi3 wen2 wu4",
+    "translation": {
+      "en": "The museum displayed precious historical artifacts.",
+      "vi": "Bảo tàng đã trưng bày các di vật lịch sử quý giá."
+    }
+  },
+  {
+    "sentence": "他屡次违反交通规则。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā lǚ cì wéi fǎn jiāo tōng guī zé",
+    "pinyin2": "ta1 lü3 ci4 wei2 fan3 jiao1 tong1 gui1 ze2",
+    "translation": {
+      "en": "He repeatedly violated traffic rules.",
+      "vi": "Anh ấy nhiều lần vi phạm luật giao thông."
+    }
+  },
+  {
+    "sentence": "我们必须履行自己的职责。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men bì xū lǚ xíng zì jǐ de zhí zé",
+    "pinyin2": "wo3 men bi4 xu1 lü3 xing2 zi4 ji3 de zhi2 ze2",
+    "translation": {
+      "en": "We must fulfill our responsibilities.",
+      "vi": "Chúng ta phải thực hiện trách nhiệm của mình."
+    }
+  },
+  {
+    "sentence": "这座山脉绵延数百公里。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè zuò shān mài mián yán shù bǎi gōng lǐ",
+    "pinyin2": "zhe4 zuo4 shan1 mai4 mian2 yan2 shu4 bai3 gong1 li3",
+    "translation": {
+      "en": "This mountain range stretches for hundreds of kilometers.",
+      "vi": "Dãy núi này kéo dài hàng trăm cây số."
+    }
+  },
+  {
+    "sentence": "岁月如流水，一去不复返。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "suì yuè rú liú shuǐ, yī qù bù fù fǎn",
+    "pinyin2": "sui4 yue4 ru2 liu2 shui3, yi1 qu4 bu4 fu4 fan3",
+    "translation": {
+      "en": "Time flows like water, never to return.",
+      "vi": "Thời gian như dòng nước chảy, một đi không trở lại."
+    }
+  },
+  {
+    "sentence": "这简直是岂有此理！",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè jiǎn zhí shì qǐ yǒu cǐ lǐ",
+    "pinyin2": "zhe4 jian3 zhi2 shi4 qi3 you3 ci3 li3",
+    "translation": {
+      "en": "This is absolutely outrageous!",
+      "vi": "Điều này thật là vô lý!"
+    }
+  },
+  {
+    "sentence": "这条路在前面分岔了。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè tiáo lù zài qián miàn fēn chà le",
+    "pinyin2": "zhe4 tiao2 lu4 zai4 qian2 mian4 fen1 cha4 le",
+    "translation": {
+      "en": "This road forks ahead.",
+      "vi": "Con đường này rẽ nhánh ở phía trước."
+    }
+  },
+  {
+    "sentence": "他在这个岗位上工作了很多年。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā zài zhè gè gǎng wèi shàng gōng zuò le hěn duō nián",
+    "pinyin2": "ta1 zai4 zhe4 ge4 gang3 wei4 shang4 gong1 zuo4 le hen3 duo1 nian2",
+    "translation": {
+      "en": "He has worked in this position for many years.",
+      "vi": "Anh ấy đã làm việc ở vị trí này nhiều năm rồi."
+    }
+  },
+  {
+    "sentence": "这个岛屿风景优美。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè dǎo yǔ fēng jǐng yōu měi",
+    "pinyin2": "zhe4 ge4 dao3 yu3 feng1 jing3 you1 mei3",
+    "translation": {
+      "en": "This island has beautiful scenery.",
+      "vi": "Hòn đảo này có phong cảnh đẹp."
+    }
+  },
+  {
+    "sentence": "他的岳父是一位医生。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā de yuè fù shì yī wèi yī shēng",
+    "pinyin2": "ta1 de yue4 fu4 shi4 yi1 wei4 yi1 sheng1",
+    "translation": {
+      "en": "His father-in-law is a doctor.",
+      "vi": "Bố vợ của anh ấy là một bác sĩ."
+    }
+  },
+  {
+    "sentence": "这个峡谷非常壮观。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè xiá gǔ fēi cháng zhuàng guān",
+    "pinyin2": "zhe4 ge4 xia2 gu3 fei1 chang2 zhuang4 guan1",
+    "translation": {
+      "en": "This canyon is very spectacular.",
+      "vi": "Hẻm núi này rất hùng vĩ."
+    }
+  },
+  {
+    "sentence": "很多人崇拜这位英雄。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "hěn duō rén chóng bài zhè wèi yīng xióng",
+    "pinyin2": "hen3 duo1 ren2 chong2 bai4 zhe4 wei4 ying1 xiong2",
+    "translation": {
+      "en": "Many people worship this hero.",
+      "vi": "Nhiều người tôn thờ vị anh hùng này."
+    }
+  },
+  {
+    "sentence": "我们对他表示崇敬。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men duì tā biǎo shì chóng jìng",
+    "pinyin2": "wo3 men dui4 ta1 biao3 shi4 chong2 jing4",
+    "translation": {
+      "en": "We show respect for him.",
+      "vi": "Chúng ta bày tỏ sự kính trọng đối với ông ấy."
+    }
+  },
+  {
+    "sentence": "这是一个崇高的理想。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè shì yī gè chóng gāo de lǐ xiǎng",
+    "pinyin2": "zhe4 shi4 yi1 ge4 chong2 gao1 de li3 xiang3",
+    "translation": {
+      "en": "This is a noble ideal.",
+      "vi": "Đây là một lý tưởng cao cả."
+    }
+  },
+  {
+    "sentence": "他买了一辆崭新的汽车。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā mǎi le yī liàng zhǎn xīn de qì chē",
+    "pinyin2": "ta1 mai3 le yi1 liang4 zhan3 xin1 de qi4 che1",
+    "translation": {
+      "en": "He bought a brand new car.",
+      "vi": "Anh ấy đã mua một chiếc xe hơi mới tinh."
+    }
+  },
+  {
+    "sentence": "街道上车辆川流不息。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "jiē dào shàng chē liàng chuān liú bù xī",
+    "pinyin2": "jie1 dao4 shang4 che1 liang4 chuan1 liu2 bu4 xi1",
+    "translation": {
+      "en": "Vehicles flow continuously on the street.",
+      "vi": "Xe cộ trên đường chảy không ngừng."
+    }
+  },
+  {
+    "sentence": "这个州有很多大学。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè zhōu yǒu hěn duō dà xué",
+    "pinyin2": "zhe4 ge4 zhou1 you3 hen3 duo1 da4 xue2",
+    "translation": {
+      "en": "This state has many universities.",
+      "vi": "Bang này có rất nhiều trường đại học."
+    }
+  },
+  {
+    "sentence": "我没有工夫陪你聊天。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ méi yǒu gōng fu péi nǐ liáo tiān",
+    "pinyin2": "wo3 mei2 you3 gong1 fu pei2 ni3 liao2 tian1",
+    "translation": {
+      "en": "I don't have time to chat with you.",
+      "vi": "Tôi không có thời gian trò chuyện với bạn."
+    }
+  },
+  {
+    "sentence": "这些工艺品非常精美。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè xiē gōng yì pǐn fēi cháng jīng měi",
+    "pinyin2": "zhe4 xie1 gong1 yi4 pin3 fei1 chang2 jing1 mei3",
+    "translation": {
+      "en": "These handicrafts are very exquisite.",
+      "vi": "Những sản phẩm thủ công này rất tinh xảo."
+    }
+  },
+  {
+    "sentence": "这个数字左右都是正确的。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè shù zì zuǒ yòu dōu shì zhèng què de",
+    "pinyin2": "zhe4 ge4 shu4 zi4 zuo3 you4 dou1 shi4 zheng4 que4 de",
+    "translation": {
+      "en": "This number is approximately correct.",
+      "vi": "Con số này xấp xỉ đúng."
+    }
+  },
+  {
+    "sentence": "我们需要巩固这个成果。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men xū yào gǒng gù zhè gè chéng guǒ",
+    "pinyin2": "wo3 men xu1 yao4 gong3 gu4 zhe4 ge4 cheng2 guo3",
+    "translation": {
+      "en": "We need to consolidate this achievement.",
+      "vi": "Chúng ta cần củng cố thành quả này."
+    }
+  },
+  {
+    "sentence": "他喜欢巴结领导。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā xǐ huān bā jie lǐng dǎo",
+    "pinyin2": "ta1 xi3 huan1 ba1 jie ling3 dao3",
+    "translation": {
+      "en": "He likes to curry favor with leaders.",
+      "vi": "Anh ấy thích nịnh nọt lãnh đạo."
+    }
+  },
+  {
+    "sentence": "这条巷子很窄。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè tiáo xiàng zi hěn zhǎi",
+    "pinyin2": "zhe4 tiao2 xiang4 zi hen3 zhai3",
+    "translation": {
+      "en": "This alley is very narrow.",
+      "vi": "Con ngõ này rất hẹp."
+    }
+  },
+  {
+    "sentence": "布告栏上贴满了通知。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "bù gào lán shàng tiē mǎn le tōng zhī",
+    "pinyin2": "bu4 gao4 lan2 shang4 tie1 man3 le tong1 zhi1",
+    "translation": {
+      "en": "The bulletin board is full of notices.",
+      "vi": "Bảng thông báo đã dán đầy thông cáo."
+    }
+  },
+  {
+    "sentence": "这个城市的布局很合理。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè chéng shì de bù jú hěn hé lǐ",
+    "pinyin2": "zhe4 ge4 cheng2 shi4 de bu4 ju2 hen3 he2 li3",
+    "translation": {
+      "en": "The layout of this city is very reasonable.",
+      "vi": "Bố cục của thành phố này rất hợp lý."
+    }
+  },
+  {
+    "sentence": "老师布置了很多作业。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "lǎo shī bù zhì le hěn duō zuò yè",
+    "pinyin2": "lao3 shi1 bu4 zhi4 le hen3 duo1 zuo4 ye4",
+    "translation": {
+      "en": "The teacher assigned a lot of homework.",
+      "vi": "Giáo viên đã giao rất nhiều bài tập."
+    }
+  },
+  {
+    "sentence": "他毕业于师范大学。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā bì yè yú shī fàn dà xué",
+    "pinyin2": "ta1 bi4 ye4 yu2 shi1 fan4 da4 xue2",
+    "translation": {
+      "en": "He graduated from a normal university.",
+      "vi": "Anh ấy tốt nghiệp từ trường đại học sư phạm."
+    }
+  },
+  {
+    "sentence": "他们在山上搭起了帐篷。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā men zài shān shàng dā qǐ le zhàng peng",
+    "pinyin2": "ta1 men zai4 shan1 shang4 da1 qi3 le zhang4 peng",
+    "translation": {
+      "en": "They set up tents on the mountain.",
+      "vi": "Họ đã dựng lều trên núi."
+    }
+  },
+  {
+    "sentence": "他带领我们参观了工厂。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā dài lǐng wǒ men cān guān le gōng chǎng",
+    "pinyin2": "ta1 dai4 ling3 wo3 men can1 guan1 le gong1 chang3",
+    "translation": {
+      "en": "He led us to visit the factory.",
+      "vi": "Anh ấy dẫn chúng tôi tham quan nhà máy."
+    }
+  },
+  {
+    "sentence": "他是常务委员。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā shì cháng wù wěi yuán",
+    "pinyin2": "ta1 shi4 chang2 wu4 wei3 yuan2",
+    "translation": {
+      "en": "He is a standing committee member.",
+      "vi": "Ông ấy là ủy viên thường trực."
+    }
+  },
+  {
+    "sentence": "这里常年下雨。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè lǐ cháng nián xià yǔ",
+    "pinyin2": "zhe4 li3 chang2 nian2 xia4 yu3",
+    "translation": {
+      "en": "It rains here all year round.",
+      "vi": "Nơi đây quanh năm mưa."
+    }
+  },
+  {
+    "sentence": "价格下降的幅度很大。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "jià gé xià jiàng de fú dù hěn dà",
+    "pinyin2": "jia4 ge2 xia4 jiang4 de fu2 du4 hen3 da4",
+    "translation": {
+      "en": "The price drop is very large.",
+      "vi": "Mức giảm giá rất lớn."
+    }
+  },
+  {
+    "sentence": "这里新建了一幢大楼。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè lǐ xīn jiàn le yī zhuàng dà lóu",
+    "pinyin2": "zhe4 li3 xin1 jian4 le yi1 zhuang4 da4 lou2",
+    "translation": {
+      "en": "A new building was built here.",
+      "vi": "Một tòa nhà lớn mới được xây dựng ở đây."
+    }
+  },
+  {
+    "sentence": "他工作很有干劲。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā gōng zuò hěn yǒu gàn jìn",
+    "pinyin2": "ta1 gong1 zuo4 hen3 you3 gan4 jin4",
+    "translation": {
+      "en": "He works with great enthusiasm.",
+      "vi": "Anh ấy làm việc rất có nhiệt huyết."
+    }
+  },
+  {
+    "sentence": "噪音干扰了我的学习。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zào yīn gān rǎo le wǒ de xué xí",
+    "pinyin2": "zao4 yin1 gan1 rao3 le wo3 de xue2 xi2",
+    "translation": {
+      "en": "Noise interfered with my studies.",
+      "vi": "Tiếng ồn đã làm phiền việc học của tôi."
+    }
+  },
+  {
+    "sentence": "这个地区长期干旱。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhè gè dì qū cháng qī gān hàn",
+    "pinyin2": "zhe4 ge4 di4 qu1 chang2 qi1 gan1 han4",
+    "translation": {
+      "en": "This area has been in drought for a long time.",
+      "vi": "Khu vực này bị hạn hán lâu dài."
+    }
+  },
+  {
+    "sentence": "我们不应该干涉别人的私事。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "wǒ men bù yīng gāi gān shè bié rén de sī shì",
+    "pinyin2": "wo3 men bu4 ying1 gai1 gan1 she4 bie2 ren2 de si1 shi4",
+    "translation": {
+      "en": "We should not interfere with other people's private affairs.",
+      "vi": "Chúng ta không nên can thiệp vào việc riêng của người khác."
+    }
+  },
+  {
+    "sentence": "政府干预了市场价格。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "zhèng fǔ gān yù le shì chǎng jià gé",
+    "pinyin2": "zheng4 fu3 gan1 yu4 le shi4 chang3 jia4 ge2",
+    "translation": {
+      "en": "The government intervened in market prices.",
+      "vi": "Chính phủ đã can thiệp vào giá thị trường."
+    }
+  },
+  {
+    "sentence": "他是一个平凡的人。",
+    "tags": ["HSK1-6"],
+    "pinyin1": "tā shì yī gè píng fán de rén",
+    "pinyin2": "ta1 shi4 yi1 ge4 ping2 fan2 de ren2",
+    "translation": {
+      "en": "He is an ordinary person.",
+      "vi": "Anh ấy là một người bình thường."
+    }
   }
 ]

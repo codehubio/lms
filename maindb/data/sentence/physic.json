@@ -94,7 +94,16 @@
   "pinyin1": "zhòng lì fāng xiàng shì chuí zhí xiàng xià de",
   "pinyin2": "zhong4 li4 fang1 xiang4 shi4 chui2 zhi2 xiang4 xia4 de",
   "translation": {
-    "en": "The direction of gravity is vertically downward.",
-    "vi": "Hướng của trọng lực là thẳng đứng xuống dưới."
-  }
-}]
+      "en": "The direction of gravity is vertically downward.",
+      "vi": "Hướng của trọng lực là thẳng đứng xuống dưới."
+    }
+  }, {
+    "sentence": "光的干涉现象产生了明暗相间的条纹。",
+    "tags": ["physic"],
+    "pinyin1": "guāng de gān shè xiàn xiàng chǎn shēng le míng àn xiāng jiàn de tiáo wén",
+    "pinyin2": "guang1 de gan1 she4 xian4 xiang4 chan3 sheng1 le ming2 an4 xiang1 jian4 de tiao2 wen2",
+    "translation": {
+      "en": "The interference phenomenon of light produces alternating bright and dark fringes.",
+      "vi": "Hiện tượng giao thoa ánh sáng tạo ra các vân sáng tối xen kẽ."
+    }
+  }]
