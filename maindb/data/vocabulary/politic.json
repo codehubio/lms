@@ -1,0 +1,1503 @@
+[
+  {
+    "tags": ["politic"],
+    "word": "政治",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng zhì",
+    "pinyin2": "zheng4 zhi4",
+    "translation": {
+      "en": "politics",
+      "vi": "chính trị"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "政府",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng fǔ",
+    "pinyin2": "zheng4 fu3",
+    "translation": {
+      "en": "government",
+      "vi": "chính phủ"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "国家",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guó jiā",
+    "pinyin2": "guo2 jia1",
+    "translation": {
+      "en": "country, nation",
+      "vi": "quốc gia"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "总统",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒng tǒng",
+    "pinyin2": "zong3 tong3",
+    "translation": {
+      "en": "president",
+      "vi": "tổng thống"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "总理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒng lǐ",
+    "pinyin2": "zong3 li3",
+    "translation": {
+      "en": "premier, prime minister",
+      "vi": "thủ tướng"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "部长",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bù zhǎng",
+    "pinyin2": "bu4 zhang3",
+    "translation": {
+      "en": "minister",
+      "vi": "bộ trưởng"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "议会",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yì huì",
+    "pinyin2": "yi4 hui4",
+    "translation": {
+      "en": "parliament",
+      "vi": "nghị viện"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "国会",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guó huì",
+    "pinyin2": "guo2 hui4",
+    "translation": {
+      "en": "congress",
+      "vi": "quốc hội"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "选举",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xuǎn jǔ",
+    "pinyin2": "xuan3 ju3",
+    "translation": {
+      "en": "election",
+      "vi": "bầu cử"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "投票",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tóu piào",
+    "pinyin2": "tou2 piao4",
+    "translation": {
+      "en": "vote",
+      "vi": "bỏ phiếu"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "候选人",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hòu xuǎn rén",
+    "pinyin2": "hou4 xuan3 ren2",
+    "translation": {
+      "en": "candidate",
+      "vi": "ứng cử viên"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "政党",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng dǎng",
+    "pinyin2": "zheng4 dang3",
+    "translation": {
+      "en": "political party",
+      "vi": "đảng chính trị"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "民主",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mín zhǔ",
+    "pinyin2": "min2 zhu3",
+    "translation": {
+      "en": "democracy",
+      "vi": "dân chủ"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "共和",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gòng hé",
+    "pinyin2": "gong4 he2",
+    "translation": {
+      "en": "republic",
+      "vi": "cộng hòa"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "宪法",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiàn fǎ",
+    "pinyin2": "xian4 fa3",
+    "translation": {
+      "en": "constitution",
+      "vi": "hiến pháp"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "法律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎ lǜ",
+    "pinyin2": "fa3 lü4",
+    "translation": {
+      "en": "law",
+      "vi": "pháp luật"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "政策",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng cè",
+    "pinyin2": "zheng4 ce4",
+    "translation": {
+      "en": "policy",
+      "vi": "chính sách"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "外交",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wài jiāo",
+    "pinyin2": "wai4 jiao1",
+    "translation": {
+      "en": "diplomacy",
+      "vi": "ngoại giao"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "大使",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dà shǐ",
+    "pinyin2": "da4 shi3",
+    "translation": {
+      "en": "ambassador",
+      "vi": "đại sứ"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "外交官",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wài jiāo guān",
+    "pinyin2": "wai4 jiao1 guan1",
+    "translation": {
+      "en": "diplomat",
+      "vi": "nhà ngoại giao"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "条约",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiáo yuē",
+    "pinyin2": "tiao2 yue1",
+    "translation": {
+      "en": "treaty",
+      "vi": "hiệp ước"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "协议",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xié yì",
+    "pinyin2": "xie2 yi4",
+    "translation": {
+      "en": "agreement",
+      "vi": "thỏa thuận"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "主权",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ quán",
+    "pinyin2": "zhu3 quan2",
+    "translation": {
+      "en": "sovereignty",
+      "vi": "chủ quyền"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "独立",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dú lì",
+    "pinyin2": "du2 li4",
+    "translation": {
+      "en": "independence",
+      "vi": "độc lập"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "自由",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì yóu",
+    "pinyin2": "zi4 you2",
+    "translation": {
+      "en": "freedom, liberty",
+      "vi": "tự do"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "权利",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "quán lì",
+    "pinyin2": "quan2 li4",
+    "translation": {
+      "en": "right",
+      "vi": "quyền lợi"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "义务",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yì wù",
+    "pinyin2": "yi4 wu4",
+    "translation": {
+      "en": "duty, obligation",
+      "vi": "nghĩa vụ"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "公民",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gōng mín",
+    "pinyin2": "gong1 min2",
+    "translation": {
+      "en": "citizen",
+      "vi": "công dân"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "人民",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rén mín",
+    "pinyin2": "ren2 min2",
+    "translation": {
+      "en": "people",
+      "vi": "nhân dân"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "群众",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qún zhòng",
+    "pinyin2": "qun2 zhong4",
+    "translation": {
+      "en": "masses, public",
+      "vi": "quần chúng"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "官员",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guān yuán",
+    "pinyin2": "guan1 yuan2",
+    "translation": {
+      "en": "official",
+      "vi": "quan chức"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "行政",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xíng zhèng",
+    "pinyin2": "xing2 zheng4",
+    "translation": {
+      "en": "administration",
+      "vi": "hành chính"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "立法",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lì fǎ",
+    "pinyin2": "li4 fa3",
+    "translation": {
+      "en": "legislation",
+      "vi": "lập pháp"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "司法",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "sī fǎ",
+    "pinyin2": "si1 fa3",
+    "translation": {
+      "en": "judiciary",
+      "vi": "tư pháp"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "法院",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎ yuàn",
+    "pinyin2": "fa3 yuan4",
+    "translation": {
+      "en": "court",
+      "vi": "tòa án"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "法官",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎ guān",
+    "pinyin2": "fa3 guan1",
+    "translation": {
+      "en": "judge",
+      "vi": "thẩm phán"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "律师",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lǜ shī",
+    "pinyin2": "lü4 shi1",
+    "translation": {
+      "en": "lawyer",
+      "vi": "luật sư"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "警察",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jǐng chá",
+    "pinyin2": "jing3 cha2",
+    "translation": {
+      "en": "police",
+      "vi": "cảnh sát"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "军队",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jūn duì",
+    "pinyin2": "jun1 dui4",
+    "translation": {
+      "en": "army, military",
+      "vi": "quân đội"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "士兵",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì bīng",
+    "pinyin2": "shi4 bing1",
+    "translation": {
+      "en": "soldier",
+      "vi": "binh lính"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "将军",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiāng jūn",
+    "pinyin2": "jiang1 jun1",
+    "translation": {
+      "en": "general",
+      "vi": "tướng quân"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "国防",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guó fáng",
+    "pinyin2": "guo2 fang2",
+    "translation": {
+      "en": "national defense",
+      "vi": "quốc phòng"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "安全",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "ān quán",
+    "pinyin2": "an1 quan2",
+    "translation": {
+      "en": "security, safety",
+      "vi": "an toàn"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "和平",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé píng",
+    "pinyin2": "he2 ping2",
+    "translation": {
+      "en": "peace",
+      "vi": "hòa bình"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "战争",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhàn zhēng",
+    "pinyin2": "zhan4 zheng1",
+    "translation": {
+      "en": "war",
+      "vi": "chiến tranh"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "冲突",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chōng tū",
+    "pinyin2": "chong1 tu1",
+    "translation": {
+      "en": "conflict",
+      "vi": "xung đột"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "谈判",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tán pàn",
+    "pinyin2": "tan2 pan4",
+    "translation": {
+      "en": "negotiation",
+      "vi": "đàm phán"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "联盟",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lián méng",
+    "pinyin2": "lian2 meng2",
+    "translation": {
+      "en": "alliance",
+      "vi": "liên minh"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "合作",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé zuò",
+    "pinyin2": "he2 zuo4",
+    "translation": {
+      "en": "cooperation",
+      "vi": "hợp tác"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "制裁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì cái",
+    "pinyin2": "zhi4 cai2",
+    "translation": {
+      "en": "sanction",
+      "vi": "trừng phạt"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "经济",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jīng jì",
+    "pinyin2": "jing1 ji4",
+    "translation": {
+      "en": "economy",
+      "vi": "kinh tế"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "发展",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fā zhǎn",
+    "pinyin2": "fa1 zhan3",
+    "translation": {
+      "en": "development",
+      "vi": "phát triển"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "改革",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gǎi gé",
+    "pinyin2": "gai3 ge2",
+    "translation": {
+      "en": "reform",
+      "vi": "cải cách"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "革命",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gé mìng",
+    "pinyin2": "ge2 ming4",
+    "translation": {
+      "en": "revolution",
+      "vi": "cách mạng"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "运动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yùn dòng",
+    "pinyin2": "yun4 dong4",
+    "translation": {
+      "en": "movement, campaign",
+      "vi": "phong trào"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "抗议",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kàng yì",
+    "pinyin2": "kang4 yi4",
+    "translation": {
+      "en": "protest",
+      "vi": "phản đối"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "示威",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì wēi",
+    "pinyin2": "shi4 wei1",
+    "translation": {
+      "en": "demonstration",
+      "vi": "biểu tình"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "罢工",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bà gōng",
+    "pinyin2": "ba4 gong1",
+    "translation": {
+      "en": "strike",
+      "vi": "đình công"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "媒体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "méi tǐ",
+    "pinyin2": "mei2 ti3",
+    "translation": {
+      "en": "media",
+      "vi": "truyền thông"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "新闻",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xīn wén",
+    "pinyin2": "xin1 wen2",
+    "translation": {
+      "en": "news",
+      "vi": "tin tức"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "记者",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jì zhě",
+    "pinyin2": "ji4 zhe3",
+    "translation": {
+      "en": "journalist, reporter",
+      "vi": "phóng viên"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "言论",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yán lùn",
+    "pinyin2": "yan2 lun4",
+    "translation": {
+      "en": "speech, opinion",
+      "vi": "ngôn luận"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "审查",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shěn chá",
+    "pinyin2": "shen3 cha2",
+    "translation": {
+      "en": "censorship, review",
+      "vi": "kiểm duyệt"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "腐败",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǔ bài",
+    "pinyin2": "fu3 bai4",
+    "translation": {
+      "en": "corruption",
+      "vi": "tham nhũng"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "贪污",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tān wū",
+    "pinyin2": "tan1 wu1",
+    "translation": {
+      "en": "embezzlement",
+      "vi": "tham ô"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "透明",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tòu míng",
+    "pinyin2": "tou4 ming2",
+    "translation": {
+      "en": "transparency",
+      "vi": "minh bạch"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "监督",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiān dū",
+    "pinyin2": "jian1 du1",
+    "translation": {
+      "en": "supervision, oversight",
+      "vi": "giám sát"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "责任",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zé rèn",
+    "pinyin2": "ze2 ren4",
+    "translation": {
+      "en": "responsibility",
+      "vi": "trách nhiệm"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "权力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "quán lì",
+    "pinyin2": "quan2 li4",
+    "translation": {
+      "en": "power, authority",
+      "vi": "quyền lực"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "统治",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tǒng zhì",
+    "pinyin2": "tong3 zhi4",
+    "translation": {
+      "en": "rule, govern",
+      "vi": "thống trị"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "管理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guǎn lǐ",
+    "pinyin2": "guan3 li3",
+    "translation": {
+      "en": "management, administration",
+      "vi": "quản lý"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "控制",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kòng zhì",
+    "pinyin2": "kong4 zhi4",
+    "translation": {
+      "en": "control",
+      "vi": "kiểm soát"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "影响",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǐng xiǎng",
+    "pinyin2": "ying3 xiang3",
+    "translation": {
+      "en": "influence",
+      "vi": "ảnh hưởng"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "利益",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lì yì",
+    "pinyin2": "li4 yi4",
+    "translation": {
+      "en": "interest, benefit",
+      "vi": "lợi ích"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "竞争",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jìng zhēng",
+    "pinyin2": "jing4 zheng1",
+    "translation": {
+      "en": "competition",
+      "vi": "cạnh tranh"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "地区",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dì qū",
+    "pinyin2": "di4 qu1",
+    "translation": {
+      "en": "region",
+      "vi": "khu vực"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "领土",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lǐng tǔ",
+    "pinyin2": "ling3 tu3",
+    "translation": {
+      "en": "territory",
+      "vi": "lãnh thổ"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "边界",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biān jiè",
+    "pinyin2": "bian1 jie4",
+    "translation": {
+      "en": "border, boundary",
+      "vi": "biên giới"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "移民",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yí mín",
+    "pinyin2": "yi2 min2",
+    "translation": {
+      "en": "immigration, immigrant",
+      "vi": "di dân"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "难民",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "nàn mín",
+    "pinyin2": "nan4 min2",
+    "translation": {
+      "en": "refugee",
+      "vi": "tị nạn"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "护照",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hù zhào",
+    "pinyin2": "hu4 zhao4",
+    "translation": {
+      "en": "passport",
+      "vi": "hộ chiếu"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "签证",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qiān zhèng",
+    "pinyin2": "qian1 zheng4",
+    "translation": {
+      "en": "visa",
+      "vi": "thị thực"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "国际",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guó jì",
+    "pinyin2": "guo2 ji4",
+    "translation": {
+      "en": "international",
+      "vi": "quốc tế"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "组织",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǔ zhī",
+    "pinyin2": "zu3 zhi1",
+    "translation": {
+      "en": "organization",
+      "vi": "tổ chức"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "联合国",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lián hé guó",
+    "pinyin2": "lian2 he2 guo2",
+    "translation": {
+      "en": "United Nations",
+      "vi": "Liên Hợp Quốc"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "会议",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huì yì",
+    "pinyin2": "hui4 yi4",
+    "translation": {
+      "en": "meeting, conference",
+      "vi": "hội nghị"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "决议",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jué yì",
+    "pinyin2": "jue2 yi4",
+    "translation": {
+      "en": "resolution",
+      "vi": "nghị quyết"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "声明",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shēng míng",
+    "pinyin2": "sheng1 ming2",
+    "translation": {
+      "en": "statement, declaration",
+      "vi": "tuyên bố"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "公告",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gōng gào",
+    "pinyin2": "gong1 gao4",
+    "translation": {
+      "en": "announcement",
+      "vi": "thông báo"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "预算",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yù suàn",
+    "pinyin2": "yu4 suan4",
+    "translation": {
+      "en": "budget",
+      "vi": "ngân sách"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "税收",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuì shōu",
+    "pinyin2": "shui4 shou1",
+    "translation": {
+      "en": "tax revenue",
+      "vi": "thuế"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "支出",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī chū",
+    "pinyin2": "zhi1 chu1",
+    "translation": {
+      "en": "expenditure",
+      "vi": "chi tiêu"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "公共",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gōng gòng",
+    "pinyin2": "gong1 gong4",
+    "translation": {
+      "en": "public",
+      "vi": "công cộng"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "服务",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fú wù",
+    "pinyin2": "fu2 wu4",
+    "translation": {
+      "en": "service",
+      "vi": "dịch vụ"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "福利",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fú lì",
+    "pinyin2": "fu2 li4",
+    "translation": {
+      "en": "welfare",
+      "vi": "phúc lợi"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "教育",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiào yù",
+    "pinyin2": "jiao4 yu4",
+    "translation": {
+      "en": "education",
+      "vi": "giáo dục"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "传统",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chuán tǒng",
+    "pinyin2": "chuan2 tong3",
+    "translation": {
+      "en": "tradition",
+      "vi": "truyền thống"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "价值",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jià zhí",
+    "pinyin2": "jia4 zhi2",
+    "translation": {
+      "en": "value",
+      "vi": "giá trị"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "观念",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guān niàn",
+    "pinyin2": "guan1 nian4",
+    "translation": {
+      "en": "concept, idea",
+      "vi": "quan niệm"
+    }
+  },
+  {
+    "tags": ["politic"],
+    "word": "意识形态",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yì shí xíng tài",
+    "pinyin2": "yi4 shi2 xing2 tai4",
+    "translation": {
+      "en": "ideology",
+      "vi": "ý thức hệ"
+    }
+  }
+]
+

@@ -233,6 +233,19 @@
         "vi": "Từ vựng liên quan đến kinh tế, tài chính, kinh doanh và thương mại",
         "zh": "经济、金融、商业和贸易相关词汇"
       }
+    },
+    {
+      "name": "politic",
+      "display_name": {
+        "en": "Politics",
+        "vi": "Chính trị",
+        "zh": "政治"
+      },
+      "description": {
+        "en": "Politics, government, and political terminology related vocabulary",
+        "vi": "Từ vựng liên quan đến chính trị, chính phủ và thuật ngữ chính trị",
+        "zh": "政治、政府和政治术语相关词汇"
+      }
     }]
 }, {
   "name": "science",
