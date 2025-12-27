@@ -8,11 +8,11 @@ import type { GrammarEntry } from '@/types';
 import ReactMarkdown from 'react-markdown';
 import VocabularyTooltip from './VocabularyTooltip';
 
-interface GrammarEntryProps {
+interface ParagraphEntryProps {
   entry: GrammarEntry;
 }
 
-export default function GrammarEntry({ entry }: GrammarEntryProps) {
+export default function ParagraphEntry({ entry }: ParagraphEntryProps) {
   const pathname = usePathname();
   const [mounted, setMounted] = useState(false);
   const locale = getLocaleFromPath(pathname || '') || 'en';
@@ -29,15 +29,27 @@ export default function GrammarEntry({ entry }: GrammarEntryProps) {
     const text = getUiText(locale);
     const fallbackText = getUiText('en');
     
-    const grammarTitle = text.grammar?.title || fallbackText.grammar?.title || 'Chinese Grammar';
-    const navGrammar = text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar';
+    // Determine page type from pathname
+    const isGrammar = pathname?.includes('/grammar');
+    const isPronunciation = pathname?.includes('/pronunciation');
     
-    // Construct title matching the metadata format: `${entryTitle} - ${grammarTitle} - ${navGrammar}`
-    const pageTitle = `${entryTitle} - ${grammarTitle} - ${navGrammar}`;
+    let pageTitle = '';
+    if (isGrammar) {
+      const grammarTitle = text.grammar?.title || fallbackText.grammar?.title || 'Chinese Grammar';
+      const navGrammar = text.nav?.grammar || fallbackText.nav?.grammar || 'Grammar';
+      pageTitle = `${entryTitle} - ${grammarTitle} - ${navGrammar}`;
+    } else if (isPronunciation) {
+      const pronunciationTitle = text.pronunciation?.title || fallbackText.pronunciation?.title || 'Chinese Pronunciation';
+      const navPronunciation = text.nav?.pronunciation || fallbackText.nav?.pronunciation || 'Pronunciation';
+      pageTitle = `${entryTitle} - ${pronunciationTitle} - ${navPronunciation}`;
+    } else {
+      // Fallback
+      pageTitle = entryTitle;
+    }
     
     // Update document title immediately
     document.title = pageTitle;
-  }, [entry, locale, mounted]);
+  }, [entry, locale, mounted, pathname]);
   
   // Show loading skeleton before mounted to prevent hydration mismatches
   if (!mounted) {

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { Suspense } from 'react';
 import { fetchGrammarEntries } from '@/lib/data';
-import GrammarEntry from '@/components/GrammarEntry';
+import ParagraphEntry from '@/components/ParagraphEntry';
 import GrammarSearch from '@/components/GrammarSearch';
 import GrammarTopicsList from '@/components/GrammarTopicsList';
 import { locales, type Locale, defaultLocale } from '@/proxy';
@@ -137,7 +137,7 @@ export default async function GrammarEntryPage({ params, searchParams }: Grammar
           {/* Right column: Grammar Content */}
           <div className="lg:col-span-9">
             {selectedEntry ? (
-              <GrammarEntry entry={selectedEntry} />
+              <ParagraphEntry entry={selectedEntry} />
             ) : (
               <div className="text-center py-12">
                 <p className="text-gray-500">

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { Suspense } from 'react';
 import { fetchPronunciationEntries } from '@/lib/data';
-import GrammarEntry from '@/components/GrammarEntry';
+import ParagraphEntry from '@/components/ParagraphEntry';
 import PronunciationSearch from '@/components/PronunciationSearch';
 import PronunciationTopicsList from '@/components/PronunciationTopicsList';
 import { locales, type Locale, defaultLocale } from '@/proxy';
@@ -137,7 +137,7 @@ export default async function PronunciationEntryPage({ params, searchParams }: P
           {/* Right column: Pronunciation Content */}
           <div className="lg:col-span-9">
             {selectedEntry ? (
-              <GrammarEntry entry={selectedEntry} />
+              <ParagraphEntry entry={selectedEntry} />
             ) : (
               <div className="text-center py-12">
                 <p className="text-gray-500">

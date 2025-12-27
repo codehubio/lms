@@ -332,7 +332,7 @@ export default function VocabularyEntry({ entry, allEntries = [], currentIndex =
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [isModalOpen, currentModalIndex, allEntries, handleCloseModal]);
+  }, [isModalOpen, currentModalIndex, allEntries, handleCloseModal, loadExamplesForEntry]);
 
   return (
     <>
