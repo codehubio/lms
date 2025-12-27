@@ -616,3 +616,82 @@ export async function fetchGrammarEntries(options?: {
   }
 }
 
+/**
+ * Fetch pronunciation entries (paragraphs) from DuckDB database with pronunciation tag
+ */
+export async function fetchPronunciationEntries(options?: {
+  language?: string;
+}): Promise<GrammarEntry[]> {
+  const { language = 'en' } = options || {};
+  
+  const startTime = Date.now();
+  
+  try {
+    const { waitForDatabase, query } = await import('./db');
+    await waitForDatabase();
+    
+    // Query paragraphs with pronunciation tag
+    const translationField = language === 'vi' ? "translation.vi" : language === 'zh' ? "translation.zh" : "translation.en";
+    
+    const dataQuery = `
+      SELECT 
+        id,
+        title,
+        tags,
+        translation,
+        data
+      FROM paragraph
+      WHERE array_position(tags, 'pronunciation') IS NOT NULL
+      ORDER BY COALESCE(tags[1], ''), ${translationField}
+    `;
+    
+    const results = await query<any>(dataQuery);
+    
+    // Convert to GrammarEntry array (same structure as grammar entries)
+    const entries: GrammarEntry[] = results.map((row: any) => {
+      const id = row.id ? String(row.id) : '';
+      const title = String(row.title || '');
+      const tags = Array.isArray(row.tags) ? row.tags : (row.tags ? [row.tags] : []);
+      const translation = (row.translation && typeof row.translation === 'object') 
+        ? { 
+            en: String(row.translation.en || ''),
+            vi: String(row.translation.vi || ''),
+            zh: String(row.translation.zh || ''),
+          }
+        : { en: '', vi: '', zh: '' };
+      const data = Array.isArray(row.data) ? row.data : [];
+      
+      return {
+        id,
+        title,
+        tags,
+        translation,
+        data,
+      };
+    });
+    
+    const duration = Date.now() - startTime;
+    const logData = {
+      type: 'other',
+      action: 'fetchPronunciationEntries',
+      duration,
+      entriesCount: entries.length,
+      success: true,
+    };
+    console.log(JSON.stringify(logData));
+    
+    return entries;
+  } catch (error) {
+    const duration = Date.now() - startTime;
+    const logData = {
+      type: 'other',
+      action: 'fetchPronunciationEntries',
+      duration,
+      success: false,
+      error: error instanceof Error ? error.message : 'Unknown error',
+    };
+    console.error(JSON.stringify(logData));
+    throw error;
+  }
+}
+

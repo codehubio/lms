@@ -20,6 +20,11 @@
       "vi": "Từ vựng",
       "zh": "词汇"
     },
+    "pronunciation": {
+      "en": "Pronunciation",
+      "vi": "Phát âm",
+      "zh": "发音"
+    },
     "grammar": {
       "en": "Grammar",
       "vi": "Ngữ pháp",
@@ -571,6 +576,48 @@
       "en": "No grammar topics found matching \"{search}\".",
       "vi": "Không tìm thấy chủ đề ngữ pháp nào khớp với \"{search}\".",
       "zh": "未找到匹配 \"{search}\" 的语法主题。"
+    }
+  },
+  "pronunciation": {
+    "title": {
+      "en": "Chinese Pronunciation",
+      "vi": "Phát âm tiếng Trung",
+      "zh": "中文发音"
+    },
+    "subtitle": {
+      "en": "Comprehensive Chinese pronunciation guides",
+      "vi": "Hướng dẫn phát âm tiếng Trung đầy đủ",
+      "zh": "全面的中文发音指南"
+    },
+    "topics": {
+      "en": "Topics",
+      "vi": "Chủ đề",
+      "zh": "主题"
+    },
+    "searchPlaceholder": {
+      "en": "Search pronunciation topics...",
+      "vi": "Tìm kiếm chủ đề phát âm...",
+      "zh": "搜索发音主题..."
+    },
+    "searchButton": {
+      "en": "Search",
+      "vi": "Tìm kiếm",
+      "zh": "搜索"
+    },
+    "clearButton": {
+      "en": "Clear",
+      "vi": "Xóa",
+      "zh": "清除"
+    },
+    "noResults": {
+      "en": "No pronunciation topics found",
+      "vi": "Không tìm thấy chủ đề phát âm nào",
+      "zh": "未找到发音主题"
+    },
+    "noResultsMatching": {
+      "en": "No pronunciation topics found matching \"{search}\".",
+      "vi": "Không tìm thấy chủ đề phát âm nào khớp với \"{search}\".",
+      "zh": "未找到匹配 \"{search}\" 的发音主题。"
     }
   },
   "language": {

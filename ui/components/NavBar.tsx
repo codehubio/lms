@@ -26,10 +26,11 @@ export default function NavBar() {
   }, [locale]);
   
   // Generate paths synchronously using the locale
-  const { homePath, vocabularyPath, grammarPath, aboutPath } = useMemo(() => {
+  const { homePath, vocabularyPath, pronunciationPath, grammarPath, aboutPath } = useMemo(() => {
     return {
       homePath: addLocaleToPath('/', locale),
       vocabularyPath: addLocaleToPath('/vocabulary', locale),
+      pronunciationPath: addLocaleToPath('/pronunciation', locale),
       grammarPath: addLocaleToPath('/grammar', locale),
       aboutPath: addLocaleToPath('/about', locale),
     };
@@ -47,6 +48,7 @@ export default function NavBar() {
           <ul className="flex space-x-2 sm:space-x-4 text-sm sm:text-base">
             <li><Link href={homePath} className="hover:underline" suppressHydrationWarning>{text.nav.home}</Link></li>
             <li><Link href={vocabularyPath} className="hover:underline" suppressHydrationWarning>{text.nav.dictionary}</Link></li>
+            <li><Link href={pronunciationPath} className="hover:underline" suppressHydrationWarning>{text.nav.pronunciation}</Link></li>
             <li><Link href={grammarPath} className="hover:underline" suppressHydrationWarning>{text.nav.grammar || 'Grammar'}</Link></li>
             <li><Link href={aboutPath} className="hover:underline" suppressHydrationWarning>{text.nav.about}</Link></li>
           </ul>
@@ -95,6 +97,16 @@ export default function NavBar() {
                 suppressHydrationWarning
               >
                 {text.nav.dictionary}
+              </Link>
+            </li>
+            <li>
+              <Link 
+                href={pronunciationPath} 
+                className="block py-2 hover:bg-teal-600 rounded px-2 transition" 
+                onClick={() => setIsMobileMenuOpen(false)}
+                suppressHydrationWarning
+              >
+                {text.nav.pronunciation}
               </Link>
             </li>
             <li>
