@@ -1,0 +1,176 @@
+{
+  "id": "pronunciation-zh",
+  "title": "How to Pronounce ZH in Chinese",
+  "tags": ["pronunciation"],
+  "translation": {
+    "en": "How to Pronounce ZH in Chinese",
+    "vi": "Cách phát âm ZH trong tiếng Trung",
+    "zh": "如何发音中文的ZH"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Introduction to the ZH Sound (ZH音介绍)",
+          "vi": "Giới thiệu về âm ZH (ZH音介绍)",
+          "zh": "ZH音介绍"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The Chinese **zh** sound (written as **zh** in pinyin) is a **retroflex** affricate that is challenging for English speakers. It is **NOT** the same as the English \"j\" sound in \"judge\" or \"zh\" in \"azure\".\n\n**Key characteristics:**\n- The Chinese **zh** is a **voiceless** sound (no vibration in the vocal cords)\n- It is an **unaspirated** retroflex affricate\n- The tongue must **curl back** and touch the hard palate\n- It sounds similar to \"j\" in \"judge\" but without voicing and with retroflex position\n\n**Common mistake:** Many learners pronounce it like English \"j\" (voiced) or confuse it with \"z\" (alveolar). The Chinese **zh** requires the tongue to curl back.\n\n**Example words:**\n- **{{word1}}** (zhī - to know)\n- **{{word2}}** (zhè - this)\n- **{{word3}}** (zhōng - middle/China)",
+          "vi": "Âm **zh** trong tiếng Trung (viết là **zh** trong pinyin) là một âm tắc xát quặt lưỡi khó đối với người nói tiếng Anh. Nó **KHÔNG** giống với âm \"j\" trong tiếng Anh như \"judge\" hoặc \"zh\" trong \"azure\".\n\n**Đặc điểm chính:**\n- Âm **zh** trong tiếng Trung là âm **vô thanh** (không có rung động ở dây thanh)\n- Đây là âm tắc xát quặt lưỡi không bật hơi\n- Lưỡi phải **cuộn lại** và chạm vào vòm cứng\n- Nghe giống \"j\" trong \"judge\" nhưng không có thanh và với vị trí quặt lưỡi\n\n**Lỗi thường gặp:** Nhiều người học phát âm nó giống \"j\" tiếng Anh (hữu thanh) hoặc nhầm lẫn với \"z\" (chân răng). Âm **zh** tiếng Trung yêu cầu lưỡi cuộn lại.\n\n**Ví dụ:**\n- **{{word1}}** (zhī - biết)\n- **{{word2}}** (zhè - này)\n- **{{word3}}** (zhōng - giữa/Trung Quốc)",
+          "zh": "中文的**zh**音（拼音中写作**zh**）是卷舌塞擦音，对英语母语者来说很有挑战性。它**不是**英语中\"judge\"的\"j\"音或\"azure\"中的\"zh\"音。\n\n**主要特点：**\n- 中文的**zh**是**清音**（声带不振动）\n- 它是不送气的卷舌塞擦音\n- 舌头必须**卷起**并接触硬腭\n- 听起来像\"judge\"中的\"j\"但没有浊音且是卷舌位置\n\n**常见错误：**许多学习者把它发成英语的\"j\"（浊音）或与\"z\"（齿龈音）混淆。中文的**zh**需要舌头卷起。\n\n**例词：**\n- **{{word1}}**（知）\n- **{{word2}}**（这）\n- **{{word3}}**（中）"
+        }
+      },
+      "placeholders": [{
+        "word1": "知",
+        "word2": "这",
+        "word3": "中"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tongue Position (舌头位置)",
+          "vi": "Vị trí lưỡi (舌头位置)",
+          "zh": "舌头位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The correct tongue position is **crucial** for pronouncing **zh** correctly:\n\n**Step-by-step guide:**\n1. **Curl your tongue back** - the tip should point upward and backward\n2. Touch the **hard palate** (the roof of your mouth, behind the alveolar ridge)\n3. The tongue should be **curved**, not flat\n4. Build up slight pressure by pushing the curled tongue against the hard palate\n5. Release the pressure quickly to create the affricate sound\n6. **Do NOT** vibrate your vocal cords (this is voiceless)\n\n**Visual reference:**\n- Think of it as saying \"j\" in \"judge\" but with your tongue curled back\n- The tongue tip should be pointing up and back, not forward\n- The sound should be sharp and crisp, not buzzy\n\n**Practice words:**\n- **{{word1}}** (zhīdào - to know)\n- **{{word2}}** (zhèlǐ - here)\n- **{{word3}}** (zhōngwén - Chinese language)",
+          "vi": "Vị trí lưỡi đúng là **rất quan trọng** để phát âm **zh** chính xác:\n\n**Hướng dẫn từng bước:**\n1. **Cuộn lưỡi lại** - đầu lưỡi nên chỉ lên và ra sau\n2. Chạm vào **vòm cứng** (vòm miệng, phía sau gờ chân răng)\n3. Lưỡi nên **cong**, không phẳng\n4. Tạo áp lực nhẹ bằng cách đẩy lưỡi cuộn vào vòm cứng\n5. Giải phóng áp lực nhanh chóng để tạo ra âm tắc xát\n6. **KHÔNG** rung dây thanh (đây là âm vô thanh)\n\n**Tham khảo trực quan:**\n- Nghĩ về nó như nói \"j\" trong \"judge\" nhưng với lưỡi cuộn lại\n- Đầu lưỡi nên chỉ lên và ra sau, không phải ra trước\n- Âm thanh nên sắc và rõ ràng, không rung\n\n**Từ luyện tập:**\n- **{{word1}}** (zhīdào - biết)\n- **{{word2}}** (zhèlǐ - ở đây)\n- **{{word3}}** (zhōngwén - tiếng Trung)",
+          "zh": "正确的舌头位置对于正确发音**zh**至关重要：\n\n**分步指南：**\n1. **卷起舌头** - 舌尖应该向上和向后指\n2. 接触**硬腭**（口腔顶部，齿龈脊后面）\n3. 舌头应该**弯曲**，不要平\n4. 通过将卷起的舌头推向硬腭来建立轻微压力\n5. 快速释放压力以产生塞擦音\n6. **不要**振动声带（这是清音）\n\n**视觉参考：**\n- 想象说\"judge\"中的\"j\"但舌头卷起\n- 舌尖应该向上和向后指，不要向前\n- 声音应该尖锐清晰，不要嗡嗡作响\n\n**练习词：**\n- **{{word1}}**（知道）\n- **{{word2}}**（这里）\n- **{{word3}}**（中文）"
+        }
+      },
+      "placeholders": [{
+        "word1": "知道",
+        "word2": "这里",
+        "word3": "中文"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Retroflex vs Alveolar (卷舌音 vs 齿龈音)",
+          "vi": "Quặt lưỡi vs Chân răng (卷舌音 vs 齿龈音)",
+          "zh": "卷舌音 vs 齿龈音"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding the difference between **retroflex** and **alveolar** sounds is crucial for mastering **zh**:\n\n**Retroflex (卷舌音) - Chinese ZH:**\n- Tongue **curls back** and touches the **hard palate**\n- Tongue tip points **upward and backward**\n- Creates a more \"hollow\" or \"rounded\" sound\n- Similar to \"r\" in American English \"red\" but as an affricate\n\n**Alveolar (齿龈音) - Chinese Z:**\n- Tongue tip touches the **back of upper front teeth** (alveolar ridge)\n- Tongue tip points **forward**\n- Creates a sharper, more direct sound\n- Similar to \"ds\" in \"beds\" but without voicing\n\n**Key difference:** ZH requires tongue curling (retroflex), Z requires tongue forward (alveolar)\n\n**Test yourself:**\n1. Say **{{word1}}** (zhī - to know) - feel tongue curl back\n2. Now say **{{word2}}** (zì - character) - feel tongue touch teeth\n3. Notice the different tongue positions\n\n**Practice:**\n- **{{word3}}** (zhè - this) - tongue curls back\n- **{{word4}}** (zǎo - early) - tongue touches teeth",
+          "vi": "Hiểu sự khác biệt giữa âm **quặt lưỡi** và **chân răng** là rất quan trọng để thành thạo **zh**:\n\n**Quặt lưỡi (卷舌音) - ZH tiếng Trung:**\n- Lưỡi **cuộn lại** và chạm vào **vòm cứng**\n- Đầu lưỡi chỉ **lên và ra sau**\n- Tạo ra âm thanh \"rỗng\" hoặc \"tròn\" hơn\n- Giống \"r\" trong tiếng Anh Mỹ \"red\" nhưng là âm tắc xát\n\n**Chân răng (齿龈音) - Z tiếng Trung:**\n- Đầu lưỡi chạm vào **sau răng cửa trên** (gờ chân răng)\n- Đầu lưỡi chỉ **ra trước**\n- Tạo ra âm thanh sắc và trực tiếp hơn\n- Giống \"ds\" trong \"beds\" nhưng không có thanh\n\n**Khác biệt chính:** ZH yêu cầu lưỡi cuộn (quặt lưỡi), Z yêu cầu lưỡi ra trước (chân răng)\n\n**Tự kiểm tra:**\n1. Nói **{{word1}}** (zhī - biết) - cảm nhận lưỡi cuộn lại\n2. Bây giờ nói **{{word2}}** (zì - chữ) - cảm nhận lưỡi chạm răng\n3. Chú ý các vị trí lưỡi khác nhau\n\n**Luyện tập:**\n- **{{word3}}** (zhè - này) - lưỡi cuộn lại\n- **{{word4}}** (zǎo - sớm) - lưỡi chạm răng",
+          "zh": "理解**卷舌音**和**齿龈音**之间的区别对于掌握**zh**至关重要：\n\n**卷舌音 - 中文ZH：**\n- 舌头**卷起**并接触**硬腭**\n- 舌尖**向上和向后**指\n- 产生更\"空\"或\"圆\"的声音\n- 类似于美式英语\"red\"中的\"r\"但是塞擦音\n\n**齿龈音 - 中文Z：**\n- 舌尖接触**上齿背**（齿龈脊）\n- 舌尖**向前**指\n- 产生更尖锐、更直接的声音\n- 类似于\"beds\"中的\"ds\"但没有浊音\n\n**主要区别：**ZH需要舌头卷起（卷舌），Z需要舌头向前（齿龈）\n\n**自我测试：**\n1. 说**{{word1}}**（知） - 感受舌头卷起\n2. 现在说**{{word2}}**（字） - 感受舌头接触牙齿\n3. 注意不同的舌头位置\n\n**练习：**\n- **{{word3}}**（这） - 舌头卷起\n- **{{word4}}**（早） - 舌头接触牙齿"
+        }
+      },
+      "placeholders": [{
+        "word1": "知",
+        "word2": "字",
+        "word3": "这",
+        "word4": "早"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes (常见错误)",
+          "vi": "Lỗi thường gặp (常见错误)",
+          "zh": "常见错误"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are the most common mistakes when pronouncing Chinese **zh**:\n\n**Mistake 1: Using English \"j\" sound**\n- ❌ Pronouncing it like \"judge\" (voiced, buzzy)\n- ✅ Should be voiceless and sharp\n- **Fix:** Remove the vibration from your throat\n\n**Mistake 2: Confusing with \"z\" (alveolar)**\n- ❌ Using alveolar position (tongue touches teeth)\n- ✅ Should use retroflex position (tongue curls back)\n- **Fix:** Practice curling your tongue back to touch the hard palate\n\n**Mistake 3: Not curling tongue enough**\n- ❌ Tongue is flat or only slightly curved\n- ✅ Tongue must curl back significantly\n- **Fix:** Exaggerate the tongue curl at first, then refine\n\n**Mistake 4: Adding aspiration**\n- ❌ Blowing air out strongly\n- ✅ Should be unaspirated (no strong puff of air)\n- **Fix:** Release the tongue pressure gently, not forcefully\n\n**Mistake 5: Wrong contact point**\n- ❌ Touching alveolar ridge (like \"z\")\n- ✅ Should touch hard palate (further back)\n- **Fix:** Move tongue contact point further back in the mouth\n\n**Practice words to avoid mistakes:**\n- **{{word1}}** (zhī - to know) - NOT like English \"j\"\n- **{{word2}}** (zhè - this) - NOT like \"z\"\n- **{{word3}}** (zhōng - middle) - tongue must curl",
+          "vi": "Dưới đây là những lỗi phổ biến nhất khi phát âm **zh** tiếng Trung:\n\n**Lỗi 1: Dùng âm \"j\" tiếng Anh**\n- ❌ Phát âm giống \"judge\" (hữu thanh, rung)\n- ✅ Nên là vô thanh và sắc\n- **Sửa:** Loại bỏ rung động khỏi cổ họng\n\n**Lỗi 2: Nhầm lẫn với \"z\" (chân răng)**\n- ❌ Dùng vị trí chân răng (lưỡi chạm răng)\n- ✅ Nên dùng vị trí quặt lưỡi (lưỡi cuộn lại)\n- **Sửa:** Luyện tập cuộn lưỡi lại để chạm vào vòm cứng\n\n**Lỗi 3: Không cuộn lưỡi đủ**\n- ❌ Lưỡi phẳng hoặc chỉ hơi cong\n- ✅ Lưỡi phải cuộn lại đáng kể\n- **Sửa:** Phóng đại việc cuộn lưỡi lúc đầu, sau đó tinh chỉnh\n\n**Lỗi 4: Thêm bật hơi**\n- ❌ Thổi mạnh không khí ra\n- ✅ Nên không bật hơi (không có luồng khí mạnh)\n- **Sửa:** Giải phóng áp lực lưỡi nhẹ nhàng, không mạnh mẽ\n\n**Lỗi 5: Điểm tiếp xúc sai**\n- ❌ Chạm vào gờ chân răng (như \"z\")\n- ✅ Nên chạm vào vòm cứng (xa hơn về phía sau)\n- **Sửa:** Di chuyển điểm tiếp xúc lưỡi xa hơn về phía sau trong miệng\n\n**Từ luyện tập để tránh lỗi:**\n- **{{word1}}** (zhī - biết) - KHÔNG giống \"j\" tiếng Anh\n- **{{word2}}** (zhè - này) - KHÔNG giống \"z\"\n- **{{word3}}** (zhōng - giữa) - lưỡi phải cuộn",
+          "zh": "以下是发音中文**zh**时最常见的错误：\n\n**错误1：使用英语\"j\"音**\n- ❌ 发成像\"judge\"（浊音，嗡嗡声）\n- ✅ 应该是清音且尖锐\n- **修正：**从喉咙中去除振动\n\n**错误2：与\"z\"（齿龈音）混淆**\n- ❌ 使用齿龈位置（舌头接触牙齿）\n- ✅ 应该使用卷舌位置（舌头卷起）\n- **修正：**练习卷起舌头接触硬腭\n\n**错误3：舌头卷得不够**\n- ❌ 舌头是平的或只是稍微弯曲\n- ✅ 舌头必须明显卷起\n- **修正：**首先夸张地卷起舌头，然后精炼\n\n**错误4：添加送气**\n- ❌ 强烈吹气\n- ✅ 应该是不送气的（没有强烈的气流）\n- **修正：**轻轻释放舌头压力，不要用力\n\n**错误5：接触点错误**\n- ❌ 接触齿龈脊（像\"z\"）\n- ✅ 应该接触硬腭（更靠后）\n- **修正：**将舌头接触点移向口腔更靠后的位置\n\n**避免错误的练习词：**\n- **{{word1}}**（知） - 不像英语\"j\"\n- **{{word2}}**（这） - 不像\"z\"\n- **{{word3}}**（中） - 舌头必须卷起"
+        }
+      },
+      "placeholders": [{
+        "word1": "知",
+        "word2": "这",
+        "word3": "中"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Practice Exercises (练习)",
+          "vi": "Bài tập luyện tập (练习)",
+          "zh": "练习"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are effective practice exercises to master the **zh** sound:\n\n**Exercise 1: Minimal pairs**\nPractice distinguishing **zh** from similar sounds:\n- **{{pair1}}** (zhī - to know) vs **{{pair2}}** (zī - squeak)\n- **{{pair3}}** (zhè - this) vs **{{pair4}}** (zè - narrow)\n- **{{pair5}}** (zhōng - middle) vs **{{pair6}}** (zōng - ancestor)\n\n**Exercise 2: Tongue curling drill**\n1. Curl tongue back (tip points up and back)\n2. Touch hard palate with curled tongue\n3. Build pressure (don't release yet)\n4. Release quickly: \"zh\" sound\n5. Repeat 10 times: zh-zh-zh-zh\n6. Now add vowel: zha-zhe-zhi-zhu-zho\n\n**Exercise 3: Word practice**\nPractice these common words:\n- **{{word1}}** (zhīdào - to know)\n- **{{word2}}** (zhèlǐ - here)\n- **{{word3}}** (zhōngwén - Chinese)\n- **{{word4}}** (zhèngzài - currently)\n- **{{word5}}** (zhùyì - to pay attention)\n\n**Exercise 4: Sentence practice**\n- 我**{{word1}}**。 (I know.)\n- **{{word2}}**是**{{word3}}**。 (This is Chinese.)",
+          "vi": "Dưới đây là các bài tập luyện tập hiệu quả để thành thạo âm **zh**:\n\n**Bài tập 1: Cặp tối thiểu**\nLuyện tập phân biệt **zh** với các âm tương tự:\n- **{{pair1}}** (zhī - biết) vs **{{pair2}}** (zī - kêu)\n- **{{pair3}}** (zhè - này) vs **{{pair4}}** (zè - hẹp)\n- **{{pair5}}** (zhōng - giữa) vs **{{pair6}}** (zōng - tổ tiên)\n\n**Bài tập 2: Luyện cuộn lưỡi**\n1. Cuộn lưỡi lại (đầu lưỡi chỉ lên và ra sau)\n2. Chạm vào vòm cứng bằng lưỡi cuộn\n3. Tạo áp lực (chưa giải phóng)\n4. Giải phóng nhanh: âm \"zh\"\n5. Lặp lại 10 lần: zh-zh-zh-zh\n6. Bây giờ thêm nguyên âm: zha-zhe-zhi-zhu-zho\n\n**Bài tập 3: Luyện từ**\nLuyện tập các từ phổ biến:\n- **{{word1}}** (zhīdào - biết)\n- **{{word2}}** (zhèlǐ - ở đây)\n- **{{word3}}** (zhōngwén - tiếng Trung)\n- **{{word4}}** (zhèngzài - hiện tại)\n- **{{word5}}** (zhùyì - chú ý)\n\n**Bài tập 4: Luyện câu**\n- 我**{{word1}}**。 (Tôi biết.)\n- **{{word2}}**是**{{word3}}**。 (Đây là tiếng Trung.)",
+          "zh": "以下是一些有效的练习来掌握**zh**音：\n\n**练习1：最小对立体**\n练习区分**zh**和相似音：\n- **{{pair1}}**（知） vs **{{pair2}}**（吱）\n- **{{pair3}}**（这） vs **{{pair4}}**（仄）\n- **{{pair5}}**（中） vs **{{pair6}}**（宗）\n\n**练习2：卷舌训练**\n1. 卷起舌头（舌尖向上和向后指）\n2. 用卷起的舌头接触硬腭\n3. 建立压力（尚未释放）\n4. 快速释放：\"zh\"音\n5. 重复10次：zh-zh-zh-zh\n6. 现在添加元音：zha-zhe-zhi-zhu-zho\n\n**练习3：单词练习**\n练习这些常用词：\n- **{{word1}}**（知道）\n- **{{word2}}**（这里）\n- **{{word3}}**（中文）\n- **{{word4}}**（正在）\n- **{{word5}}**（注意）\n\n**练习4：句子练习**\n- 我**{{word1}}**。\n- **{{word2}}**是**{{word3}}**。"
+        }
+      },
+      "placeholders": [{
+        "pair1": "知",
+        "pair2": "吱",
+        "pair3": "这",
+        "pair4": "仄",
+        "pair5": "中",
+        "pair6": "宗",
+        "word1": "知道",
+        "word2": "这里",
+        "word3": "中文",
+        "word4": "正在",
+        "word5": "注意"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Comparison with Similar Sounds (与相似音的比较)",
+          "vi": "So sánh với các âm tương tự (与相似音的比较)",
+          "zh": "与相似音的比较"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding how **zh** differs from similar sounds helps avoid confusion:\n\n**ZH vs Z (zh vs z):**\n- **ZH** ({{word1}} - zhī): Tongue curls back, touches hard palate (retroflex)\n- **Z** ({{word2}} - zī): Tongue touches teeth, alveolar ridge (alveolar)\n- **Key difference:** ZH is retroflex (tongue curls), Z is alveolar (tongue forward)\n\n**ZH vs CH (zh vs ch):**\n- **ZH** ({{word3}} - zhè): Unaspirated (no strong puff of air)\n- **CH** ({{word4}} - chè): Aspirated (strong puff of air)\n- **Key difference:** CH has aspiration (blow air), ZH does not\n\n**ZH vs J (zh vs j):**\n- **ZH** ({{word5}} - zhōng): Retroflex (tongue curls back)\n- **J** ({{word6}} - jiāng): Alveolar-palatal (tongue touches hard palate but flatter)\n- **Key difference:** ZH is retroflex, J is palatal (different tongue shape)\n\n**Practice distinguishing:**\n- **{{word1}}** (zhī) vs **{{word2}}** (zī) vs **{{word4}}** (chè) vs **{{word6}}** (jiāng)",
+          "vi": "Hiểu cách **zh** khác với các âm tương tự giúp tránh nhầm lẫn:\n\n**ZH vs Z (zh vs z):**\n- **ZH** ({{word1}} - zhī): Lưỡi cuộn lại, chạm vào vòm cứng (quặt lưỡi)\n- **Z** ({{word2}} - zī): Lưỡi chạm vào răng, gờ chân răng (chân răng)\n- **Khác biệt chính:** ZH là quặt lưỡi (lưỡi cuộn), Z là chân răng (lưỡi ra trước)\n\n**ZH vs CH (zh vs ch):**\n- **ZH** ({{word3}} - zhè): Không bật hơi (không có luồng khí mạnh)\n- **CH** ({{word4}} - chè): Bật hơi (luồng khí mạnh)\n- **Khác biệt chính:** CH có bật hơi (thổi khí), ZH không có\n\n**ZH vs J (zh vs j):**\n- **ZH** ({{word5}} - zhōng): Quặt lưỡi (lưỡi cuộn lại)\n- **J** ({{word6}} - jiāng): Chân răng-vòm (lưỡi chạm vào vòm cứng nhưng phẳng hơn)\n- **Khác biệt chính:** ZH là quặt lưỡi, J là vòm (hình dạng lưỡi khác nhau)\n\n**Luyện tập phân biệt:**\n- **{{word1}}** (zhī) vs **{{word2}}** (zī) vs **{{word4}}** (chè) vs **{{word6}}** (jiāng)",
+          "zh": "理解**zh**与相似音的区别有助于避免混淆：\n\n**ZH vs Z (zh vs z)：**\n- **ZH**（{{word1}} - 知）：舌头卷起，接触硬腭（卷舌）\n- **Z**（{{word2}} - 吱）：舌头接触牙齿，齿龈脊（齿龈）\n- **主要区别：**ZH是卷舌（舌头卷起），Z是齿龈（舌头向前）\n\n**ZH vs CH (zh vs ch)：**\n- **ZH**（{{word3}} - 这）：不送气（没有强烈的气流）\n- **CH**（{{word4}} - 撤）：送气（强烈的气流）\n- **主要区别：**CH有送气（吹气），ZH没有\n\n**ZH vs J (zh vs j)：**\n- **ZH**（{{word5}} - 中）：卷舌（舌头卷起）\n- **J**（{{word6}} - 将）：齿龈-腭（舌头接触硬腭但更平）\n- **主要区别：**ZH是卷舌，J是腭音（不同的舌头形状）\n\n**练习区分：**\n- **{{word1}}**（知） vs **{{word2}}**（吱） vs **{{word4}}**（撤） vs **{{word6}}**（将）"
+        }
+      },
+      "placeholders": [{
+        "word1": "知",
+        "word2": "吱",
+        "word3": "这",
+        "word4": "撤",
+        "word5": "中",
+        "word6": "将"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tips for Mastery (掌握技巧)",
+          "vi": "Mẹo để thành thạo (掌握技巧)",
+          "zh": "掌握技巧"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are expert tips to master the **zh** sound:\n\n**Tip 1: Practice tongue curling**\n- Start by curling your tongue back as far as comfortable\n- Touch the hard palate with the underside of your tongue tip\n- Practice this position without making sound first\n- Use a mirror to see your tongue position\n\n**Tip 2: Compare with \"z\"**\n- Say **{{word1}}** (zì - character) - tongue touches teeth\n- Now say **{{word2}}** (zhī - to know) - tongue curls back\n- Feel the difference in tongue position\n- This contrast helps train your muscles\n\n**Tip 3: Record yourself**\n- Record your pronunciation and compare with native speakers\n- Listen for the retroflex quality (hollow, rounded sound)\n- Adjust based on what you hear\n\n**Tip 4: Practice daily**\n- Spend 5-10 minutes daily on **zh** sound practice\n- Consistency is more important than long sessions\n- Use words like **{{word3}}** (zhīdào), **{{word4}}** (zhèlǐ), **{{word5}}** (zhōngwén)\n\n**Tip 5: Start slow, then speed up**\n- Begin with slow, exaggerated tongue curling\n- Gradually increase speed while maintaining retroflex position\n- Practice with **{{word6}}** (zhèngzài), **{{word7}}** (zhùyì), **{{word8}}** (zhōngguó)\n\n**Remember:** The retroflex position feels unnatural at first, but with practice it becomes natural!",
+          "vi": "Dưới đây là các mẹo chuyên gia để thành thạo âm **zh**:\n\n**Mẹo 1: Luyện cuộn lưỡi**\n- Bắt đầu bằng cách cuộn lưỡi lại xa nhất có thể thoải mái\n- Chạm vào vòm cứng bằng mặt dưới của đầu lưỡi\n- Luyện tập vị trí này mà không tạo ra âm thanh trước\n- Sử dụng gương để xem vị trí lưỡi của bạn\n\n**Mẹo 2: So sánh với \"z\"**\n- Nói **{{word1}}** (zì - chữ) - lưỡi chạm răng\n- Bây giờ nói **{{word2}}** (zhī - biết) - lưỡi cuộn lại\n- Cảm nhận sự khác biệt trong vị trí lưỡi\n- Sự tương phản này giúp rèn luyện cơ bắp của bạn\n\n**Mẹo 3: Ghi âm bản thân**\n- Ghi âm phát âm của bạn và so sánh với người bản ngữ\n- Lắng nghe chất lượng quặt lưỡi (âm thanh rỗng, tròn)\n- Điều chỉnh dựa trên những gì bạn nghe\n\n**Mẹo 4: Luyện tập hàng ngày**\n- Dành 5-10 phút mỗi ngày để luyện âm **zh**\n- Sự nhất quán quan trọng hơn các buổi dài\n- Sử dụng các từ như **{{word3}}** (zhīdào), **{{word4}}** (zhèlǐ), **{{word5}}** (zhōngwén)\n\n**Mẹo 5: Bắt đầu chậm, sau đó tăng tốc**\n- Bắt đầu với việc cuộn lưỡi chậm, phóng đại\n- Dần dần tăng tốc độ trong khi duy trì vị trí quặt lưỡi\n- Luyện tập với **{{word6}}** (zhèngzài), **{{word7}}** (zhùyì), **{{word8}}** (zhōngguó)\n\n**Nhớ:** Vị trí quặt lưỡi cảm thấy không tự nhiên lúc đầu, nhưng với luyện tập nó trở nên tự nhiên!",
+          "zh": "以下是一些掌握**zh**音的专家技巧：\n\n**技巧1：练习卷舌**\n- 首先尽可能舒适地卷起舌头\n- 用舌尖下侧接触硬腭\n- 先练习这个位置而不发出声音\n- 使用镜子观察你的舌头位置\n\n**技巧2：与\"z\"比较**\n- 说**{{word1}}**（字） - 舌头接触牙齿\n- 现在说**{{word2}}**（知） - 舌头卷起\n- 感受舌头位置的不同\n- 这种对比有助于训练你的肌肉\n\n**技巧3：录音**\n- 录制你的发音并与母语者比较\n- 倾听卷舌特性（空、圆的声音）\n- 根据听到的内容进行调整\n\n**技巧4：每天练习**\n- 每天花5-10分钟练习**zh**音\n- 一致性比长时间练习更重要\n- 使用像**{{word3}}**（知道）、**{{word4}}**（这里）、**{{word5}}**（中文）这样的词\n\n**技巧5：从慢开始，然后加速**\n- 从缓慢、夸张的卷舌开始\n- 在保持卷舌位置的同时逐渐提高速度\n- 用**{{word6}}**（正在）、**{{word7}}**（注意）、**{{word8}}**（中国）练习\n\n**记住：**卷舌位置起初感觉不自然，但通过练习会变得自然！"
+        }
+      },
+      "placeholders": [{
+        "word1": "字",
+        "word2": "知",
+        "word3": "知道",
+        "word4": "这里",
+        "word5": "中文",
+        "word6": "正在",
+        "word7": "注意",
+        "word8": "中国"
+      }]
+    }
+  ]
+}
+
