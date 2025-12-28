@@ -1,0 +1,965 @@
+[{
+  "sentence": "货币的价值会随着经济情况而变化。",
+  "tags": ["economy"],
+  "pinyin1": "huò bì de jià zhí huì suí zhe jīng jì qíng kuàng ér biàn huà",
+  "pinyin2": "huo4 bi4 de jia4 zhi2 hui4 sui2 zhe jing1 ji4 qing2 kuang4 er2 bian4 hua4",
+  "translation": {
+    "en": "The value of currency changes with economic conditions.",
+    "vi": "Giá trị của tiền tệ thay đổi theo tình hình kinh tế."
+  }
+}, {
+  "sentence": "这个月的支出超出了预算。",
+  "tags": ["economy"],
+  "pinyin1": "zhè gè yuè de zhī chū chāo chū le yù suàn",
+  "pinyin2": "zhe4 ge4 yue4 de zhi1 chu1 chao1 chu1 le yu4 suan4",
+  "translation": {
+    "en": "This month's expenses exceeded the budget.",
+    "vi": "Chi tiêu tháng này vượt quá ngân sách."
+  }
+}, {
+  "sentence": "我想购买一套新房子。",
+  "tags": ["economy"],
+  "pinyin1": "wǒ xiǎng gòu mǎi yī tào xīn fáng zi",
+  "pinyin2": "wo3 xiang3 gou4 mai3 yi1 tao4 xin1 fang2 zi",
+  "translation": {
+    "en": "I want to buy a new house.",
+    "vi": "Tôi muốn mua một căn nhà mới."
+  }
+}, {
+  "sentence": "税收是国家财政收入的主要来源。",
+  "tags": ["economy"],
+  "pinyin1": "shuì shōu shì guó jiā cái zhèng shōu rù de zhǔ yào lái yuán",
+  "pinyin2": "shui4 shou1 shi4 guo2 jia1 cai2 zheng4 shou1 ru4 de zhu3 yao4 lai2 yuan2",
+  "translation": {
+    "en": "Taxes are the main source of national fiscal revenue.",
+    "vi": "Thuế là nguồn thu chính của ngân sách nhà nước."
+  }
+}, {
+  "sentence": "我们需要制定一个合理的预算。",
+  "tags": ["economy"],
+  "pinyin1": "wǒ men xū yào zhì dìng yī gè hé lǐ de yù suàn",
+  "pinyin2": "wo3 men xu1 yao4 zhi4 ding4 yi1 ge4 he2 li3 de yu4 suan4",
+  "translation": {
+    "en": "We need to make a reasonable budget.",
+    "vi": "Chúng ta cần lập một ngân sách hợp lý."
+  }
+}, {
+  "sentence": "公司的资产总额达到了一百亿元。",
+  "tags": ["economy"],
+  "pinyin1": "gōng sī de zī chǎn zǒng é dá dào le yī bǎi yì yuán",
+  "pinyin2": "gong1 si1 de zi1 chan3 zong3 e2 da2 dao4 le yi1 bai3 yi4 yuan2",
+  "translation": {
+    "en": "The company's total assets reached 10 billion yuan.",
+    "vi": "Tổng tài sản của công ty đạt một trăm tỷ nhân dân tệ."
+  }
+}, {
+  "sentence": "这家企业的负债率很高。",
+  "tags": ["economy"],
+  "pinyin1": "zhè jiā qǐ yè de fù zhài lǜ hěn gāo",
+  "pinyin2": "zhe4 jia1 qi3 ye4 de fu4 zhai4 lv4 hen3 gao1",
+  "translation": {
+    "en": "This enterprise has a very high debt ratio.",
+    "vi": "Tỷ lệ nợ của doanh nghiệp này rất cao."
+  }
+}, {
+  "sentence": "资本投入是公司发展的基础。",
+  "tags": ["economy"],
+  "pinyin1": "zī běn tóu rù shì gōng sī fā zhǎn de jī chǔ",
+  "pinyin2": "zi1 ben3 tou2 ru4 shi4 gong1 si1 fa1 zhan3 de ji1 chu3",
+  "translation": {
+    "en": "Capital investment is the foundation of company development.",
+    "vi": "Đầu tư vốn là nền tảng cho sự phát triển của công ty."
+  }
+}, {
+  "sentence": "金融市场的波动影响全球经济发展。",
+  "tags": ["economy"],
+  "pinyin1": "jīn róng shì chǎng de bō dòng yǐng xiǎng quán qiú jīng jì fā zhǎn",
+  "pinyin2": "jin1 rong2 shi4 chang3 de bo1 dong4 ying3 xiang3 quan2 qiu2 jing1 ji4 fa1 zhan3",
+  "translation": {
+    "en": "Financial market volatility affects global economic development.",
+    "vi": "Biến động thị trường tài chính ảnh hưởng đến phát triển kinh tế toàn cầu."
+  }
+}, {
+  "sentence": "通货膨胀导致购买力下降。",
+  "tags": ["economy"],
+  "pinyin1": "tōng huò péng zhàng dǎo zhì gòu mǎi lì xià jiàng",
+  "pinyin2": "tong1 huo4 peng2 zhang4 dao3 zhi4 gou4 mai3 li4 xia4 jiang4",
+  "translation": {
+    "en": "Inflation leads to a decline in purchasing power.",
+    "vi": "Lạm phát khiến sức mua giảm xuống."
+  }
+}, {
+  "sentence": "政府采取措施促进就业。",
+  "tags": ["economy"],
+  "pinyin1": "zhèng fǔ cǎi qǔ cuò shī cù jìn jiù yè",
+  "pinyin2": "zheng4 fu3 cai3 qu3 cuo4 shi1 cu4 jin4 jiu4 ye4",
+  "translation": {
+    "en": "The government takes measures to promote employment.",
+    "vi": "Chính phủ thực hiện các biện pháp để thúc đẩy việc làm."
+  }
+}, {
+  "sentence": "这家公司试图垄断整个行业。",
+  "tags": ["economy"],
+  "pinyin1": "zhè jiā gōng sī shì tú lǒng duàn zhěng gè háng yè",
+  "pinyin2": "zhe4 jia1 gong1 si1 shi4 tu2 long3 duan4 zheng3 ge4 hang2 ye4",
+  "translation": {
+    "en": "This company is trying to monopolize the entire industry.",
+    "vi": "Công ty này đang cố gắng độc quyền toàn bộ ngành."
+  }
+}, {
+  "sentence": "供应商需要按时交货。",
+  "tags": ["economy"],
+  "pinyin1": "gōng yìng shāng xū yào àn shí jiāo huò",
+  "pinyin2": "gong1 ying4 shang1 xu1 yao4 an4 shi2 jiao1 huo4",
+  "translation": {
+    "en": "Suppliers need to deliver goods on time.",
+    "vi": "Nhà cung cấp cần giao hàng đúng hạn."
+  }
+}, {
+  "sentence": "消费者有权选择商品。",
+  "tags": ["economy"],
+  "pinyin1": "xiāo fèi zhě yǒu quán xuǎn zé shāng pǐn",
+  "pinyin2": "xiao1 fei4 zhe3 you3 quan2 xuan3 ze2 shang1 pin3",
+  "translation": {
+    "en": "Consumers have the right to choose products.",
+    "vi": "Người tiêu dùng có quyền lựa chọn hàng hóa."
+  }
+}, {
+  "sentence": "投资者需要谨慎分析市场。",
+  "tags": ["economy"],
+  "pinyin1": "tóu zī zhě xū yào jǐn shèn fēn xī shì chǎng",
+  "pinyin2": "tou2 zi1 zhe3 xu1 yao4 jin3 shen4 fen1 xi1 shi4 chang3",
+  "translation": {
+    "en": "Investors need to carefully analyze the market.",
+    "vi": "Nhà đầu tư cần phân tích thị trường một cách thận trọng."
+  }
+}, {
+  "sentence": "股东们参加了年度股东大会。",
+  "tags": ["economy"],
+  "pinyin1": "gǔ dōng men cān jiā le nián dù gǔ dōng dà huì",
+  "pinyin2": "gu3 dong1 men can1 jia1 le nian2 du4 gu3 dong1 da4 hui4",
+  "translation": {
+    "en": "Shareholders attended the annual shareholders' meeting.",
+    "vi": "Các cổ đông đã tham dự đại hội cổ đông hàng năm."
+  }
+}, {
+  "sentence": "董事会正在讨论公司的发展战略。",
+  "tags": ["economy"],
+  "pinyin1": "dǒng shì huì zhèng zài tǎo lùn gōng sī de fā zhǎn zhàn lüè",
+  "pinyin2": "dong3 shi4 hui4 zheng4 zai4 tao3 lun4 gong1 si1 de fa1 zhan3 zhan4 lv4",
+  "translation": {
+    "en": "The board of directors is discussing the company's development strategy.",
+    "vi": "Hội đồng quản trị đang thảo luận chiến lược phát triển của công ty."
+  }
+}, {
+  "sentence": "员工福利包括医疗保险和带薪假期。",
+  "tags": ["economy"],
+  "pinyin1": "yuán gōng fú lì bāo kuò yī liáo bǎo xiǎn hé dài xīn jià qī",
+  "pinyin2": "yuan2 gong1 fu2 li4 bao1 kuo4 yi1 liao2 bao3 xian3 he2 dai4 xin1 jia4 qi1",
+  "translation": {
+    "en": "Employee benefits include medical insurance and paid leave.",
+    "vi": "Phúc lợi nhân viên bao gồm bảo hiểm y tế và nghỉ phép có lương."
+  }
+}, {
+  "sentence": "养老金是退休后的重要收入来源。",
+  "tags": ["economy"],
+  "pinyin1": "yǎng lǎo jīn shì tuì xiū hòu de zhòng yào shōu rù lái yuán",
+  "pinyin2": "yang3 lao3 jin1 shi4 tui4 xiu1 hou4 de zhong4 yao4 shou1 ru4 lai2 yuan2",
+  "translation": {
+    "en": "Pension is an important source of income after retirement.",
+    "vi": "Lương hưu là nguồn thu nhập quan trọng sau khi nghỉ hưu."
+  }
+}, {
+  "sentence": "他要去银行取款。",
+  "tags": ["economy"],
+  "pinyin1": "tā yào qù yín háng qǔ kuǎn",
+  "pinyin2": "ta1 yao4 qu4 yin2 hang2 qu3 kuan3",
+  "translation": {
+    "en": "He needs to go to the bank to withdraw money.",
+    "vi": "Anh ấy cần đến ngân hàng để rút tiền."
+  }
+}, {
+  "sentence": "我通过手机银行转账给朋友。",
+  "tags": ["economy"],
+  "pinyin1": "wǒ tōng guò shǒu jī yín háng zhuǎn zhàng gěi péng you",
+  "pinyin2": "wo3 tong1 guo4 shou3 ji1 yin2 hang2 zhuan3 zhang4 gei3 peng2 you",
+  "translation": {
+    "en": "I transfer money to my friend through mobile banking.",
+    "vi": "Tôi chuyển khoản cho bạn qua ngân hàng điện thoại."
+  }
+}, {
+  "sentence": "借记卡可以直接从账户扣款。",
+  "tags": ["economy"],
+  "pinyin1": "jiè jì kǎ kě yǐ zhí jiē cóng zhàng hù kòu kuǎn",
+  "pinyin2": "jie4 ji4 ka3 ke3 yi3 zhi2 jie1 cong2 zhang4 hu4 kou4 kuan3",
+  "translation": {
+    "en": "Debit cards can directly deduct from the account.",
+    "vi": "Thẻ ghi nợ có thể trực tiếp trừ tiền từ tài khoản."
+  }
+}, {
+  "sentence": "现在可以用手机支付了。",
+  "tags": ["economy"],
+  "pinyin1": "xiàn zài kě yǐ yòng shǒu jī zhī fù le",
+  "pinyin2": "xian4 zai4 ke3 yi3 yong4 shou3 ji1 zhi1 fu4 le",
+  "translation": {
+    "en": "Now you can pay with your mobile phone.",
+    "vi": "Bây giờ có thể thanh toán bằng điện thoại."
+  }
+}, {
+  "sentence": "商家已经收到收款通知。",
+  "tags": ["economy"],
+  "pinyin1": "shāng jiā yǐ jīng shōu dào shōu kuǎn tōng zhī",
+  "pinyin2": "shang1 jia1 yi3 jing1 shou1 dao4 shou1 kuan3 tong1 zhi1",
+  "translation": {
+    "en": "The merchant has received the payment notification.",
+    "vi": "Người bán đã nhận được thông báo thanh toán."
+  }
+}, {
+  "sentence": "这家商店正在打折促销。",
+  "tags": ["economy"],
+  "pinyin1": "zhè jiā shāng diàn zhèng zài dǎ zhé cù xiāo",
+  "pinyin2": "zhe4 jia1 shang1 dian4 zheng4 zai4 da3 zhe2 cu4 xiao1",
+  "translation": {
+    "en": "This store is having a discount promotion.",
+    "vi": "Cửa hàng này đang giảm giá khuyến mãi."
+  }
+}, {
+  "sentence": "营销策略对产品销售很重要。",
+  "tags": ["economy"],
+  "pinyin1": "yíng xiāo cè lüè duì chǎn pǐn xiāo shòu hěn zhòng yào",
+  "pinyin2": "ying2 xiao1 ce4 lv4 dui4 chan3 pin3 xiao1 shou4 hen3 zhong4 yao4",
+  "translation": {
+    "en": "Marketing strategy is very important for product sales.",
+    "vi": "Chiến lược marketing rất quan trọng đối với việc bán sản phẩm."
+  }
+}, {
+  "sentence": "这个品牌在市场上很有名。",
+  "tags": ["economy"],
+  "pinyin1": "zhè gè pǐn pái zài shì chǎng shàng hěn yǒu míng",
+  "pinyin2": "zhe4 ge4 pin3 pai2 zai4 shi4 chang3 shang4 hen3 you3 ming2",
+  "translation": {
+    "en": "This brand is very famous in the market.",
+    "vi": "Thương hiệu này rất nổi tiếng trên thị trường."
+  }
+}, {
+  "sentence": "商标需要注册才能受到法律保护。",
+  "tags": ["economy"],
+  "pinyin1": "shāng biāo xū yào zhù cè cái néng shòu dào fǎ lǜ bǎo hù",
+  "pinyin2": "shang1 biao1 xu1 yao4 zhu4 ce4 cai2 neng2 shou4 dao4 fa3 lv4 bao3 hu4",
+  "translation": {
+    "en": "Trademarks need to be registered to receive legal protection.",
+    "vi": "Nhãn hiệu cần đăng ký mới được pháp luật bảo vệ."
+  }
+}, {
+  "sentence": "版权保护创作者的权益。",
+  "tags": ["economy"],
+  "pinyin1": "bǎn quán bǎo hù chuàng zuò zhě de quán yì",
+  "pinyin2": "ban3 quan2 bao3 hu4 chuang4 zuo4 zhe3 de quan2 yi4",
+  "translation": {
+    "en": "Copyright protects the rights of creators.",
+    "vi": "Bản quyền bảo vệ quyền lợi của người sáng tạo."
+  }
+}, {
+  "sentence": "知识产权是企业的核心竞争力。",
+  "tags": ["economy"],
+  "pinyin1": "zhī shí chǎn quán shì qǐ yè de hé xīn jìng zhēng lì",
+  "pinyin2": "zhi1 shi2 chan3 quan2 shi4 qi3 ye4 de he2 xin1 jing4 zheng1 li4",
+  "translation": {
+    "en": "Intellectual property is the core competitiveness of enterprises.",
+    "vi": "Sở hữu trí tuệ là sức cạnh tranh cốt lõi của doanh nghiệp."
+  }
+}, {
+  "sentence": "公司投入大量资金进行研发。",
+  "tags": ["economy"],
+  "pinyin1": "gōng sī tóu rù dà liàng zī jīn jìn xíng yán fā",
+  "pinyin2": "gong1 si1 tou2 ru4 da4 liang4 zi1 jin1 jin4 xing2 yan2 fa1",
+  "translation": {
+    "en": "The company invests a large amount of funds in R&D.",
+    "vi": "Công ty đầu tư nhiều vốn cho nghiên cứu và phát triển."
+  }
+}, {
+  "sentence": "提高生产力是企业发展的关键。",
+  "tags": ["economy"],
+  "pinyin1": "tí gāo shēng chǎn lì shì qǐ yè fā zhǎn de guān jiàn",
+  "pinyin2": "ti2 gao1 sheng1 chan3 li4 shi4 qi3 ye4 fa1 zhan3 de guan1 jian4",
+  "translation": {
+    "en": "Improving productivity is the key to enterprise development.",
+    "vi": "Nâng cao năng suất là chìa khóa cho sự phát triển doanh nghiệp."
+  }
+}, {
+  "sentence": "现代物流系统提高了运输效率。",
+  "tags": ["economy"],
+  "pinyin1": "xiàn dài wù liú xì tǒng tí gāo le yùn shū xiào lǜ",
+  "pinyin2": "xian4 dai4 wu4 liu2 xi4 tong3 ti2 gao1 le yun4 shu1 xiao4 lv4",
+  "translation": {
+    "en": "Modern logistics systems have improved transportation efficiency.",
+    "vi": "Hệ thống logistics hiện đại đã nâng cao hiệu quả vận chuyển."
+  }
+}, {
+  "sentence": "供应链管理对降低成本很重要。",
+  "tags": ["economy"],
+  "pinyin1": "gōng yìng liàn guǎn lǐ duì jiàng dī chéng běn hěn zhòng yào",
+  "pinyin2": "gong1 ying4 lian4 guan3 li3 dui4 jiang4 di1 cheng2 ben3 hen3 zhong4 yao4",
+  "translation": {
+    "en": "Supply chain management is very important for cost reduction.",
+    "vi": "Quản lý chuỗi cung ứng rất quan trọng để giảm chi phí."
+  }
+}, {
+  "sentence": "分销渠道决定了产品的市场覆盖。",
+  "tags": ["economy"],
+  "pinyin1": "fēn xiāo qú dào jué dìng le chǎn pǐn de shì chǎng fù gài",
+  "pinyin2": "fen1 xiao1 qu2 dao4 jue2 ding4 le chan3 pin3 de shi4 chang3 fu4 gai4",
+  "translation": {
+    "en": "Distribution channels determine the market coverage of products.",
+    "vi": "Kênh phân phối quyết định phạm vi thị trường của sản phẩm."
+  }
+}, {
+  "sentence": "零售价格比批发价格高。",
+  "tags": ["economy"],
+  "pinyin1": "líng shòu jià gé bǐ pī fā jià gé gāo",
+  "pinyin2": "ling2 shou4 jia4 ge2 bi3 pi1 fa1 jia4 ge2 gao1",
+  "translation": {
+    "en": "Retail prices are higher than wholesale prices.",
+    "vi": "Giá bán lẻ cao hơn giá bán sỉ."
+  }
+}, {
+  "sentence": "代理商负责在特定区域销售产品。",
+  "tags": ["economy"],
+  "pinyin1": "dài lǐ shāng fù zé zài tè dìng qū yù xiāo shòu chǎn pǐn",
+  "pinyin2": "dai4 li3 shang1 fu4 ze2 zai4 te4 ding4 qu1 yu4 xiao1 shou4 chan3 pin3",
+  "translation": {
+    "en": "Agents are responsible for selling products in specific regions.",
+    "vi": "Đại lý chịu trách nhiệm bán sản phẩm trong khu vực cụ thể."
+  }
+}, {
+  "sentence": "经销商需要建立良好的客户关系。",
+  "tags": ["economy"],
+  "pinyin1": "jīng xiāo shāng xū yào jiàn lì liáng hǎo de kè hù guān xì",
+  "pinyin2": "jing1 xiao1 shang1 xu1 yao4 jian4 li4 liang2 hao3 de ke4 hu4 guan1 xi4",
+  "translation": {
+    "en": "Distributors need to establish good customer relationships.",
+    "vi": "Nhà phân phối cần thiết lập mối quan hệ khách hàng tốt."
+  }
+}, {
+  "sentence": "很多品牌都采用加盟模式。",
+  "tags": ["economy"],
+  "pinyin1": "hěn duō pǐn pái dōu cǎi yòng jiā méng mó shì",
+  "pinyin2": "hen3 duo1 pin3 pai2 dou1 cai3 yong4 jia1 meng2 mo2 shi4",
+  "translation": {
+    "en": "Many brands adopt the franchise model.",
+    "vi": "Nhiều thương hiệu đều áp dụng mô hình nhượng quyền."
+  }
+}, {
+  "sentence": "连锁经营可以降低运营成本。",
+  "tags": ["economy"],
+  "pinyin1": "lián suǒ jīng yíng kě yǐ jiàng dī yùn yíng chéng běn",
+  "pinyin2": "lian2 suo3 jing1 ying2 ke3 yi3 jiang4 di1 yun4 ying2 cheng2 ben3",
+  "translation": {
+    "en": "Chain operations can reduce operating costs.",
+    "vi": "Kinh doanh chuỗi có thể giảm chi phí vận hành."
+  }
+}, {
+  "sentence": "公司的营业额比去年增长了百分之二十。",
+  "tags": ["economy"],
+  "pinyin1": "gōng sī de yíng yè é bǐ qù nián zēng zhǎng le bǎi fēn zhī èr shí",
+  "pinyin2": "gong1 si1 de ying2 ye4 e2 bi3 qu4 nian2 zeng1 zhang3 le bai3 fen1 zhi1 er4 shi2",
+  "translation": {
+    "en": "The company's turnover increased by 20% compared to last year.",
+    "vi": "Doanh thu của công ty tăng 20% so với năm ngoái."
+  }
+}, {
+  "sentence": "销售额的上升表明市场需求增加。",
+  "tags": ["economy"],
+  "pinyin1": "xiāo shòu é de shàng shēng biǎo míng shì chǎng xū qiú zēng jiā",
+  "pinyin2": "xiao1 shou4 e2 de shang4 sheng1 biao3 ming2 shi4 chang3 xu1 qiu2 zeng1 jia1",
+  "translation": {
+    "en": "The rise in sales indicates increased market demand.",
+    "vi": "Doanh số bán hàng tăng cho thấy nhu cầu thị trường tăng."
+  }
+}, {
+  "sentence": "市场份额反映了企业的竞争力。",
+  "tags": ["economy"],
+  "pinyin1": "shì chǎng fèn é fǎn yìng le qǐ yè de jìng zhēng lì",
+  "pinyin2": "shi4 chang3 fen4 e2 fan3 ying4 le qi3 ye4 de jing4 zheng1 li4",
+  "translation": {
+    "en": "Market share reflects the competitiveness of enterprises.",
+    "vi": "Thị phần phản ánh sức cạnh tranh của doanh nghiệp."
+  }
+}, {
+  "sentence": "经济增长率是衡量经济发展的重要指标。",
+  "tags": ["economy"],
+  "pinyin1": "jīng jì zēng zhǎng lǜ shì héng liáng jīng jì fā zhǎn de zhòng yào zhǐ biāo",
+  "pinyin2": "jing1 ji4 zeng1 zhang3 lv4 shi4 heng2 liang2 jing1 ji4 fa1 zhan3 de zhong4 yao4 zhi3 biao1",
+  "translation": {
+    "en": "Economic growth rate is an important indicator of economic development.",
+    "vi": "Tỷ lệ tăng trưởng kinh tế là chỉ số quan trọng đánh giá phát triển kinh tế."
+  }
+}, {
+  "sentence": "投资收益率是投资者关注的重点。",
+  "tags": ["economy"],
+  "pinyin1": "tóu zī shōu yì lǜ shì tóu zī zhě guān zhù de zhòng diǎn",
+  "pinyin2": "tou2 zi1 shou1 yi4 lv4 shi4 tou2 zi1 zhe3 guan1 zhu4 de zhong4 dian3",
+  "translation": {
+    "en": "Return on investment is the focus of investors.",
+    "vi": "Tỷ suất sinh lời là điểm quan tâm của nhà đầu tư."
+  }
+}, {
+  "sentence": "银行要求提供担保才能放贷。",
+  "tags": ["economy"],
+  "pinyin1": "yín háng yāo qiú tí gōng dān bǎo cái néng fàng dài",
+  "pinyin2": "yin2 hang2 yao1 qiu2 ti2 gong1 dan1 bao3 cai2 neng2 fang4 dai4",
+  "translation": {
+    "en": "Banks require guarantees before lending.",
+    "vi": "Ngân hàng yêu cầu cung cấp bảo lãnh mới cho vay."
+  }
+}, {
+  "sentence": "他用房产作为抵押申请贷款。",
+  "tags": ["economy"],
+  "pinyin1": "tā yòng fáng chǎn zuò wéi dǐ yā shēn qǐng dài kuǎn",
+  "pinyin2": "ta1 yong4 fang2 chan3 zuo4 wei2 di3 ya1 shen1 qing3 dai4 kuan3",
+  "translation": {
+    "en": "He used his property as collateral to apply for a loan.",
+    "vi": "Anh ấy dùng bất động sản làm thế chấp để xin vay."
+  }
+}, {
+  "sentence": "他投资了一只基金。",
+  "tags": ["economy"],
+  "pinyin1": "tā tóu zī le yī zhī jī jīn",
+  "pinyin2": "ta1 tou2 zi1 le yi1 zhi1 ji1 jin1",
+  "translation": {
+    "en": "He invested in a fund.",
+    "vi": "Anh ấy đã đầu tư vào một quỹ."
+  }
+}, {
+  "sentence": "证券交易需要专业知识。",
+  "tags": ["economy"],
+  "pinyin1": "zhèng quàn jiāo yì xū yào zhuān yè zhī shí",
+  "pinyin2": "zheng4 quan4 jiao1 yi4 xu1 yao4 zhuan1 ye4 zhi1 shi2",
+  "translation": {
+    "en": "Securities trading requires professional knowledge.",
+    "vi": "Giao dịch chứng khoán cần kiến thức chuyên môn."
+  }
+}, {
+  "sentence": "期货交易风险很大。",
+  "tags": ["economy"],
+  "pinyin1": "qī huò jiāo yì fēng xiǎn hěn dà",
+  "pinyin2": "qi1 huo4 jiao1 yi4 feng1 xian3 hen3 da4",
+  "translation": {
+    "en": "Futures trading has high risks.",
+    "vi": "Giao dịch hợp đồng tương lai có rủi ro rất lớn."
+  }
+}, {
+  "sentence": "期权是一种金融衍生品。",
+  "tags": ["economy"],
+  "pinyin1": "qī quán shì yī zhǒng jīn róng yǎn shēng pǐn",
+  "pinyin2": "qi1 quan2 shi4 yi1 zhong3 jin1 rong2 yan3 sheng1 pin3",
+  "translation": {
+    "en": "Options are a type of financial derivative.",
+    "vi": "Quyền chọn là một loại công cụ tài chính phái sinh."
+  }
+}, {
+  "sentence": "公司市值已经超过了一千亿元。",
+  "tags": ["economy"],
+  "pinyin1": "gōng sī shì zhí yǐ jīng chāo guò le yī qiān yì yuán",
+  "pinyin2": "gong1 si1 shi4 zhi2 yi3 jing1 chao1 guo4 le yi1 qian1 yi4 yuan2",
+  "translation": {
+    "en": "The company's market value has exceeded 100 billion yuan.",
+    "vi": "Giá trị thị trường của công ty đã vượt quá một nghìn tỷ nhân dân tệ."
+  }
+}, {
+  "sentence": "专业机构对这家公司进行了估值。",
+  "tags": ["economy"],
+  "pinyin1": "zhuān yè jī gòu duì zhè jiā gōng sī jìn xíng le gū zhí",
+  "pinyin2": "zhuan1 ye4 ji1 gou4 dui4 zhe4 jia1 gong1 si1 jin4 xing2 le gu1 zhi2",
+  "translation": {
+    "en": "Professional institutions have valued this company.",
+    "vi": "Các tổ chức chuyên nghiệp đã định giá công ty này."
+  }
+}, {
+  "sentence": "公司破产后需要进行清算。",
+  "tags": ["economy"],
+  "pinyin1": "gōng sī pò chǎn hòu xū yào jìn xíng qīng suàn",
+  "pinyin2": "gong1 si1 po4 chan3 hou4 xu1 yao4 jin4 xing2 qing1 suan4",
+  "translation": {
+    "en": "After bankruptcy, the company needs to undergo liquidation.",
+    "vi": "Sau khi phá sản, công ty cần tiến hành thanh lý."
+  }
+}, {
+  "sentence": "两家公司决定合并以增强竞争力。",
+  "tags": ["economy"],
+  "pinyin1": "liǎng jiā gōng sī jué dìng hé bìng yǐ zēng qiáng jìng zhēng lì",
+  "pinyin2": "liang3 jia1 gong1 si1 jue2 ding4 he2 bing4 yi3 zeng1 qiang2 jing4 zheng1 li4",
+  "translation": {
+    "en": "Two companies decided to merge to enhance competitiveness.",
+    "vi": "Hai công ty quyết định sáp nhập để tăng cường sức cạnh tranh."
+  }
+}, {
+  "sentence": "这家大公司收购了一家小企业。",
+  "tags": ["economy"],
+  "pinyin1": "zhè jiā dà gōng sī shōu gòu le yī jiā xiǎo qǐ yè",
+  "pinyin2": "zhe4 jia1 da4 gong1 si1 shou1 gou4 le yi1 jia1 xiao3 qi3 ye4",
+  "translation": {
+    "en": "This large company acquired a small enterprise.",
+    "vi": "Công ty lớn này đã mua lại một doanh nghiệp nhỏ."
+  }
+}, {
+  "sentence": "公司计划明年在证券交易所上市。",
+  "tags": ["economy"],
+  "pinyin1": "gōng sī jì huà míng nián zài zhèng quàn jiāo yì suǒ shàng shì",
+  "pinyin2": "gong1 si1 ji4 hua4 ming2 nian2 zai4 zheng4 quan4 jiao1 yi4 suo3 shang4 shi4",
+  "translation": {
+    "en": "The company plans to go public on the stock exchange next year.",
+    "vi": "Công ty dự định niêm yết trên sàn giao dịch chứng khoán vào năm sau."
+  }
+}, {
+  "sentence": "由于业绩不佳，公司被迫退市。",
+  "tags": ["economy"],
+  "pinyin1": "yóu yú yè jì bù jiā, gōng sī bèi pò tuì shì",
+  "pinyin2": "you2 yu2 ye4 ji4 bu4 jia1, gong1 si1 bei4 po4 tui4 shi4",
+  "translation": {
+    "en": "Due to poor performance, the company was forced to delist.",
+    "vi": "Do kết quả kinh doanh kém, công ty buộc phải rút khỏi thị trường."
+  }
+}, {
+  "sentence": "股东每年都会收到股息分红。",
+  "tags": ["economy"],
+  "pinyin1": "gǔ dōng měi nián dōu huì shōu dào gǔ xī fēn hóng",
+  "pinyin2": "gu3 dong1 mei3 nian2 dou1 hui4 shou1 dao4 gu3 xi1 fen1 hong2",
+  "translation": {
+    "en": "Shareholders receive dividend payments every year.",
+    "vi": "Cổ đông mỗi năm đều nhận được cổ tức chia lợi nhuận."
+  }
+}, {
+  "sentence": "公司今年给员工发放了丰厚的红利。",
+  "tags": ["economy"],
+  "pinyin1": "gōng sī jīn nián gěi yuán gōng fā fàng le fēng hòu de hóng lì",
+  "pinyin2": "gong1 si1 jin1 nian2 gei3 yuan2 gong1 fa1 fang4 le feng1 hou4 de hong2 li4",
+  "translation": {
+    "en": "The company distributed generous bonuses to employees this year.",
+    "vi": "Công ty năm nay đã phát thưởng hậu hĩnh cho nhân viên."
+  }
+}, {
+  "sentence": "公司连续三年实现盈利。",
+  "tags": ["economy"],
+  "pinyin1": "gōng sī lián xù sān nián shí xiàn yíng lì",
+  "pinyin2": "gong1 si1 lian2 xu4 san1 nian2 shi2 xian4 ying2 li4",
+  "translation": {
+    "en": "The company has been profitable for three consecutive years.",
+    "vi": "Công ty đã có lãi liên tiếp ba năm."
+  }
+}, {
+  "sentence": "经济周期包括繁荣、衰退、萧条和复苏四个阶段。",
+  "tags": ["economy"],
+  "pinyin1": "jīng jì zhōu qī bāo kuò fán róng、shuāi tuì、xiāo tiáo hé fù sū sì gè jiē duàn",
+  "pinyin2": "jing1 ji4 zhou1 qi1 bao1 kuo4 fan2 rong2、shuai1 tui4、xiao1 tiao2 he2 fu4 su1 si4 ge4 jie1 duan4",
+  "translation": {
+    "en": "The economic cycle includes four stages: prosperity, recession, depression, and recovery.",
+    "vi": "Chu kỳ kinh tế bao gồm bốn giai đoạn: thịnh vượng, suy thoái, trì trệ và phục hồi."
+  }
+}, {
+  "sentence": "经济衰退导致失业率上升。",
+  "tags": ["economy"],
+  "pinyin1": "jīng jì shuāi tuì dǎo zhì shī yè lǜ shàng shēng",
+  "pinyin2": "jing1 ji4 shuai1 tui4 dao3 zhi4 shi1 ye4 lv4 shang4 sheng1",
+  "translation": {
+    "en": "Economic recession leads to rising unemployment rates.",
+    "vi": "Suy thoái kinh tế dẫn đến tỷ lệ thất nghiệp tăng."
+  }
+}, {
+  "sentence": "经济萧条时期，许多企业都倒闭了。",
+  "tags": ["economy"],
+  "pinyin1": "jīng jì xiāo tiáo shí qī, xǔ duō qǐ yè dōu dǎo bì le",
+  "pinyin2": "jing1 ji4 xiao1 tiao2 shi2 qi1, xu3 duo1 qi3 ye4 dou1 dao3 bi4 le",
+  "translation": {
+    "en": "During the economic depression, many enterprises went bankrupt.",
+    "vi": "Trong thời kỳ trì trệ kinh tế, nhiều doanh nghiệp đã phá sản."
+  }
+}, {
+  "sentence": "经济正在从危机中复苏。",
+  "tags": ["economy"],
+  "pinyin1": "jīng jì zhèng zài cóng wēi jī zhōng fù sū",
+  "pinyin2": "jing1 ji4 zheng4 zai4 cong2 wei1 ji1 zhong1 fu4 su1",
+  "translation": {
+    "en": "The economy is recovering from the crisis.",
+    "vi": "Nền kinh tế đang phục hồi sau khủng hoảng."
+  }
+}, {
+  "sentence": "市场需求萎缩导致产量下降。",
+  "tags": ["economy"],
+  "pinyin1": "shì chǎng xū qiú wěi suō dǎo zhì chǎn liàng xià jiàng",
+  "pinyin2": "shi4 chang3 xu1 qiu2 wei3 suo1 dao3 zhi4 chan3 liang4 xia4 jiang4",
+  "translation": {
+    "en": "Shrinking market demand leads to declining production.",
+    "vi": "Nhu cầu thị trường thu hẹp khiến sản lượng giảm."
+  }
+}, {
+  "sentence": "房地产泡沫破裂后，房价大幅下跌。",
+  "tags": ["economy"],
+  "pinyin1": "fáng dì chǎn pào mò pò liè hòu, fáng jià dà fú xià diē",
+  "pinyin2": "fang2 di4 chan3 pao4 mo4 po4 lie4 hou4, fang2 jia4 da4 fu2 xia4 die1",
+  "translation": {
+    "en": "After the real estate bubble burst, housing prices fell sharply.",
+    "vi": "Sau khi bong bóng bất động sản vỡ, giá nhà giảm mạnh."
+  }
+}, {
+  "sentence": "央行通过货币政策调节经济。",
+  "tags": ["economy"],
+  "pinyin1": "yāng háng tōng guò huò bì zhèng cè tiáo jié jīng jì",
+  "pinyin2": "yang1 hang2 tong1 guo4 huo4 bi4 zheng4 ce4 tiao2 jie2 jing1 ji4",
+  "translation": {
+    "en": "The central bank regulates the economy through monetary policy.",
+    "vi": "Ngân hàng trung ương điều tiết kinh tế thông qua chính sách tiền tệ."
+  }
+}, {
+  "sentence": "政府通过财政政策刺激经济增长。",
+  "tags": ["economy"],
+  "pinyin1": "zhèng fǔ tōng guò cái zhèng zhèng cè cì jī jīng jì zēng zhǎng",
+  "pinyin2": "zheng4 fu3 tong1 guo4 cai2 zheng4 zheng4 ce4 ci4 ji1 jing1 ji4 zeng1 zhang3",
+  "translation": {
+    "en": "The government stimulates economic growth through fiscal policy.",
+    "vi": "Chính phủ kích thích tăng trưởng kinh tế thông qua chính sách tài khóa."
+  }
+}, {
+  "sentence": "央行提高了基准利率以控制通货膨胀。",
+  "tags": ["economy"],
+  "pinyin1": "yāng háng tí gāo le jī zhǔn lì lǜ yǐ kòng zhì tōng huò péng zhàng",
+  "pinyin2": "yang1 hang2 ti2 gao1 le ji1 zhun3 li4 lv4 yi3 kong4 zhi4 tong1 huo4 peng2 zhang4",
+  "translation": {
+    "en": "The central bank raised the benchmark interest rate to control inflation.",
+    "vi": "Ngân hàng trung ương tăng lãi suất cơ bản để kiểm soát lạm phát."
+  }
+}, {
+  "sentence": "降低准备金率可以增加市场流动性。",
+  "tags": ["economy"],
+  "pinyin1": "jiàng dī zhǔn bèi jīn lǜ kě yǐ zēng jiā shì chǎng liú dòng xìng",
+  "pinyin2": "jiang4 di1 zhun3 bei4 jin1 lv4 ke3 yi3 zeng1 jia1 shi4 chang3 liu2 dong4 xing4",
+  "translation": {
+    "en": "Lowering the reserve requirement ratio can increase market liquidity.",
+    "vi": "Giảm tỷ lệ dự trữ bắt buộc có thể tăng tính thanh khoản thị trường."
+  }
+}, {
+  "sentence": "量化宽松政策旨在刺激经济增长。",
+  "tags": ["economy"],
+  "pinyin1": "liàng huà kuān sōng zhèng cè zhǐ zài cì jī jīng jì zēng zhǎng",
+  "pinyin2": "liang4 hua4 kuan1 song1 zheng4 ce4 zhi3 zai4 ci4 ji1 jing1 ji4 zeng1 zhang3",
+  "translation": {
+    "en": "Quantitative easing policy aims to stimulate economic growth.",
+    "vi": "Chính sách nới lỏng định lượng nhằm kích thích tăng trưởng kinh tế."
+  }
+}, {
+  "sentence": "紧缩政策导致信贷市场资金紧张。",
+  "tags": ["economy"],
+  "pinyin1": "jǐn suō zhèng cè dǎo zhì xìn dài shì chǎng zī jīn jǐn zhāng",
+  "pinyin2": "jin3 suo1 zheng4 ce4 dao3 zhi4 xin4 dai4 shi4 chang3 zi1 jin1 jin3 zhang1",
+  "translation": {
+    "en": "Tightening policies lead to tight credit market funds.",
+    "vi": "Chính sách thắt chặt khiến thị trường tín dụng thiếu vốn."
+  }
+}, {
+  "sentence": "政府为农民提供农业补贴。",
+  "tags": ["economy"],
+  "pinyin1": "zhèng fǔ wèi nóng mín tí gōng nóng yè bǔ tiē",
+  "pinyin2": "zheng4 fu3 wei4 nong2 min2 ti2 gong1 nong2 ye4 bu3 tie1",
+  "translation": {
+    "en": "The government provides agricultural subsidies to farmers.",
+    "vi": "Chính phủ cung cấp trợ cấp nông nghiệp cho nông dân."
+  }
+}, {
+  "sentence": "提高关税会减少进口商品的数量。",
+  "tags": ["economy"],
+  "pinyin1": "tí gāo guān shuì huì jiǎn shǎo jìn kǒu shāng pǐn de shù liàng",
+  "pinyin2": "ti2 gao1 guan1 shui4 hui4 jian3 shao3 jin4 kou3 shang1 pin3 de shu4 liang4",
+  "translation": {
+    "en": "Raising tariffs will reduce the quantity of imported goods.",
+    "vi": "Tăng thuế quan sẽ giảm số lượng hàng hóa nhập khẩu."
+  }
+}, {
+  "sentence": "政府设定了进口配额以保护国内产业。",
+  "tags": ["economy"],
+  "pinyin1": "zhèng fǔ shè dìng le jìn kǒu pèi é yǐ bǎo hù guó nèi chǎn yè",
+  "pinyin2": "zheng4 fu3 she4 ding4 le jin4 kou3 pei4 e2 yi3 bao3 hu4 guo2 nei4 chan3 ye4",
+  "translation": {
+    "en": "The government set import quotas to protect domestic industries.",
+    "vi": "Chính phủ đặt hạn ngạch nhập khẩu để bảo vệ ngành công nghiệp trong nước."
+  }
+}, {
+  "sentence": "石油禁运导致能源价格飙升。",
+  "tags": ["economy"],
+  "pinyin1": "shí yóu jìn yùn dǎo zhì néng yuán jià gé biāo shēng",
+  "pinyin2": "shi2 you2 jin4 yun4 dao3 zhi4 neng2 yuan2 jia4 ge2 biao1 sheng1",
+  "translation": {
+    "en": "Oil embargo led to soaring energy prices.",
+    "vi": "Cấm vận dầu mỏ khiến giá năng lượng tăng vọt."
+  }
+}, {
+  "sentence": "自由贸易区促进了成员国之间的贸易往来。",
+  "tags": ["economy"],
+  "pinyin1": "zì yóu mào yì qū cù jìn le chéng yuán guó zhī jiān de mào yì wǎng lái",
+  "pinyin2": "zi4 you2 mao4 yi4 qu1 cu4 jin4 le cheng2 yuan2 guo2 zhi1 jian1 de mao4 yi4 wang3 lai2",
+  "translation": {
+    "en": "Free trade zones promote trade between member countries.",
+    "vi": "Khu vực thương mại tự do thúc đẩy giao thương giữa các nước thành viên."
+  }
+}, {
+  "sentence": "保护主义政策限制了国际贸易的发展。",
+  "tags": ["economy"],
+  "pinyin1": "bǎo hù zhǔ yì zhèng cè xiàn zhì le guó jì mào yì de fā zhǎn",
+  "pinyin2": "bao3 hu4 zhu3 yi4 zheng4 ce4 xian4 zhi4 le guo2 ji4 mao4 yi4 de fa1 zhan3",
+  "translation": {
+    "en": "Protectionist policies limit the development of international trade.",
+    "vi": "Chính sách bảo hộ hạn chế sự phát triển của thương mại quốc tế."
+  }
+}, {
+  "sentence": "全球化使各国经济联系更加紧密。",
+  "tags": ["economy"],
+  "pinyin1": "quán qiú huà shǐ gè guó jīng jì lián xì gèng jiā jǐn mì",
+  "pinyin2": "quan2 qiu2 hua4 shi3 ge4 guo2 jing1 ji4 lian2 xi4 geng4 jia1 jin3 mi4",
+  "translation": {
+    "en": "Globalization makes economic ties between countries closer.",
+    "vi": "Toàn cầu hóa khiến mối liên hệ kinh tế giữa các nước chặt chẽ hơn."
+  }
+}, {
+  "sentence": "经济一体化有助于提高区域竞争力。",
+  "tags": ["economy"],
+  "pinyin1": "jīng jì yī tǐ huà yǒu zhù yú tí gāo qū yù jìng zhēng lì",
+  "pinyin2": "jing1 ji4 yi1 ti3 hua4 you3 zhu4 yu2 ti2 gao1 qu1 yu4 jing4 zheng1 li4",
+  "translation": {
+    "en": "Economic integration helps improve regional competitiveness.",
+    "vi": "Hội nhập kinh tế giúp nâng cao sức cạnh tranh khu vực."
+  }
+}, {
+  "sentence": "多个国家组成了经济联盟。",
+  "tags": ["economy"],
+  "pinyin1": "duō gè guó jiā zǔ chéng le jīng jì lián méng",
+  "pinyin2": "duo1 ge4 guo2 jia1 zu3 cheng2 le jing1 ji4 lian2 meng2",
+  "translation": {
+    "en": "Multiple countries formed an economic alliance.",
+    "vi": "Nhiều quốc gia đã thành lập liên minh kinh tế."
+  }
+}, {
+  "sentence": "两国建立了战略伙伴关系。",
+  "tags": ["economy"],
+  "pinyin1": "liǎng guó jiàn lì le zhàn lüè huǒ bàn guān xì",
+  "pinyin2": "liang3 guo2 jian4 li4 le zhan4 lv4 huo3 ban4 guan1 xi4",
+  "translation": {
+    "en": "The two countries established a strategic partnership.",
+    "vi": "Hai nước đã thiết lập quan hệ đối tác chiến lược."
+  }
+}, {
+  "sentence": "两国签署了贸易条约。",
+  "tags": ["economy"],
+  "pinyin1": "liǎng guó qiān shǔ le mào yì tiáo yuē",
+  "pinyin2": "liang3 guo2 qian1 shu3 le mao4 yi4 tiao2 yue1",
+  "translation": {
+    "en": "The two countries signed a trade treaty.",
+    "vi": "Hai nước đã ký hiệp ước thương mại."
+  }
+}, {
+  "sentence": "双方达成了双边贸易协定。",
+  "tags": ["economy"],
+  "pinyin1": "shuāng fāng dá chéng le shuāng biān mào yì xié dìng",
+  "pinyin2": "shuang1 fang1 da2 cheng2 le shuang1 bian1 mao4 yi4 xie2 ding4",
+  "translation": {
+    "en": "Both sides reached a bilateral trade agreement.",
+    "vi": "Hai bên đã đạt được thỏa thuận thương mại song phương."
+  }
+}, {
+  "sentence": "两国签署了合作备忘录。",
+  "tags": ["economy"],
+  "pinyin1": "liǎng guó qiān shǔ le hé zuò bèi wàng lù",
+  "pinyin2": "liang3 guo2 qian1 shu3 le he2 zuo4 bei4 wang4 lu4",
+  "translation": {
+    "en": "The two countries signed a memorandum of cooperation.",
+    "vi": "Hai nước đã ký biên bản ghi nhớ hợp tác."
+  }
+}, {
+  "sentence": "寡头垄断市场会损害消费者利益。",
+  "tags": ["economy"],
+  "pinyin1": "guǎ tóu lǒng duàn shì chǎng huì sǔn hài xiāo fèi zhě lì yì",
+  "pinyin2": "gua3 tou2 long3 duan4 shi4 chang3 hui4 sun3 hai4 xiao1 fei4 zhe3 li4 yi4",
+  "translation": {
+    "en": "Oligopoly markets harm consumer interests.",
+    "vi": "Thị trường độc quyền nhóm gây hại cho lợi ích người tiêu dùng."
+  }
+}, {
+  "sentence": "市场结构决定了竞争程度。",
+  "tags": ["economy"],
+  "pinyin1": "shì chǎng jié gòu jué dìng le jìng zhēng chéng dù",
+  "pinyin2": "shi4 chang3 jie2 gou4 jue2 ding4 le jing4 zheng1 cheng2 du4",
+  "translation": {
+    "en": "Market structure determines the level of competition.",
+    "vi": "Cấu trúc thị trường quyết định mức độ cạnh tranh."
+  }
+}, {
+  "sentence": "进入壁垒高的行业新企业难以进入。",
+  "tags": ["economy"],
+  "pinyin1": "jìn rù bì lěi gāo de háng yè xīn qǐ yè nán yǐ jìn rù",
+  "pinyin2": "jin4 ru4 bi4 lei3 gao1 de hang2 ye4 xin1 qi3 ye4 nan2 yi3 jin4 ru4",
+  "translation": {
+    "en": "Industries with high entry barriers are difficult for new enterprises to enter.",
+    "vi": "Ngành có rào cản gia nhập cao khó cho doanh nghiệp mới tham gia."
+  }
+}, {
+  "sentence": "规模经济可以降低单位生产成本。",
+  "tags": ["economy"],
+  "pinyin1": "guī mó jīng jì kě yǐ jiàng dī dān wèi shēng chǎn chéng běn",
+  "pinyin2": "gui1 mo2 jing1 ji4 ke3 yi3 jiang4 di1 dan1 wei4 sheng1 chan3 cheng2 ben3",
+  "translation": {
+    "en": "Economies of scale can reduce unit production costs.",
+    "vi": "Kinh tế quy mô có thể giảm chi phí sản xuất đơn vị."
+  }
+}, {
+  "sentence": "边际成本是生产额外一单位产品的成本。",
+  "tags": ["economy"],
+  "pinyin1": "biān jì chéng běn shì shēng chǎn é wài yī dān wèi chǎn pǐn de chéng běn",
+  "pinyin2": "bian1 ji4 cheng2 ben3 shi4 sheng1 chan3 e2 wai4 yi1 dan1 wei4 chan3 pin3 de cheng2 ben3",
+  "translation": {
+    "en": "Marginal cost is the cost of producing one additional unit of product.",
+    "vi": "Chi phí biên là chi phí sản xuất thêm một đơn vị sản phẩm."
+  }
+}, {
+  "sentence": "边际收益递减是经济学的基本规律。",
+  "tags": ["economy"],
+  "pinyin1": "biān jì shōu yì dì jiǎn shì jīng jì xué de jī běn guī lǜ",
+  "pinyin2": "bian1 ji4 shou1 yi4 di4 jian3 shi4 jing1 ji4 xue2 de ji1 ben3 gui1 lv4",
+  "translation": {
+    "en": "Diminishing marginal returns is a fundamental law of economics.",
+    "vi": "Lợi ích biên giảm dần là quy luật cơ bản của kinh tế học."
+  }
+}, {
+  "sentence": "固定成本不随产量变化而变化。",
+  "tags": ["economy"],
+  "pinyin1": "gù dìng chéng běn bù suí chǎn liàng biàn huà ér biàn huà",
+  "pinyin2": "gu4 ding4 cheng2 ben3 bu4 sui2 chan3 liang4 bian4 hua4 er2 bian4 hua4",
+  "translation": {
+    "en": "Fixed costs do not change with changes in output.",
+    "vi": "Chi phí cố định không thay đổi theo sự thay đổi sản lượng."
+  }
+}, {
+  "sentence": "可变成本随产量增加而增加。",
+  "tags": ["economy"],
+  "pinyin1": "kě biàn chéng běn suí chǎn liàng zēng jiā ér zēng jiā",
+  "pinyin2": "ke3 bian4 cheng2 ben3 sui2 chan3 liang4 zeng1 jia1 er2 zeng1 jia1",
+  "translation": {
+    "en": "Variable costs increase as output increases.",
+    "vi": "Chi phí biến đổi tăng khi sản lượng tăng."
+  }
+}, {
+  "sentence": "总成本等于固定成本加可变成本。",
+  "tags": ["economy"],
+  "pinyin1": "zǒng chéng běn děng yú gù dìng chéng běn jiā kě biàn chéng běn",
+  "pinyin2": "zong3 cheng2 ben3 deng3 yu2 gu4 ding4 cheng2 ben3 jia1 ke3 bian4 cheng2 ben3",
+  "translation": {
+    "en": "Total cost equals fixed cost plus variable cost.",
+    "vi": "Tổng chi phí bằng chi phí cố định cộng chi phí biến đổi."
+  }
+}, {
+  "sentence": "平均成本是总成本除以产量。",
+  "tags": ["economy"],
+  "pinyin1": "píng jūn chéng běn shì zǒng chéng běn chú yǐ chǎn liàng",
+  "pinyin2": "ping2 jun1 cheng2 ben3 shi4 zong3 cheng2 ben3 chu2 yi3 chan3 liang4",
+  "translation": {
+    "en": "Average cost is total cost divided by output.",
+    "vi": "Chi phí trung bình là tổng chi phí chia cho sản lượng."
+  }
+}, {
+  "sentence": "机会成本是选择一种方案而放弃另一种方案的代价。",
+  "tags": ["economy"],
+  "pinyin1": "jī huì chéng běn shì xuǎn zé yī zhǒng fāng àn ér fàng qì lìng yī zhǒng fāng àn de dài jià",
+  "pinyin2": "ji1 hui4 cheng2 ben3 shi4 xuan3 ze2 yi1 zhong3 fang1 an4 er2 fang4 qi4 ling4 yi1 zhong3 fang1 an4 de dai4 jia4",
+  "translation": {
+    "en": "Opportunity cost is the cost of choosing one option over another.",
+    "vi": "Chi phí cơ hội là cái giá phải trả khi chọn một phương án và từ bỏ phương án khác."
+  }
+}, {
+  "sentence": "沉没成本不应该影响未来的决策。",
+  "tags": ["economy"],
+  "pinyin1": "chén mò chéng běn bù yīng gāi yǐng xiǎng wèi lái de jué cè",
+  "pinyin2": "chen2 mo4 cheng2 ben3 bu4 ying1 gai1 ying3 xiang3 wei4 lai2 de jue2 ce4",
+  "translation": {
+    "en": "Sunk costs should not affect future decisions.",
+    "vi": "Chi phí chìm không nên ảnh hưởng đến quyết định tương lai."
+  }
+}, {
+  "sentence": "价格弹性反映了需求对价格变化的敏感程度。",
+  "tags": ["economy"],
+  "pinyin1": "jià gé tán xìng fǎn yìng le xū qiú duì jià gé biàn huà de mǐn gǎn chéng dù",
+  "pinyin2": "jia4 ge2 tan2 xing4 fan3 ying4 le xu1 qiu2 dui4 jia4 ge2 bian4 hua4 de min3 gan3 cheng2 du4",
+  "translation": {
+    "en": "Price elasticity reflects the sensitivity of demand to price changes.",
+    "vi": "Độ co giãn giá phản ánh mức độ nhạy cảm của cầu đối với thay đổi giá."
+  }
+}, {
+  "sentence": "需求弹性高的商品价格变化对销量影响大。",
+  "tags": ["economy"],
+  "pinyin1": "xū qiú tán xìng gāo de shāng pǐn jià gé biàn huà duì xiāo liàng yǐng xiǎng dà",
+  "pinyin2": "xu1 qiu2 tan2 xing4 gao1 de shang1 pin3 jia4 ge2 bian4 hua4 dui4 xiao1 liang4 ying3 xiang3 da4",
+  "translation": {
+    "en": "Products with high demand elasticity are greatly affected by price changes on sales.",
+    "vi": "Hàng hóa có độ co giãn cầu cao bị ảnh hưởng lớn bởi thay đổi giá đối với doanh số."
+  }
+}, {
+  "sentence": "供给弹性衡量生产者对价格变化的反应速度。",
+  "tags": ["economy"],
+  "pinyin1": "gōng jǐ tán xìng héng liáng shēng chǎn zhě duì jià gé biàn huà de fǎn yìng sù dù",
+  "pinyin2": "gong1 ji3 tan2 xing4 heng2 liang2 sheng1 chan3 zhe3 dui4 jia4 ge2 bian4 hua4 de fan3 ying4 su4 du4",
+  "translation": {
+    "en": "Supply elasticity measures how quickly producers respond to price changes.",
+    "vi": "Độ co giãn cung đo lường tốc độ phản ứng của nhà sản xuất đối với thay đổi giá."
+  }
+}, {
+  "sentence": "市场均衡时供给等于需求。",
+  "tags": ["economy"],
+  "pinyin1": "shì chǎng jūn héng shí gōng jǐ děng yú xū qiú",
+  "pinyin2": "shi4 chang3 jun1 heng2 shi2 gong1 ji3 deng3 yu2 xu1 qiu2",
+  "translation": {
+    "en": "At market equilibrium, supply equals demand.",
+    "vi": "Ở trạng thái cân bằng thị trường, cung bằng cầu."
+  }
+}, {
+  "sentence": "供过于求导致市场出现过剩。",
+  "tags": ["economy"],
+  "pinyin1": "gōng guò yú qiú dǎo zhì shì chǎng chū xiàn guò shèng",
+  "pinyin2": "gong1 guo4 yu2 qiu2 dao3 zhi4 shi4 chang3 chu1 xian4 guo4 sheng4",
+  "translation": {
+    "en": "Excess supply leads to market surplus.",
+    "vi": "Cung vượt cầu khiến thị trường xuất hiện dư thừa."
+  }
+}, {
+  "sentence": "供不应求造成市场短缺。",
+  "tags": ["economy"],
+  "pinyin1": "gōng bù yìng qiú zào chéng shì chǎng duǎn quē",
+  "pinyin2": "gong1 bu4 ying4 qiu2 zao4 cheng2 shi4 chang3 duan3 que1",
+  "translation": {
+    "en": "Insufficient supply causes market shortages.",
+    "vi": "Cung không đáp ứng cầu gây ra tình trạng thiếu hụt thị trường."
+  }
+}, {
+  "sentence": "政府通过宏观调控稳定经济发展。",
+  "tags": ["economy"],
+  "pinyin1": "zhèng fǔ tōng guò hóng guān tiáo kòng wěn dìng jīng jì fā zhǎn",
+  "pinyin2": "zheng4 fu3 tong1 guo4 hong2 guan1 tiao2 kong4 wen3 ding4 jing1 ji4 fa1 zhan3",
+  "translation": {
+    "en": "The government stabilizes economic development through macroeconomic regulation.",
+    "vi": "Chính phủ ổn định phát triển kinh tế thông qua điều tiết vĩ mô."
+  }
+}, {
+  "sentence": "微观经济学研究个体经济行为。",
+  "tags": ["economy"],
+  "pinyin1": "wēi guān jīng jì xué yán jiū gè tǐ jīng jì xíng wéi",
+  "pinyin2": "wei1 guan1 jing1 ji4 xue2 yan2 jiu1 ge4 ti3 jing1 ji4 xing2 wei2",
+  "translation": {
+    "en": "Microeconomics studies individual economic behavior.",
+    "vi": "Kinh tế học vi mô nghiên cứu hành vi kinh tế của cá thể."
+  }
+}, {
+  "sentence": "宏观经济学关注整体经济运行。",
+  "tags": ["economy"],
+  "pinyin1": "hóng guān jīng jì xué guān zhù zhěng tǐ jīng jì yùn xíng",
+  "pinyin2": "hong2 guan1 jing1 ji4 xue2 guan1 zhu4 zheng3 ti3 jing1 ji4 yun4 xing2",
+  "translation": {
+    "en": "Macroeconomics focuses on the overall economy.",
+    "vi": "Kinh tế học vĩ mô tập trung vào vận hành kinh tế tổng thể."
+  }
+}]
+

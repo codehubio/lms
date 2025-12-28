@@ -1,0 +1,107 @@
+{
+  "id": "suiran-danshi",
+  "title": "虽然……但是 - Contrast/Concession Pattern",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "虽然……但是 - Contrast/Concession Pattern",
+    "vi": "虽然……但是 - Mẫu câu tương phản/nhượng bộ",
+    "zh": "虽然……但是 - 转折/让步句型"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "虽然……但是 - Basic Contrast Pattern (虽然……但是)",
+          "vi": "虽然……但是 - Mẫu câu tương phản cơ bản (虽然……但是)",
+          "zh": "虽然……但是 - 基本转折句型"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**虽然……但是** (suīrán...dànshì) is a fundamental contrast/concession pattern in Chinese that means \"although...but\" or \"even though...but.\" It is used to express a contrast between two statements, where the first clause presents a fact or situation, and the second clause presents an unexpected or contrasting result.\n\n**Basic Structure:**\n虽然 + Contrasting Situation + 但是 + Unexpected Result\n\n**Key Points:**\n- **虽然** (suīrán) means \"although\" or \"even though\" and introduces a fact or situation\n- **但是** (dànshì) means \"but\" or \"however\" and introduces the contrasting or unexpected result\n- The contrasting situation comes first, followed by the unexpected result\n- Both **虽然** and **但是** are commonly used together, though either can sometimes be used alone\n- This pattern shows that despite the first situation, the second situation still occurs\n- It is one of the most common ways to express contrast or concession in Chinese\n\n**Examples:**\n- **虽然**他很累，**但是**他继续工作。 (**Although** he is tired, **but** he continues working.)\n- **虽然**天气不好，**但是**我们还是去了。 (**Although** the weather was bad, **but** we still went.)\n- **虽然**价格贵，**但是**质量很好。 (**Although** the price is expensive, **but** the quality is very good.)\n\n**Note:** In English, we don't use \"but\" after \"although\" (it's redundant), but in Chinese, using both **虽然** and **但是** together is natural and correct. This is an important difference between English and Chinese grammar.",
+          "vi": "**虽然……但是** (suīrán...dànshì) là mẫu câu tương phản/nhượng bộ cơ bản trong tiếng Trung có nghĩa là \"mặc dù...nhưng\" hoặc \"dù...nhưng.\" Nó được dùng để diễn đạt sự tương phản giữa hai câu, trong đó mệnh đề đầu tiên trình bày một sự thật hoặc tình huống, và mệnh đề thứ hai trình bày một kết quả bất ngờ hoặc tương phản.\n\n**Cấu trúc cơ bản:**\n虽然 + Tình huống tương phản + 但是 + Kết quả bất ngờ\n\n**Điểm quan trọng:**\n- **虽然** (suīrán) có nghĩa là \"mặc dù\" hoặc \"dù\" và giới thiệu một sự thật hoặc tình huống\n- **但是** (dànshì) có nghĩa là \"nhưng\" hoặc \"tuy nhiên\" và giới thiệu kết quả tương phản hoặc bất ngờ\n- Tình huống tương phản đứng trước, theo sau là kết quả bất ngờ\n- Cả **虽然** và **但是** thường được dùng cùng nhau, mặc dù một trong hai đôi khi có thể được dùng một mình\n- Mẫu này thể hiện rằng bất chấp tình huống đầu tiên, tình huống thứ hai vẫn xảy ra\n- Đây là một trong những cách phổ biến nhất để diễn đạt sự tương phản hoặc nhượng bộ trong tiếng Trung\n\n**Ví dụ:**\n- **虽然**他很累，**但是**他继续工作。 (**Mặc dù** anh ấy mệt, **nhưng** anh ấy vẫn tiếp tục làm việc.)\n- **虽然**天气不好，**但是**我们还是去了。 (**Mặc dù** thời tiết xấu, **nhưng** chúng tôi vẫn đi.)\n- **虽然**价格贵，**但是**质量很好。 (**Mặc dù** giá đắt, **nhưng** chất lượng rất tốt.)\n\n**Lưu ý:** Trong tiếng Anh, chúng ta không dùng \"but\" sau \"although\" (nó thừa), nhưng trong tiếng Trung, dùng cả **虽然** và **但是** cùng nhau là tự nhiên và đúng. Đây là sự khác biệt quan trọng giữa ngữ pháp tiếng Anh và tiếng Trung.",
+          "zh": "**虽然……但是**（suīrán...dànshì）是汉语中基本的转折/让步句型，意思是\"虽然……但是\"或\"尽管……但是\"。它用于表达两个陈述之间的对比，第一个分句提出一个事实或情况，第二个分句提出一个意外的或对比的结果。\n\n**基本结构：**\n虽然 + 对比情况 + 但是 + 意外结果\n\n**要点：**\n- **虽然**（suīrán）意思是\"虽然\"或\"尽管\"，引出一个事实或情况\n- **但是**（dànshì）意思是\"但是\"或\"然而\"，引出对比或意外的结果\n- 对比情况在前，意外结果在后\n- **虽然**和**但是**通常一起使用，虽然有时可以单独使用其中一个\n- 此模式显示尽管有第一种情况，第二种情况仍然发生\n- 这是汉语中表达对比或让步最常用的方式之一\n\n**例句：**\n- **虽然**他很累，**但是**他继续工作。\n- **虽然**天气不好，**但是**我们还是去了。\n- **虽然**价格贵，**但是**质量很好。\n\n**注意：** 在英语中，我们在\"although\"后不使用\"but\"（这是冗余的），但在汉语中，同时使用**虽然**和**但是**是自然和正确的。这是英语和汉语语法之间的重要区别。"
+        }
+      },
+      "placeholders": [{
+        "suiran": "虽然",
+        "danshi": "但是",
+        "contrast": "很累",
+        "result": "继续工作"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Using 虽然 and 但是 Separately",
+          "vi": "Sử dụng 虽然 và 但是 riêng biệt",
+          "zh": "单独使用虽然和但是"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "While **虽然……但是** is often used together, each part can also be used independently:\n\n**1. Using only 虽然 (although):**\n- **虽然**他很累，他继续工作。 (**Although** he is tired, he continues working.)\n- **虽然**价格贵，质量很好。 (**Although** the price is expensive, the quality is very good.)\n- **虽然** can stand alone to introduce a contrasting situation\n- The contrast is implied or stated without **但是**\n- Less common than using both together\n\n**2. Using only 但是 (but/however):**\n- 他很累，**但是**他继续工作。 (He is tired, **but** he continues working.)\n- 价格贵，**但是**质量很好。 (The price is expensive, **but** the quality is very good.)\n- **但是** can stand alone to introduce a contrasting result\n- The contrasting situation is stated first without **虽然**\n- Very common in spoken Chinese\n\n**3. Using both together (most explicit):**\n- **虽然**他很累，**但是**他继续工作。 (**Although** he is tired, **but** he continues working.)\n- **虽然**价格贵，**但是**质量很好。 (**Although** the price is expensive, **but** the quality is very good.)\n- Using both makes the contrast relationship very clear\n- Most formal and explicit way to express contrast\n\n**Key Points:**\n- **虽然** alone: Emphasizes the contrasting situation\n- **但是** alone: Emphasizes the contrasting result (very common)\n- **虽然……但是**: Makes both contrast and result explicit\n- All three forms are grammatically correct\n- Using **但是** alone is very common in everyday speech",
+          "vi": "Mặc dù **虽然……但是** thường được dùng cùng nhau, nhưng mỗi phần cũng có thể được dùng độc lập:\n\n**1. Chỉ dùng 虽然 (mặc dù):**\n- **虽然**他很累，他继续工作。 (**Mặc dù** anh ấy mệt, anh ấy vẫn tiếp tục làm việc.)\n- **虽然**价格贵，质量很好。 (**Mặc dù** giá đắt, chất lượng rất tốt.)\n- **虽然** có thể đứng một mình để giới thiệu tình huống tương phản\n- Sự tương phản được ngụ ý hoặc được nêu ra mà không cần **但是**\n- Ít phổ biến hơn so với dùng cả hai cùng nhau\n\n**2. Chỉ dùng 但是 (nhưng/tuy nhiên):**\n- 他很累，**但是**他继续工作。 (Anh ấy mệt, **nhưng** anh ấy vẫn tiếp tục làm việc.)\n- 价格贵，**但是**质量很好。 (Giá đắt, **nhưng** chất lượng rất tốt.)\n- **但是** có thể đứng một mình để giới thiệu kết quả tương phản\n- Tình huống tương phản được nêu ra trước mà không cần **虽然**\n- Rất phổ biến trong tiếng Trung nói\n\n**3. Dùng cả hai cùng nhau (rõ ràng nhất):**\n- **虽然**他很累，**但是**他继续工作。 (**Mặc dù** anh ấy mệt, **nhưng** anh ấy vẫn tiếp tục làm việc.)\n- **虽然**价格贵，**但是**质量很好。 (**Mặc dù** giá đắt, **nhưng** chất lượng rất tốt.)\n- Dùng cả hai làm cho mối quan hệ tương phản rất rõ ràng\n- Cách trang trọng và rõ ràng nhất để diễn đạt sự tương phản\n\n**Điểm quan trọng:**\n- Chỉ **虽然**: Nhấn mạnh tình huống tương phản\n- Chỉ **但是**: Nhấn mạnh kết quả tương phản (rất phổ biến)\n- **虽然……但是**: Làm cho cả sự tương phản và kết quả rõ ràng\n- Cả ba dạng đều đúng ngữ pháp\n- Chỉ dùng **但是** rất phổ biến trong lời nói hàng ngày",
+          "zh": "虽然**虽然……但是**经常一起使用，但每个部分也可以独立使用：\n\n**1. 仅使用虽然（虽然）：**\n- **虽然**他很累，他继续工作。\n- **虽然**价格贵，质量很好。\n- **虽然**可以单独使用来引出对比情况\n- 对比被暗示或不用**但是**陈述\n- 比两者一起使用较少见\n\n**2. 仅使用但是（但是/然而）：**\n- 他很累，**但是**他继续工作。\n- 价格贵，**但是**质量很好。\n- **但是**可以单独使用来引出对比结果\n- 对比情况先陈述，不用**虽然**\n- 在汉语口语中非常常见\n\n**3. 两者一起使用（最明确）：**\n- **虽然**他很累，**但是**他继续工作。\n- **虽然**价格贵，**但是**质量很好。\n- 两者一起使用使对比关系非常清晰\n- 表达对比最正式和明确的方式\n\n**要点：**\n- 仅**虽然**：强调对比情况\n- 仅**但是**：强调对比结果（非常常见）\n- **虽然……但是**：使对比和结果都明确\n- 所有三种形式在语法上都是正确的\n- 仅使用**但是**在日常口语中非常常见"
+        }
+      },
+      "placeholders": [{
+        "suiran": "虽然",
+        "danshi": "但是",
+        "lei": "很累",
+        "jixu": "继续工作"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Variations and Related Patterns",
+          "vi": "Biến thể và mẫu liên quan",
+          "zh": "变体和相关模式"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "There are several variations and related patterns to **虽然……但是**:\n\n**1. 尽管……但是 (jǐnguǎn...dànshì) - Similar meaning:**\n- **尽管**他很累，**但是**他继续工作。 (**Even though** he is tired, **but** he continues working.)\n- **尽管** is similar to **虽然** and can be used interchangeably\n- **尽管** is slightly more emphatic than **虽然**\n\n**2. 即使……也 (jíshǐ...yě) - \"Even if...still\":**\n- **即使**他很累，他**也**继续工作。 (**Even if** he is tired, he **still** continues working.)\n- **即使** implies a hypothetical or extreme condition\n- Uses **也** instead of **但是**\n- More emphatic than **虽然……但是**\n\n**3. 可是 (kěshì) - Alternative to 但是:**\n- **虽然**他很累，**可是**他继续工作。 (**Although** he is tired, **but** he continues working.)\n- **可是** can replace **但是** in most cases\n- **可是** is slightly more casual than **但是**\n\n**4. 不过 (búguò) - \"However/But\":**\n- **虽然**他很累，**不过**他继续工作。 (**Although** he is tired, **however** he continues working.)\n- **不过** is more casual and conversational than **但是**\n- Often used in spoken Chinese\n\n**5. 然而 (rán'ér) - Formal \"However\":**\n- **虽然**他很累，**然而**他继续工作。 (**Although** he is tired, **however** he continues working.)\n- **然而** is more formal and literary than **但是**\n- Often used in written Chinese\n\n**6. 却 (què) - \"But/However\" (adverb):**\n- **虽然**他很累，他**却**继续工作。 (**Although** he is tired, he **however** continues working.)\n- **却** is an adverb placed after the subject\n- More literary and formal\n\n**Key Differences:**\n- **虽然/尽管……但是**: Most common, neutral tone\n- **即使……也**: Hypothetical or extreme conditions\n- **可是/不过**: More casual alternatives to **但是**\n- **然而/却**: More formal and literary",
+          "vi": "Có nhiều biến thể và mẫu liên quan đến **虽然……但是**:\n\n**1. 尽管……但是 (jǐnguǎn...dànshì) - Nghĩa tương tự:**\n- **尽管**他很累，**但是**他继续工作。 (**Dù** anh ấy mệt, **nhưng** anh ấy vẫn tiếp tục làm việc.)\n- **尽管** tương tự **虽然** và có thể dùng thay thế cho nhau\n- **尽管** hơi nhấn mạnh hơn **虽然**\n\n**2. 即使……也 (jíshǐ...yě) - \"Ngay cả nếu...vẫn\":**\n- **即使**他很累，他**也**继续工作。 (**Ngay cả nếu** anh ấy mệt, anh ấy **vẫn** tiếp tục làm việc.)\n- **即使** ngụ ý một điều kiện giả định hoặc cực đoan\n- Dùng **也** thay cho **但是**\n- Nhấn mạnh hơn **虽然……但是**\n\n**3. 可是 (kěshì) - Thay thế cho 但是:**\n- **虽然**他很累，**可是**他继续工作。 (**Mặc dù** anh ấy mệt, **nhưng** anh ấy vẫn tiếp tục làm việc.)\n- **可是** có thể thay thế **但是** trong hầu hết trường hợp\n- **可是** hơi thân mật hơn **但是**\n\n**4. 不过 (búguò) - \"Tuy nhiên/Nhưng\":**\n- **虽然**他很累，**不过**他继续工作。 (**Mặc dù** anh ấy mệt, **tuy nhiên** anh ấy vẫn tiếp tục làm việc.)\n- **不过** thân mật và đàm thoại hơn **但是**\n- Thường được dùng trong tiếng Trung nói\n\n**5. 然而 (rán'ér) - Trang trọng \"Tuy nhiên\":**\n- **虽然**他很累，**然而**他继续工作。 (**Mặc dù** anh ấy mệt, **tuy nhiên** anh ấy vẫn tiếp tục làm việc.)\n- **然而** trang trọng và văn học hơn **但是**\n- Thường được dùng trong tiếng Trung viết\n\n**6. 却 (què) - \"Nhưng/Tuy nhiên\" (phó từ):**\n- **虽然**他很累，他**却**继续工作。 (**Mặc dù** anh ấy mệt, anh ấy **tuy nhiên** vẫn tiếp tục làm việc.)\n- **却** là phó từ đặt sau chủ ngữ\n- Văn học và trang trọng hơn\n\n**Sự khác biệt chính:**\n- **虽然/尽管……但是**: Phổ biến nhất, giọng điệu trung tính\n- **即使……也**: Điều kiện giả định hoặc cực đoan\n- **可是/不过**: Thay thế thân mật hơn cho **但是**\n- **然而/却**: Trang trọng và văn học hơn",
+          "zh": "**虽然……但是**有几种变体和相关模式：\n\n**1. 尽管……但是（jǐnguǎn...dànshì）- 意思相似：**\n- **尽管**他很累，**但是**他继续工作。\n- **尽管**与**虽然**相似，可以互换使用\n- **尽管**比**虽然**稍微更强调\n\n**2. 即使……也（jíshǐ...yě）- \"即使……仍然\"：**\n- **即使**他很累，他**也**继续工作。\n- **即使**暗示假设或极端条件\n- 使用**也**而不是**但是**\n- 比**虽然……但是**更强调\n\n**3. 可是（kěshì）- 但是的替代：**\n- **虽然**他很累，**可是**他继续工作。\n- **可是**在大多数情况下可以替代**但是**\n- **可是**比**但是**稍微更随意\n\n**4. 不过（búguò）- \"然而/但是\"：**\n- **虽然**他很累，**不过**他继续工作。\n- **不过**比**但是**更随意和口语化\n- 常用于汉语口语\n\n**5. 然而（rán'ér）- 正式的\"然而\"：**\n- **虽然**他很累，**然而**他继续工作。\n- **然而**比**但是**更正式和书面化\n- 常用于书面中文\n\n**6. 却（què）- \"但是/然而\"（副词）：**\n- **虽然**他很累，他**却**继续工作。\n- **却**是放在主语后的副词\n- 更书面化和正式\n\n**主要区别：**\n- **虽然/尽管……但是**：最常见，中性语气\n- **即使……也**：假设或极端条件\n- **可是/不过**：**但是**的更随意替代\n- **然而/却**：更正式和书面化"
+        }
+      },
+      "placeholders": [{
+        "suiran": "虽然",
+        "jinguan": "尽管",
+        "danshi": "但是",
+        "keshi": "可是",
+        "buguo": "不过",
+        "raner": "然而",
+        "que": "却",
+        "jishi": "即使",
+        "ye": "也"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes and Tips",
+          "vi": "Lỗi thường gặp và mẹo",
+          "zh": "常见错误和提示"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are common mistakes and useful tips when using **虽然……但是**:\n\n**Common Mistakes:**\n\n**1. Using both in wrong order:**\n- ❌ **但是**他很累，**虽然**他继续工作。 (wrong - contrasting situation should come first)\n- ✅ **虽然**他很累，**但是**他继续工作。 (correct)\n\n**2. Confusing with 因为……所以:**\n- ❌ **虽然**下雨，**所以**我们没去。 (wrong - use 因为 for cause-effect)\n- ✅ **因为**下雨，**所以**我们没去。 (correct - cause-effect)\n- ✅ **虽然**下雨，**但是**我们还是去了。 (correct - contrast)\n- **Note:** **虽然……但是** = contrast (unexpected result), **因为……所以** = cause-effect (logical result)\n\n**3. Using English grammar rules:**\n- ❌ **虽然**他很累，他继续工作。 (in English, we'd say \"Although he is tired, he continues\" - no \"but\")\n- ✅ **虽然**他很累，**但是**他继续工作。 (correct in Chinese - using both is natural)\n- **Important:** Unlike English, using both **虽然** and **但是** together is correct and natural in Chinese\n\n**4. Forgetting the contrast element:**\n- ❌ **虽然**他很累，**但是**他工作。 (incomplete - missing the contrasting result)\n- ✅ **虽然**他很累，**但是**他继续工作。 (correct - shows unexpected continuation)\n\n**5. Using 了 incorrectly:**\n- ❌ **虽然**他很累**了**，**但是**他继续工作。 (less natural - 了 not usually needed)\n- ✅ **虽然**他很累，**但是**他继续工作。 (correct)\n- ✅ **虽然**他**已经**很累了，**但是**他继续工作。 (also correct - using 已经)\n\n**Useful Tips:**\n- Always remember: **虽然** (contrasting situation) comes first, **但是** (unexpected result) comes second\n- **虽然** and **但是** can be used together or separately\n- Unlike English, using both **虽然** and **但是** together is natural and correct in Chinese\n- **虽然……但是** shows contrast (unexpected result despite the situation)\n- **因为……所以** shows cause-effect (logical result from the cause)\n- **但是** alone is very common in everyday speech\n- **可是** and **不过** are casual alternatives to **但是**\n- Practice identifying whether you need contrast (虽然……但是) or cause-effect (因为……所以)",
+          "vi": "Dưới đây là các lỗi thường gặp và mẹo hữu ích khi sử dụng **虽然……但是**:\n\n**Lỗi thường gặp:**\n\n**1. Dùng cả hai theo thứ tự sai:**\n- ❌ **但是**他很累，**虽然**他继续工作。 (sai - tình huống tương phản nên đứng trước)\n- ✅ **虽然**他很累，**但是**他继续工作。 (đúng)\n\n**2. Nhầm lẫn với 因为……所以:**\n- ❌ **虽然**下雨，**所以**我们没去。 (sai - dùng 因为 cho nguyên nhân-kết quả)\n- ✅ **因为**下雨，**所以**我们没去。 (đúng - nguyên nhân-kết quả)\n- ✅ **虽然**下雨，**但是**我们还是去了。 (đúng - tương phản)\n- **Lưu ý:** **虽然……但是** = tương phản (kết quả bất ngờ), **因为……所以** = nguyên nhân-kết quả (kết quả logic)\n\n**3. Dùng quy tắc ngữ pháp tiếng Anh:**\n- ❌ **虽然**他很累，他继续工作。 (trong tiếng Anh, chúng ta nói \"Although he is tired, he continues\" - không có \"but\")\n- ✅ **虽然**他很累，**但是**他继续工作。 (đúng trong tiếng Trung - dùng cả hai là tự nhiên)\n- **Quan trọng:** Khác với tiếng Anh, dùng cả **虽然** và **但是** cùng nhau là đúng và tự nhiên trong tiếng Trung\n\n**4. Quên yếu tố tương phản:**\n- ❌ **虽然**他很累，**但是**他工作。 (chưa hoàn chỉnh - thiếu kết quả tương phản)\n- ✅ **虽然**他很累，**但是**他继续工作。 (đúng - thể hiện sự tiếp tục bất ngờ)\n\n**5. Dùng 了 sai:**\n- ❌ **虽然**他很累**了**，**但是**他继续工作。 (kém tự nhiên - 了 thường không cần thiết)\n- ✅ **虽然**他很累，**但是**他继续工作。 (đúng)\n- ✅ **虽然**他**已经**很累了，**但是**他继续工作。 (cũng đúng - dùng 已经)\n\n**Mẹo hữu ích:**\n- Luôn nhớ: **虽然** (tình huống tương phản) đứng trước, **但是** (kết quả bất ngờ) đứng sau\n- **虽然** và **但是** có thể được dùng cùng nhau hoặc riêng biệt\n- Khác với tiếng Anh, dùng cả **虽然** và **但是** cùng nhau là tự nhiên và đúng trong tiếng Trung\n- **虽然……但是** thể hiện sự tương phản (kết quả bất ngờ bất chấp tình huống)\n- **因为……所以** thể hiện nguyên nhân-kết quả (kết quả logic từ nguyên nhân)\n- Chỉ **但是** rất phổ biến trong lời nói hàng ngày\n- **可是** và **不过** là thay thế thân mật cho **但是**\n- Luyện tập xác định bạn cần tương phản (虽然……但是) hay nguyên nhân-kết quả (因为……所以)",
+          "zh": "以下是使用**虽然……但是**时的常见错误和有用提示：\n\n**常见错误：**\n\n**1. 两者顺序错误：**\n- ❌ **但是**他很累，**虽然**他继续工作。（错误 - 对比情况应该在前面）\n- ✅ **虽然**他很累，**但是**他继续工作。（正确）\n\n**2. 与因为……所以混淆：**\n- ❌ **虽然**下雨，**所以**我们没去。（错误 - 因果关系用因为）\n- ✅ **因为**下雨，**所以**我们没去。（正确 - 因果关系）\n- ✅ **虽然**下雨，**但是**我们还是去了。（正确 - 对比）\n- **注意：** **虽然……但是** = 对比（意外结果），**因为……所以** = 因果关系（逻辑结果）\n\n**3. 使用英语语法规则：**\n- ❌ **虽然**他很累，他继续工作。（在英语中，我们说\"Although he is tired, he continues\" - 没有\"but\"）\n- ✅ **虽然**他很累，**但是**他继续工作。（在汉语中正确 - 两者一起使用是自然的）\n- **重要：** 与英语不同，在汉语中同时使用**虽然**和**但是**是正确的和自然的\n\n**4. 忘记对比元素：**\n- ❌ **虽然**他很累，**但是**他工作。（不完整 - 缺少对比结果）\n- ✅ **虽然**他很累，**但是**他继续工作。（正确 - 显示意外的继续）\n\n**5. 错误使用了：**\n- ❌ **虽然**他很累**了**，**但是**他继续工作。（不太自然 - 了通常不需要）\n- ✅ **虽然**他很累，**但是**他继续工作。（正确）\n- ✅ **虽然**他**已经**很累了，**但是**他继续工作。（也正确 - 使用已经）\n\n**有用提示：**\n- 始终记住：**虽然**（对比情况）在前，**但是**（意外结果）在后\n- **虽然**和**但是**可以一起使用或单独使用\n- 与英语不同，在汉语中同时使用**虽然**和**但是**是自然和正确的\n- **虽然……但是**显示对比（尽管有情况，但仍有意外结果）\n- **因为……所以**显示因果关系（从原因得出的逻辑结果）\n- 仅**但是**在日常口语中非常常见\n- **可是**和**不过**是**但是**的随意替代\n- 练习识别你需要对比（虽然……但是）还是因果关系（因为……所以）"
+        }
+      },
+      "placeholders": [{
+        "suiran": "虽然",
+        "danshi": "但是",
+        "yinwei": "因为",
+        "suoyi": "所以",
+        "keshi": "可是",
+        "buguo": "不过"
+      }]
+    }
+  ]
+}
+

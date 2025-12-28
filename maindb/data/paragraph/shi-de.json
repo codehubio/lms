@@ -1,0 +1,106 @@
+{
+  "id": "shi-de",
+  "title": "是……的 - Emphasis Pattern",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "是……的 - Emphasis Pattern",
+    "vi": "是……的 - Mẫu câu nhấn mạnh",
+    "zh": "是……的 - 强调句型"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "是……的 - Basic Emphasis Pattern (是……的)",
+          "vi": "是……的 - Mẫu câu nhấn mạnh cơ bản (是……的)",
+          "zh": "是……的 - 基本强调句型"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**是……的** (shì...de) is an important emphasis pattern in Chinese used to highlight specific details about past actions or to express certainty. It is commonly used to emphasize **time**, **place**, **manner**, **purpose**, or **agent** of a completed action.\n\n**Basic Structure:**\nSubject + 是 + Emphasized Element + Verb + 的\nOR\nSubject + 是 + Verb + 的 + (Emphasized Element)\n\n**Key Points:**\n- **是** (shì) marks the beginning of the emphasis\n- **的** (de) marks the end of the emphasis\n- The emphasized element (time, place, manner, etc.) is placed between **是** and **的**\n- This pattern is typically used for **past actions** that are already completed\n- **是** can sometimes be omitted in spoken Chinese, but **的** is usually kept\n- The pattern emphasizes **how**, **when**, **where**, or **why** something happened, not just that it happened\n\n**Examples:**\n- 我**是**昨天**来**的。 (I came **yesterday**.) - emphasizes time\n- 我**是**坐飞机**来**的。 (I came **by plane**.) - emphasizes manner\n- 他**是**在北京**学**的中文。 (He studied Chinese **in Beijing**.) - emphasizes place\n- 我**是**为了工作**来**的。 (I came **for work**.) - emphasizes purpose\n\n**Note:** The verb in this pattern usually represents a completed action, and the emphasis is on the details surrounding that action.",
+          "vi": "**是……的** (shì...de) là mẫu câu nhấn mạnh quan trọng trong tiếng Trung dùng để làm nổi bật các chi tiết cụ thể về hành động quá khứ hoặc để diễn đạt sự chắc chắn. Nó thường được dùng để nhấn mạnh **thời gian**, **địa điểm**, **cách thức**, **mục đích**, hoặc **tác nhân** của một hành động đã hoàn thành.\n\n**Cấu trúc cơ bản:**\nChủ ngữ + 是 + Yếu tố được nhấn mạnh + Động từ + 的\nHOẶC\nChủ ngữ + 是 + Động từ + 的 + (Yếu tố được nhấn mạnh)\n\n**Điểm quan trọng:**\n- **是** (shì) đánh dấu sự bắt đầu của sự nhấn mạnh\n- **的** (de) đánh dấu sự kết thúc của sự nhấn mạnh\n- Yếu tố được nhấn mạnh (thời gian, địa điểm, cách thức, etc.) được đặt giữa **是** và **的**\n- Mẫu này thường được dùng cho **hành động quá khứ** đã hoàn thành\n- **是** đôi khi có thể bỏ qua trong tiếng Trung nói, nhưng **的** thường được giữ lại\n- Mẫu này nhấn mạnh **như thế nào**, **khi nào**, **ở đâu**, hoặc **tại sao** điều gì đó xảy ra, không chỉ là nó đã xảy ra\n\n**Ví dụ:**\n- 我**是**昨天**来**的。 (Tôi đã đến **hôm qua**.) - nhấn mạnh thời gian\n- 我**是**坐飞机**来**的。 (Tôi đã đến **bằng máy bay**.) - nhấn mạnh cách thức\n- 他**是**在北京**学**的中文。 (Anh ấy đã học tiếng Trung **ở Bắc Kinh**.) - nhấn mạnh địa điểm\n- 我**是**为了工作**来**的。 (Tôi đã đến **vì công việc**.) - nhấn mạnh mục đích\n\n**Lưu ý:** Động từ trong mẫu này thường đại diện cho một hành động đã hoàn thành, và sự nhấn mạnh là về các chi tiết xung quanh hành động đó.",
+          "zh": "**是……的**（shì...de）是汉语中重要的强调句型，用于突出过去动作的具体细节或表达确定性。它常用于强调已完成动作的**时间**、**地点**、**方式**、**目的**或**施事**。\n\n**基本结构：**\n主语 + 是 + 被强调的成分 + 动词 + 的\n或\n主语 + 是 + 动词 + 的 + （被强调的成分）\n\n**要点：**\n- **是**（shì）标记强调的开始\n- **的**（de）标记强调的结束\n- 被强调的成分（时间、地点、方式等）放在**是**和**的**之间\n- 此模式通常用于已完成的**过去动作**\n- **是**在口语中有时可以省略，但**的**通常保留\n- 此模式强调某事**如何**、**何时**、**何地**或**为何**发生，而不仅仅是它发生了\n\n**例句：**\n- 我**是**昨天**来**的。\n- 我**是**坐飞机**来**的。\n- 他**是**在北京**学**的中文。\n- 我**是**为了工作**来**的。\n\n**注意：** 此模式中的动词通常表示已完成的动作，强调围绕该动作的细节。"
+        }
+      },
+      "placeholders": [{
+        "shi": "是",
+        "de": "的",
+        "time": "昨天",
+        "manner": "坐飞机",
+        "place": "在北京",
+        "purpose": "为了工作"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Emphasizing Different Elements",
+          "vi": "Nhấn mạnh các yếu tố khác nhau",
+          "zh": "强调不同成分"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**是……的** can emphasize different aspects of a past action. Here are the most common uses:\n\n**1. Emphasizing Time (什么时候):**\n- 我**是**昨天**买**的这本书。 (I bought this book **yesterday**.)\n- 他**是**上个月**来**的。 (He came **last month**.)\n- 我们**是**早上八点**出发**的。 (We set out **at 8 AM**.)\n\n**2. Emphasizing Place (在哪里):**\n- 我**是**在北京**学**的中文。 (I studied Chinese **in Beijing**.)\n- 他**是**在图书馆**看**的书。 (He read the book **in the library**.)\n- 我们**是**在学校**见面**的。 (We met **at school**.)\n\n**3. Emphasizing Manner (怎么/怎样):**\n- 我**是**坐火车**去**的。 (I went **by train**.)\n- 他**是**用中文**说**的。 (He said it **in Chinese**.)\n- 我**是**一个人**去**的。 (I went **alone**.)\n\n**4. Emphasizing Purpose (为什么):**\n- 我**是**为了学习**来**的。 (I came **to study**.)\n- 他**是**为了赚钱**做**的这份工作。 (He took this job **to make money**.)\n\n**5. Emphasizing Agent (谁):**\n- 这本书**是**他**写**的。 (This book **was written by him**.)\n- 这封信**是**我**寄**的。 (This letter **was sent by me**.)\n\n**Key Points:**\n- The emphasized element is placed between **是** and **的**\n- The verb comes before **的**\n- **是** can be omitted in casual speech: 我昨天**来**的。 (I came yesterday.)\n- **的** is usually kept even when **是** is omitted",
+          "vi": "**是……的** có thể nhấn mạnh các khía cạnh khác nhau của một hành động quá khứ. Dưới đây là các cách dùng phổ biến nhất:\n\n**1. Nhấn mạnh Thời gian (什么时候):**\n- 我**是**昨天**买**的这本书。 (Tôi đã mua cuốn sách này **hôm qua**.)\n- 他**是**上个月**来**的。 (Anh ấy đã đến **tháng trước**.)\n- 我们**是**早上八点**出发**的。 (Chúng tôi đã khởi hành **lúc 8 giờ sáng**.)\n\n**2. Nhấn mạnh Địa điểm (在哪里):**\n- 我**是**在北京**学**的中文。 (Tôi đã học tiếng Trung **ở Bắc Kinh**.)\n- 他**是**在图书馆**看**的书。 (Anh ấy đã đọc sách **ở thư viện**.)\n- 我们**是**在学校**见面**的。 (Chúng tôi đã gặp nhau **ở trường**.)\n\n**3. Nhấn mạnh Cách thức (怎么/怎样):**\n- 我**是**坐火车**去**的。 (Tôi đã đi **bằng tàu hỏa**.)\n- 他**是**用中文**说**的。 (Anh ấy đã nói **bằng tiếng Trung**.)\n- 我**是**一个人**去**的。 (Tôi đã đi **một mình**.)\n\n**4. Nhấn mạnh Mục đích (为什么):**\n- 我**是**为了学习**来**的。 (Tôi đã đến **để học**.)\n- 他**是**为了赚钱**做**的这份工作。 (Anh ấy đã làm công việc này **để kiếm tiền**.)\n\n**5. Nhấn mạnh Tác nhân (谁):**\n- 这本书**是**他**写**的。 (Cuốn sách này **được viết bởi anh ấy**.)\n- 这封信**是**我**寄**的。 (Lá thư này **được gửi bởi tôi**.)\n\n**Điểm quan trọng:**\n- Yếu tố được nhấn mạnh được đặt giữa **是** và **的**\n- Động từ đứng trước **的**\n- **是** có thể bỏ qua trong lời nói thân mật: 我昨天**来**的。 (Tôi đã đến hôm qua.)\n- **的** thường được giữ lại ngay cả khi **是** bị bỏ qua",
+          "zh": "**是……的**可以强调过去动作的不同方面。以下是最常见的用法：\n\n**1. 强调时间（什么时候）：**\n- 我**是**昨天**买**的这本书。\n- 他**是**上个月**来**的。\n- 我们**是**早上八点**出发**的。\n\n**2. 强调地点（在哪里）：**\n- 我**是**在北京**学**的中文。\n- 他**是**在图书馆**看**的书。\n- 我们**是**在学校**见面**的。\n\n**3. 强调方式（怎么/怎样）：**\n- 我**是**坐火车**去**的。\n- 他**是**用中文**说**的。\n- 我**是**一个人**去**的。\n\n**4. 强调目的（为什么）：**\n- 我**是**为了学习**来**的。\n- 他**是**为了赚钱**做**的这份工作。\n\n**5. 强调施事（谁）：**\n- 这本书**是**他**写**的。\n- 这封信**是**我**寄**的。\n\n**要点：**\n- 被强调的成分放在**是**和**的**之间\n- 动词在**的**之前\n- **是**在口语中可以省略：我昨天**来**的。\n- **的**通常在省略**是**时也保留"
+        }
+      },
+      "placeholders": [{
+        "shi": "是",
+        "de": "的",
+        "zuotian": "昨天",
+        "zaibeijing": "在北京",
+        "zuohuoche": "坐火车",
+        "weile": "为了"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "是……的 vs Regular Past Tense",
+          "vi": "是……的 vs Thì quá khứ thông thường",
+          "zh": "是……的 vs 一般过去时"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding the difference between **是……的** and regular past tense (with **了**) is crucial:\n\n**Regular Past Tense (Verb + 了):**\n- Focuses on **that** something happened\n- Emphasizes the action itself or its completion\n- 我**去**了北京。 (I **went** to Beijing.) - focuses on the action\n- 他**买**了书。 (He **bought** a book.) - focuses on the action\n\n**是……的 Pattern:**\n- Focuses on **details** about how/when/where/why it happened\n- Emphasizes the circumstances surrounding the action\n- 我**是**昨天**去**的北京。 (I went to Beijing **yesterday**.) - emphasizes time\n- 我**是**坐飞机**去**的北京。 (I went to Beijing **by plane**.) - emphasizes manner\n\n**Key Differences:**\n\n**1. Focus:**\n- **了**: \"What happened?\" or \"Did it happen?\"\n- **是……的**: \"How/When/Where/Why did it happen?\"\n\n**2. Usage:**\n- **了**: Used when the action itself is important\n- **是……的**: Used when details about the action are important\n\n**3. Examples Comparison:**\n- 我**去**了。 (I went.) - simple statement\n- 我**是**昨天**去**的。 (I went **yesterday**.) - emphasizes when\n- 他**学**了中文。 (He studied Chinese.) - simple statement\n- 他**是**在北京**学**的中文。 (He studied Chinese **in Beijing**.) - emphasizes where\n\n**Note:** Sometimes both can be used, but with different emphasis. The context determines which is more appropriate.",
+          "vi": "Hiểu sự khác biệt giữa **是……的** và thì quá khứ thông thường (với **了**) là rất quan trọng:\n\n**Thì quá khứ thông thường (Động từ + 了):**\n- Tập trung vào **việc** điều gì đó đã xảy ra\n- Nhấn mạnh bản thân hành động hoặc sự hoàn thành của nó\n- 我**去**了北京。 (Tôi đã **đi** Bắc Kinh.) - tập trung vào hành động\n- 他**买**了书。 (Anh ấy đã **mua** sách.) - tập trung vào hành động\n\n**Mẫu 是……的:**\n- Tập trung vào **chi tiết** về cách/khi nào/ở đâu/tại sao nó xảy ra\n- Nhấn mạnh các tình huống xung quanh hành động\n- 我**是**昨天**去**的北京。 (Tôi đã đi Bắc Kinh **hôm qua**.) - nhấn mạnh thời gian\n- 我**是**坐飞机**去**的北京。 (Tôi đã đi Bắc Kinh **bằng máy bay**.) - nhấn mạnh cách thức\n\n**Sự khác biệt chính:**\n\n**1. Tập trung:**\n- **了**: \"Điều gì đã xảy ra?\" hoặc \"Nó có xảy ra không?\"\n- **是……的**: \"Như thế nào/Khi nào/Ở đâu/Tại sao nó xảy ra?\"\n\n**2. Cách dùng:**\n- **了**: Dùng khi bản thân hành động là quan trọng\n- **是……的**: Dùng khi chi tiết về hành động là quan trọng\n\n**3. Ví dụ so sánh:**\n- 我**去**了。 (Tôi đã đi.) - câu đơn giản\n- 我**是**昨天**去**的。 (Tôi đã đi **hôm qua**.) - nhấn mạnh khi nào\n- 他**学**了中文。 (Anh ấy đã học tiếng Trung.) - câu đơn giản\n- 他**是**在北京**学**的中文。 (Anh ấy đã học tiếng Trung **ở Bắc Kinh**.) - nhấn mạnh ở đâu\n\n**Lưu ý:** Đôi khi cả hai đều có thể được dùng, nhưng với sự nhấn mạnh khác nhau. Ngữ cảnh quyết định cái nào phù hợp hơn.",
+          "zh": "理解**是……的**和一般过去时（带**了**）之间的区别至关重要：\n\n**一般过去时（动词 + 了）：**\n- 关注某事**发生了**\n- 强调动作本身或其完成\n- 我**去**了北京。\n- 他**买**了书。\n\n**是……的句型：**\n- 关注**如何/何时/何地/为何**发生的细节\n- 强调围绕动作的情况\n- 我**是**昨天**去**的北京。\n- 我**是**坐飞机**去**的北京。\n\n**主要区别：**\n\n**1. 焦点：**\n- **了**：\"发生了什么？\"或\"它发生了吗？\"\n- **是……的**：\"如何/何时/何地/为何发生的？\"\n\n**2. 用法：**\n- **了**：当动作本身重要时使用\n- **是……的**：当动作的细节重要时使用\n\n**3. 比较示例：**\n- 我**去**了。\n- 我**是**昨天**去**的。\n- 他**学**了中文。\n- 他**是**在北京**学**的中文。\n\n**注意：** 有时两者都可以使用，但强调不同。语境决定哪个更合适。"
+        }
+      },
+      "placeholders": [{
+        "shi": "是",
+        "de": "的",
+        "le": "了",
+        "zuotian": "昨天",
+        "zuofeiji": "坐飞机"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes and Tips",
+          "vi": "Lỗi thường gặp và mẹo",
+          "zh": "常见错误和提示"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are common mistakes and useful tips when using **是……的**:\n\n**Common Mistakes:**\n\n**1. Forgetting 的:**\n- ❌ 我**是**昨天来。 (missing 的 - incorrect)\n- ✅ 我**是**昨天来**的**。 (correct)\n\n**2. Using 了 with 是……的:**\n- ❌ 我**是**昨天来**了**的。 (redundant - don't use both)\n- ✅ 我**是**昨天来**的**。 (correct - use 的, not 了)\n- **Note:** **是……的** already indicates a completed action, so **了** is not needed\n\n**3. Wrong word order:**\n- ❌ 我昨天**是**来**的**。 (wrong - 是 should come before the emphasized element)\n- ✅ 我**是**昨天来**的**。 (correct)\n\n**4. Using 是……的 for future actions:**\n- ❌ 我**是**明天去**的**。 (wrong - 是……的 is for past actions)\n- ✅ 我明天去。 (correct - use simple future)\n- ✅ 我**是**昨天去**的**。 (correct - past action)\n\n**5. Confusing with 是...的 for possession/description:**\n- 这本书**是**我**的**。 (This book is mine.) - different pattern, 的 indicates possession\n- 我**是**昨天来**的**。 (I came yesterday.) - 是……的 for emphasis\n\n**Useful Tips:**\n- Always remember: **是** (emphasized element) + Verb + **的**\n- **的** is essential and usually cannot be omitted\n- **是** can be omitted in casual speech, but **的** should remain\n- Use **是……的** for **past actions** only\n- The pattern emphasizes **details** (how/when/where/why), not just the action\n- Don't use **了** with **是……的** - they serve different purposes\n- Practice identifying what element is being emphasized (time, place, manner, etc.)",
+          "vi": "Dưới đây là các lỗi thường gặp và mẹo hữu ích khi sử dụng **是……的**:\n\n**Lỗi thường gặp:**\n\n**1. Quên 的:**\n- ❌ 我**是**昨天来。 (thiếu 的 - sai)\n- ✅ 我**是**昨天来**的**。 (đúng)\n\n**2. Dùng 了 với 是……的:**\n- ❌ 我**是**昨天来**了**的。 (thừa - đừng dùng cả hai)\n- ✅ 我**是**昨天来**的**。 (đúng - dùng 的, không phải 了)\n- **Lưu ý:** **是……的** đã chỉ ra một hành động đã hoàn thành, nên **了** không cần thiết\n\n**3. Thứ tự từ sai:**\n- ❌ 我昨天**是**来**的**。 (sai - 是 nên đứng trước yếu tố được nhấn mạnh)\n- ✅ 我**是**昨天来**的**。 (đúng)\n\n**4. Dùng 是……的 cho hành động tương lai:**\n- ❌ 我**是**明天去**的**。 (sai - 是……的 dùng cho hành động quá khứ)\n- ✅ 我明天去。 (đúng - dùng tương lai đơn giản)\n- ✅ 我**是**昨天去**的**。 (đúng - hành động quá khứ)\n\n**5. Nhầm lẫn với 是...的 cho sở hữu/mô tả:**\n- 这本书**是**我**的**。 (Cuốn sách này là của tôi.) - mẫu khác, 的 chỉ sở hữu\n- 我**是**昨天来**的**。 (Tôi đã đến hôm qua.) - 是……的 để nhấn mạnh\n\n**Mẹo hữu ích:**\n- Luôn nhớ: **是** (yếu tố được nhấn mạnh) + Động từ + **的**\n- **的** là cần thiết và thường không thể bỏ qua\n- **是** có thể bỏ qua trong lời nói thân mật, nhưng **的** nên giữ lại\n- Dùng **是……的** chỉ cho **hành động quá khứ**\n- Mẫu này nhấn mạnh **chi tiết** (như thế nào/khi nào/ở đâu/tại sao), không chỉ hành động\n- Đừng dùng **了** với **是……的** - chúng phục vụ mục đích khác nhau\n- Luyện tập xác định yếu tố nào đang được nhấn mạnh (thời gian, địa điểm, cách thức, etc.)",
+          "zh": "以下是使用**是……的**时的常见错误和有用提示：\n\n**常见错误：**\n\n**1. 忘记的：**\n- ❌ 我**是**昨天来。（缺少的 - 错误）\n- ✅ 我**是**昨天来**的**。（正确）\n\n**2. 与是……的一起使用了：**\n- ❌ 我**是**昨天来**了**的。（冗余 - 不要同时使用）\n- ✅ 我**是**昨天来**的**。（正确 - 使用的，不是了）\n- **注意：** **是……的**已经表示已完成的动作，所以不需要**了**\n\n**3. 词序错误：**\n- ❌ 我昨天**是**来**的**。（错误 - 是应该在强调成分之前）\n- ✅ 我**是**昨天来**的**。（正确）\n\n**4. 对将来动作使用是……的：**\n- ❌ 我**是**明天去**的**。（错误 - 是……的用于过去动作）\n- ✅ 我明天去。（正确 - 使用简单将来时）\n- ✅ 我**是**昨天去**的**。（正确 - 过去动作）\n\n**5. 与表示所有/描述的是...的混淆：**\n- 这本书**是**我**的**。（这本书是我的。）- 不同模式，的表示所有\n- 我**是**昨天来**的**。（我昨天来的。）- 是……的用于强调\n\n**有用提示：**\n- 始终记住：**是**（被强调的成分）+ 动词 + **的**\n- **的**是必需的，通常不能省略\n- **是**在口语中可以省略，但**的**应该保留\n- 仅对**过去动作**使用**是……的**\n- 此模式强调**细节**（如何/何时/何地/为何），而不仅仅是动作\n- 不要与**是……的**一起使用**了** - 它们有不同的用途\n- 练习识别正在强调的成分（时间、地点、方式等）"
+        }
+      },
+      "placeholders": [{
+        "shi": "是",
+        "de": "的",
+        "le": "了",
+        "zuotian": "昨天",
+        "mingtian": "明天"
+      }]
+    }
+  ]
+}
+

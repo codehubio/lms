@@ -1,0 +1,2746 @@
+[
+  {
+    "tags": ["HSK3", "economy"],
+    "word": "经济",
+    "description": {
+      "en": "Economy, economics",
+      "vi": "Kinh tế",
+      "zh": "经济，经济学"
+    },
+    "pinyin1": "jīng jì",
+    "pinyin2": "jing1 ji4",
+    "translation": {
+      "en": "economy, economics",
+      "vi": "kinh tế"
+    }
+  },
+  {
+    "tags": ["HSK4", "economy"],
+    "word": "市场",
+    "description": {
+      "en": "Market, marketplace",
+      "vi": "Thị trường",
+      "zh": "市场，市场"
+    },
+    "pinyin1": "shì chǎng",
+    "pinyin2": "shi4 chang3",
+    "translation": {
+      "en": "market, marketplace",
+      "vi": "thị trường"
+    }
+  },
+  {
+    "tags": ["HSK4", "economy"],
+    "word": "价格",
+    "description": {
+      "en": "Price",
+      "vi": "Giá cả",
+      "zh": "价格"
+    },
+    "pinyin1": "jià gé",
+    "pinyin2": "jia4 ge2",
+    "translation": {
+      "en": "price",
+      "vi": "giá cả"
+    }
+  },
+  {
+    "tags": ["HSK4", "economy"],
+    "word": "商品",
+    "description": {
+      "en": "Commodity, product, goods",
+      "vi": "Hàng hóa, sản phẩm",
+      "zh": "商品，产品"
+    },
+    "pinyin1": "shāng pǐn",
+    "pinyin2": "shang1 pin3",
+    "translation": {
+      "en": "commodity, product, goods",
+      "vi": "hàng hóa, sản phẩm"
+    }
+  },
+  {
+    "tags": ["HSK4", "economy"],
+    "word": "贸易",
+    "description": {
+      "en": "Trade, commerce",
+      "vi": "Thương mại",
+      "zh": "贸易"
+    },
+    "pinyin1": "mào yì",
+    "pinyin2": "mao4 yi4",
+    "translation": {
+      "en": "trade, commerce",
+      "vi": "thương mại"
+    }
+  },
+  {
+    "tags": ["HSK4", "economy"],
+    "word": "银行",
+    "description": {
+      "en": "Bank",
+      "vi": "Ngân hàng",
+      "zh": "银行"
+    },
+    "pinyin1": "yín háng",
+    "pinyin2": "yin2 hang2",
+    "translation": {
+      "en": "bank",
+      "vi": "ngân hàng"
+    }
+  },
+  {
+    "tags": ["HSK4", "economy"],
+    "word": "货币",
+    "description": {
+      "en": "Currency, money",
+      "vi": "Tiền tệ, tiền",
+      "zh": "货币，钱"
+    },
+    "pinyin1": "huò bì",
+    "pinyin2": "huo4 bi4",
+    "translation": {
+      "en": "currency, money",
+      "vi": "tiền tệ, tiền"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "投资",
+    "description": {
+      "en": "Investment, to invest",
+      "vi": "Đầu tư",
+      "zh": "投资"
+    },
+    "pinyin1": "tóu zī",
+    "pinyin2": "tou2 zi1",
+    "translation": {
+      "en": "investment, to invest",
+      "vi": "đầu tư"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "消费",
+    "description": {
+      "en": "Consumption, to consume",
+      "vi": "Tiêu dùng, tiêu thụ",
+      "zh": "消费"
+    },
+    "pinyin1": "xiāo fèi",
+    "pinyin2": "xiao1 fei4",
+    "translation": {
+      "en": "consumption, to consume",
+      "vi": "tiêu dùng, tiêu thụ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "收入",
+    "description": {
+      "en": "Income, revenue",
+      "vi": "Thu nhập, doanh thu",
+      "zh": "收入"
+    },
+    "pinyin1": "shōu rù",
+    "pinyin2": "shou1 ru4",
+    "translation": {
+      "en": "income, revenue",
+      "vi": "thu nhập, doanh thu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "支出",
+    "description": {
+      "en": "Expenditure, expense",
+      "vi": "Chi tiêu, chi phí",
+      "zh": "支出"
+    },
+    "pinyin1": "zhī chū",
+    "pinyin2": "zhi1 chu1",
+    "translation": {
+      "en": "expenditure, expense",
+      "vi": "chi tiêu, chi phí"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "利润",
+    "description": {
+      "en": "Profit",
+      "vi": "Lợi nhuận",
+      "zh": "利润"
+    },
+    "pinyin1": "lì rùn",
+    "pinyin2": "li4 run4",
+    "translation": {
+      "en": "profit",
+      "vi": "lợi nhuận"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "成本",
+    "description": {
+      "en": "Cost, expense",
+      "vi": "Chi phí, giá thành",
+      "zh": "成本"
+    },
+    "pinyin1": "chéng běn",
+    "pinyin2": "cheng2 ben3",
+    "translation": {
+      "en": "cost, expense",
+      "vi": "chi phí, giá thành"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "股票",
+    "description": {
+      "en": "Stock, share",
+      "vi": "Cổ phiếu",
+      "zh": "股票"
+    },
+    "pinyin1": "gǔ piào",
+    "pinyin2": "gu3 piao4",
+    "translation": {
+      "en": "stock, share",
+      "vi": "cổ phiếu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "公司",
+    "description": {
+      "en": "Company, corporation",
+      "vi": "Công ty",
+      "zh": "公司"
+    },
+    "pinyin1": "gōng sī",
+    "pinyin2": "gong1 si1",
+    "translation": {
+      "en": "company, corporation",
+      "vi": "công ty"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "企业",
+    "description": {
+      "en": "Enterprise, business",
+      "vi": "Doanh nghiệp",
+      "zh": "企业"
+    },
+    "pinyin1": "qǐ yè",
+    "pinyin2": "qi3 ye4",
+    "translation": {
+      "en": "enterprise, business",
+      "vi": "doanh nghiệp"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "销售",
+    "description": {
+      "en": "Sales, to sell",
+      "vi": "Bán hàng, doanh số",
+      "zh": "销售"
+    },
+    "pinyin1": "xiāo shòu",
+    "pinyin2": "xiao1 shou4",
+    "translation": {
+      "en": "sales, to sell",
+      "vi": "bán hàng, doanh số"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "购买",
+    "description": {
+      "en": "Purchase, to buy",
+      "vi": "Mua, mua sắm",
+      "zh": "购买"
+    },
+    "pinyin1": "gòu mǎi",
+    "pinyin2": "gou4 mai3",
+    "translation": {
+      "en": "purchase, to buy",
+      "vi": "mua, mua sắm"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "贷款",
+    "description": {
+      "en": "Loan, to lend",
+      "vi": "Khoản vay, cho vay",
+      "zh": "贷款"
+    },
+    "pinyin1": "dài kuǎn",
+    "pinyin2": "dai4 kuan3",
+    "translation": {
+      "en": "loan, to lend",
+      "vi": "khoản vay, cho vay"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "利息",
+    "description": {
+      "en": "Interest (on loan)",
+      "vi": "Lãi suất",
+      "zh": "利息"
+    },
+    "pinyin1": "lì xī",
+    "pinyin2": "li4 xi1",
+    "translation": {
+      "en": "interest (on loan)",
+      "vi": "lãi suất"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "税收",
+    "description": {
+      "en": "Tax, taxation",
+      "vi": "Thuế",
+      "zh": "税收"
+    },
+    "pinyin1": "shuì shōu",
+    "pinyin2": "shui4 shou1",
+    "translation": {
+      "en": "tax, taxation",
+      "vi": "thuế"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "预算",
+    "description": {
+      "en": "Budget",
+      "vi": "Ngân sách",
+      "zh": "预算"
+    },
+    "pinyin1": "yù suàn",
+    "pinyin2": "yu4 suan4",
+    "translation": {
+      "en": "budget",
+      "vi": "ngân sách"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "债务",
+    "description": {
+      "en": "Debt",
+      "vi": "Nợ, công nợ",
+      "zh": "债务"
+    },
+    "pinyin1": "zhài wù",
+    "pinyin2": "zhai4 wu4",
+    "translation": {
+      "en": "debt",
+      "vi": "nợ, công nợ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "资产",
+    "description": {
+      "en": "Asset, property",
+      "vi": "Tài sản",
+      "zh": "资产"
+    },
+    "pinyin1": "zī chǎn",
+    "pinyin2": "zi1 chan3",
+    "translation": {
+      "en": "asset, property",
+      "vi": "tài sản"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "负债",
+    "description": {
+      "en": "Liability, debt",
+      "vi": "Nợ phải trả",
+      "zh": "负债"
+    },
+    "pinyin1": "fù zhài",
+    "pinyin2": "fu4 zhai4",
+    "translation": {
+      "en": "liability, debt",
+      "vi": "nợ phải trả"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "资本",
+    "description": {
+      "en": "Capital",
+      "vi": "Vốn, tư bản",
+      "zh": "资本"
+    },
+    "pinyin1": "zī běn",
+    "pinyin2": "zi1 ben3",
+    "translation": {
+      "en": "capital",
+      "vi": "vốn, tư bản"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "金融",
+    "description": {
+      "en": "Finance, financial",
+      "vi": "Tài chính",
+      "zh": "金融"
+    },
+    "pinyin1": "jīn róng",
+    "pinyin2": "jin1 rong2",
+    "translation": {
+      "en": "finance, financial",
+      "vi": "tài chính"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "汇率",
+    "description": {
+      "en": "Exchange rate",
+      "vi": "Tỷ giá hối đoái",
+      "zh": "汇率"
+    },
+    "pinyin1": "huì lǜ",
+    "pinyin2": "hui4 lv4",
+    "translation": {
+      "en": "exchange rate",
+      "vi": "tỷ giá hối đoái"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "通货膨胀",
+    "description": {
+      "en": "Inflation",
+      "vi": "Lạm phát",
+      "zh": "通货膨胀"
+    },
+    "pinyin1": "tōng huò péng zhàng",
+    "pinyin2": "tong1 huo4 peng2 zhang4",
+    "translation": {
+      "en": "inflation",
+      "vi": "lạm phát"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "失业",
+    "description": {
+      "en": "Unemployment",
+      "vi": "Thất nghiệp",
+      "zh": "失业"
+    },
+    "pinyin1": "shī yè",
+    "pinyin2": "shi1 ye4",
+    "translation": {
+      "en": "unemployment",
+      "vi": "thất nghiệp"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "就业",
+    "description": {
+      "en": "Employment",
+      "vi": "Việc làm, có việc làm",
+      "zh": "就业"
+    },
+    "pinyin1": "jiù yè",
+    "pinyin2": "jiu4 ye4",
+    "translation": {
+      "en": "employment",
+      "vi": "việc làm, có việc làm"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "工资",
+    "description": {
+      "en": "Salary, wage",
+      "vi": "Lương, tiền lương",
+      "zh": "工资"
+    },
+    "pinyin1": "gōng zī",
+    "pinyin2": "gong1 zi1",
+    "translation": {
+      "en": "salary, wage",
+      "vi": "lương, tiền lương"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "出口",
+    "description": {
+      "en": "Export, to export",
+      "vi": "Xuất khẩu",
+      "zh": "出口"
+    },
+    "pinyin1": "chū kǒu",
+    "pinyin2": "chu1 kou3",
+    "translation": {
+      "en": "export, to export",
+      "vi": "xuất khẩu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "进口",
+    "description": {
+      "en": "Import, to import",
+      "vi": "Nhập khẩu",
+      "zh": "进口"
+    },
+    "pinyin1": "jìn kǒu",
+    "pinyin2": "jin4 kou3",
+    "translation": {
+      "en": "import, to import",
+      "vi": "nhập khẩu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "竞争",
+    "description": {
+      "en": "Competition, to compete",
+      "vi": "Cạnh tranh",
+      "zh": "竞争"
+    },
+    "pinyin1": "jìng zhēng",
+    "pinyin2": "jing4 zheng1",
+    "translation": {
+      "en": "competition, to compete",
+      "vi": "cạnh tranh"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "垄断",
+    "description": {
+      "en": "Monopoly",
+      "vi": "Độc quyền",
+      "zh": "垄断"
+    },
+    "pinyin1": "lǒng duàn",
+    "pinyin2": "long3 duan4",
+    "translation": {
+      "en": "monopoly",
+      "vi": "độc quyền"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "供应",
+    "description": {
+      "en": "Supply, to supply",
+      "vi": "Cung cấp, nguồn cung",
+      "zh": "供应"
+    },
+    "pinyin1": "gōng yìng",
+    "pinyin2": "gong1 ying4",
+    "translation": {
+      "en": "supply, to supply",
+      "vi": "cung cấp, nguồn cung"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "需求",
+    "description": {
+      "en": "Demand, requirement",
+      "vi": "Nhu cầu, yêu cầu",
+      "zh": "需求"
+    },
+    "pinyin1": "xū qiú",
+    "pinyin2": "xu1 qiu2",
+    "translation": {
+      "en": "demand, requirement",
+      "vi": "nhu cầu, yêu cầu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "生产",
+    "description": {
+      "en": "Production, to produce",
+      "vi": "Sản xuất",
+      "zh": "生产"
+    },
+    "pinyin1": "shēng chǎn",
+    "pinyin2": "sheng1 chan3",
+    "translation": {
+      "en": "production, to produce",
+      "vi": "sản xuất"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "制造",
+    "description": {
+      "en": "Manufacturing, to manufacture",
+      "vi": "Chế tạo, sản xuất",
+      "zh": "制造"
+    },
+    "pinyin1": "zhì zào",
+    "pinyin2": "zhi4 zao4",
+    "translation": {
+      "en": "manufacturing, to manufacture",
+      "vi": "chế tạo, sản xuất"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "服务",
+    "description": {
+      "en": "Service",
+      "vi": "Dịch vụ",
+      "zh": "服务"
+    },
+    "pinyin1": "fú wù",
+    "pinyin2": "fu2 wu4",
+    "translation": {
+      "en": "service",
+      "vi": "dịch vụ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "行业",
+    "description": {
+      "en": "Industry, sector",
+      "vi": "Ngành, lĩnh vực",
+      "zh": "行业"
+    },
+    "pinyin1": "háng yè",
+    "pinyin2": "hang2 ye4",
+    "translation": {
+      "en": "industry, sector",
+      "vi": "ngành, lĩnh vực"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "产业",
+    "description": {
+      "en": "Industry, industrial",
+      "vi": "Công nghiệp",
+      "zh": "产业"
+    },
+    "pinyin1": "chǎn yè",
+    "pinyin2": "chan3 ye4",
+    "translation": {
+      "en": "industry, industrial",
+      "vi": "công nghiệp"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "商业",
+    "description": {
+      "en": "Commerce, business",
+      "vi": "Thương mại, kinh doanh",
+      "zh": "商业"
+    },
+    "pinyin1": "shāng yè",
+    "pinyin2": "shang1 ye4",
+    "translation": {
+      "en": "commerce, business",
+      "vi": "thương mại, kinh doanh"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "合同",
+    "description": {
+      "en": "Contract, agreement",
+      "vi": "Hợp đồng",
+      "zh": "合同"
+    },
+    "pinyin1": "hé tóng",
+    "pinyin2": "he2 tong2",
+    "translation": {
+      "en": "contract, agreement",
+      "vi": "hợp đồng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "协议",
+    "description": {
+      "en": "Agreement, protocol",
+      "vi": "Thỏa thuận, hiệp định",
+      "zh": "协议"
+    },
+    "pinyin1": "xié yì",
+    "pinyin2": "xie2 yi4",
+    "translation": {
+      "en": "agreement, protocol",
+      "vi": "thỏa thuận, hiệp định"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "谈判",
+    "description": {
+      "en": "Negotiation, to negotiate",
+      "vi": "Đàm phán",
+      "zh": "谈判"
+    },
+    "pinyin1": "tán pàn",
+    "pinyin2": "tan2 pan4",
+    "translation": {
+      "en": "negotiation, to negotiate",
+      "vi": "đàm phán"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "客户",
+    "description": {
+      "en": "Customer, client",
+      "vi": "Khách hàng",
+      "zh": "客户"
+    },
+    "pinyin1": "kè hù",
+    "pinyin2": "ke4 hu4",
+    "translation": {
+      "en": "customer, client",
+      "vi": "khách hàng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "供应商",
+    "description": {
+      "en": "Supplier, vendor",
+      "vi": "Nhà cung cấp",
+      "zh": "供应商"
+    },
+    "pinyin1": "gōng yìng shāng",
+    "pinyin2": "gong1 ying4 shang1",
+    "translation": {
+      "en": "supplier, vendor",
+      "vi": "nhà cung cấp"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "消费者",
+    "description": {
+      "en": "Consumer",
+      "vi": "Người tiêu dùng",
+      "zh": "消费者"
+    },
+    "pinyin1": "xiāo fèi zhě",
+    "pinyin2": "xiao1 fei4 zhe3",
+    "translation": {
+      "en": "consumer",
+      "vi": "người tiêu dùng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "投资者",
+    "description": {
+      "en": "Investor",
+      "vi": "Nhà đầu tư",
+      "zh": "投资者"
+    },
+    "pinyin1": "tóu zī zhě",
+    "pinyin2": "tou2 zi1 zhe3",
+    "translation": {
+      "en": "investor",
+      "vi": "nhà đầu tư"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "股东",
+    "description": {
+      "en": "Shareholder, stockholder",
+      "vi": "Cổ đông",
+      "zh": "股东"
+    },
+    "pinyin1": "gǔ dōng",
+    "pinyin2": "gu3 dong1",
+    "translation": {
+      "en": "shareholder, stockholder",
+      "vi": "cổ đông"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "董事会",
+    "description": {
+      "en": "Board of directors",
+      "vi": "Hội đồng quản trị",
+      "zh": "董事会"
+    },
+    "pinyin1": "dǒng shì huì",
+    "pinyin2": "dong3 shi4 hui4",
+    "translation": {
+      "en": "board of directors",
+      "vi": "hội đồng quản trị"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "经理",
+    "description": {
+      "en": "Manager",
+      "vi": "Quản lý, giám đốc",
+      "zh": "经理"
+    },
+    "pinyin1": "jīng lǐ",
+    "pinyin2": "jing1 li3",
+    "translation": {
+      "en": "manager",
+      "vi": "quản lý, giám đốc"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "员工",
+    "description": {
+      "en": "Employee, staff",
+      "vi": "Nhân viên",
+      "zh": "员工"
+    },
+    "pinyin1": "yuán gōng",
+    "pinyin2": "yuan2 gong1",
+    "translation": {
+      "en": "employee, staff",
+      "vi": "nhân viên"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "招聘",
+    "description": {
+      "en": "Recruitment, to recruit",
+      "vi": "Tuyển dụng",
+      "zh": "招聘"
+    },
+    "pinyin1": "zhāo pìn",
+    "pinyin2": "zhao1 pin4",
+    "translation": {
+      "en": "recruitment, to recruit",
+      "vi": "tuyển dụng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "奖金",
+    "description": {
+      "en": "Bonus, reward",
+      "vi": "Tiền thưởng",
+      "zh": "奖金"
+    },
+    "pinyin1": "jiǎng jīn",
+    "pinyin2": "jiang3 jin1",
+    "translation": {
+      "en": "bonus, reward",
+      "vi": "tiền thưởng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "福利",
+    "description": {
+      "en": "Welfare, benefit",
+      "vi": "Phúc lợi",
+      "zh": "福利"
+    },
+    "pinyin1": "fú lì",
+    "pinyin2": "fu2 li4",
+    "translation": {
+      "en": "welfare, benefit",
+      "vi": "phúc lợi"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "保险",
+    "description": {
+      "en": "Insurance",
+      "vi": "Bảo hiểm",
+      "zh": "保险"
+    },
+    "pinyin1": "bǎo xiǎn",
+    "pinyin2": "bao3 xian3",
+    "translation": {
+      "en": "insurance",
+      "vi": "bảo hiểm"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "养老金",
+    "description": {
+      "en": "Pension, retirement fund",
+      "vi": "Lương hưu",
+      "zh": "养老金"
+    },
+    "pinyin1": "yǎng lǎo jīn",
+    "pinyin2": "yang3 lao3 jin1",
+    "translation": {
+      "en": "pension, retirement fund",
+      "vi": "lương hưu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "储蓄",
+    "description": {
+      "en": "Savings, to save",
+      "vi": "Tiết kiệm, khoản tiết kiệm",
+      "zh": "储蓄"
+    },
+    "pinyin1": "chǔ xù",
+    "pinyin2": "chu3 xu4",
+    "translation": {
+      "en": "savings, to save",
+      "vi": "tiết kiệm, khoản tiết kiệm"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "账户",
+    "description": {
+      "en": "Account",
+      "vi": "Tài khoản",
+      "zh": "账户"
+    },
+    "pinyin1": "zhàng hù",
+    "pinyin2": "zhang4 hu4",
+    "translation": {
+      "en": "account",
+      "vi": "tài khoản"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "存款",
+    "description": {
+      "en": "Deposit, savings",
+      "vi": "Tiền gửi, tiết kiệm",
+      "zh": "存款"
+    },
+    "pinyin1": "cún kuǎn",
+    "pinyin2": "cun2 kuan3",
+    "translation": {
+      "en": "deposit, savings",
+      "vi": "tiền gửi, tiết kiệm"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "取款",
+    "description": {
+      "en": "Withdrawal, to withdraw",
+      "vi": "Rút tiền",
+      "zh": "取款"
+    },
+    "pinyin1": "qǔ kuǎn",
+    "pinyin2": "qu3 kuan3",
+    "translation": {
+      "en": "withdrawal, to withdraw",
+      "vi": "rút tiền"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "转账",
+    "description": {
+      "en": "Transfer, to transfer money",
+      "vi": "Chuyển khoản",
+      "zh": "转账"
+    },
+    "pinyin1": "zhuǎn zhàng",
+    "pinyin2": "zhuan3 zhang4",
+    "translation": {
+      "en": "transfer, to transfer money",
+      "vi": "chuyển khoản"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "信用卡",
+    "description": {
+      "en": "Credit card",
+      "vi": "Thẻ tín dụng",
+      "zh": "信用卡"
+    },
+    "pinyin1": "xìn yòng kǎ",
+    "pinyin2": "xin4 yong4 ka3",
+    "translation": {
+      "en": "credit card",
+      "vi": "thẻ tín dụng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "借记卡",
+    "description": {
+      "en": "Debit card",
+      "vi": "Thẻ ghi nợ",
+      "zh": "借记卡"
+    },
+    "pinyin1": "jiè jì kǎ",
+    "pinyin2": "jie4 ji4 ka3",
+    "translation": {
+      "en": "debit card",
+      "vi": "thẻ ghi nợ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "支票",
+    "description": {
+      "en": "Check, cheque",
+      "vi": "Séc",
+      "zh": "支票"
+    },
+    "pinyin1": "zhī piào",
+    "pinyin2": "zhi1 piao4",
+    "translation": {
+      "en": "check, cheque",
+      "vi": "séc"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "现金",
+    "description": {
+      "en": "Cash",
+      "vi": "Tiền mặt",
+      "zh": "现金"
+    },
+    "pinyin1": "xiàn jīn",
+    "pinyin2": "xian4 jin1",
+    "translation": {
+      "en": "cash",
+      "vi": "tiền mặt"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "支付",
+    "description": {
+      "en": "Payment, to pay",
+      "vi": "Thanh toán, trả tiền",
+      "zh": "支付"
+    },
+    "pinyin1": "zhī fù",
+    "pinyin2": "zhi1 fu4",
+    "translation": {
+      "en": "payment, to pay",
+      "vi": "thanh toán, trả tiền"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "收款",
+    "description": {
+      "en": "Receipt, to receive payment",
+      "vi": "Thu tiền",
+      "zh": "收款"
+    },
+    "pinyin1": "shōu kuǎn",
+    "pinyin2": "shou1 kuan3",
+    "translation": {
+      "en": "receipt, to receive payment",
+      "vi": "thu tiền"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "发票",
+    "description": {
+      "en": "Invoice, receipt",
+      "vi": "Hóa đơn",
+      "zh": "发票"
+    },
+    "pinyin1": "fā piào",
+    "pinyin2": "fa1 piao4",
+    "translation": {
+      "en": "invoice, receipt",
+      "vi": "hóa đơn"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "收据",
+    "description": {
+      "en": "Receipt",
+      "vi": "Biên lai",
+      "zh": "收据"
+    },
+    "pinyin1": "shōu jù",
+    "pinyin2": "shou1 ju4",
+    "translation": {
+      "en": "receipt",
+      "vi": "biên lai"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "折扣",
+    "description": {
+      "en": "Discount",
+      "vi": "Giảm giá, chiết khấu",
+      "zh": "折扣"
+    },
+    "pinyin1": "zhé kòu",
+    "pinyin2": "zhe2 kou4",
+    "translation": {
+      "en": "discount",
+      "vi": "giảm giá, chiết khấu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "优惠",
+    "description": {
+      "en": "Discount, preferential",
+      "vi": "Ưu đãi",
+      "zh": "优惠"
+    },
+    "pinyin1": "yōu huì",
+    "pinyin2": "you1 hui4",
+    "translation": {
+      "en": "discount, preferential",
+      "vi": "ưu đãi"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "促销",
+    "description": {
+      "en": "Promotion, sales promotion",
+      "vi": "Khuyến mãi",
+      "zh": "促销"
+    },
+    "pinyin1": "cù xiāo",
+    "pinyin2": "cu4 xiao1",
+    "translation": {
+      "en": "promotion, sales promotion",
+      "vi": "khuyến mãi"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "广告",
+    "description": {
+      "en": "Advertisement, advertising",
+      "vi": "Quảng cáo",
+      "zh": "广告"
+    },
+    "pinyin1": "guǎng gào",
+    "pinyin2": "guang3 gao4",
+    "translation": {
+      "en": "advertisement, advertising",
+      "vi": "quảng cáo"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "营销",
+    "description": {
+      "en": "Marketing",
+      "vi": "Tiếp thị, marketing",
+      "zh": "营销"
+    },
+    "pinyin1": "yíng xiāo",
+    "pinyin2": "ying2 xiao1",
+    "translation": {
+      "en": "marketing",
+      "vi": "tiếp thị, marketing"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "品牌",
+    "description": {
+      "en": "Brand",
+      "vi": "Thương hiệu",
+      "zh": "品牌"
+    },
+    "pinyin1": "pǐn pái",
+    "pinyin2": "pin3 pai2",
+    "translation": {
+      "en": "brand",
+      "vi": "thương hiệu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "商标",
+    "description": {
+      "en": "Trademark",
+      "vi": "Nhãn hiệu",
+      "zh": "商标"
+    },
+    "pinyin1": "shāng biāo",
+    "pinyin2": "shang1 biao1",
+    "translation": {
+      "en": "trademark",
+      "vi": "nhãn hiệu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "专利",
+    "description": {
+      "en": "Patent",
+      "vi": "Bằng sáng chế",
+      "zh": "专利"
+    },
+    "pinyin1": "zhuān lì",
+    "pinyin2": "zhuan1 li4",
+    "translation": {
+      "en": "patent",
+      "vi": "bằng sáng chế"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "版权",
+    "description": {
+      "en": "Copyright",
+      "vi": "Bản quyền",
+      "zh": "版权"
+    },
+    "pinyin1": "bǎn quán",
+    "pinyin2": "ban3 quan2",
+    "translation": {
+      "en": "copyright",
+      "vi": "bản quyền"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "知识产权",
+    "description": {
+      "en": "Intellectual property",
+      "vi": "Sở hữu trí tuệ",
+      "zh": "知识产权"
+    },
+    "pinyin1": "zhī shí chǎn quán",
+    "pinyin2": "zhi1 shi2 chan3 quan2",
+    "translation": {
+      "en": "intellectual property",
+      "vi": "sở hữu trí tuệ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "创新",
+    "description": {
+      "en": "Innovation, to innovate",
+      "vi": "Đổi mới, sáng tạo",
+      "zh": "创新"
+    },
+    "pinyin1": "chuàng xīn",
+    "pinyin2": "chuang4 xin1",
+    "translation": {
+      "en": "innovation, to innovate",
+      "vi": "đổi mới, sáng tạo"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "研发",
+    "description": {
+      "en": "Research and development, R&D",
+      "vi": "Nghiên cứu và phát triển",
+      "zh": "研发"
+    },
+    "pinyin1": "yán fā",
+    "pinyin2": "yan2 fa1",
+    "translation": {
+      "en": "research and development, R&D",
+      "vi": "nghiên cứu và phát triển"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "技术",
+    "description": {
+      "en": "Technology, technique",
+      "vi": "Công nghệ, kỹ thuật",
+      "zh": "技术"
+    },
+    "pinyin1": "jì shù",
+    "pinyin2": "ji4 shu4",
+    "translation": {
+      "en": "technology, technique",
+      "vi": "công nghệ, kỹ thuật"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "效率",
+    "description": {
+      "en": "Efficiency",
+      "vi": "Hiệu quả",
+      "zh": "效率"
+    },
+    "pinyin1": "xiào lǜ",
+    "pinyin2": "xiao4 lv4",
+    "translation": {
+      "en": "efficiency",
+      "vi": "hiệu quả"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "生产力",
+    "description": {
+      "en": "Productivity",
+      "vi": "Năng suất",
+      "zh": "生产力"
+    },
+    "pinyin1": "shēng chǎn lì",
+    "pinyin2": "sheng1 chan3 li4",
+    "translation": {
+      "en": "productivity",
+      "vi": "năng suất"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "质量",
+    "description": {
+      "en": "Quality",
+      "vi": "Chất lượng",
+      "zh": "质量"
+    },
+    "pinyin1": "zhì liàng",
+    "pinyin2": "zhi4 liang4",
+    "translation": {
+      "en": "quality",
+      "vi": "chất lượng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "标准",
+    "description": {
+      "en": "Standard, criterion",
+      "vi": "Tiêu chuẩn",
+      "zh": "标准"
+    },
+    "pinyin1": "biāo zhǔn",
+    "pinyin2": "biao1 zhun3",
+    "translation": {
+      "en": "standard, criterion",
+      "vi": "tiêu chuẩn"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "认证",
+    "description": {
+      "en": "Certification, to certify",
+      "vi": "Chứng nhận",
+      "zh": "认证"
+    },
+    "pinyin1": "rèn zhèng",
+    "pinyin2": "ren4 zheng4",
+    "translation": {
+      "en": "certification, to certify",
+      "vi": "chứng nhận"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "物流",
+    "description": {
+      "en": "Logistics",
+      "vi": "Hậu cần, logistics",
+      "zh": "物流"
+    },
+    "pinyin1": "wù liú",
+    "pinyin2": "wu4 liu2",
+    "translation": {
+      "en": "logistics",
+      "vi": "hậu cần, logistics"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "运输",
+    "description": {
+      "en": "Transportation, transport",
+      "vi": "Vận chuyển",
+      "zh": "运输"
+    },
+    "pinyin1": "yùn shū",
+    "pinyin2": "yun4 shu1",
+    "translation": {
+      "en": "transportation, transport",
+      "vi": "vận chuyển"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "仓库",
+    "description": {
+      "en": "Warehouse, storage",
+      "vi": "Kho hàng",
+      "zh": "仓库"
+    },
+    "pinyin1": "cāng kù",
+    "pinyin2": "cang1 ku4",
+    "translation": {
+      "en": "warehouse, storage",
+      "vi": "kho hàng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "库存",
+    "description": {
+      "en": "Inventory, stock",
+      "vi": "Hàng tồn kho",
+      "zh": "库存"
+    },
+    "pinyin1": "kù cún",
+    "pinyin2": "ku4 cun2",
+    "translation": {
+      "en": "inventory, stock",
+      "vi": "hàng tồn kho"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "供应链",
+    "description": {
+      "en": "Supply chain",
+      "vi": "Chuỗi cung ứng",
+      "zh": "供应链"
+    },
+    "pinyin1": "gōng yìng liàn",
+    "pinyin2": "gong1 ying4 lian4",
+    "translation": {
+      "en": "supply chain",
+      "vi": "chuỗi cung ứng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "分销",
+    "description": {
+      "en": "Distribution",
+      "vi": "Phân phối",
+      "zh": "分销"
+    },
+    "pinyin1": "fēn xiāo",
+    "pinyin2": "fen1 xiao1",
+    "translation": {
+      "en": "distribution",
+      "vi": "phân phối"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "零售",
+    "description": {
+      "en": "Retail",
+      "vi": "Bán lẻ",
+      "zh": "零售"
+    },
+    "pinyin1": "líng shòu",
+    "pinyin2": "ling2 shou4",
+    "translation": {
+      "en": "retail",
+      "vi": "bán lẻ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "批发",
+    "description": {
+      "en": "Wholesale",
+      "vi": "Bán sỉ",
+      "zh": "批发"
+    },
+    "pinyin1": "pī fā",
+    "pinyin2": "pi1 fa1",
+    "translation": {
+      "en": "wholesale",
+      "vi": "bán sỉ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "代理商",
+    "description": {
+      "en": "Agent, dealer",
+      "vi": "Đại lý",
+      "zh": "代理商"
+    },
+    "pinyin1": "dài lǐ shāng",
+    "pinyin2": "dai4 li3 shang1",
+    "translation": {
+      "en": "agent, dealer",
+      "vi": "đại lý"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "经销商",
+    "description": {
+      "en": "Distributor, dealer",
+      "vi": "Nhà phân phối",
+      "zh": "经销商"
+    },
+    "pinyin1": "jīng xiāo shāng",
+    "pinyin2": "jing1 xiao1 shang1",
+    "translation": {
+      "en": "distributor, dealer",
+      "vi": "nhà phân phối"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "加盟",
+    "description": {
+      "en": "Franchise, to join",
+      "vi": "Nhượng quyền, gia nhập",
+      "zh": "加盟"
+    },
+    "pinyin1": "jiā méng",
+    "pinyin2": "jia1 meng2",
+    "translation": {
+      "en": "franchise, to join",
+      "vi": "nhượng quyền, gia nhập"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "连锁",
+    "description": {
+      "en": "Chain, chain store",
+      "vi": "Chuỗi, chuỗi cửa hàng",
+      "zh": "连锁"
+    },
+    "pinyin1": "lián suǒ",
+    "pinyin2": "lian2 suo3",
+    "translation": {
+      "en": "chain, chain store",
+      "vi": "chuỗi, chuỗi cửa hàng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "营业额",
+    "description": {
+      "en": "Turnover, revenue",
+      "vi": "Doanh thu",
+      "zh": "营业额"
+    },
+    "pinyin1": "yíng yè é",
+    "pinyin2": "ying2 ye4 e2",
+    "translation": {
+      "en": "turnover, revenue",
+      "vi": "doanh thu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "销售额",
+    "description": {
+      "en": "Sales volume, sales",
+      "vi": "Doanh số bán hàng",
+      "zh": "销售额"
+    },
+    "pinyin1": "xiāo shòu é",
+    "pinyin2": "xiao1 shou4 e2",
+    "translation": {
+      "en": "sales volume, sales",
+      "vi": "doanh số bán hàng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "市场份额",
+    "description": {
+      "en": "Market share",
+      "vi": "Thị phần",
+      "zh": "市场份额"
+    },
+    "pinyin1": "shì chǎng fèn é",
+    "pinyin2": "shi4 chang3 fen4 e2",
+    "translation": {
+      "en": "market share",
+      "vi": "thị phần"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "增长率",
+    "description": {
+      "en": "Growth rate",
+      "vi": "Tỷ lệ tăng trưởng",
+      "zh": "增长率"
+    },
+    "pinyin1": "zēng zhǎng lǜ",
+    "pinyin2": "zeng1 zhang3 lv4",
+    "translation": {
+      "en": "growth rate",
+      "vi": "tỷ lệ tăng trưởng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "收益率",
+    "description": {
+      "en": "Return rate, yield",
+      "vi": "Tỷ suất sinh lời",
+      "zh": "收益率"
+    },
+    "pinyin1": "shōu yì lǜ",
+    "pinyin2": "shou1 yi4 lv4",
+    "translation": {
+      "en": "return rate, yield",
+      "vi": "tỷ suất sinh lời"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "风险",
+    "description": {
+      "en": "Risk",
+      "vi": "Rủi ro",
+      "zh": "风险"
+    },
+    "pinyin1": "fēng xiǎn",
+    "pinyin2": "feng1 xian3",
+    "translation": {
+      "en": "risk",
+      "vi": "rủi ro"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "担保",
+    "description": {
+      "en": "Guarantee, to guarantee",
+      "vi": "Bảo lãnh, đảm bảo",
+      "zh": "担保"
+    },
+    "pinyin1": "dān bǎo",
+    "pinyin2": "dan1 bao3",
+    "translation": {
+      "en": "guarantee, to guarantee",
+      "vi": "bảo lãnh, đảm bảo"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "抵押",
+    "description": {
+      "en": "Mortgage, collateral",
+      "vi": "Thế chấp",
+      "zh": "抵押"
+    },
+    "pinyin1": "dǐ yā",
+    "pinyin2": "di3 ya1",
+    "translation": {
+      "en": "mortgage, collateral",
+      "vi": "thế chấp"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "债券",
+    "description": {
+      "en": "Bond, debenture",
+      "vi": "Trái phiếu",
+      "zh": "债券"
+    },
+    "pinyin1": "zhài quàn",
+    "pinyin2": "zhai4 quan4",
+    "translation": {
+      "en": "bond, debenture",
+      "vi": "trái phiếu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "基金",
+    "description": {
+      "en": "Fund, foundation",
+      "vi": "Quỹ",
+      "zh": "基金"
+    },
+    "pinyin1": "jī jīn",
+    "pinyin2": "ji1 jin1",
+    "translation": {
+      "en": "fund, foundation",
+      "vi": "quỹ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "证券",
+    "description": {
+      "en": "Securities, stocks and bonds",
+      "vi": "Chứng khoán",
+      "zh": "证券"
+    },
+    "pinyin1": "zhèng quàn",
+    "pinyin2": "zheng4 quan4",
+    "translation": {
+      "en": "securities, stocks and bonds",
+      "vi": "chứng khoán"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "期货",
+    "description": {
+      "en": "Futures, forward contract",
+      "vi": "Hợp đồng tương lai",
+      "zh": "期货"
+    },
+    "pinyin1": "qī huò",
+    "pinyin2": "qi1 huo4",
+    "translation": {
+      "en": "futures, forward contract",
+      "vi": "hợp đồng tương lai"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "期权",
+    "description": {
+      "en": "Option, stock option",
+      "vi": "Quyền chọn",
+      "zh": "期权"
+    },
+    "pinyin1": "qī quán",
+    "pinyin2": "qi1 quan2",
+    "translation": {
+      "en": "option, stock option",
+      "vi": "quyền chọn"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "市值",
+    "description": {
+      "en": "Market value, market capitalization",
+      "vi": "Giá trị thị trường",
+      "zh": "市值"
+    },
+    "pinyin1": "shì zhí",
+    "pinyin2": "shi4 zhi2",
+    "translation": {
+      "en": "market value, market capitalization",
+      "vi": "giá trị thị trường"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "估值",
+    "description": {
+      "en": "Valuation, estimated value",
+      "vi": "Định giá",
+      "zh": "估值"
+    },
+    "pinyin1": "gū zhí",
+    "pinyin2": "gu1 zhi2",
+    "translation": {
+      "en": "valuation, estimated value",
+      "vi": "định giá"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "破产",
+    "description": {
+      "en": "Bankruptcy, to go bankrupt",
+      "vi": "Phá sản",
+      "zh": "破产"
+    },
+    "pinyin1": "pò chǎn",
+    "pinyin2": "po4 chan3",
+    "translation": {
+      "en": "bankruptcy, to go bankrupt",
+      "vi": "phá sản"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "清算",
+    "description": {
+      "en": "Liquidation, settlement",
+      "vi": "Thanh lý, giải quyết",
+      "zh": "清算"
+    },
+    "pinyin1": "qīng suàn",
+    "pinyin2": "qing1 suan4",
+    "translation": {
+      "en": "liquidation, settlement",
+      "vi": "thanh lý, giải quyết"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "合并",
+    "description": {
+      "en": "Merger, to merge",
+      "vi": "Sáp nhập",
+      "zh": "合并"
+    },
+    "pinyin1": "hé bìng",
+    "pinyin2": "he2 bing4",
+    "translation": {
+      "en": "merger, to merge",
+      "vi": "sáp nhập"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "收购",
+    "description": {
+      "en": "Acquisition, to acquire",
+      "vi": "Mua lại, thâu tóm",
+      "zh": "收购"
+    },
+    "pinyin1": "shōu gòu",
+    "pinyin2": "shou1 gou4",
+    "translation": {
+      "en": "acquisition, to acquire",
+      "vi": "mua lại, thâu tóm"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "上市",
+    "description": {
+      "en": "To go public, IPO",
+      "vi": "Lên sàn, phát hành công khai",
+      "zh": "上市"
+    },
+    "pinyin1": "shàng shì",
+    "pinyin2": "shang4 shi4",
+    "translation": {
+      "en": "to go public, IPO",
+      "vi": "lên sàn, phát hành công khai"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "退市",
+    "description": {
+      "en": "Delisting, to delist",
+      "vi": "Rút khỏi sàn",
+      "zh": "退市"
+    },
+    "pinyin1": "tuì shì",
+    "pinyin2": "tui4 shi4",
+    "translation": {
+      "en": "delisting, to delist",
+      "vi": "rút khỏi sàn"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "股息",
+    "description": {
+      "en": "Dividend",
+      "vi": "Cổ tức",
+      "zh": "股息"
+    },
+    "pinyin1": "gǔ xī",
+    "pinyin2": "gu3 xi1",
+    "translation": {
+      "en": "dividend",
+      "vi": "cổ tức"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "红利",
+    "description": {
+      "en": "Bonus, dividend",
+      "vi": "Thưởng, cổ tức",
+      "zh": "红利"
+    },
+    "pinyin1": "hóng lì",
+    "pinyin2": "hong2 li4",
+    "translation": {
+      "en": "bonus, dividend",
+      "vi": "thưởng, cổ tức"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "亏损",
+    "description": {
+      "en": "Loss, deficit",
+      "vi": "Lỗ, thâm hụt",
+      "zh": "亏损"
+    },
+    "pinyin1": "kuī sǔn",
+    "pinyin2": "kui1 sun3",
+    "translation": {
+      "en": "loss, deficit",
+      "vi": "lỗ, thâm hụt"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "盈利",
+    "description": {
+      "en": "Profit, earnings",
+      "vi": "Lợi nhuận, thu nhập",
+      "zh": "盈利"
+    },
+    "pinyin1": "yíng lì",
+    "pinyin2": "ying2 li4",
+    "translation": {
+      "en": "profit, earnings",
+      "vi": "lợi nhuận, thu nhập"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "经济周期",
+    "description": {
+      "en": "Economic cycle, business cycle",
+      "vi": "Chu kỳ kinh tế",
+      "zh": "经济周期"
+    },
+    "pinyin1": "jīng jì zhōu qī",
+    "pinyin2": "jing1 ji4 zhou1 qi1",
+    "translation": {
+      "en": "economic cycle, business cycle",
+      "vi": "chu kỳ kinh tế"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "衰退",
+    "description": {
+      "en": "Recession, decline",
+      "vi": "Suy thoái",
+      "zh": "衰退"
+    },
+    "pinyin1": "shuāi tuì",
+    "pinyin2": "shuai1 tui4",
+    "translation": {
+      "en": "recession, decline",
+      "vi": "suy thoái"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "繁荣",
+    "description": {
+      "en": "Prosperity, boom",
+      "vi": "Thịnh vượng, bùng nổ",
+      "zh": "繁荣"
+    },
+    "pinyin1": "fán róng",
+    "pinyin2": "fan2 rong2",
+    "translation": {
+      "en": "prosperity, boom",
+      "vi": "thịnh vượng, bùng nổ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "萧条",
+    "description": {
+      "en": "Depression, slump",
+      "vi": "Đình trệ, suy thoái",
+      "zh": "萧条"
+    },
+    "pinyin1": "xiāo tiáo",
+    "pinyin2": "xiao1 tiao2",
+    "translation": {
+      "en": "depression, slump",
+      "vi": "đình trệ, suy thoái"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "复苏",
+    "description": {
+      "en": "Recovery, revival",
+      "vi": "Phục hồi",
+      "zh": "复苏"
+    },
+    "pinyin1": "fù sū",
+    "pinyin2": "fu4 su1",
+    "translation": {
+      "en": "recovery, revival",
+      "vi": "phục hồi"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "增长",
+    "description": {
+      "en": "Growth, increase",
+      "vi": "Tăng trưởng",
+      "zh": "增长"
+    },
+    "pinyin1": "zēng zhǎng",
+    "pinyin2": "zeng1 zhang3",
+    "translation": {
+      "en": "growth, increase",
+      "vi": "tăng trưởng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "萎缩",
+    "description": {
+      "en": "Contraction, shrinkage",
+      "vi": "Thu hẹp, co lại",
+      "zh": "萎缩"
+    },
+    "pinyin1": "wěi suō",
+    "pinyin2": "wei3 suo1",
+    "translation": {
+      "en": "contraction, shrinkage",
+      "vi": "thu hẹp, co lại"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "稳定",
+    "description": {
+      "en": "Stability, stable",
+      "vi": "Ổn định",
+      "zh": "稳定"
+    },
+    "pinyin1": "wěn dìng",
+    "pinyin2": "wen3 ding4",
+    "translation": {
+      "en": "stability, stable",
+      "vi": "ổn định"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "波动",
+    "description": {
+      "en": "Volatility, fluctuation",
+      "vi": "Biến động",
+      "zh": "波动"
+    },
+    "pinyin1": "bō dòng",
+    "pinyin2": "bo1 dong4",
+    "translation": {
+      "en": "volatility, fluctuation",
+      "vi": "biến động"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "泡沫",
+    "description": {
+      "en": "Bubble, economic bubble",
+      "vi": "Bong bóng",
+      "zh": "泡沫"
+    },
+    "pinyin1": "pào mò",
+    "pinyin2": "pao4 mo4",
+    "translation": {
+      "en": "bubble, economic bubble",
+      "vi": "bong bóng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "危机",
+    "description": {
+      "en": "Crisis",
+      "vi": "Khủng hoảng",
+      "zh": "危机"
+    },
+    "pinyin1": "wēi jī",
+    "pinyin2": "wei1 ji1",
+    "translation": {
+      "en": "crisis",
+      "vi": "khủng hoảng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "货币政策",
+    "description": {
+      "en": "Monetary policy",
+      "vi": "Chính sách tiền tệ",
+      "zh": "货币政策"
+    },
+    "pinyin1": "huò bì zhèng cè",
+    "pinyin2": "huo4 bi4 zheng4 ce4",
+    "translation": {
+      "en": "monetary policy",
+      "vi": "chính sách tiền tệ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "财政政策",
+    "description": {
+      "en": "Fiscal policy",
+      "vi": "Chính sách tài chính",
+      "zh": "财政政策"
+    },
+    "pinyin1": "cái zhèng zhèng cè",
+    "pinyin2": "cai2 zheng4 zheng4 ce4",
+    "translation": {
+      "en": "fiscal policy",
+      "vi": "chính sách tài chính"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "基准利率",
+    "description": {
+      "en": "Benchmark interest rate",
+      "vi": "Lãi suất chuẩn",
+      "zh": "基准利率"
+    },
+    "pinyin1": "jī zhǔn lì lǜ",
+    "pinyin2": "ji1 zhun3 li4 lv4",
+    "translation": {
+      "en": "benchmark interest rate",
+      "vi": "lãi suất chuẩn"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "准备金率",
+    "description": {
+      "en": "Reserve requirement ratio",
+      "vi": "Tỷ lệ dự trữ bắt buộc",
+      "zh": "准备金率"
+    },
+    "pinyin1": "zhǔn bèi jīn lǜ",
+    "pinyin2": "zhun3 bei4 jin1 lv4",
+    "translation": {
+      "en": "reserve requirement ratio",
+      "vi": "tỷ lệ dự trữ bắt buộc"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "量化宽松",
+    "description": {
+      "en": "Quantitative easing",
+      "vi": "Nới lỏng định lượng",
+      "zh": "量化宽松"
+    },
+    "pinyin1": "liàng huà kuān sōng",
+    "pinyin2": "liang4 hua4 kuan1 song1",
+    "translation": {
+      "en": "quantitative easing",
+      "vi": "nới lỏng định lượng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "紧缩",
+    "description": {
+      "en": "Tightening, austerity",
+      "vi": "Thắt chặt",
+      "zh": "紧缩"
+    },
+    "pinyin1": "jǐn suō",
+    "pinyin2": "jin3 suo1",
+    "translation": {
+      "en": "tightening, austerity",
+      "vi": "thắt chặt"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "刺激",
+    "description": {
+      "en": "Stimulus, to stimulate",
+      "vi": "Kích thích",
+      "zh": "刺激"
+    },
+    "pinyin1": "cì jī",
+    "pinyin2": "ci4 ji1",
+    "translation": {
+      "en": "stimulus, to stimulate",
+      "vi": "kích thích"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "补贴",
+    "description": {
+      "en": "Subsidy, to subsidize",
+      "vi": "Trợ cấp",
+      "zh": "补贴"
+    },
+    "pinyin1": "bǔ tiē",
+    "pinyin2": "bu3 tie1",
+    "translation": {
+      "en": "subsidy, to subsidize",
+      "vi": "trợ cấp"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "关税",
+    "description": {
+      "en": "Tariff, customs duty",
+      "vi": "Thuế quan",
+      "zh": "关税"
+    },
+    "pinyin1": "guān shuì",
+    "pinyin2": "guan1 shui4",
+    "translation": {
+      "en": "tariff, customs duty",
+      "vi": "thuế quan"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "配额",
+    "description": {
+      "en": "Quota",
+      "vi": "Hạn ngạch",
+      "zh": "配额"
+    },
+    "pinyin1": "pèi é",
+    "pinyin2": "pei4 e2",
+    "translation": {
+      "en": "quota",
+      "vi": "hạn ngạch"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "禁运",
+    "description": {
+      "en": "Embargo",
+      "vi": "Cấm vận",
+      "zh": "禁运"
+    },
+    "pinyin1": "jìn yùn",
+    "pinyin2": "jin4 yun4",
+    "translation": {
+      "en": "embargo",
+      "vi": "cấm vận"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "制裁",
+    "description": {
+      "en": "Sanctions",
+      "vi": "Trừng phạt",
+      "zh": "制裁"
+    },
+    "pinyin1": "zhì cái",
+    "pinyin2": "zhi4 cai2",
+    "translation": {
+      "en": "sanctions",
+      "vi": "trừng phạt"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "自由贸易",
+    "description": {
+      "en": "Free trade",
+      "vi": "Thương mại tự do",
+      "zh": "自由贸易"
+    },
+    "pinyin1": "zì yóu mào yì",
+    "pinyin2": "zi4 you2 mao4 yi4",
+    "translation": {
+      "en": "free trade",
+      "vi": "thương mại tự do"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "保护主义",
+    "description": {
+      "en": "Protectionism",
+      "vi": "Chủ nghĩa bảo hộ",
+      "zh": "保护主义"
+    },
+    "pinyin1": "bǎo hù zhǔ yì",
+    "pinyin2": "bao3 hu4 zhu3 yi4",
+    "translation": {
+      "en": "protectionism",
+      "vi": "chủ nghĩa bảo hộ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "全球化",
+    "description": {
+      "en": "Globalization",
+      "vi": "Toàn cầu hóa",
+      "zh": "全球化"
+    },
+    "pinyin1": "quán qiú huà",
+    "pinyin2": "quan2 qiu2 hua4",
+    "translation": {
+      "en": "globalization",
+      "vi": "toàn cầu hóa"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "一体化",
+    "description": {
+      "en": "Integration",
+      "vi": "Tích hợp",
+      "zh": "一体化"
+    },
+    "pinyin1": "yī tǐ huà",
+    "pinyin2": "yi1 ti3 hua4",
+    "translation": {
+      "en": "integration",
+      "vi": "tích hợp"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "联盟",
+    "description": {
+      "en": "Alliance, union",
+      "vi": "Liên minh",
+      "zh": "联盟"
+    },
+    "pinyin1": "lián méng",
+    "pinyin2": "lian2 meng2",
+    "translation": {
+      "en": "alliance, union",
+      "vi": "liên minh"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "伙伴关系",
+    "description": {
+      "en": "Partnership",
+      "vi": "Quan hệ đối tác",
+      "zh": "伙伴关系"
+    },
+    "pinyin1": "huǒ bàn guān xì",
+    "pinyin2": "huo3 ban4 guan1 xi4",
+    "translation": {
+      "en": "partnership",
+      "vi": "quan hệ đối tác"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "条约",
+    "description": {
+      "en": "Treaty, agreement",
+      "vi": "Hiệp ước",
+      "zh": "条约"
+    },
+    "pinyin1": "tiáo yuē",
+    "pinyin2": "tiao2 yue1",
+    "translation": {
+      "en": "treaty, agreement",
+      "vi": "hiệp ước"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "协定",
+    "description": {
+      "en": "Agreement, accord",
+      "vi": "Hiệp định",
+      "zh": "协定"
+    },
+    "pinyin1": "xié dìng",
+    "pinyin2": "xie2 ding4",
+    "translation": {
+      "en": "agreement, accord",
+      "vi": "hiệp định"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "备忘录",
+    "description": {
+      "en": "Memorandum",
+      "vi": "Bản ghi nhớ",
+      "zh": "备忘录"
+    },
+    "pinyin1": "bèi wàng lù",
+    "pinyin2": "bei4 wang4 lu4",
+    "translation": {
+      "en": "memorandum",
+      "vi": "bản ghi nhớ"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "合作",
+    "description": {
+      "en": "Cooperation, to cooperate",
+      "vi": "Hợp tác",
+      "zh": "合作"
+    },
+    "pinyin1": "hé zuò",
+    "pinyin2": "he2 zuo4",
+    "translation": {
+      "en": "cooperation, to cooperate",
+      "vi": "hợp tác"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "寡头",
+    "description": {
+      "en": "Oligopoly",
+      "vi": "Độc quyền nhóm",
+      "zh": "寡头"
+    },
+    "pinyin1": "guǎ tóu",
+    "pinyin2": "gua3 tou2",
+    "translation": {
+      "en": "oligopoly",
+      "vi": "độc quyền nhóm"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "市场结构",
+    "description": {
+      "en": "Market structure",
+      "vi": "Cấu trúc thị trường",
+      "zh": "市场结构"
+    },
+    "pinyin1": "shì chǎng jié gòu",
+    "pinyin2": "shi4 chang3 jie2 gou4",
+    "translation": {
+      "en": "market structure",
+      "vi": "cấu trúc thị trường"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "进入壁垒",
+    "description": {
+      "en": "Barriers to entry",
+      "vi": "Rào cản gia nhập",
+      "zh": "进入壁垒"
+    },
+    "pinyin1": "jìn rù bì lěi",
+    "pinyin2": "jin4 ru4 bi4 lei3",
+    "translation": {
+      "en": "barriers to entry",
+      "vi": "rào cản gia nhập"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "规模经济",
+    "description": {
+      "en": "Economies of scale",
+      "vi": "Kinh tế theo quy mô",
+      "zh": "规模经济"
+    },
+    "pinyin1": "guī mó jīng jì",
+    "pinyin2": "gui1 mo2 jing1 ji4",
+    "translation": {
+      "en": "economies of scale",
+      "vi": "kinh tế theo quy mô"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "边际成本",
+    "description": {
+      "en": "Marginal cost",
+      "vi": "Chi phí biên",
+      "zh": "边际成本"
+    },
+    "pinyin1": "biān jì chéng běn",
+    "pinyin2": "bian1 ji4 cheng2 ben3",
+    "translation": {
+      "en": "marginal cost",
+      "vi": "chi phí biên"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "边际收益",
+    "description": {
+      "en": "Marginal revenue",
+      "vi": "Doanh thu biên",
+      "zh": "边际收益"
+    },
+    "pinyin1": "biān jì shōu yì",
+    "pinyin2": "bian1 ji4 shou1 yi4",
+    "translation": {
+      "en": "marginal revenue",
+      "vi": "doanh thu biên"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "固定成本",
+    "description": {
+      "en": "Fixed cost",
+      "vi": "Chi phí cố định",
+      "zh": "固定成本"
+    },
+    "pinyin1": "gù dìng chéng běn",
+    "pinyin2": "gu4 ding4 cheng2 ben3",
+    "translation": {
+      "en": "fixed cost",
+      "vi": "chi phí cố định"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "可变成本",
+    "description": {
+      "en": "Variable cost",
+      "vi": "Chi phí biến đổi",
+      "zh": "可变成本"
+    },
+    "pinyin1": "kě biàn chéng běn",
+    "pinyin2": "ke3 bian4 cheng2 ben3",
+    "translation": {
+      "en": "variable cost",
+      "vi": "chi phí biến đổi"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "总成本",
+    "description": {
+      "en": "Total cost",
+      "vi": "Tổng chi phí",
+      "zh": "总成本"
+    },
+    "pinyin1": "zǒng chéng běn",
+    "pinyin2": "zong3 cheng2 ben3",
+    "translation": {
+      "en": "total cost",
+      "vi": "tổng chi phí"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "平均成本",
+    "description": {
+      "en": "Average cost",
+      "vi": "Chi phí trung bình",
+      "zh": "平均成本"
+    },
+    "pinyin1": "píng jūn chéng běn",
+    "pinyin2": "ping2 jun1 cheng2 ben3",
+    "translation": {
+      "en": "average cost",
+      "vi": "chi phí trung bình"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "机会成本",
+    "description": {
+      "en": "Opportunity cost",
+      "vi": "Chi phí cơ hội",
+      "zh": "机会成本"
+    },
+    "pinyin1": "jī huì chéng běn",
+    "pinyin2": "ji1 hui4 cheng2 ben3",
+    "translation": {
+      "en": "opportunity cost",
+      "vi": "chi phí cơ hội"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "沉没成本",
+    "description": {
+      "en": "Sunk cost",
+      "vi": "Chi phí chìm",
+      "zh": "沉没成本"
+    },
+    "pinyin1": "chén mò chéng běn",
+    "pinyin2": "chen2 mo4 cheng2 ben3",
+    "translation": {
+      "en": "sunk cost",
+      "vi": "chi phí chìm"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "弹性",
+    "description": {
+      "en": "Elasticity",
+      "vi": "Độ co giãn",
+      "zh": "弹性"
+    },
+    "pinyin1": "tán xìng",
+    "pinyin2": "tan2 xing4",
+    "translation": {
+      "en": "elasticity",
+      "vi": "độ co giãn"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "需求弹性",
+    "description": {
+      "en": "Price elasticity of demand",
+      "vi": "Độ co giãn của cầu",
+      "zh": "需求弹性"
+    },
+    "pinyin1": "xū qiú tán xìng",
+    "pinyin2": "xu1 qiu2 tan2 xing4",
+    "translation": {
+      "en": "price elasticity of demand",
+      "vi": "độ co giãn của cầu"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "供给弹性",
+    "description": {
+      "en": "Price elasticity of supply",
+      "vi": "Độ co giãn của cung",
+      "zh": "供给弹性"
+    },
+    "pinyin1": "gōng jǐ tán xìng",
+    "pinyin2": "gong1 ji3 tan2 xing4",
+    "translation": {
+      "en": "price elasticity of supply",
+      "vi": "độ co giãn của cung"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "均衡",
+    "description": {
+      "en": "Equilibrium, balance",
+      "vi": "Cân bằng",
+      "zh": "均衡"
+    },
+    "pinyin1": "jūn héng",
+    "pinyin2": "jun1 heng2",
+    "translation": {
+      "en": "equilibrium, balance",
+      "vi": "cân bằng"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "市场均衡",
+    "description": {
+      "en": "Market equilibrium",
+      "vi": "Cân bằng thị trường",
+      "zh": "市场均衡"
+    },
+    "pinyin1": "shì chǎng jūn héng",
+    "pinyin2": "shi4 chang3 jun1 heng2",
+    "translation": {
+      "en": "market equilibrium",
+      "vi": "cân bằng thị trường"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "过剩",
+    "description": {
+      "en": "Surplus, excess",
+      "vi": "Thặng dư, dư thừa",
+      "zh": "过剩"
+    },
+    "pinyin1": "guò shèng",
+    "pinyin2": "guo4 sheng4",
+    "translation": {
+      "en": "surplus, excess",
+      "vi": "thặng dư, dư thừa"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "短缺",
+    "description": {
+      "en": "Shortage, deficit",
+      "vi": "Thiếu hụt",
+      "zh": "短缺"
+    },
+    "pinyin1": "duǎn quē",
+    "pinyin2": "duan3 que1",
+    "translation": {
+      "en": "shortage, deficit",
+      "vi": "thiếu hụt"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "宏观调控",
+    "description": {
+      "en": "Macroeconomic regulation",
+      "vi": "Điều tiết vĩ mô",
+      "zh": "宏观调控"
+    },
+    "pinyin1": "hóng guān tiáo kòng",
+    "pinyin2": "hong2 guan1 tiao2 kong4",
+    "translation": {
+      "en": "macroeconomic regulation",
+      "vi": "điều tiết vĩ mô"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "微观经济",
+    "description": {
+      "en": "Microeconomics",
+      "vi": "Kinh tế vi mô",
+      "zh": "微观经济"
+    },
+    "pinyin1": "wēi guān jīng jì",
+    "pinyin2": "wei1 guan1 jing1 ji4",
+    "translation": {
+      "en": "microeconomics",
+      "vi": "kinh tế vi mô"
+    }
+  },
+  {
+    "tags": ["HSK5", "economy"],
+    "word": "宏观经济",
+    "description": {
+      "en": "Macroeconomics",
+      "vi": "Kinh tế vĩ mô",
+      "zh": "宏观经济"
+    },
+    "pinyin1": "hóng guān jīng jì",
+    "pinyin2": "hong2 guan1 jing1 ji4",
+    "translation": {
+      "en": "macroeconomics",
+      "vi": "kinh tế vĩ mô"
+    }
+  }]

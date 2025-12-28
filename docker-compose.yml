@@ -1,0 +1,79 @@
+services:
+  ui:
+    build:
+      context: ./ui
+      dockerfile: Dockerfile
+    container_name: lms-ui
+    ports:
+      - "3333:3333"
+    volumes:
+      # Mount the entire data folder from host to persist database and access JSON files
+      - ./ui/data:/app/data
+    environment:
+      - NODE_ENV=production
+      - PORT=3333
+    restart: unless-stopped
+  seaweed-master:
+    image: chrislusf/seaweedfs:latest
+    command: |
+      master
+        -ip=seaweed-master
+        -volumeSizeLimitMB=100
+    ports:
+      - "9333:9333"
+    networks:
+      - lms-network
+
+  seaweed-volume:
+    image: chrislusf/seaweedfs:latest
+    command: >
+      volume
+        -mserver="seaweed-master:9333"
+        -dir=/data
+        -max=20
+        -ip=seaweed-volume
+        -publicUrl=localhost:8080
+    volumes:
+      - ./seaweed/data:/data
+    ports:
+      - "8080:8080"
+    networks:
+      - lms-network
+    depends_on:
+      - seaweed-master
+
+  seaweed-filer:
+    image: chrislusf/seaweedfs:latest
+    command: |
+      filer
+        -master="seaweed-master:9333"
+        -ip=seaweed-filer
+    ports:
+      - "8888:8888"
+    networks:
+      - lms-network
+    depends_on:
+      - seaweed-master
+
+  seaweed-s3:
+    image: chrislusf/seaweedfs:latest
+    command: |
+      s3
+        -filer="seaweed-filer:8888"
+        -port=8333
+        -ip.bind=0.0.0.0
+        -config=/config/s3.json
+    volumes:
+      - ./seaweed/config:/config
+    ports:
+      - "8333:8333"
+    networks:
+      - lms-network
+    depends_on:
+      - seaweed-master
+      - seaweed-filer
+
+networks:
+  lms-network:
+    driver: bridge
+

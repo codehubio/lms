@@ -1,0 +1,193 @@
+{
+  "id": "number",
+  "title": "Numbers in Chinese",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "Numbers in Chinese",
+    "vi": "Số trong tiếng Trung",
+    "zh": "汉语中的数字"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Basic Numbers (0-10)",
+          "vi": "Số cơ bản (0-10)",
+          "zh": "基本数字（0-10）"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The foundation of Chinese numbers starts with these basic digits:\n\n**0-10:**\n- **零** (líng) - 0\n- **一** (yī) - 1\n- **二** (èr) - 2\n- **三** (sān) - 3\n- **四** (sì) - 4\n- **五** (wǔ) - 5\n- **六** (liù) - 6\n- **七** (qī) - 7\n- **八** (bā) - 8\n- **九** (jiǔ) - 9\n- **十** (shí) - 10\n\n**Note:**\n- **一** (yī) changes to **yāo** (幺) when reading phone numbers or codes to avoid confusion with **七** (qī)\n- **二** (èr) is used for counting, while **两** (liǎng) is used before measure words\n\n**Examples:**\n- 一**个**人 (one person)\n- **两**个苹果 (two apples - note: 两 not 二)",
+          "vi": "Nền tảng của số trong tiếng Trung bắt đầu với các chữ số cơ bản này:\n\n**0-10:**\n- **零** (líng) - 0\n- **一** (yī) - 1\n- **二** (èr) - 2\n- **三** (sān) - 3\n- **四** (sì) - 4\n- **五** (wǔ) - 5\n- **六** (liù) - 6\n- **七** (qī) - 7\n- **八** (bā) - 8\n- **九** (jiǔ) - 9\n- **十** (shí) - 10\n\n**Lưu ý:**\n- **一** (yī) đổi thành **yāo** (幺) khi đọc số điện thoại hoặc mã để tránh nhầm lẫn với **七** (qī)\n- **二** (èr) dùng để đếm, trong khi **两** (liǎng) dùng trước lượng từ\n\n**Ví dụ:**\n- 一**个**人 (một người)\n- **两**个苹果 (hai quả táo - lưu ý: 两 không phải 二)",
+          "zh": "汉语数字的基础从这些基本数字开始：\n\n**0-10：**\n- **零** (líng) - 0\n- **一** (yī) - 1\n- **二** (èr) - 2\n- **三** (sān) - 3\n- **四** (sì) - 4\n- **五** (wǔ) - 5\n- **六** (liù) - 6\n- **七** (qī) - 7\n- **八** (bā) - 8\n- **九** (jiǔ) - 9\n- **十** (shí) - 10\n\n**注意：**\n- **一** (yī) 在读取电话号码或代码时变为 **yāo** (幺)，以避免与 **七** (qī) 混淆\n- **二** (èr) 用于计数，而 **两** (liǎng) 用于量词之前\n\n**例句：**\n- 一**个**人\n- **两**个苹果（注意：用 两 而不是 二）"
+        }
+      },
+      "placeholders": [{
+        "zero": "零",
+        "one": "一",
+        "two": "二",
+        "two_liang": "两",
+        "three": "三",
+        "four": "四",
+        "five": "五",
+        "six": "六",
+        "seven": "七",
+        "eight": "八",
+        "nine": "九",
+        "ten": "十"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Numbers 11-99",
+          "vi": "Số 11-99",
+          "zh": "数字 11-99"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Numbers from 11 to 99 follow a logical pattern in Chinese:\n\n**11-19:**\n- **十一** (shíyī) - 11 (ten-one)\n- **十二** (shí'èr) - 12 (ten-two)\n- **十三** (shísān) - 13 (ten-three)\n- ... continues to **十九** (shíjiǔ) - 19\n\n**20-99:**\n- **二十** (èrshí) - 20 (two-ten)\n- **二十一** (èrshíyī) - 21 (two-ten-one)\n- **三十** (sānshí) - 30 (three-ten)\n- **四十五** (sìshíwǔ) - 45 (four-ten-five)\n- **九十九** (jiǔshíjiǔ) - 99 (nine-ten-nine)\n\n**Pattern:**\n- For 11-19: **十** + digit (no 一 before 十)\n- For 20-99: digit + **十** + (optional digit)\n- When the ones place is zero, you can omit it: **二十** (20), **三十** (30)\n\n**Examples:**\n- **十一**个学生 (eleven students)\n- **二十五**岁 (twenty-five years old)\n- **三十**本书 (thirty books)",
+          "vi": "Số từ 11 đến 99 tuân theo một mẫu logic trong tiếng Trung:\n\n**11-19:**\n- **十一** (shíyī) - 11 (mười-một)\n- **十二** (shí'èr) - 12 (mười-hai)\n- **十三** (shísān) - 13 (mười-ba)\n- ... tiếp tục đến **十九** (shíjiǔ) - 19\n\n**20-99:**\n- **二十** (èrshí) - 20 (hai-mười)\n- **二十一** (èrshíyī) - 21 (hai-mười-một)\n- **三十** (sānshí) - 30 (ba-mười)\n- **四十五** (sìshíwǔ) - 45 (bốn-mười-năm)\n- **九十九** (jiǔshíjiǔ) - 99 (chín-mười-chín)\n\n**Mẫu:**\n- Cho 11-19: **十** + chữ số (không có 一 trước 十)\n- Cho 20-99: chữ số + **十** + (chữ số tùy chọn)\n- Khi hàng đơn vị là số không, bạn có thể bỏ qua: **二十** (20), **三十** (30)\n\n**Ví dụ:**\n- **十一**个学生 (mười một học sinh)\n- **二十五**岁 (hai mươi lăm tuổi)\n- **三十**本书 (ba mươi cuốn sách)",
+          "zh": "11 到 99 的数字在汉语中遵循逻辑模式：\n\n**11-19：**\n- **十一** (shíyī) - 11（十加一）\n- **十二** (shí'èr) - 12（十加二）\n- **十三** (shísān) - 13（十加三）\n- ... 继续到 **十九** (shíjiǔ) - 19\n\n**20-99：**\n- **二十** (èrshí) - 20（二乘十）\n- **二十一** (èrshíyī) - 21（二乘十加一）\n- **三十** (sānshí) - 30（三乘十）\n- **四十五** (sìshíwǔ) - 45（四乘十加五）\n- **九十九** (jiǔshíjiǔ) - 99（九乘十加九）\n\n**模式：**\n- 对于 11-19：**十** + 个位数（十前不加一）\n- 对于 20-99：十位数 + **十** + （可选的个位数）\n- 当个位数为零时，可以省略：**二十** (20)，**三十** (30)\n\n**例句：**\n- **十一**个学生\n- **二十五**岁\n- **三十**本书"
+        }
+      },
+      "placeholders": [{
+        "eleven": "十一",
+        "twelve": "十二",
+        "thirteen": "十三",
+        "nineteen": "十九",
+        "twenty": "二十",
+        "twenty_one": "二十一",
+        "thirty": "三十",
+        "forty_five": "四十五",
+        "ninety_nine": "九十九"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Large Numbers (100+)",
+          "vi": "Số lớn (100+)",
+          "zh": "大数字（100+）"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Chinese numbers use specific units for large numbers:\n\n**Key Units:**\n- **百** (bǎi) - 100 (hundred)\n- **千** (qiān) - 1,000 (thousand)\n- **万** (wàn) - 10,000 (ten thousand)\n- **亿** (yì) - 100,000,000 (hundred million)\n\n**100-999:**\n- **一百** (yìbǎi) - 100 (one hundred)\n- **二百** (èrbǎi) or **两百** (liǎngbǎi) - 200\n- **三百五十六** (sānbǎiwǔshíliù) - 356 (three hundred fifty-six)\n\n**1,000-9,999:**\n- **一千** (yìqiān) - 1,000 (one thousand)\n- **两千** (liǎngqiān) - 2,000\n- **三千四百五十六** (sānqiānsìbǎiwǔshíliù) - 3,456\n\n**10,000+:**\n- **一万** (yíwàn) - 10,000\n- **两万五千** (liǎngwànwǔqiān) - 25,000\n- **十万** (shíwàn) - 100,000\n\n**Important Notes:**\n- Use **两** (liǎng) instead of **二** (èr) before **百**, **千**, **万**\n- **零** (líng) is used for missing place values: **一百零五** (105)\n- **万** (wàn) is a key unit - 10,000 is **一万**, not **十千**\n\n**Examples:**\n- **一百**个学生 (one hundred students)\n- **两千**块钱 (two thousand yuan)\n- **三万**人 (thirty thousand people)",
+          "vi": "Số trong tiếng Trung sử dụng các đơn vị cụ thể cho số lớn:\n\n**Đơn vị chính:**\n- **百** (bǎi) - 100 (trăm)\n- **千** (qiān) - 1,000 (nghìn)\n- **万** (wàn) - 10,000 (mười nghìn)\n- **亿** (yì) - 100,000,000 (một trăm triệu)\n\n**100-999:**\n- **一百** (yìbǎi) - 100 (một trăm)\n- **二百** (èrbǎi) hoặc **两百** (liǎngbǎi) - 200\n- **三百五十六** (sānbǎiwǔshíliù) - 356 (ba trăm năm mươi sáu)\n\n**1,000-9,999:**\n- **一千** (yìqiān) - 1,000 (một nghìn)\n- **两千** (liǎngqiān) - 2,000\n- **三千四百五十六** (sānqiānsìbǎiwǔshíliù) - 3,456\n\n**10,000+:**\n- **一万** (yíwàn) - 10,000\n- **两万五千** (liǎngwànwǔqiān) - 25,000\n- **十万** (shíwàn) - 100,000\n\n**Lưu ý quan trọng:**\n- Dùng **两** (liǎng) thay vì **二** (èr) trước **百**, **千**, **万**\n- **零** (líng) được dùng cho các giá trị vị trí bị thiếu: **一百零五** (105)\n- **万** (wàn) là đơn vị quan trọng - 10,000 là **一万**, không phải **十千**\n\n**Ví dụ:**\n- **一百**个学生 (một trăm học sinh)\n- **两千**块钱 (hai nghìn nhân dân tệ)\n- **三万**人 (ba mươi nghìn người)",
+          "zh": "汉语数字使用特定单位表示大数字：\n\n**主要单位：**\n- **百** (bǎi) - 100（百）\n- **千** (qiān) - 1,000（千）\n- **万** (wàn) - 10,000（万）\n- **亿** (yì) - 100,000,000（亿）\n\n**100-999：**\n- **一百** (yìbǎi) - 100（一百）\n- **二百** (èrbǎi) 或 **两百** (liǎngbǎi) - 200\n- **三百五十六** (sānbǎiwǔshíliù) - 356（三百五十六）\n\n**1,000-9,999：**\n- **一千** (yìqiān) - 1,000（一千）\n- **两千** (liǎngqiān) - 2,000\n- **三千四百五十六** (sānqiānsìbǎiwǔshíliù) - 3,456\n\n**10,000+：**\n- **一万** (yíwàn) - 10,000\n- **两万五千** (liǎngwànwǔqiān) - 25,000\n- **十万** (shíwàn) - 100,000\n\n**重要注意事项：**\n- 在 **百**、**千**、**万** 前使用 **两** (liǎng) 而不是 **二** (èr)\n- **零** (líng) 用于缺失的位值：**一百零五** (105)\n- **万** (wàn) 是关键单位 - 10,000 是 **一万**，不是 **十千**\n\n**例句：**\n- **一百**个学生\n- **两千**块钱\n- **三万**人"
+        }
+      },
+      "placeholders": [{
+        "hundred": "百",
+        "thousand": "千",
+        "ten_thousand": "万",
+        "hundred_million": "亿",
+        "one_hundred": "一百",
+        "two_hundred": "两百",
+        "three_fifty_six": "三百五十六",
+        "one_thousand": "一千",
+        "two_thousand": "两千",
+        "three_four_five_six": "三千四百五十六",
+        "ten_thousand_num": "一万",
+        "twenty_five_thousand": "两万五千",
+        "hundred_thousand": "十万",
+        "zero": "零",
+        "one_zero_five": "一百零五"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Ordinal Numbers (第)",
+          "vi": "Số thứ tự (第)",
+          "zh": "序数词（第）"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "To express ordinal numbers (first, second, third, etc.) in Chinese, add **第** (dì) before the number:\n\n**Structure:**\n**第** + Number\n\n**Examples:**\n- **第一** (dìyī) - first\n- **第二** (dì'èr) - second\n- **第三** (dìsān) - third\n- **第十** (dìshí) - tenth\n- **第二十** (dì'èrshí) - twentieth\n- **第一百** (dìyìbǎi) - one hundredth\n\n**Usage:**\n- **第一**个问题 (the first question)\n- **第二**次 (the second time)\n- **第三**天 (the third day)\n- 这是**第一**次 (This is the first time.)\n\n**Note:**\n- **第** is always followed by a number\n- When used with measure words: **第** + Number + Measure Word + Noun\n- Can be used alone: **第一** (first), **第二** (second)\n\n**Special Cases:**\n- For \"first time\": **第一次** (dìyīcì)\n- For \"first place\": **第一名** (dìyīmíng)",
+          "vi": "Để diễn đạt số thứ tự (thứ nhất, thứ hai, thứ ba, v.v.) trong tiếng Trung, thêm **第** (dì) trước số:\n\n**Cấu trúc:**\n**第** + Số\n\n**Ví dụ:**\n- **第一** (dìyī) - thứ nhất\n- **第二** (dì'èr) - thứ hai\n- **第三** (dìsān) - thứ ba\n- **第十** (dìshí) - thứ mười\n- **第二十** (dì'èrshí) - thứ hai mươi\n- **第一百** (dìyìbǎi) - thứ một trăm\n\n**Cách dùng:**\n- **第一**个问题 (câu hỏi đầu tiên)\n- **第二**次 (lần thứ hai)\n- **第三**天 (ngày thứ ba)\n- 这是**第一**次 (Đây là lần đầu tiên.)\n\n**Lưu ý:**\n- **第** luôn theo sau bởi một số\n- Khi dùng với lượng từ: **第** + Số + Lượng từ + Danh từ\n- Có thể dùng một mình: **第一** (thứ nhất), **第二** (thứ hai)\n\n**Trường hợp đặc biệt:**\n- Cho \"lần đầu tiên\": **第一次** (dìyīcì)\n- Cho \"vị trí đầu tiên\": **第一名** (dìyīmíng)",
+          "zh": "要表达序数词（第一、第二、第三等），在数字前加 **第** (dì)：\n\n**结构：**\n**第** + 数字\n\n**例句：**\n- **第一** (dìyī) - 第一\n- **第二** (dì'èr) - 第二\n- **第三** (dìsān) - 第三\n- **第十** (dìshí) - 第十\n- **第二十** (dì'èrshí) - 第二十\n- **第一百** (dìyìbǎi) - 第一百\n\n**用法：**\n- **第一**个问题\n- **第二**次\n- **第三**天\n- 这是**第一**次\n\n**注意：**\n- **第** 后面总是跟数字\n- 与量词一起使用时：**第** + 数字 + 量词 + 名词\n- 可以单独使用：**第一**（第一），**第二**（第二）\n\n**特殊情况：**\n- \"第一次\"：**第一次** (dìyīcì)\n- \"第一名\"：**第一名** (dìyīmíng)"
+        }
+      },
+      "placeholders": [{
+        "di": "第",
+        "first": "第一",
+        "second": "第二",
+        "third": "第三",
+        "tenth": "第十",
+        "twentieth": "第二十",
+        "hundredth": "第一百",
+        "first_time": "第一次",
+        "first_place": "第一名"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Special Number Rules",
+          "vi": "Quy tắc số đặc biệt",
+          "zh": "特殊数字规则"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Chinese numbers have several special rules and patterns:\n\n**1. 二 (èr) vs 两 (liǎng) - Both mean \"two\":**\n- **二** (èr) - Used for counting, ordinal numbers, decimals, fractions\n  - 一、**二**、三 (one, two, three)\n  - **第二** (second)\n  - **二**点五 (2.5)\n- **两** (liǎng) - Used before measure words\n  - **两**个人 (two people)\n  - **两**本书 (two books)\n  - **两**百 (two hundred)\n\n**2. Zero (零):**\n- Used for missing place values: **一百零五** (105)\n- Can be omitted in some contexts: **一百五** (150, informal)\n\n**3. Phone Numbers and Codes:**\n- **一** (yī) becomes **幺** (yāo) to avoid confusion with **七** (qī)\n- Example: 138**幺**2345 (phone number)\n\n**4. Approximate Numbers:**\n- **几** (jǐ) - several, a few\n  - **几**个人 (several people)\n- **多** (duō) - more than\n  - 十**多**个 (more than ten)\n- **左右** (zuǒyòu) - approximately\n  - 三十**左右** (approximately thirty)\n\n**5. Fractions and Decimals:**\n- **分之** (fēnzhī) - \"out of\" for fractions\n  - **三**分之**一** (one third)\n- **点** (diǎn) - decimal point\n  - **三**点**五** (3.5)\n\n**Examples:**\n- **两**个苹果 (two apples)\n- **二**十岁 (twenty years old)\n- **几**本书 (several books)\n- **三**分之**二** (two thirds)",
+          "vi": "Số trong tiếng Trung có nhiều quy tắc và mẫu đặc biệt:\n\n**1. 二 (èr) vs 两 (liǎng) - Cả hai đều có nghĩa là \"hai\":**\n- **二** (èr) - Dùng để đếm, số thứ tự, số thập phân, phân số\n  - 一、**二**、三 (một, hai, ba)\n  - **第二** (thứ hai)\n  - **二**点五 (2.5)\n- **两** (liǎng) - Dùng trước lượng từ\n  - **两**个人 (hai người)\n  - **两**本书 (hai cuốn sách)\n  - **两**百 (hai trăm)\n\n**2. Số không (零):**\n- Dùng cho các giá trị vị trí bị thiếu: **一百零五** (105)\n- Có thể bỏ qua trong một số ngữ cảnh: **一百五** (150, không chính thức)\n\n**3. Số điện thoại và mã:**\n- **一** (yī) trở thành **幺** (yāo) để tránh nhầm lẫn với **七** (qī)\n- Ví dụ: 138**幺**2345 (số điện thoại)\n\n**4. Số gần đúng:**\n- **几** (jǐ) - một vài, một số\n  - **几**个人 (một vài người)\n- **多** (duō) - hơn\n  - 十**多**个 (hơn mười)\n- **左右** (zuǒyòu) - khoảng\n  - 三十**左右** (khoảng ba mươi)\n\n**5. Phân số và số thập phân:**\n- **分之** (fēnzhī) - \"trên\" cho phân số\n  - **三**分之**一** (một phần ba)\n- **点** (diǎn) - dấu thập phân\n  - **三**点**五** (3.5)\n\n**Ví dụ:**\n- **两**个苹果 (hai quả táo)\n- **二**十岁 (hai mươi tuổi)\n- **几**本书 (một vài cuốn sách)\n- **三**分之**二** (hai phần ba)",
+          "zh": "汉语数字有几个特殊规则和模式：\n\n**1. 二 (èr) vs 两 (liǎng) - 都表示\"二\"：**\n- **二** (èr) - 用于计数、序数、小数、分数\n  - 一、**二**、三\n  - **第二**\n  - **二**点五 (2.5)\n- **两** (liǎng) - 用于量词前\n  - **两**个人\n  - **两**本书\n  - **两**百\n\n**2. 零：**\n- 用于缺失的位值：**一百零五** (105)\n- 在某些语境中可以省略：**一百五** (150，非正式)\n\n**3. 电话号码和代码：**\n- **一** (yī) 变为 **幺** (yāo) 以避免与 **七** (qī) 混淆\n- 例如：138**幺**2345（电话号码）\n\n**4. 约数：**\n- **几** (jǐ) - 几个，一些\n  - **几**个人\n- **多** (duō) - 超过\n  - 十**多**个\n- **左右** (zuǒyòu) - 大约\n  - 三十**左右**\n\n**5. 分数和小数：**\n- **分之** (fēnzhī) - 用于分数\n  - **三**分之**一**\n- **点** (diǎn) - 小数点\n  - **三**点**五** (3.5)\n\n**例句：**\n- **两**个苹果\n- **二**十岁\n- **几**本书\n- **三**分之**二**"
+        }
+      },
+      "placeholders": [{
+        "er": "二",
+        "liang": "两",
+        "ling": "零",
+        "yao": "幺",
+        "ji": "几",
+        "duo": "多",
+        "zuoyou": "左右",
+        "fenzhi": "分之",
+        "dian": "点"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Usage Patterns",
+          "vi": "Mẫu sử dụng phổ biến",
+          "zh": "常用用法模式"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are common ways numbers are used in Chinese:\n\n**1. Age:**\n- 我**二十**岁。 (I am twenty years old.)\n- 他**三**岁。 (He is three years old.)\n\n**2. Time:**\n- **一**点 (one o'clock)\n- **两**点**三**十 (2:30)\n- **三**月**五**号 (March 5th)\n\n**3. Money:**\n- **十**块钱 (ten yuan)\n- **一百**元 (one hundred yuan)\n- **两**千**五**百块 (2,500 yuan)\n\n**4. Quantity with Measure Words:**\n- **一**个苹果 (one apple)\n- **三**本书 (three books)\n- **五**个人 (five people)\n- **两**张纸 (two sheets of paper)\n\n**5. Dates:**\n- **二**零**二**三**年** (year 2023)\n- **十**月**一**号 (October 1st)\n- **星期**一 (Monday - literally \"week one\")\n\n**6. Percentages:**\n- **百**分之**五**十 (50%)\n- **百**分之**一**百 (100%)\n\n**7. Multiples:**\n- **两**倍 (double, twice)\n- **三**倍 (triple, three times)\n\n**Remember:** Always use measure words when counting nouns in Chinese!",
+          "vi": "Dưới đây là các cách sử dụng số phổ biến trong tiếng Trung:\n\n**1. Tuổi:**\n- 我**二十**岁。 (Tôi hai mươi tuổi.)\n- 他**三**岁。 (Anh ấy ba tuổi.)\n\n**2. Thời gian:**\n- **一**点 (một giờ)\n- **两**点**三**十 (2:30)\n- **三**月**五**号 (ngày 5 tháng 3)\n\n**3. Tiền:**\n- **十**块钱 (mười nhân dân tệ)\n- **一百**元 (một trăm nhân dân tệ)\n- **两**千**五**百块 (2,500 nhân dân tệ)\n\n**4. Số lượng với lượng từ:**\n- **一**个苹果 (một quả táo)\n- **三**本书 (ba cuốn sách)\n- **五**个人 (năm người)\n- **两**张纸 (hai tờ giấy)\n\n**5. Ngày tháng:**\n- **二**零**二**三**年** (năm 2023)\n- **十**月**一**号 (ngày 1 tháng 10)\n- **星期**一 (Thứ Hai - nghĩa đen là \"tuần một\")\n\n**6. Phần trăm:**\n- **百**分之**五**十 (50%)\n- **百**分之**一**百 (100%)\n\n**7. Bội số:**\n- **两**倍 (gấp đôi)\n- **三**倍 (gấp ba)\n\n**Nhớ:** Luôn dùng lượng từ khi đếm danh từ trong tiếng Trung!",
+          "zh": "以下是汉语中数字的常用用法：\n\n**1. 年龄：**\n- 我**二十**岁。\n- 他**三**岁。\n\n**2. 时间：**\n- **一**点（一点钟）\n- **两**点**三**十（2:30）\n- **三**月**五**号（3月5日）\n\n**3. 金钱：**\n- **十**块钱\n- **一百**元\n- **两**千**五**百块（2,500元）\n\n**4. 带量词的数量：**\n- **一**个苹果\n- **三**本书\n- **五**个人\n- **两**张纸\n\n**5. 日期：**\n- **二**零**二**三**年**（2023年）\n- **十**月**一**号（10月1日）\n- **星期**一（星期一）\n\n**6. 百分比：**\n- **百**分之**五**十（50%）\n- **百**分之**一**百（100%）\n\n**7. 倍数：**\n- **两**倍（两倍）\n- **三**倍（三倍）\n\n**记住：** 在汉语中计数名词时总是使用量词！"
+        }
+      },
+      "placeholders": [{
+        "twenty": "二十",
+        "three": "三",
+        "one_oclock": "一",
+        "two_thirty": "两",
+        "march_five": "三",
+        "ten_yuan": "十",
+        "hundred_yuan": "一百",
+        "two_five_hundred": "两",
+        "one_apple": "一",
+        "three_books": "三",
+        "five_people": "五",
+        "two_paper": "两",
+        "year_2023": "二",
+        "oct_one": "十",
+        "monday": "星期",
+        "fifty_percent": "百",
+        "hundred_percent": "百",
+        "double": "两",
+        "triple": "三"
+      }]
+    }
+  ]
+}
+

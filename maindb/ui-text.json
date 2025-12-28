@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "brand": {
+      "en": "Chinese LMS",
+      "vi": "Hệ thống học tiếng Trung"
+    },
+    "home": {
+      "en": "Home",
+      "vi": "Trang chủ"
+    },
+    "courses": {
+      "en": "Courses",
+      "vi": "Khóa học"
+    },
+    "dictionary": {
+      "en": "Dictionary",
+      "vi": "Từ điển"
+    },
+    "about": {
+      "en": "About",
+      "vi": "Giới thiệu"
+    }
+  },
+  "hero": {
+    "title": {
+      "en": "学习中文",
+      "vi": "学习中文"
+    },
+    "subtitle": {
+      "en": "Master Chinese with interactive lessons and immersive content.",
+      "vi": "Thành thạo tiếng Trung với các bài học tương tác và nội dung đắm chìm."
+    },
+    "cta": {
+      "en": "Get started",
+      "vi": "Bắt đầu"
+    }
+  },
+  "courses": {
+    "featured": {
+      "en": "Featured courses",
+      "vi": "Khóa học nổi bật"
+    }
+  },
+  "dictionary": {
+    "title": {
+      "en": "Chinese vocabulary",
+      "vi": "Từ vựng tiếng Trung"
+    },
+    "subtitle": {
+      "en": "Explore HSK vocabulary words with pinyin and translations",
+      "vi": "Khám phá từ vựng HSK với phiên âm và bản dịch"
+    },
+    "searchPlaceholder": {
+      "en": "Search by Chinese word, pinyin, English translation, or HSK level...",
+      "vi": "Tìm kiếm theo từ tiếng Trung, phiên âm, bản dịch tiếng Anh, hoặc cấp độ HSK..."
+    },
+    "searchButton": {
+      "en": "Search",
+      "vi": "Tìm kiếm"
+    },
+    "clearButton": {
+      "en": "Clear",
+      "vi": "Xóa"
+    },
+    "loadingSearch": {
+      "en": "Loading search...",
+      "vi": "Đang tải tìm kiếm..."
+    },
+    "noResults": {
+      "en": "No dictionary entries found.",
+      "vi": "Không tìm thấy từ điển nào."
+    },
+    "noResultsMatching": {
+      "en": "No dictionary entries found matching \"{search}\".",
+      "vi": "Không tìm thấy từ điển nào khớp với \"{search}\"."
+    },
+    "showingEntries": {
+      "en": "Showing {start}-{end} of {total} entries",
+      "vi": "Hiển thị {start}-{end} trong tổng số {total} mục"
+    },
+    "pageSize": {
+      "en": "Page size:",
+      "vi": "Kích thước trang:"
+    },
+    "first": {
+      "en": "First",
+      "vi": "Đầu"
+    },
+    "previous": {
+      "en": "Previous",
+      "vi": "Trước"
+    },
+    "next": {
+      "en": "Next",
+      "vi": "Sau"
+    },
+    "last": {
+      "en": "Last",
+      "vi": "Cuối"
+    },
+    "page": {
+      "en": "Page {current} of {total}",
+      "vi": "Trang {current} của {total}"
+    }
+  },
+  "language": {
+    "label": {
+      "en": "Language:",
+      "vi": "Ngôn ngữ:"
+    },
+    "english": {
+      "en": "English (EN)",
+      "vi": "English (EN)"
+    },
+    "vietnamese": {
+      "en": "Tiếng Việt (VI)",
+      "vi": "Tiếng Việt (VI)"
+    }
+  },
+  "footer": {
+    "copyright": {
+      "en": "© 2025 Chinese LMS. All rights reserved.",
+      "vi": "© 2025 Hệ thống học tiếng Trung. Bảo lưu mọi quyền."
+    }
+  }
+}
+

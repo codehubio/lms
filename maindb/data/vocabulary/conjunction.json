@@ -1,0 +1,1540 @@
+[
+  {
+    "tags": [
+      "HSK1",
+      "conjunction"
+    ],
+    "word": "和",
+    "description": {
+      "en": "The most common conjunction meaning 'and'. Used to connect nouns, phrases, or clauses. More formal than '跟'.",
+      "vi": "Liên từ phổ biến nhất có nghĩa 'và'. Dùng để nối danh từ, cụm từ hoặc mệnh đề. Trang trọng hơn '跟'.",
+      "zh": "最常用的连词，表示'和'。用于连接名词、短语或分句。比'跟'更正式。"
+    },
+    "pinyin1": "hé",
+    "pinyin2": "he2",
+    "translation": {
+      "en": "and",
+      "vi": "và"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "跟",
+    "description": {
+      "en": "Means 'and' or 'with'. More casual than '和'. Often used in spoken Chinese to connect nouns.",
+      "vi": "Có nghĩa 'và' hoặc 'cùng với'. Thân mật hơn '和'. Thường dùng trong khẩu ngữ để nối danh từ.",
+      "zh": "表示'和'或'跟'。比'和'更口语化。常用于口语中连接名词。"
+    },
+    "pinyin1": "gēn",
+    "pinyin2": "gen1",
+    "translation": {
+      "en": "and/with, with",
+      "vi": "và/cùng với, với"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "conjunction"
+    ],
+    "word": "与",
+    "description": {
+      "en": "Formal conjunction meaning 'and' or 'with'. More literary and formal than '和', commonly used in written Chinese.",
+      "vi": "Liên từ trang trọng có nghĩa 'và' hoặc 'cùng với'. Văn học và trang trọng hơn '和', thường dùng trong văn viết.",
+      "zh": "正式的连词，表示'和'或'与'。比'和'更书面化，常用于书面语。"
+    },
+    "pinyin1": "yǔ",
+    "pinyin2": "yu3",
+    "translation": {
+      "en": "and/with, together with",
+      "vi": "và/cùng, cùng với"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "conjunction"
+    ],
+    "word": "以及",
+    "description": {
+      "en": "Formal conjunction meaning 'as well as' or 'and'. Used to add additional information, often in formal writing.",
+      "vi": "Liên từ trang trọng có nghĩa 'cũng như' hoặc 'và'. Dùng để thêm thông tin, thường trong văn viết trang trọng.",
+      "zh": "正式的连词，表示'以及'。用于补充信息，常用于正式文体。"
+    },
+    "pinyin1": "yǐ jí",
+    "pinyin2": "yi3 ji2",
+    "translation": {
+      "en": "as well as, as well as; along with; and",
+      "vi": "cũng như, cũng như; cùng với; và"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "还有",
+    "description": {
+      "en": "Means 'besides' or 'also'. Used to add another item or point. Common in spoken Chinese.",
+      "vi": "Có nghĩa 'còn nữa' hoặc 'ngoài ra'. Dùng để thêm một mục hoặc điểm khác. Phổ biến trong khẩu ngữ.",
+      "zh": "表示'还有'。用于补充另一个项目或要点。常用于口语。"
+    },
+    "pinyin1": "hái yǒu",
+    "pinyin2": "hai2 you3",
+    "translation": {
+      "en": "besides/also",
+      "vi": "còn nữa"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "或者",
+    "description": {
+      "en": "Means 'or' when presenting alternatives. Used in statements, not questions. More formal than '或'.",
+      "vi": "Có nghĩa 'hoặc' khi đưa ra các lựa chọn. Dùng trong câu khẳng định, không phải câu hỏi. Trang trọng hơn '或'.",
+      "zh": "表示'或者'，用于陈述句中的选择。比'或'更正式。"
+    },
+    "pinyin1": "huò zhě",
+    "pinyin2": "huo4 zhe3",
+    "translation": {
+      "en": "or, perhaps",
+      "vi": "hoặc, có lẽ"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "或",
+    "description": {
+      "en": "Short form of '或者', means 'or'. More concise, commonly used in written Chinese.",
+      "vi": "Dạng ngắn của '或者', có nghĩa 'hoặc'. Ngắn gọn hơn, thường dùng trong văn viết.",
+      "zh": "'或者'的简短形式，表示'或'。更简洁，常用于书面语。"
+    },
+    "pinyin1": "huò",
+    "pinyin2": "huo4",
+    "translation": {
+      "en": "or",
+      "vi": "hoặc"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "还是",
+    "description": {
+      "en": "Means 'or' in questions, or 'still' in statements. Used when asking for a choice between alternatives.",
+      "vi": "Có nghĩa 'hay' trong câu hỏi, hoặc 'vẫn' trong câu khẳng định. Dùng khi hỏi về sự lựa chọn giữa các phương án.",
+      "zh": "在疑问句中表示'还是'，在陈述句中表示'仍然'。用于询问选择。"
+    },
+    "pinyin1": "hái shì",
+    "pinyin2": "hai2 shi4",
+    "translation": {
+      "en": "or (in questions)/still, ...or...? [in a question]",
+      "vi": "hay/vẫn, ...hay...? [trong câu hỏi]"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "conjunction"
+    ],
+    "word": "因为",
+    "description": {
+      "en": "Means 'because'. Used to introduce a reason or cause. Often paired with '所以' (so/therefore).",
+      "vi": "Có nghĩa 'bởi vì'. Dùng để đưa ra lý do hoặc nguyên nhân. Thường đi kèm với '所以' (vì vậy).",
+      "zh": "表示'因为'。用于引出原因。常与'所以'搭配使用。"
+    },
+    "pinyin1": "yīn wèi",
+    "pinyin2": "yin1 wei4",
+    "translation": {
+      "en": "because",
+      "vi": "bởi vì"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "conjunction"
+    ],
+    "word": "所以",
+    "description": {
+      "en": "Means 'so' or 'therefore'. Used to express a result or conclusion. Often paired with '因为' (because).",
+      "vi": "Có nghĩa 'vì vậy' hoặc 'do đó'. Dùng để diễn đạt kết quả hoặc kết luận. Thường đi kèm với '因为' (bởi vì).",
+      "zh": "表示'所以'。用于表达结果或结论。常与'因为'搭配使用。"
+    },
+    "pinyin1": "suǒ yǐ",
+    "pinyin2": "suo3 yi3",
+    "translation": {
+      "en": "so/therefore, therefore",
+      "vi": "vì vậy"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "因此",
+    "description": {
+      "en": "Means 'thus' or 'hence'. More formal than '所以', used to express a logical conclusion or result.",
+      "vi": "Có nghĩa 'do đó' hoặc 'vì vậy'. Trang trọng hơn '所以', dùng để diễn đạt kết luận hoặc kết quả logic.",
+      "zh": "表示'因此'。比'所以'更正式，用于表达逻辑结论或结果。"
+    },
+    "pinyin1": "yīn cǐ",
+    "pinyin2": "yin1 ci3",
+    "translation": {
+      "en": "thus/hence, because of this",
+      "vi": "do đó, vì vậy"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "conjunction"
+    ],
+    "word": "因而",
+    "description": {
+      "en": "Means 'therefore' or 'thus'. Formal conjunction expressing a causal relationship or logical consequence.",
+      "vi": "Có nghĩa 'do đó' hoặc 'vì vậy'. Liên từ trang trọng diễn đạt mối quan hệ nhân quả hoặc hệ quả logic.",
+      "zh": "表示'因而'。正式连词，表达因果关系或逻辑结果。"
+    },
+    "pinyin1": "yīn ér",
+    "pinyin2": "yin1 er2",
+    "translation": {
+      "en": "therefore/thus, thus; as a result; with the result that",
+      "vi": "do đó, do đó; kết quả là"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "由于",
+    "description": {
+      "en": "Means 'due to' or 'owing to'. Used to introduce a reason or cause, more formal than '因为'.",
+      "vi": "Có nghĩa 'do' hoặc 'nhờ vào'. Dùng để đưa ra lý do hoặc nguyên nhân, trang trọng hơn '因为'.",
+      "zh": "表示'由于'。用于引出原因，比'因为'更正式。"
+    },
+    "pinyin1": "yóu yú",
+    "pinyin2": "you2 yu2",
+    "translation": {
+      "en": "due to/owing to, due to",
+      "vi": "do/nhờ vào, do"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "如果",
+    "description": {
+      "en": "Means 'if'. The most common conditional conjunction, used to express hypothetical situations or conditions.",
+      "vi": "Có nghĩa 'nếu'. Liên từ điều kiện phổ biến nhất, dùng để diễn đạt tình huống hoặc điều kiện giả định.",
+      "zh": "表示'如果'。最常用的条件连词，用于表达假设情况或条件。"
+    },
+    "pinyin1": "rú guǒ",
+    "pinyin2": "ru2 guo3",
+    "translation": {
+      "en": "if",
+      "vi": "nếu"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "conjunction"
+    ],
+    "word": "要是",
+    "description": {
+      "en": "Means 'if'. More casual than '如果', commonly used in spoken Chinese to express conditions.",
+      "vi": "Có nghĩa 'nếu'. Thân mật hơn '如果', thường dùng trong khẩu ngữ để diễn đạt điều kiện.",
+      "zh": "表示'要是'。比'如果'更口语化，常用于口语中表达条件。"
+    },
+    "pinyin1": "yào shì",
+    "pinyin2": "yao4 shi4",
+    "translation": {
+      "en": "if, if; suppose; in case",
+      "vi": "nếu, nếu; giả sử"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "conjunction"
+    ],
+    "word": "假如",
+    "description": {
+      "en": "Means 'if' or 'supposing'. More formal and literary, used in written Chinese or formal speech.",
+      "vi": "Có nghĩa 'nếu' hoặc 'giả sử'. Trang trọng và văn học hơn, dùng trong văn viết hoặc lời nói trang trọng.",
+      "zh": "表示'假如'。更正式和书面化，用于书面语或正式场合。"
+    },
+    "pinyin1": "jiǎ rú",
+    "pinyin2": "jia3 ru2",
+    "translation": {
+      "en": "if/supposing, if; supposing; in case",
+      "vi": "giả sử, nếu; giả sử"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "conjunction"
+    ],
+    "word": "要不然",
+    "description": {
+      "en": "Means 'otherwise' or 'or else'. Used to express an alternative consequence if a condition is not met.",
+      "vi": "Có nghĩa 'nếu không thì' hoặc 'bằng không'. Dùng để diễn đạt hậu quả thay thế nếu điều kiện không được đáp ứng.",
+      "zh": "表示'要不然'。用于表达如果条件不满足时的替代结果。"
+    },
+    "pinyin1": "yào bù rán",
+    "pinyin2": "yao4 bu4 ran2",
+    "translation": {
+      "en": "otherwise/or else, or; otherwise; or else",
+      "vi": "nếu không thì, hoặc; nếu không; bằng không"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "否则",
+    "description": {
+      "en": "Means 'otherwise'. More formal than '要不然', used to express negative consequences.",
+      "vi": "Có nghĩa 'nếu không'. Trang trọng hơn '要不然', dùng để diễn đạt hậu quả tiêu cực.",
+      "zh": "表示'否则'。比'要不然'更正式，用于表达负面后果。"
+    },
+    "pinyin1": "fǒu zé",
+    "pinyin2": "fou3 ze2",
+    "translation": {
+      "en": "otherwise, if not",
+      "vi": "nếu không"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "虽然",
+    "description": {
+      "en": "Means 'although' or 'though'. Used to express concession, often paired with '但是' (but) or '可是' (however).",
+      "vi": "Có nghĩa 'mặc dù' hoặc 'tuy'. Dùng để diễn đạt sự nhượng bộ, thường đi kèm với '但是' (nhưng) hoặc '可是' (tuy nhiên).",
+      "zh": "表示'虽然'。用于表达让步，常与'但是'或'可是'搭配使用。"
+    },
+    "pinyin1": "suī rán",
+    "pinyin2": "sui1 ran2",
+    "translation": {
+      "en": "although",
+      "vi": "mặc dù"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "尽管",
+    "description": {
+      "en": "Means 'even though' or 'despite'. Stronger than '虽然', emphasizes the contrast between two situations.",
+      "vi": "Có nghĩa 'mặc dù' hoặc 'dù cho'. Mạnh hơn '虽然', nhấn mạnh sự tương phản giữa hai tình huống.",
+      "zh": "表示'尽管'。比'虽然'语气更强，强调两种情况的对比。"
+    },
+    "pinyin1": "jǐn guǎn",
+    "pinyin2": "jin3 guan3",
+    "translation": {
+      "en": "even though/despite, without hesitating; despite",
+      "vi": "mặc dù"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "conjunction"
+    ],
+    "word": "但是",
+    "description": {
+      "en": "Means 'but' or 'however'. The most common contrastive conjunction, used to express opposition or contradiction.",
+      "vi": "Có nghĩa 'nhưng' hoặc 'tuy nhiên'. Liên từ tương phản phổ biến nhất, dùng để diễn đạt sự đối lập hoặc mâu thuẫn.",
+      "zh": "表示'但是'。最常用的转折连词，用于表达对立或矛盾。"
+    },
+    "pinyin1": "dàn shì",
+    "pinyin2": "dan4 shi4",
+    "translation": {
+      "en": "but/however, but",
+      "vi": "nhưng"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "不过",
+    "description": {
+      "en": "Means 'however' or 'but'. Softer than '但是', often used to soften a contradiction or add a limitation.",
+      "vi": "Có nghĩa 'nhưng' hoặc 'tuy nhiên'. Nhẹ nhàng hơn '但是', thường dùng để làm dịu sự mâu thuẫn hoặc thêm giới hạn.",
+      "zh": "表示'不过'。比'但是'语气更轻，常用于缓和矛盾或添加限制。"
+    },
+    "pinyin1": "bú guò",
+    "pinyin2": "bu2 guo4",
+    "translation": {
+      "en": "however/but, however",
+      "vi": "nhưng/tuy nhiên, tuy nhiên"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "然而",
+    "description": {
+      "en": "Means 'however'. More formal and literary than '但是', commonly used in written Chinese.",
+      "vi": "Có nghĩa 'tuy nhiên'. Trang trọng và văn học hơn '但是', thường dùng trong văn viết.",
+      "zh": "表示'然而'。比'但是'更正式和书面化，常用于书面语。"
+    },
+    "pinyin1": "rán ér",
+    "pinyin2": "ran2 er2",
+    "translation": {
+      "en": "however",
+      "vi": "tuy nhiên"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "而",
+    "description": {
+      "en": "Versatile conjunction meaning 'and', 'yet', or 'however'. Used to show contrast, connection, or transition between clauses.",
+      "vi": "Liên từ đa năng có nghĩa 'và', 'nhưng' hoặc 'tuy nhiên'. Dùng để thể hiện sự tương phản, kết nối hoặc chuyển tiếp giữa các mệnh đề.",
+      "zh": "多功能的连词，表示'而'、'然而'。用于表示对比、连接或过渡。"
+    },
+    "pinyin1": "ér",
+    "pinyin2": "er2",
+    "translation": {
+      "en": "and/yet/however (contrast), and; while",
+      "vi": "và/nhưng (tương phản), và; trong khi"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "并且",
+    "description": {
+      "en": "Means 'and moreover' or 'furthermore'. Used to add additional information or emphasize continuation.",
+      "vi": "Có nghĩa 'hơn nữa' hoặc 'và còn'. Dùng để thêm thông tin hoặc nhấn mạnh sự tiếp tục.",
+      "zh": "表示'并且'。用于补充信息或强调递进。"
+    },
+    "pinyin1": "bìng qiě",
+    "pinyin2": "bing4 qie3",
+    "translation": {
+      "en": "and moreover, and",
+      "vi": "hơn nữa, và"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "并",
+    "description": {
+      "en": "Means 'and' or 'actually' (for emphasis). Used to connect verbs or emphasize a statement, more formal than '和'.",
+      "vi": "Có nghĩa 'và' hoặc 'thật ra' (để nhấn mạnh). Dùng để nối động từ hoặc nhấn mạnh câu nói, trang trọng hơn '和'.",
+      "zh": "表示'并'。用于连接动词或强调，比'和'更正式。"
+    },
+    "pinyin1": "bìng",
+    "pinyin2": "bing4",
+    "translation": {
+      "en": "and/actually (emphasis)",
+      "vi": "và/thật ra"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "不仅",
+    "description": {
+      "en": "Means 'not only'. Used in correlative constructions, typically paired with '而且' (but also) or '还' (also).",
+      "vi": "Có nghĩa 'không chỉ'. Dùng trong cấu trúc tương quan, thường đi kèm với '而且' (mà còn) hoặc '还' (còn).",
+      "zh": "表示'不仅'。用于关联结构，常与'而且'或'还'搭配。"
+    },
+    "pinyin1": "bù jǐn",
+    "pinyin2": "bu4 jin3",
+    "translation": {
+      "en": "not only, not only [this one]",
+      "vi": "không chỉ, không chỉ [cái này]"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "不但",
+    "description": {
+      "en": "Means 'not only'. Similar to '不仅', used in correlative constructions to express 'not only... but also'.",
+      "vi": "Có nghĩa 'không những'. Tương tự '不仅', dùng trong cấu trúc tương quan để diễn đạt 'không chỉ... mà còn'.",
+      "zh": "表示'不但'。与'不仅'类似，用于关联结构，表示'不但...而且'。"
+    },
+    "pinyin1": "bù dàn",
+    "pinyin2": "bu4 dan4",
+    "translation": {
+      "en": "not only",
+      "vi": "không những, không chỉ"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "而且",
+    "description": {
+      "en": "Means 'but also' or 'and'. Used in correlative constructions with '不仅' or '不但' to express addition or emphasis.",
+      "vi": "Có nghĩa 'mà còn' hoặc 'và'. Dùng trong cấu trúc tương quan với '不仅' hoặc '不但' để diễn đạt sự bổ sung hoặc nhấn mạnh.",
+      "zh": "表示'而且'。与'不仅'或'不但'搭配使用，表示递进或强调。"
+    },
+    "pinyin1": "ér qiě",
+    "pinyin2": "er2 qie3",
+    "translation": {
+      "en": "but also/and, moreover; furthermore",
+      "vi": "mà còn, hơn nữa"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "既",
+    "description": {
+      "en": "Correlative conjunction meaning 'both' or 'since'. Used in patterns like '既...又...' (both... and...) or '既...就...' (since... then...).",
+      "vi": "Liên từ tương quan có nghĩa 'vừa' hoặc 'đã là'. Dùng trong các mẫu như '既...又...' (vừa... vừa...) hoặc '既...就...' (đã là... thì...).",
+      "zh": "关联连词，表示'既'。用于'既...又...'或'既...就...'等结构。"
+    },
+    "pinyin1": "jì",
+    "pinyin2": "ji4",
+    "translation": {
+      "en": "既... (correlative: since/both)",
+      "vi": "vừa... (hàm ý kết hợp)"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "又",
+    "description": {
+      "en": "Means 'again' or 'also'. Used in correlative patterns like '既...又...' (both... and...) to express simultaneous qualities.",
+      "vi": "Có nghĩa 'lại' hoặc 'đồng thời'. Dùng trong các mẫu tương quan như '既...又...' (vừa... vừa...) để diễn đạt các phẩm chất đồng thời.",
+      "zh": "表示'又'。用于'既...又...'等关联结构，表示同时具有的两种性质。"
+    },
+    "pinyin1": "yòu",
+    "pinyin2": "you4",
+    "translation": {
+      "en": "again/also, again",
+      "vi": "lại/đồng thời, lại"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "既然",
+    "description": {
+      "en": "Means 'since' or 'as' (given that). Used to introduce a premise or fact, often followed by '就' (then) to express a logical conclusion.",
+      "vi": "Có nghĩa 'vì' hoặc 'đã là' (vì rằng). Dùng để đưa ra tiền đề hoặc sự thật, thường theo sau bởi '就' (thì) để diễn đạt kết luận logic.",
+      "zh": "表示'既然'。用于引出前提或事实，常与'就'搭配，表示逻辑结论。"
+    },
+    "pinyin1": "jì rán",
+    "pinyin2": "ji4 ran2",
+    "translation": {
+      "en": "since/as (given that), since",
+      "vi": "vì/đã là, vì"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "于是",
+    "description": {
+      "en": "Means 'so' or 'thereupon'. Used to express a sequence of events or logical consequence, indicating what happens next.",
+      "vi": "Có nghĩa 'thế là' hoặc 'do đó'. Dùng để diễn đạt chuỗi sự kiện hoặc hệ quả logic, chỉ ra điều gì xảy ra tiếp theo.",
+      "zh": "表示'于是'。用于表达事件顺序或逻辑结果，表示接下来发生的事。"
+    },
+    "pinyin1": "yú shì",
+    "pinyin2": "yu2 shi4",
+    "translation": {
+      "en": "so/thereupon, as a result",
+      "vi": "thế là, kết quả là"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "结果",
+    "description": {
+      "en": "Means 'as a result' or 'consequently'. Used to introduce the outcome or consequence of a previous action or situation.",
+      "vi": "Có nghĩa 'kết quả là' hoặc 'do đó'. Dùng để đưa ra kết quả hoặc hậu quả của hành động hoặc tình huống trước đó.",
+      "zh": "表示'结果'。用于引出前面动作或情况的结果。"
+    },
+    "pinyin1": "jié guǒ",
+    "pinyin2": "jie2 guo3",
+    "translation": {
+      "en": "as a result, result; outcome; fruit, result; outcome",
+      "vi": "kết quả là, kết quả; hậu quả; trái cây, kết quả; hậu quả"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "甚至",
+    "description": {
+      "en": "Means 'even' or 'to the extent that'. Used to emphasize an extreme example or push a point further.",
+      "vi": "Có nghĩa 'thậm chí' hoặc 'đến mức'. Dùng để nhấn mạnh một ví dụ cực đoan hoặc đẩy một điểm xa hơn.",
+      "zh": "表示'甚至'。用于强调极端例子或进一步推进论点。"
+    },
+    "pinyin1": "shèn zhì",
+    "pinyin2": "shen4 zhi4",
+    "translation": {
+      "en": "even/to the extent that, even",
+      "vi": "thậm chí"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "conjunction"
+    ],
+    "word": "反而",
+    "description": {
+      "en": "Means 'instead' or 'contrarily'. Used to express an unexpected or opposite result, emphasizing the contrast with what was expected.",
+      "vi": "Có nghĩa 'ngược lại' hoặc 'thay vào đó'. Dùng để diễn đạt kết quả bất ngờ hoặc ngược lại, nhấn mạnh sự tương phản với điều mong đợi.",
+      "zh": "表示'反而'。用于表达与预期相反的结果，强调对比。"
+    },
+    "pinyin1": "fǎn ér",
+    "pinyin2": "fan3 er2",
+    "translation": {
+      "en": "instead/contrarily, on the contrary; instead",
+      "vi": "ngược lại"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "相反",
+    "description": {
+      "en": "Means 'on the contrary' or 'conversely'. Used to introduce a contrasting or opposite viewpoint or situation.",
+      "vi": "Có nghĩa 'ngược lại' hoặc 'trái lại'. Dùng để đưa ra quan điểm hoặc tình huống tương phản hoặc đối lập.",
+      "zh": "表示'相反'。用于引出对比或相反的观点或情况。"
+    },
+    "pinyin1": "xiāng fǎn",
+    "pinyin2": "xiang1 fan3",
+    "translation": {
+      "en": "on the contrary, opposite; on the contrary",
+      "vi": "ngược lại"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "conjunction"
+    ],
+    "word": "同时",
+    "description": {
+      "en": "Means 'at the same time' or 'simultaneously'. Used to indicate that two actions or situations occur together.",
+      "vi": "Có nghĩa 'đồng thời' hoặc 'cùng lúc'. Dùng để chỉ ra rằng hai hành động hoặc tình huống xảy ra cùng nhau.",
+      "zh": "表示'同时'。用于表示两个动作或情况同时发生。"
+    },
+    "pinyin1": "tóng shí",
+    "pinyin2": "tong2 shi2",
+    "translation": {
+      "en": "at the same time/simultaneously, at the same time; simultaneously; concurrently",
+      "vi": "đồng thời"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "与其",
+    "description": {
+      "en": "Means 'rather than'. Used in correlative constructions with '不如' (better to) to express preference: '与其...不如...' (rather than... better to...).",
+      "vi": "Có nghĩa 'thà... còn hơn'. Dùng trong cấu trúc tương quan với '不如' (tốt hơn là) để diễn đạt sự ưa thích: '与其...不如...' (thà... còn hơn...).",
+      "zh": "表示'与其'。与'不如'搭配，表示选择：'与其...不如...'。"
+    },
+    "pinyin1": "yǔ qí",
+    "pinyin2": "yu3 qi2",
+    "translation": {
+      "en": "rather than, rather than; better than, rather than; instead of",
+      "vi": "thà... còn hơn, thà... hơn là, thà; thay vì"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "不是...就是",
+    "description": {
+      "en": "Correlative conjunction meaning 'either... or...'. Used to present two alternatives, indicating one of them must be true.",
+      "vi": "Liên từ tương quan có nghĩa 'hoặc là... hoặc là'. Dùng để đưa ra hai lựa chọn, chỉ ra một trong số đó phải đúng.",
+      "zh": "关联连词，表示'不是...就是'。用于提出两个选择，表示必居其一。"
+    },
+    "pinyin1": "bù shì ... jiù shì",
+    "pinyin2": "bu4 shi4 ... jiu4 shi4",
+    "translation": {
+      "en": "either... or",
+      "vi": "hoặc là... hoặc là"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "要么...要么",
+    "description": {
+      "en": "Correlative conjunction meaning 'either... or...'. More casual than '不是...就是', commonly used in spoken Chinese.",
+      "vi": "Liên từ tương quan có nghĩa 'hoặc... hoặc...'. Thân mật hơn '不是...就是', thường dùng trong khẩu ngữ.",
+      "zh": "关联连词，表示'要么...要么'。比'不是...就是'更口语化，常用于口语。"
+    },
+    "pinyin1": "yào me ... yào me",
+    "pinyin2": "yao4 me ... yao4 me",
+    "translation": {
+      "en": "either... or",
+      "vi": "hoặc... hoặc..."
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "一边...一边",
+    "description": {
+      "en": "Correlative conjunction meaning 'simultaneously' or 'doing A while doing B'. Used to express two actions happening at the same time.",
+      "vi": "Liên từ tương quan có nghĩa 'vừa... vừa...' hoặc 'làm A trong khi làm B'. Dùng để diễn đạt hai hành động xảy ra cùng lúc.",
+      "zh": "关联连词，表示'一边...一边'。用于表示两个动作同时进行。"
+    },
+    "pinyin1": "yì biān ... yì biān",
+    "pinyin2": "yi4 bian1 ... yi4 bian1",
+    "translation": {
+      "en": "simultaneously/doing A while doing B",
+      "vi": "vừa... vừa..."
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "一方面...另一方面",
+    "description": {
+      "en": "Correlative conjunction meaning 'on one hand... on the other hand...'. Used to present two different aspects or viewpoints of a topic.",
+      "vi": "Liên từ tương quan có nghĩa 'một mặt... mặt khác...'. Dùng để trình bày hai khía cạnh hoặc quan điểm khác nhau của một chủ đề.",
+      "zh": "关联连词，表示'一方面...另一方面'。用于从不同角度或观点阐述问题。"
+    },
+    "pinyin1": "yī fāng miàn ... lìng yī fāng miàn",
+    "pinyin2": "yi1 fang1 mian4 ... ling4 yi1 fang1 mian4",
+    "translation": {
+      "en": "on one hand... on the other hand...",
+      "vi": "một mặt... mặt khác..."
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "难道",
+    "description": {
+      "en": "Rhetorical question marker meaning 'could it be that' or 'is it possible that'. Used to express surprise, doubt, or emphasis in questions.",
+      "vi": "Dấu hiệu câu hỏi tu từ có nghĩa 'chẳng lẽ' hoặc 'có thể nào'. Dùng để diễn đạt sự ngạc nhiên, nghi ngờ hoặc nhấn mạnh trong câu hỏi.",
+      "zh": "反问语气词，表示'难道'。用于表达惊讶、怀疑或强调。"
+    },
+    "pinyin1": "nán dào",
+    "pinyin2": "nan2 dao4",
+    "translation": {
+      "en": "could it be that (rhetorical), could it be...?",
+      "vi": "chẳng lẽ..., chẳng lẽ...?"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "连",
+    "description": {
+      "en": "Means 'even' when used for emphasis. Often used in the pattern '连...都/也' (even... all/also) to emphasize an extreme case.",
+      "vi": "Có nghĩa 'thậm chí' khi dùng để nhấn mạnh. Thường dùng trong mẫu '连...都/也' (thậm chí... cũng) để nhấn mạnh trường hợp cực đoan.",
+      "zh": "表示'连'，用于强调。常与'都/也'搭配，表示'连...都/也'，强调极端情况。"
+    },
+    "pinyin1": "lián",
+    "pinyin2": "lian2",
+    "translation": {
+      "en": "even (used with emphasis), connect",
+      "vi": "thậm chí, kết nối"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "连...都",
+    "description": {
+      "en": "Correlative pattern meaning 'even... (all/also)'. Used to emphasize that even the most unlikely case is true, expressing surprise or emphasis.",
+      "vi": "Mẫu tương quan có nghĩa 'thậm chí... cũng'. Dùng để nhấn mạnh rằng ngay cả trường hợp khó xảy ra nhất cũng đúng, diễn đạt sự ngạc nhiên hoặc nhấn mạnh.",
+      "zh": "关联结构，表示'连...都'。用于强调连最不可能的情况也成立，表示惊讶或强调。"
+    },
+    "pinyin1": "lián ... dōu",
+    "pinyin2": "lian2 ... dou1",
+    "translation": {
+      "en": "even ... (all/even)",
+      "vi": "thậm chí ... cũng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "倘若",
+    "description": {
+      "en": "Means 'if' or 'supposing'. More formal and literary than '如果', commonly used in written Chinese or formal contexts.",
+      "vi": "Có nghĩa 'nếu như' hoặc 'giả sử'. Trang trọng và văn học hơn '如果', thường dùng trong văn viết hoặc ngữ cảnh trang trọng.",
+      "zh": "表示'倘若'。比'如果'更正式和书面化，常用于书面语或正式场合。"
+    },
+    "pinyin1": "tǎng ruò",
+    "pinyin2": "tang3 ruo4",
+    "translation": {
+      "en": "if/supposing, if; supposing",
+      "vi": "nếu như, nếu; giả sử"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "随后",
+    "description": {
+      "en": "Means 'subsequently' or 'afterwards'. Used to indicate that something happens after another event in a sequence.",
+      "vi": "Có nghĩa 'sau đó' hoặc 'tiếp theo'. Dùng để chỉ ra rằng điều gì đó xảy ra sau một sự kiện khác trong một chuỗi.",
+      "zh": "表示'随后'。用于表示在时间顺序中接下来发生的事。"
+    },
+    "pinyin1": "suí hòu",
+    "pinyin2": "sui2 hou4",
+    "translation": {
+      "en": "subsequently/afterwards",
+      "vi": "sau đó"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "随着",
+    "description": {
+      "en": "Means 'along with' or 'as (something changes)'. Used to express that one thing changes or happens together with another.",
+      "vi": "Có nghĩa 'cùng với' hoặc 'khi (cái gì đó thay đổi)'. Dùng để diễn đạt rằng một điều thay đổi hoặc xảy ra cùng với điều khác.",
+      "zh": "表示'随着'。用于表示一个事物随另一个事物一起变化或发生。"
+    },
+    "pinyin1": "suí zhe",
+    "pinyin2": "sui2 zhe",
+    "translation": {
+      "en": "along with/as (something changes), along with",
+      "vi": "cùng với"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "conjunction"
+    ],
+    "word": "至于",
+    "description": {
+      "en": "Means 'as for' or 'regarding'. Used to introduce a new topic or shift the focus of discussion to something else.",
+      "vi": "Có nghĩa 'còn về' hoặc 'về việc'. Dùng để giới thiệu một chủ đề mới hoặc chuyển trọng tâm thảo luận sang điều khác.",
+      "zh": "表示'至于'。用于引出新话题或转换讨论焦点。"
+    },
+    "pinyin1": "zhì yú",
+    "pinyin2": "zhi4 yu2",
+    "translation": {
+      "en": "as for/regarding, go so far as to",
+      "vi": "còn về, đến mức; về việc"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "为了",
+    "description": {
+      "en": "Means 'in order to' or 'for the sake of'. Used to express purpose or intention, indicating the reason for an action.",
+      "vi": "Có nghĩa 'để' hoặc 'vì lợi ích của'. Dùng để diễn đạt mục đích hoặc ý định, chỉ ra lý do cho một hành động.",
+      "zh": "表示'为了'。用于表达目的或意图，表示做某事的原因。"
+    },
+    "pinyin1": "wèi le",
+    "pinyin2": "wei4 le",
+    "translation": {
+      "en": "in order to/for the sake of, in order to",
+      "vi": "để"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "conjunction"
+    ],
+    "word": "以便",
+    "description": {
+      "en": "Means 'so that' or 'in order to'. More formal than '为了', used to express purpose in written Chinese.",
+      "vi": "Có nghĩa 'để' hoặc 'nhằm'. Trang trọng hơn '为了', dùng để diễn đạt mục đích trong văn viết.",
+      "zh": "表示'以便'。比'为了'更正式，常用于书面语中表达目的。"
+    },
+    "pinyin1": "yǐ biàn",
+    "pinyin2": "yi3 bian4",
+    "translation": {
+      "en": "so that/in order to, so that; in order to",
+      "vi": "để, để; nhằm"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "倒是",
+    "description": {
+      "en": "Means 'actually' or 'on the contrary'. Used to express a contrast with what was expected, often with a tone of surprise or emphasis.",
+      "vi": "Có nghĩa 'thực ra' hoặc 'ngược lại'. Dùng để diễn đạt sự tương phản với điều mong đợi, thường với giọng điệu ngạc nhiên hoặc nhấn mạnh.",
+      "zh": "表示'倒是'。用于表达与预期相反的情况，常带有惊讶或强调的语气。"
+    },
+    "pinyin1": "dào shì",
+    "pinyin2": "dao4 shi4",
+    "translation": {
+      "en": "actually/on the contrary",
+      "vi": "thực ra/ngược lại"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "无论",
+    "description": {
+      "en": "Means 'no matter (what/how)'. Used in correlative constructions with '都' or '也' to express that something is true regardless of conditions.",
+      "vi": "Có nghĩa 'dù' hoặc 'không kể'. Dùng trong cấu trúc tương quan với '都' hoặc '也' để diễn đạt rằng điều gì đó đúng bất kể điều kiện.",
+      "zh": "表示'无论'。与'都'或'也'搭配，表示无论什么条件都成立。"
+    },
+    "pinyin1": "wú lùn",
+    "pinyin2": "wu2 lun4",
+    "translation": {
+      "en": "no matter (what/how), no matter what or how",
+      "vi": "dù/không kể, bất kể cái gì hoặc như thế nào"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "无论...都",
+    "description": {
+      "en": "Correlative pattern meaning 'no matter... (still/do)'. Used to express that a result or action is true regardless of the condition mentioned.",
+      "vi": "Mẫu tương quan có nghĩa 'dù... thì vẫn...'. Dùng để diễn đạt rằng kết quả hoặc hành động đúng bất kể điều kiện được đề cập.",
+      "zh": "关联结构，表示'无论...都'。用于表示无论什么条件，结果或动作都成立。"
+    },
+    "pinyin1": "wú lùn ... dōu",
+    "pinyin2": "wu2 lun4 ... dou1",
+    "translation": {
+      "en": "no matter ... (still/do)",
+      "vi": "dù... thì vẫn..."
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "纵然",
+    "description": {
+      "en": "Means 'even if'. More formal and literary, used in written Chinese to express concession or hypothetical conditions.",
+      "vi": "Có nghĩa 'dù cho'. Trang trọng và văn học hơn, dùng trong văn viết để diễn đạt sự nhượng bộ hoặc điều kiện giả định.",
+      "zh": "表示'纵然'。更正式和书面化，用于书面语中表达让步或假设条件。"
+    },
+    "pinyin1": "zòng rán",
+    "pinyin2": "zong4 ran2",
+    "translation": {
+      "en": "even if, even if; even though",
+      "vi": "dù cho, dù; mặc dù"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "纵使",
+    "description": {
+      "en": "Means 'even if' or 'even though'. Similar to '纵然', formal and literary, expressing strong concession.",
+      "vi": "Có nghĩa 'dẫu cho' hoặc 'dù cho'. Tương tự '纵然', trang trọng và văn học, diễn đạt sự nhượng bộ mạnh mẽ.",
+      "zh": "表示'纵使'。与'纵然'类似，正式和书面化，表达强烈的让步。"
+    },
+    "pinyin1": "zòng shǐ",
+    "pinyin2": "zong4 shi3",
+    "translation": {
+      "en": "even if/though",
+      "vi": "dẫu cho"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "归根结底",
+    "description": {
+      "en": "Idiomatic expression meaning 'in the final analysis' or 'ultimately'. Used to summarize or draw a final conclusion.",
+      "vi": "Thành ngữ có nghĩa 'rốt cuộc' hoặc 'cuối cùng'. Dùng để tóm tắt hoặc rút ra kết luận cuối cùng.",
+      "zh": "成语，表示'归根结底'。用于总结或得出最终结论。"
+    },
+    "pinyin1": "guī gēn jié dǐ",
+    "pinyin2": "gui1 gen1 jie2 di3",
+    "translation": {
+      "en": "in the final analysis/ultimately",
+      "vi": "rốt cuộc/cuối cùng"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "conjunction"
+    ],
+    "word": "反之",
+    "description": {
+      "en": "Means 'conversely' or 'otherwise'. Used to introduce the opposite or alternative situation, more formal than '相反'.",
+      "vi": "Có nghĩa 'ngược lại' hoặc 'trái lại'. Dùng để đưa ra tình huống đối lập hoặc thay thế, trang trọng hơn '相反'.",
+      "zh": "表示'反之'。用于引出相反或替代的情况，比'相反'更正式。"
+    },
+    "pinyin1": "fǎn zhī",
+    "pinyin2": "fan3 zhi1",
+    "translation": {
+      "en": "conversely/otherwise, conversely; on the contrary; otherwise",
+      "vi": "ngược lại, ngược lại; trái lại; nếu không"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "为了...而",
+    "description": {
+      "en": "Correlative pattern meaning 'in order to... (resulting in)'. Used to express purpose and its consequence, emphasizing the connection between goal and action.",
+      "vi": "Mẫu tương quan có nghĩa 'vì để... mà'. Dùng để diễn đạt mục đích và hậu quả của nó, nhấn mạnh mối liên hệ giữa mục tiêu và hành động.",
+      "zh": "关联结构，表示'为了...而'。用于表达目的及其结果，强调目标与行动的联系。"
+    },
+    "pinyin1": "wèi le ... ér",
+    "pinyin2": "wei4 le ... er2",
+    "translation": {
+      "en": "in order to ... (resulting in)",
+      "vi": "vì để... mà"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "既然...就",
+    "description": {
+      "en": "Correlative pattern meaning 'since... then'. Used to express a logical conclusion based on a given premise or fact.",
+      "vi": "Mẫu tương quan có nghĩa 'đã là... thì'. Dùng để diễn đạt kết luận logic dựa trên tiền đề hoặc sự thật đã cho.",
+      "zh": "关联结构，表示'既然...就'。用于基于已知前提或事实得出逻辑结论。"
+    },
+    "pinyin1": "jì rán ... jiù",
+    "pinyin2": "ji4 ran2 ... jiu4",
+    "translation": {
+      "en": "since ... then",
+      "vi": "đã là... thì"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "与其...不如",
+    "description": {
+      "en": "Correlative pattern meaning 'rather than... it's better to...'. Used to express preference between two options, recommending one over the other.",
+      "vi": "Mẫu tương quan có nghĩa 'thà... còn hơn...'. Dùng để diễn đạt sự ưa thích giữa hai lựa chọn, đề xuất một cái hơn cái kia.",
+      "zh": "关联结构，表示'与其...不如'。用于表达两个选择之间的偏好，推荐其中一个。"
+    },
+    "pinyin1": "yǔ qí ... bù rú",
+    "pinyin2": "yu3 qi2 ... bu4 ru2",
+    "translation": {
+      "en": "rather than ... it's better to ...",
+      "vi": "thà... còn hơn..."
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "不是...而是",
+    "description": {
+      "en": "Correlative pattern meaning 'not... but rather...'. Used to correct a misconception or clarify that something is different from what was thought.",
+      "vi": "Mẫu tương quan có nghĩa 'không phải... mà là...'. Dùng để sửa một quan niệm sai lầm hoặc làm rõ rằng điều gì đó khác với điều đã nghĩ.",
+      "zh": "关联结构，表示'不是...而是'。用于纠正误解或澄清事实。"
+    },
+    "pinyin1": "bù shì ... ér shì",
+    "pinyin2": "bu4 shi4 ... er2 shi4",
+    "translation": {
+      "en": "not ... but rather ...",
+      "vi": "không phải... mà là..."
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "况且",
+    "description": {
+      "en": "Means 'moreover' or 'besides'. Used to add an additional reason or point, often in argumentation or explanation.",
+      "vi": "Có nghĩa 'hơn nữa' hoặc 'ngoài ra'. Dùng để thêm một lý do hoặc điểm bổ sung, thường trong tranh luận hoặc giải thích.",
+      "zh": "表示'况且'。用于补充另一个理由或要点，常用于论证或解释。"
+    },
+    "pinyin1": "kuàng qiě",
+    "pinyin2": "kuang4 qie3",
+    "translation": {
+      "en": "moreover/besides, moreover; besides; in addition, moreover; besides",
+      "vi": "hơn nữa, hơn nữa; ngoài ra, hơn nữa; vả lại"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "再说",
+    "description": {
+      "en": "Means 'besides' or 'what's more'. More casual than '况且', commonly used in spoken Chinese to add another point.",
+      "vi": "Có nghĩa 'vả lại' hoặc 'hơn nữa'. Thân mật hơn '况且', thường dùng trong khẩu ngữ để thêm một điểm khác.",
+      "zh": "表示'再说'。比'况且'更口语化，常用于口语中补充另一个要点。"
+    },
+    "pinyin1": "zài shuō",
+    "pinyin2": "zai4 shuo1",
+    "translation": {
+      "en": "besides/what’s more",
+      "vi": "vả lại"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "乃至",
+    "description": {
+      "en": "Means 'and even' or 'to the point of'. More formal than '甚至', used to express an extreme degree or extent.",
+      "vi": "Có nghĩa 'thậm chí' hoặc 'đến mức'. Trang trọng hơn '甚至', dùng để diễn đạt mức độ hoặc phạm vi cực đoan.",
+      "zh": "表示'乃至'。比'甚至'更正式，用于表达极端的程度或范围。"
+    },
+    "pinyin1": "nǎi zhì",
+    "pinyin2": "nai3 zhi4",
+    "translation": {
+      "en": "and even/to the point of, and even; up to",
+      "vi": "thậm chí, và thậm chí; đến mức"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "以及其后",
+    "description": {
+      "en": "Means 'and afterwards' or 'and subsequently'. Used to indicate something that happens after a mentioned event or time.",
+      "vi": "Có nghĩa 'và sau đó' hoặc 'và tiếp theo'. Dùng để chỉ ra điều gì đó xảy ra sau một sự kiện hoặc thời gian được đề cập.",
+      "zh": "表示'以及其后'。用于表示在提到的事件或时间之后发生的事。"
+    },
+    "pinyin1": "yǐ jí qí hòu",
+    "pinyin2": "yi3 ji2 qi2 hou4",
+    "translation": {
+      "en": "and afterwards",
+      "vi": "và sau đó"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "并非",
+    "description": {
+      "en": "Means 'not really' or 'not actually'. Used to negate or correct a statement, more formal than '不是'.",
+      "vi": "Có nghĩa 'không hẳn' hoặc 'thật ra không'. Dùng để phủ định hoặc sửa một câu nói, trang trọng hơn '不是'.",
+      "zh": "表示'并非'。用于否定或纠正一个说法，比'不是'更正式。"
+    },
+    "pinyin1": "bìng fēi",
+    "pinyin2": "bing4 fei1",
+    "translation": {
+      "en": "not really/not actually, really not, not; it is not that",
+      "vi": "không hẳn, không phải là, không phải; chưa hẳn"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "于是乎",
+    "description": {
+      "en": "Means 'thereupon' or 'thus'. More formal and literary than '于是', used in classical or formal written Chinese.",
+      "vi": "Có nghĩa 'thế là' hoặc 'do đó'. Trang trọng và văn học hơn '于是', dùng trong văn viết cổ điển hoặc trang trọng.",
+      "zh": "表示'于是乎'。比'于是'更正式和书面化，常用于古典或正式书面语。"
+    },
+    "pinyin1": "yú shì hū",
+    "pinyin2": "yu2 shi4 hu1",
+    "translation": {
+      "en": "thereupon/thus",
+      "vi": "thế là"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "而后",
+    "description": {
+      "en": "Means 'afterwards' or 'then'. More formal and literary, used in written Chinese to indicate sequence.",
+      "vi": "Có nghĩa 'sau đó' hoặc 'rồi'. Trang trọng và văn học hơn, dùng trong văn viết để chỉ thứ tự.",
+      "zh": "表示'而后'。更正式和书面化，用于书面语中表示顺序。"
+    },
+    "pinyin1": "ér hòu",
+    "pinyin2": "er2 hou4",
+    "translation": {
+      "en": "afterwards",
+      "vi": "sau đó"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "而且还",
+    "description": {
+      "en": "Means 'and also' or 'furthermore'. Used to add additional information or emphasize continuation, combining '而且' and '还'.",
+      "vi": "Có nghĩa 'và còn' hoặc 'hơn nữa'. Dùng để thêm thông tin hoặc nhấn mạnh sự tiếp tục, kết hợp '而且' và '还'.",
+      "zh": "表示'而且还'。用于补充信息或强调递进，是'而且'和'还'的组合。"
+    },
+    "pinyin1": "ér qiě hái",
+    "pinyin2": "er2 qie3 hai2",
+    "translation": {
+      "en": "and also",
+      "vi": "và còn"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "以致",
+    "description": {
+      "en": "Means 'so that' or 'resulting in'. Used to express a negative consequence or outcome, often implying an undesirable result.",
+      "vi": "Có nghĩa 'đến nỗi' hoặc 'dẫn đến'. Dùng để diễn đạt hậu quả hoặc kết quả tiêu cực, thường ngụ ý kết quả không mong muốn.",
+      "zh": "表示'以致'。用于表达负面后果或结果，常暗示不良结果。"
+    },
+    "pinyin1": "yǐ zhì",
+    "pinyin2": "yi3 zhi4",
+    "translation": {
+      "en": "so that/resulting in, so that; with the result that, so that; as a result",
+      "vi": "đến nỗi, dẫn đến; kết quả là, do đó; kết quả là"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "以至于",
+    "description": {
+      "en": "Means 'to the extent that' or 'so much so that'. Used to express an extreme degree or consequence, stronger than '以致'.",
+      "vi": "Có nghĩa 'đến mức' hoặc 'đến nỗi'. Dùng để diễn đạt mức độ hoặc hậu quả cực đoan, mạnh hơn '以致'.",
+      "zh": "表示'以至于'。用于表达极端的程度或后果，比'以致'语气更强。"
+    },
+    "pinyin1": "yǐ zhì yú",
+    "pinyin2": "yi3 zhi4 yu2",
+    "translation": {
+      "en": "to the extent that, to such an extent that; so that",
+      "vi": "đến mức, đến mức; đến nỗi"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "若是",
+    "description": {
+      "en": "Means 'if'. More formal and literary than '如果', commonly used in written Chinese or classical texts.",
+      "vi": "Có nghĩa 'nếu như'. Trang trọng và văn học hơn '如果', thường dùng trong văn viết hoặc văn bản cổ điển.",
+      "zh": "表示'若是'。比'如果'更正式和书面化，常用于书面语或古典文本。"
+    },
+    "pinyin1": "ruò shì",
+    "pinyin2": "ruo4 shi4",
+    "translation": {
+      "en": "if",
+      "vi": "nếu như"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "比方说",
+    "description": {
+      "en": "Means 'for example' or 'for instance'. Used to introduce an example or illustration, more casual than '例如'.",
+      "vi": "Có nghĩa 'ví dụ như' hoặc 'chẳng hạn'. Dùng để đưa ra một ví dụ hoặc minh họa, thân mật hơn '例如'.",
+      "zh": "表示'比方说'。用于举例说明，比'例如'更口语化。"
+    },
+    "pinyin1": "bǐ fāng shuō",
+    "pinyin2": "bi3 fang1 shuo1",
+    "translation": {
+      "en": "for example",
+      "vi": "ví dụ như"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "conjunction"
+    ],
+    "word": "例如",
+    "description": {
+      "en": "Means 'for instance' or 'for example'. More formal than '比方说', commonly used in written Chinese.",
+      "vi": "Có nghĩa 'chẳng hạn' hoặc 'ví dụ'. Trang trọng hơn '比方说', thường dùng trong văn viết.",
+      "zh": "表示'例如'。比'比方说'更正式，常用于书面语。"
+    },
+    "pinyin1": "lì rú",
+    "pinyin2": "li4 ru2",
+    "translation": {
+      "en": "for instance, for example",
+      "vi": "chẳng hạn, ví dụ"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "况而",
+    "description": {
+      "en": "Means 'moreover' or 'furthermore'. More formal and literary, used in written Chinese to add additional information.",
+      "vi": "Có nghĩa 'hơn nữa' hoặc 'vả lại'. Trang trọng và văn học hơn, dùng trong văn viết để thêm thông tin.",
+      "zh": "表示'况而'。更正式和书面化，用于书面语中补充信息。"
+    },
+    "pinyin1": "kuàng ér",
+    "pinyin2": "kuang4 er2",
+    "translation": {
+      "en": "moreover",
+      "vi": "hơn nữa"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "甚至于",
+    "description": {
+      "en": "Means 'even' or 'to the point of'. More emphatic than '甚至', used to express an extreme example or degree.",
+      "vi": "Có nghĩa 'thậm chí' hoặc 'đến mức'. Nhấn mạnh hơn '甚至', dùng để diễn đạt một ví dụ hoặc mức độ cực đoan.",
+      "zh": "表示'甚至于'。比'甚至'语气更强，用于表达极端的例子或程度。"
+    },
+    "pinyin1": "shèn zhì yú",
+    "pinyin2": "shen4 zhi4 yu2",
+    "translation": {
+      "en": "even, even; so much so that",
+      "vi": "thậm chí, thậm chí; đến mức"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "并无",
+    "description": {
+      "en": "Means 'actually not' or 'in fact not'. Used to negate or correct a statement, more formal than '没有'.",
+      "vi": "Có nghĩa 'thật ra không' hoặc 'thực tế không'. Dùng để phủ định hoặc sửa một câu nói, trang trọng hơn '没有'.",
+      "zh": "表示'并无'。用于否定或纠正一个说法，比'没有'更正式。"
+    },
+    "pinyin1": "bìng wú",
+    "pinyin2": "bing4 wu2",
+    "translation": {
+      "en": "actually not",
+      "vi": "thật ra không"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "况乃",
+    "description": {
+      "en": "Means 'let alone' or 'much less'. Used to express that if one thing is true, another is even more so, often in negative contexts.",
+      "vi": "Có nghĩa 'huống chi' hoặc 'chứ đừng nói'. Dùng để diễn đạt rằng nếu một điều đúng, điều khác còn đúng hơn, thường trong ngữ cảnh phủ định.",
+      "zh": "表示'况乃'。用于表示如果一件事成立，另一件事更成立，常用于否定语境。"
+    },
+    "pinyin1": "kuàng nǎi",
+    "pinyin2": "kuang4 nai3",
+    "translation": {
+      "en": "let alone",
+      "vi": "huống chi"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "等到",
+    "description": {
+      "en": "Means 'until' or 'by the time'. Used to indicate that something happens when a certain time or condition is reached.",
+      "vi": "Có nghĩa 'cho đến khi' hoặc 'đến lúc'. Dùng để chỉ ra rằng điều gì đó xảy ra khi một thời gian hoặc điều kiện nhất định được đạt đến.",
+      "zh": "表示'等到'。用于表示当某个时间或条件达到时发生某事。"
+    },
+    "pinyin1": "děng dào",
+    "pinyin2": "deng3 dao4",
+    "translation": {
+      "en": "until",
+      "vi": "cho đến khi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "conjunction"
+    ],
+    "word": "直至",
+    "description": {
+      "en": "Means 'up to' or 'until'. More formal than '等到', used in written Chinese to indicate a time limit or endpoint.",
+      "vi": "Có nghĩa 'tới khi' hoặc 'cho đến'. Trang trọng hơn '等到', dùng trong văn viết để chỉ giới hạn thời gian hoặc điểm cuối.",
+      "zh": "表示'直至'。比'等到'更正式，用于书面语中表示时间界限或终点。"
+    },
+    "pinyin1": "zhí zhì",
+    "pinyin2": "zhi2 zhi4",
+    "translation": {
+      "en": "up to/until, until; up to",
+      "vi": "tới khi, cho đến; đến tận"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "临到",
+    "description": {
+      "en": "Means 'just before' or 'on the verge of'. Used to indicate that something happens right before a particular moment or event.",
+      "vi": "Có nghĩa 'ngay trước khi' hoặc 'sắp đến'. Dùng để chỉ ra rằng điều gì đó xảy ra ngay trước một khoảnh khắc hoặc sự kiện cụ thể.",
+      "zh": "表示'临到'。用于表示在某个时刻或事件即将到来时发生的事。"
+    },
+    "pinyin1": "lín dào",
+    "pinyin2": "lin2 dao4",
+    "translation": {
+      "en": "just before",
+      "vi": "ngay trước khi"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "conjunction"
+    ],
+    "word": "当然",
+    "description": {
+      "en": "Means 'of course' or 'certainly'. Used to express agreement, confirmation, or to state something that is obvious or expected.",
+      "vi": "Có nghĩa 'tất nhiên' hoặc 'chắc chắn'. Dùng để diễn đạt sự đồng ý, xác nhận, hoặc nêu ra điều gì đó hiển nhiên hoặc mong đợi.",
+      "zh": "表示'当然'。用于表达同意、确认，或说明显而易见或预期的事。"
+    },
+    "pinyin1": "dāng rán",
+    "pinyin2": "dang1 ran2",
+    "translation": {
+      "en": "of course",
+      "vi": "tất nhiên"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "独自",
+    "description": {
+      "en": "Means 'alone' or 'independently'. Used to indicate that an action is performed by oneself, without others' help or company.",
+      "vi": "Có nghĩa 'một mình' hoặc 'độc lập'. Dùng để chỉ ra rằng một hành động được thực hiện bởi chính mình, không có sự giúp đỡ hoặc đồng hành của người khác.",
+      "zh": "表示'独自'。用于表示动作由自己独立完成，没有他人的帮助或陪伴。"
+    },
+    "pinyin1": "dú zì",
+    "pinyin2": "du2 zi4",
+    "translation": {
+      "en": "alone/independently",
+      "vi": "một mình/độc lập"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "有时",
+    "description": {
+      "en": "Means 'sometimes' or 'occasionally'. Used to indicate that something happens on some occasions but not always.",
+      "vi": "Có nghĩa 'đôi khi' hoặc 'thỉnh thoảng'. Dùng để chỉ ra rằng điều gì đó xảy ra trong một số trường hợp nhưng không phải lúc nào cũng vậy.",
+      "zh": "表示'有时'。用于表示某事偶尔发生，但不是总是如此。"
+    },
+    "pinyin1": "yǒu shí",
+    "pinyin2": "you3 shi2",
+    "translation": {
+      "en": "sometimes/occasionally",
+      "vi": "đôi khi/thỉnh thoảng"
+    }
+  },
+  {
+    "tags": [
+      "conjunction"
+    ],
+    "word": "从不",
+    "description": {
+      "en": "Means 'never' or 'not ever'. Used to express that something has never happened or will never happen.",
+      "vi": "Có nghĩa 'không bao giờ' hoặc 'chưa bao giờ'. Dùng để diễn đạt rằng điều gì đó chưa bao giờ xảy ra hoặc sẽ không bao giờ xảy ra.",
+      "zh": "表示'从不'。用于表示某事从未发生或永远不会发生。"
+    },
+    "pinyin1": "cóng bù",
+    "pinyin2": "cong2 bu4",
+    "translation": {
+      "en": "never/not ever",
+      "vi": "không bao giờ"
+    }
+  }
+]

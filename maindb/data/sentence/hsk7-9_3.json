@@ -1,0 +1,101 @@
+[{
+  "sentence": "这个框架提供了很多功能。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè kuàng jià tí gōng le hěn duō gōng néng",
+  "pinyin2": "zhe4 ge4 kua4ng jia4 ti2 go1ng le hen3 duo1 go1ng ne2ng",
+  "translation": {
+    "en": "This framework provides many features.",
+    "vi": "Khung làm việc này cung cấp nhiều tính năng."
+  }
+}, {
+  "sentence": "这个进程已经完成了。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè jìn chéng yǐ jīng wán chéng le",
+  "pinyin2": "zhe4 ge4 ji4n che2ng yi3 jing1 wa2n che2ng le",
+  "translation": {
+    "en": "This process has been completed.",
+    "vi": "Tiến trình này đã hoàn thành."
+  }
+}, {
+  "sentence": "内存使用率很高。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "nèi cún shǐ yòng lǜ hěn gāo",
+  "pinyin2": "ne4i cu2n shi3 yo4ng lv4 hen3 ga1o",
+  "translation": {
+    "en": "Memory usage is very high.",
+    "vi": "Tỷ lệ sử dụng bộ nhớ rất cao."
+  }
+}, {
+  "sentence": "网站流量大幅增加。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǎng zhàn liú liàng dà fú zēng jiā",
+  "pinyin2": "wa3ng zha4n liu2 lia4ng da4 fu2 ze1ng jia1",
+  "translation": {
+    "en": "Website traffic has increased significantly.",
+    "vi": "Lưu lượng trang web tăng đáng kể."
+  }
+}, {
+  "sentence": "他很聪明，况且还很努力。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā hěn cōng míng, kuàng qiě hái hěn nǔ lì",
+  "pinyin2": "ta1 hen3 co1ng mi2ng, kua4ng qie3 ha2i hen3 nu3 li4",
+  "translation": {
+    "en": "He is very smart, and moreover very hardworking.",
+    "vi": "Anh ấy rất thông minh, hơn nữa còn rất chăm chỉ."
+  }
+}, {
+  "sentence": "这个问题影响了整个团队，乃至整个公司。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè wèn tí yǐng xiǎng le zhěng gè tuán duì, nǎi zhì zhěng gè gōng sī",
+  "pinyin2": "zhe4 ge4 we4n ti2 yi3ng xia3ng le zhe3ng ge4 tua2n dui4, na3i zhi4 zhe3ng ge4 go1ng si1",
+  "translation": {
+    "en": "This problem affects the entire team, and even the entire company.",
+    "vi": "Vấn đề này ảnh hưởng đến cả đội, thậm chí cả công ty."
+  }
+}, {
+  "sentence": "这个菜太辣了，因为有很多辣椒。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè cài tài là le, yīn wèi yǒu hěn duō là jiāo",
+  "pinyin2": "zhe4 ge4 ca4i ta4i la4 le, yi1n we4i yo3u hen3 duo1 la4 jia1o",
+  "translation": {
+    "en": "This dish is too spicy because it has a lot of chili peppers.",
+    "vi": "Món này quá cay vì có nhiều ớt."
+  }
+}, {
+  "sentence": "我喜欢打乒乓球。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ xǐ huān dǎ pīng pāng qiú",
+  "pinyin2": "wo3 xi3 huan1 da3 pi1ng pa1ng qiu2",
+  "translation": {
+    "en": "I like playing table tennis.",
+    "vi": "Tôi thích chơi bóng bàn."
+  }
+}, {
+  "sentence": "他一直在咳嗽。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā yī zhí zài ké sou",
+  "pinyin2": "ta1 yi1 zhi2 za4i ke2 sou",
+  "translation": {
+    "en": "He keeps coughing.",
+    "vi": "Anh ấy cứ ho mãi."
+  }
+}, {
+  "sentence": "零售业正在经历数字化转型。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "líng shòu yè zhèng zài jīng lì shù zì huà zhuǎn xíng",
+  "pinyin2": "ling2 shou4 ye4 zheng4 zai4 jing1 li4 shu4 zi4 hua4 zhuan3 xing2",
+  "translation": {
+    "en": "The retail industry is undergoing digital transformation.",
+    "vi": "Ngành bán lẻ đang trải qua quá trình chuyển đổi số."
+  }
+}, {
+  "sentence": "央行实施了紧缩政策以控制通胀。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "yāng háng shí shī le jǐn suō zhèng cè yǐ kòng zhì tōng zhàng",
+  "pinyin2": "yang1 hang2 shi2 shi1 le jin3 suo1 zheng4 ce4 yi3 kong4 zhi4 tong1 zhang4",
+  "translation": {
+    "en": "The central bank implemented a tightening policy to control inflation.",
+    "vi": "Ngân hàng trung ương thực hiện chính sách thắt chặt để kiểm soát lạm phát."
+  }
+}]
+

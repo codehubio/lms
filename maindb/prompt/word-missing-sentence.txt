@@ -1,0 +1,1 @@
+read the file words-without-sentences.json to find the words (80 words) which do not have example sentences. Create example sentences for them and add the example sentences in appropriate filename in the words-without-sentences.json. Do it without coding. Apply directly to the json file after generating an example

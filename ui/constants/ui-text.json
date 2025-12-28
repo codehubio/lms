@@ -1,0 +1,808 @@
+{
+  "nav": {
+    "brand": {
+      "en": "Chinese Vocabulary",
+      "vi": "Từ vựng tiếng Trung",
+      "zh": "中文词汇"
+    },
+    "home": {
+      "en": "Home",
+      "vi": "Trang chủ",
+      "zh": "首页"
+    },
+    "courses": {
+      "en": "Courses",
+      "vi": "Khóa học",
+      "zh": "课程"
+    },
+    "dictionary": {
+      "en": "Vocabulary",
+      "vi": "Từ vựng",
+      "zh": "词汇"
+    },
+    "pronunciation": {
+      "en": "Pronunciation",
+      "vi": "Phát âm",
+      "zh": "发音"
+    },
+    "grammar": {
+      "en": "Grammar",
+      "vi": "Ngữ pháp",
+      "zh": "语法"
+    },
+    "about": {
+      "en": "About",
+      "vi": "Giới thiệu",
+      "zh": "关于"
+    }
+  },
+  "hero": {
+    "title": {
+      "en": "学习中文",
+      "vi": "学习中文",
+      "zh": "学习中文"
+    },
+    "subtitle": {
+      "en": "Master Chinese vocabulary with comprehensive HSK word lists and translations.",
+      "vi": "Thành thạo từ vựng tiếng Trung với danh sách từ HSK đầy đủ và bản dịch.",
+      "zh": "通过全面的HSK词汇表和翻译掌握中文词汇。"
+    },
+    "cta": {
+      "en": "Get Started",
+      "vi": "Bắt đầu",
+      "zh": "开始"
+    }
+  },
+  "courses": {
+    "featured": {
+      "en": "Featured Courses",
+      "vi": "Khóa học nổi bật",
+      "zh": "精选课程"
+    }
+  },
+  "reading": {
+    "title": {
+      "en": "Practice Listening",
+      "vi": "Luyện nghe",
+      "zh": "听力练习"
+    },
+    "subtitle": {
+      "en": "Browse and listen to Chinese passages with pinyin at your level",
+      "vi": "Duyệt và nghe các đoạn văn tiếng Trung có phiên âm theo cấp độ của bạn",
+      "zh": "浏览并收听适合您水平的带拼音的中文段落"
+    },
+    "filters": {
+      "en": "Filters",
+      "vi": "Bộ lọc",
+      "zh": "筛选"
+    },
+    "all": {
+      "en": "All",
+      "vi": "Tất cả",
+      "zh": "全部"
+    },
+    "showingReadings": {
+      "en": "Showing",
+      "vi": "Hiển thị",
+      "zh": "显示"
+    },
+    "of": {
+      "en": "of",
+      "vi": "trong tổng số",
+      "zh": "共"
+    },
+    "readings": {
+      "en": "readings",
+      "vi": "đoạn văn",
+      "zh": "篇"
+    },
+    "noReadings": {
+      "en": "No readings found",
+      "vi": "Không tìm thấy đoạn văn nào",
+      "zh": "未找到阅读材料"
+    },
+    "words": {
+      "en": "words",
+      "vi": "từ",
+      "zh": "词"
+    },
+    "clickToView": {
+      "en": "Click to view full passage",
+      "vi": "Nhấp để xem toàn bộ đoạn văn",
+      "zh": "点击查看完整段落"
+    },
+    "backToList": {
+      "en": "Back to List",
+      "vi": "Quay lại danh sách",
+      "zh": "返回列表"
+    },
+    "next": {
+      "en": "Next",
+      "vi": "Tiếp theo",
+      "zh": "下一个"
+    },
+    "previous": {
+      "en": "Previous",
+      "vi": "Trước đó",
+      "zh": "上一个"
+    },
+    "button": {
+      "en": "Practice Listening",
+      "vi": "Luyện nghe",
+      "zh": "听力练习"
+    },
+    "generating": {
+      "en": "Generating...",
+      "vi": "Đang tạo...",
+      "zh": "生成中..."
+    },
+    "wordCount": {
+      "en": "Word Count",
+      "vi": "Số từ",
+      "zh": "词数"
+    },
+    "hskLevel": {
+      "en": "HSK Level",
+      "vi": "Cấp độ HSK",
+      "zh": "HSK级别"
+    },
+    "showPinyin": {
+      "en": "Show Pinyin",
+      "vi": "Hiển thị phiên âm",
+      "zh": "显示拼音"
+    },
+    "generateNew": {
+      "en": "Generate New",
+      "vi": "Tạo mới",
+      "zh": "生成新的"
+    },
+    "chineseText": {
+      "en": "Chinese Text",
+      "vi": "Văn bản tiếng Trung",
+      "zh": "中文文本"
+    },
+    "pinyin": {
+      "en": "Pinyin",
+      "vi": "Phiên âm",
+      "zh": "拼音"
+    },
+    "speechPractice": {
+      "en": "Speech Practice",
+      "vi": "Luyện nói",
+      "zh": "口语练习"
+    },
+    "startSpeaking": {
+      "en": "Start Speaking",
+      "vi": "Bắt đầu nói",
+      "zh": "开始说话"
+    },
+    "stopSpeaking": {
+      "en": "Stop Speaking",
+      "vi": "Dừng nói",
+      "zh": "停止说话"
+    },
+    "tryAgain": {
+      "en": "Try Again",
+      "vi": "Thử lại",
+      "zh": "重试"
+    },
+    "listening": {
+      "en": "Listening...",
+      "vi": "Đang nghe...",
+      "zh": "正在听..."
+    },
+    "youSaid": {
+      "en": "You said:",
+      "vi": "Bạn đã nói:",
+      "zh": "您说："
+    },
+    "results": {
+      "en": "Results",
+      "vi": "Kết quả",
+      "zh": "结果"
+    },
+    "accuracy": {
+      "en": "Accuracy",
+      "vi": "Độ chính xác",
+      "zh": "准确度"
+    },
+    "wordsMatched": {
+      "en": "Words matched",
+      "vi": "Từ khớp",
+      "zh": "匹配的词语"
+    },
+    "errors": {
+      "en": "Errors",
+      "vi": "Lỗi",
+      "zh": "错误"
+    },
+    "expected": {
+      "en": "Expected",
+      "vi": "Mong đợi",
+      "zh": "预期"
+    },
+    "spoken": {
+      "en": "Spoken",
+      "vi": "Đã nói",
+      "zh": "已说"
+    },
+    "errorNoSpeech": {
+      "en": "No speech detected. Please try again.",
+      "vi": "Không phát hiện giọng nói. Vui lòng thử lại.",
+      "zh": "未检测到语音。请重试。"
+    },
+    "errorNoMicrophone": {
+      "en": "No microphone found. Please check your microphone.",
+      "vi": "Không tìm thấy microphone. Vui lòng kiểm tra microphone của bạn.",
+      "zh": "未找到麦克风。请检查您的麦克风。"
+    },
+    "errorNetwork": {
+      "en": "Network error. Please check your internet connection and try again.",
+      "vi": "Lỗi mạng. Vui lòng kiểm tra kết nối internet và thử lại.",
+      "zh": "网络错误。请检查您的互联网连接并重试。"
+    },
+    "errorNotAllowed": {
+      "en": "Microphone permission denied. Please allow microphone access and try again.",
+      "vi": "Quyền truy cập microphone bị từ chối. Vui lòng cho phép truy cập microphone và thử lại.",
+      "zh": "麦克风权限被拒绝。请允许麦克风访问并重试。"
+    },
+    "errorAborted": {
+      "en": "Speech recognition was aborted.",
+      "vi": "Nhận dạng giọng nói đã bị hủy.",
+      "zh": "语音识别已中止。"
+    },
+    "errorServiceNotAllowed": {
+      "en": "Speech recognition service is not allowed.",
+      "vi": "Dịch vụ nhận dạng giọng nói không được phép.",
+      "zh": "不允许语音识别服务。"
+    },
+    "errorUnknown": {
+      "en": "Speech recognition error. Please try again.",
+      "vi": "Lỗi nhận dạng giọng nói. Vui lòng thử lại.",
+      "zh": "语音识别错误。请重试。"
+    },
+    "privacyNotice": {
+      "en": "Note: Speech recognition requires internet connection and may send audio to Google servers for processing. For offline use, download Chinese language pack in browser settings.",
+      "vi": "Lưu ý: Nhận dạng giọng nói yêu cầu kết nối internet và có thể gửi âm thanh đến máy chủ Google để xử lý. Để sử dụng offline, tải gói ngôn ngữ Trung Quốc trong cài đặt trình duyệt.",
+      "zh": "注意：语音识别需要互联网连接，可能会将音频发送到Google服务器进行处理。要离线使用，请在浏览器设置中下载中文语言包。"
+    },
+    "listen": {
+      "en": "Listen",
+      "vi": "Nghe",
+      "zh": "听"
+    },
+    "stop": {
+      "en": "Stop",
+      "vi": "Dừng",
+      "zh": "停止"
+    },
+    "ttsNotSupported": {
+      "en": "Text-to-speech is not supported in your browser.",
+      "vi": "Chuyển văn bản thành giọng nói không được hỗ trợ trong trình duyệt của bạn.",
+      "zh": "您的浏览器不支持文本转语音。"
+    },
+    "ttsError": {
+      "en": "Error reading text. Please try again.",
+      "vi": "Lỗi khi đọc văn bản. Vui lòng thử lại.",
+      "zh": "读取文本时出错。请重试。"
+    },
+    "ttsSettings": {
+      "en": "TTS Settings",
+      "vi": "Cài đặt TTS",
+      "zh": "TTS设置"
+    },
+    "voice": {
+      "en": "Voice",
+      "vi": "Giọng nói",
+      "zh": "语音"
+    },
+    "speed": {
+      "en": "Speed",
+      "vi": "Tốc độ",
+      "zh": "速度"
+    },
+    "tone": {
+      "en": "Tone",
+      "vi": "Tông giọng",
+      "zh": "音调"
+    },
+    "low": {
+      "en": "Low",
+      "vi": "Thấp",
+      "zh": "低"
+    },
+    "normal": {
+      "en": "Normal",
+      "vi": "Bình thường",
+      "zh": "正常"
+    },
+    "high": {
+      "en": "High",
+      "vi": "Cao",
+      "zh": "高"
+    }
+  },
+  "home": {
+    "vocabularyTitle": {
+      "en": "HSK Vocabulary Dictionary",
+      "vi": "Từ điển từ vựng HSK",
+      "zh": "HSK词汇词典"
+    },
+    "vocabularySubtitle": {
+      "en": "Browse and search through thousands of Chinese words with pinyin, translations, and HSK levels",
+      "vi": "Duyệt và tìm kiếm hàng nghìn từ tiếng Trung với phiên âm, bản dịch và cấp độ HSK",
+      "zh": "浏览和搜索数千个带拼音、翻译和HSK级别的中文词汇"
+    },
+    "exploreVocabulary": {
+      "en": "Explore Vocabulary",
+      "vi": "Khám phá từ vựng",
+      "zh": "探索词汇"
+    },
+    "grammarTitle": {
+      "en": "Chinese Grammar",
+      "vi": "Ngữ pháp tiếng Trung",
+      "zh": "中文语法"
+    },
+    "grammarSubtitle": {
+      "en": "Learn Chinese grammar with comprehensive explanations, examples, and markdown support",
+      "vi": "Học ngữ pháp tiếng Trung với giải thích đầy đủ, ví dụ và hỗ trợ markdown",
+      "zh": "通过全面的解释、示例和markdown支持学习中文语法"
+    },
+    "exploreGrammar": {
+      "en": "Explore Grammar",
+      "vi": "Khám phá ngữ pháp",
+      "zh": "探索语法"
+    },
+    "readingTitle": {
+      "en": "Practice Listening",
+      "vi": "Luyện nghe",
+      "zh": "听力练习"
+    },
+    "readingSubtitle": {
+      "en": "Listen to Chinese passages with pinyin at your level",
+      "vi": "Nghe các đoạn văn tiếng Trung có phiên âm theo cấp độ của bạn",
+      "zh": "收听适合您水平的带拼音的中文段落"
+    }
+  },
+  "dictionary": {
+    "title": {
+      "en": "Chinese Vocabulary Dictionary",
+      "vi": "Từ điển từ vựng tiếng Trung",
+      "zh": "中文词汇词典"
+    },
+    "subtitle": {
+      "en": "Comprehensive HSK vocabulary with pinyin, translations, and search functionality",
+      "vi": "Từ vựng HSK đầy đủ với phiên âm, bản dịch và chức năng tìm kiếm",
+      "zh": "全面的HSK词汇，包含拼音、翻译和搜索功能"
+    },
+    "searchPlaceholder": {
+      "en": "Search by Chinese word, pinyin, or translation...",
+      "vi": "Tìm kiếm theo từ tiếng Trung, phiên âm, hoặc bản dịch...",
+      "zh": "按中文词、拼音或翻译搜索..."
+    },
+    "searchHelp": {
+      "en": "Tip: Search using pinyin in any format - tone numbers (di1ng, di2ng, di3ng, di4ng), tone marks (dīng, díng, dǐng, dìng), or without tones (ding). All formats work!",
+      "vi": "Mẹo: Tìm kiếm bằng phiên âm ở bất kỳ định dạng nào - số thanh điệu (di1ng, di2ng, di3ng, di4ng), dấu thanh điệu (dīng, díng, dǐng, dìng), hoặc không có thanh điệu (ding). Tất cả các định dạng đều hoạt động!",
+      "zh": "提示：可以使用任何格式的拼音进行搜索 - 声调数字（di1ng, di2ng, di3ng, di4ng）、声调符号（dīng, díng, dǐng, dìng）或不带声调（ding）。所有格式都可以使用！"
+    },
+    "searchButton": {
+      "en": "Search",
+      "vi": "Tìm kiếm",
+      "zh": "搜索"
+    },
+    "clearButton": {
+      "en": "Clear",
+      "vi": "Xóa",
+      "zh": "清除"
+    },
+    "viewMode": {
+      "en": "View:",
+      "vi": "Chế độ xem:",
+      "zh": "视图："
+    },
+    "cardView": {
+      "en": "Cards",
+      "vi": "Thẻ",
+      "zh": "卡片"
+    },
+    "tableView": {
+      "en": "Table",
+      "vi": "Bảng",
+      "zh": "表格"
+    },
+    "filterByTags": {
+      "en": "Filter by Tags:",
+      "vi": "Lọc theo thẻ:",
+      "zh": "按标签筛选："
+    },
+    "clearAll": {
+      "en": "Clear all",
+      "vi": "Xóa tất cả",
+      "zh": "清除全部"
+    },
+    "all": {
+      "en": "All",
+      "vi": "Tất cả",
+      "zh": "全部"
+    },
+    "loadingSearch": {
+      "en": "Loading search...",
+      "vi": "Đang tải tìm kiếm...",
+      "zh": "加载搜索中..."
+    },
+    "write": {
+      "en": "Write",
+      "vi": "Viết",
+      "zh": "书写"
+    },
+    "pause": {
+      "en": "Pause",
+      "vi": "Tạm dừng",
+      "zh": "暂停"
+    },
+    "resume": {
+      "en": "Resume",
+      "vi": "Tiếp tục",
+      "zh": "继续"
+    },
+    "enlarge": {
+      "en": "Enlarge",
+      "vi": "Phóng to",
+      "zh": "放大"
+    },
+    "speed": {
+      "en": "Speed:",
+      "vi": "Tốc độ:",
+      "zh": "速度："
+    },
+    "speedSlow": {
+      "en": "Slow",
+      "vi": "Chậm",
+      "zh": "慢"
+    },
+    "speedNormal": {
+      "en": "Normal",
+      "vi": "Bình thường",
+      "zh": "正常"
+    },
+    "speedFast": {
+      "en": "Fast",
+      "vi": "Nhanh",
+      "zh": "快"
+    },
+    "strokeOrder": {
+      "en": "Stroke Order:",
+      "vi": "Thứ tự nét:",
+      "zh": "笔画顺序："
+    },
+    "close": {
+      "en": "Close",
+      "vi": "Đóng",
+      "zh": "关闭"
+    },
+    "loadingFilters": {
+      "en": "Loading filters...",
+      "vi": "Đang tải bộ lọc...",
+      "zh": "加载筛选器中..."
+    },
+    "noResults": {
+      "en": "No dictionary entries found.",
+      "vi": "Không tìm thấy từ điển nào.",
+      "zh": "未找到词典条目。"
+    },
+    "noResultsMatching": {
+      "en": "No dictionary entries found matching \"{search}\".",
+      "vi": "Không tìm thấy từ điển nào khớp với \"{search}\".",
+      "zh": "未找到匹配 \"{search}\" 的词典条目。"
+    },
+    "showingEntries": {
+      "en": "Showing {start}-{end} of {total} entries",
+      "vi": "Hiển thị {start}-{end} trong tổng số {total} mục",
+      "zh": "显示 {total} 条中的 {start}-{end} 条"
+    },
+    "totalEntries": {
+      "en": "{total} entries",
+      "vi": "{total} mục",
+      "zh": "{total} 条"
+    },
+    "pageSize": {
+      "en": "Page size:",
+      "vi": "Kích thước trang:",
+      "zh": "每页大小："
+    },
+    "first": {
+      "en": "First",
+      "vi": "Đầu",
+      "zh": "首页"
+    },
+    "previous": {
+      "en": "Previous",
+      "vi": "Trước",
+      "zh": "上一页"
+    },
+    "next": {
+      "en": "Next",
+      "vi": "Sau",
+      "zh": "下一页"
+    },
+    "last": {
+      "en": "Last",
+      "vi": "Cuối",
+      "zh": "末页"
+    },
+    "page": {
+      "en": "Page {current} of {total}",
+      "vi": "Trang {current} của {total}",
+      "zh": "第 {current} 页，共 {total} 页"
+    }
+  },
+  "grammar": {
+    "title": {
+      "en": "Chinese Grammar",
+      "vi": "Ngữ pháp tiếng Trung",
+      "zh": "中文语法"
+    },
+    "subtitle": {
+      "en": "Comprehensive Chinese grammar explanations with examples",
+      "vi": "Giải thích ngữ pháp tiếng Trung đầy đủ với ví dụ",
+      "zh": "全面的中文语法解释和示例"
+    },
+    "topics": {
+      "en": "Topics",
+      "vi": "Chủ đề",
+      "zh": "主题"
+    },
+    "searchPlaceholder": {
+      "en": "Search grammar topics...",
+      "vi": "Tìm kiếm chủ đề ngữ pháp...",
+      "zh": "搜索语法主题..."
+    },
+    "searchButton": {
+      "en": "Search",
+      "vi": "Tìm kiếm",
+      "zh": "搜索"
+    },
+    "clearButton": {
+      "en": "Clear",
+      "vi": "Xóa",
+      "zh": "清除"
+    },
+    "noResults": {
+      "en": "No grammar topics found",
+      "vi": "Không tìm thấy chủ đề ngữ pháp nào",
+      "zh": "未找到语法主题"
+    },
+    "noResultsMatching": {
+      "en": "No grammar topics found matching \"{search}\".",
+      "vi": "Không tìm thấy chủ đề ngữ pháp nào khớp với \"{search}\".",
+      "zh": "未找到匹配 \"{search}\" 的语法主题。"
+    }
+  },
+  "pronunciation": {
+    "title": {
+      "en": "Chinese Pronunciation",
+      "vi": "Phát âm tiếng Trung",
+      "zh": "中文发音"
+    },
+    "subtitle": {
+      "en": "Comprehensive Chinese pronunciation guides",
+      "vi": "Hướng dẫn phát âm tiếng Trung đầy đủ",
+      "zh": "全面的中文发音指南"
+    },
+    "topics": {
+      "en": "Topics",
+      "vi": "Chủ đề",
+      "zh": "主题"
+    },
+    "searchPlaceholder": {
+      "en": "Search pronunciation topics...",
+      "vi": "Tìm kiếm chủ đề phát âm...",
+      "zh": "搜索发音主题..."
+    },
+    "searchButton": {
+      "en": "Search",
+      "vi": "Tìm kiếm",
+      "zh": "搜索"
+    },
+    "clearButton": {
+      "en": "Clear",
+      "vi": "Xóa",
+      "zh": "清除"
+    },
+    "noResults": {
+      "en": "No pronunciation topics found",
+      "vi": "Không tìm thấy chủ đề phát âm nào",
+      "zh": "未找到发音主题"
+    },
+    "noResultsMatching": {
+      "en": "No pronunciation topics found matching \"{search}\".",
+      "vi": "Không tìm thấy chủ đề phát âm nào khớp với \"{search}\".",
+      "zh": "未找到匹配 \"{search}\" 的发音主题。"
+    }
+  },
+  "language": {
+    "label": {
+      "en": "Language:",
+      "vi": "Ngôn ngữ:",
+      "zh": "语言："
+    },
+    "english": {
+      "en": "English (EN)",
+      "vi": "English (EN)",
+      "zh": "English (EN)"
+    },
+    "vietnamese": {
+      "en": "Tiếng Việt (VI)",
+      "vi": "Tiếng Việt (VI)",
+      "zh": "Tiếng Việt (VI)"
+    },
+    "chinese": {
+      "en": "中文 (ZH)",
+      "vi": "中文 (ZH)",
+      "zh": "中文 (ZH)"
+    }
+  },
+  "about": {
+    "title": {
+      "en": "About Chinese Vocabulary Dictionary",
+      "vi": "Giới thiệu về Từ điển từ vựng tiếng Trung",
+      "zh": "关于中文词汇词典"
+    },
+    "description": {
+      "en": "A comprehensive online dictionary for learning Chinese vocabulary",
+      "vi": "Từ điển trực tuyến toàn diện để học từ vựng tiếng Trung",
+      "zh": "一个全面的在线词典，用于学习中文词汇"
+    },
+    "features": {
+      "en": "Features",
+      "vi": "Tính năng",
+      "zh": "功能"
+    },
+    "feature1Title": {
+      "en": "Comprehensive HSK Vocabulary",
+      "vi": "Từ vựng HSK đầy đủ",
+      "zh": "全面的HSK词汇"
+    },
+    "feature1Description": {
+      "en": "Access thousands of Chinese words organized by HSK levels 1-6",
+      "vi": "Truy cập hàng nghìn từ tiếng Trung được sắp xếp theo cấp độ HSK 1-6",
+      "zh": "访问数千个按HSK 1-6级别组织的中文词汇"
+    },
+    "feature2Title": {
+      "en": "Pinyin & Translations",
+      "vi": "Phiên âm & Bản dịch",
+      "zh": "拼音和翻译"
+    },
+    "feature2Description": {
+      "en": "Each word includes pinyin pronunciation and English/Vietnamese translations",
+      "vi": "Mỗi từ bao gồm phiên âm và bản dịch tiếng Anh/Tiếng Việt",
+      "zh": "每个词都包含拼音发音和英文/越南文翻译"
+    },
+    "feature3Title": {
+      "en": "Powerful Search",
+      "vi": "Tìm kiếm mạnh mẽ",
+      "zh": "强大的搜索"
+    },
+    "feature3Description": {
+      "en": "Search by Chinese characters, pinyin, translations, or HSK level",
+      "vi": "Tìm kiếm theo chữ Hán, phiên âm, bản dịch hoặc cấp độ HSK",
+      "zh": "按汉字、拼音、翻译或HSK级别搜索"
+    },
+    "feature4Title": {
+      "en": "Bilingual Interface",
+      "vi": "Giao diện song ngữ",
+      "zh": "双语界面"
+    },
+    "feature4Description": {
+      "en": "Switch between English and Vietnamese interface languages",
+      "vi": "Chuyển đổi giữa tiếng Anh và tiếng Việt",
+      "zh": "在英文和越南文界面语言之间切换"
+    },
+    "feature5Title": {
+      "en": "Chinese Grammar",
+      "vi": "Ngữ pháp tiếng Trung",
+      "zh": "中文语法"
+    },
+    "feature5Description": {
+      "en": "Comprehensive grammar explanations with examples, markdown support, and interactive learning",
+      "vi": "Giải thích ngữ pháp đầy đủ với ví dụ, hỗ trợ markdown và học tập tương tác",
+      "zh": "全面的语法解释，包含示例、markdown支持和互动学习"
+    }
+  },
+  "footer": {
+    "copyright": {
+      "en": "© 2025 Chinese Vocabulary Dictionary. All rights reserved.",
+      "vi": "© 2025 Từ điển từ vựng tiếng Trung. Bảo lưu mọi quyền.",
+      "zh": "© 2025 中文词汇词典。保留所有权利。"
+    }
+  },
+  "metadata": {
+    "title": {
+      "en": "Chinese Vocabulary Dictionary - HSK Word Lists",
+      "vi": "Từ điển từ vựng tiếng Trung - Danh sách từ HSK",
+      "zh": "中文词汇词典 - HSK词汇表"
+    },
+    "description": {
+      "en": "Master Chinese vocabulary with comprehensive HSK word lists, pinyin, and translations. Search and explore thousands of Chinese words.",
+      "vi": "Thành thạo từ vựng tiếng Trung với danh sách từ HSK đầy đủ, phiên âm và bản dịch. Tìm kiếm và khám phá hàng nghìn từ tiếng Trung.",
+      "zh": "通过全面的HSK词汇表、拼音和翻译掌握中文词汇。搜索和探索数千个中文词汇。"
+    },
+    "keywords": {
+      "en": "Chinese vocabulary, HSK, pinyin, Chinese dictionary, learn Chinese, Chinese words, HSK word list, Chinese translation",
+      "vi": "Từ vựng tiếng Trung, HSK, phiên âm, từ điển tiếng Trung, học tiếng Trung, từ tiếng Trung, danh sách từ HSK, dịch tiếng Trung",
+      "zh": "中文词汇, HSK, 拼音, 中文词典, 学习中文, 中文词汇, HSK词汇表, 中文翻译"
+    },
+    "siteName": {
+      "en": "Chinese Vocabulary Dictionary",
+      "vi": "Từ điển từ vựng tiếng Trung",
+      "zh": "中文词汇词典"
+    }
+  },
+  "alt": {
+    "heroIcon": {
+      "en": "Chinese Vocabulary Logo",
+      "vi": "Logo Từ vựng tiếng Trung",
+      "zh": "中文词汇标志"
+    },
+    "vocabularyIcon": {
+      "en": "Vocabulary Dictionary Icon",
+      "vi": "Biểu tượng Từ điển từ vựng",
+      "zh": "词汇词典图标"
+    },
+    "exploreArrow": {
+      "en": "Explore",
+      "vi": "Khám phá",
+      "zh": "探索"
+    },
+    "feature1Icon": {
+      "en": "Comprehensive HSK Vocabulary",
+      "vi": "Từ vựng HSK đầy đủ",
+      "zh": "全面的HSK词汇"
+    },
+    "feature2Icon": {
+      "en": "Pinyin & Translations",
+      "vi": "Phiên âm & Bản dịch",
+      "zh": "拼音和翻译"
+    },
+    "feature3Icon": {
+      "en": "Powerful Search",
+      "vi": "Tìm kiếm mạnh mẽ",
+      "zh": "强大的搜索"
+    },
+    "feature4Icon": {
+      "en": "Bilingual Interface",
+      "vi": "Giao diện song ngữ",
+      "zh": "双语界面"
+    },
+    "speakIcon": {
+      "en": "Pronounce word",
+      "vi": "Phát âm từ",
+      "zh": "发音"
+    },
+    "stopIcon": {
+      "en": "Stop pronunciation",
+      "vi": "Dừng phát âm",
+      "zh": "停止发音"
+    },
+    "paginationFirst": {
+      "en": "First page",
+      "vi": "Trang đầu",
+      "zh": "首页"
+    },
+    "paginationPrevious": {
+      "en": "Previous page",
+      "vi": "Trang trước",
+      "zh": "上一页"
+    },
+    "paginationNext": {
+      "en": "Next page",
+      "vi": "Trang sau",
+      "zh": "下一页"
+    },
+    "paginationLast": {
+      "en": "Last page",
+      "vi": "Trang cuối",
+      "zh": "末页"
+    }
+  }
+}

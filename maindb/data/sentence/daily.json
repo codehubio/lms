@@ -1,0 +1,1190 @@
+[{
+  "sentence": "我每天都要吃饭。",
+  "tags": ["daily"],
+  "pinyin1": "wǒ měi tiān dōu yào chī fàn",
+  "pinyin2": "wo3 mei3 tian1 dou1 yao4 chi1 fan4",
+  "translation": {
+    "en": "I eat every day.",
+    "vi": "Tôi ăn mỗi ngày."
+  }
+}, {
+  "sentence": "我想喝水。",
+  "tags": ["daily"],
+  "pinyin1": "wǒ xiǎng hē shuǐ",
+  "pinyin2": "wo3 xiang3 he1 shui3",
+  "translation": {
+    "en": "I want to drink water.",
+    "vi": "Tôi muốn uống nước."
+  }
+}, {
+  "sentence": "我们一起去走走吧。",
+  "tags": ["daily"],
+  "pinyin1": "wǒ men yī qǐ qù zǒu zǒu ba",
+  "pinyin2": "wo3 men yi1 qi3 qu4 zou3 zou3 ba",
+  "translation": {
+    "en": "Let's go for a walk together.",
+    "vi": "Chúng ta cùng đi dạo nhé."
+  }
+}, {
+  "sentence": "他跑得很快。",
+  "tags": ["daily"],
+  "pinyin1": "tā pǎo de hěn kuài",
+  "pinyin2": "ta1 pao3 de hen3 kuai4",
+  "translation": {
+    "en": "He runs very fast.",
+    "vi": "Anh ấy chạy rất nhanh."
+  }
+}, {
+  "sentence": "我喜欢看电影。",
+  "tags": ["daily"],
+  "pinyin1": "wǒ xǐ huān kàn diàn yǐng",
+  "pinyin2": "wo3 xi3 huan1 kan4 dian4 ying3",
+  "translation": {
+    "en": "I like watching movies.",
+    "vi": "Tôi thích xem phim."
+  }
+}, {
+  "sentence": "请听我说。",
+  "tags": ["daily"],
+  "pinyin1": "qǐng tīng wǒ shuō",
+  "pinyin2": "qing3 ting1 wo3 shuo1",
+  "translation": {
+    "en": "Please listen to me.",
+    "vi": "Xin hãy nghe tôi nói."
+  }
+}, {
+  "sentence": "你说得对。",
+  "tags": ["daily"],
+  "pinyin1": "nǐ shuō de duì",
+  "pinyin2": "ni3 shuo1 de dui4",
+  "translation": {
+    "en": "You're right.",
+    "vi": "Bạn nói đúng."
+  }
+}, {
+  "sentence": "我想睡觉了。",
+  "tags": ["daily"],
+  "pinyin1": "wǒ xiǎng shuì jiào le",
+  "pinyin2": "wo3 xiang3 shui4 jiao4 le",
+  "translation": {
+    "en": "I want to sleep now.",
+    "vi": "Tôi muốn đi ngủ rồi."
+  }
+}, {
+  "sentence": "他正在工作。",
+  "tags": ["daily"],
+  "pinyin1": "tā zhèng zài gōng zuò",
+  "pinyin2": "ta1 zheng4 zai4 gong1 zuo4",
+  "translation": {
+    "en": "He is working.",
+    "vi": "Anh ấy đang làm việc."
+  }
+}, {
+  "sentence": "我买了一些水果。",
+  "tags": ["daily"],
+  "pinyin1": "wǒ mǎi le yī xiē shuǐ guǒ",
+  "pinyin2": "wo3 mai3 le yi1 xie1 shui3 guo3",
+  "translation": {
+    "en": "I bought some fruits.",
+    "vi": "Tôi đã mua một số trái cây."
+  }
+}, {
+  "sentence": "请帮我一下。",
+  "tags": ["daily"],
+  "pinyin1": "qǐng bāng wǒ yī xià",
+  "pinyin2": "qing3 bang1 wo3 yi1 xia4",
+  "translation": {
+    "en": "Please help me.",
+    "vi": "Xin hãy giúp tôi một chút."
+  }
+}, {
+  "sentence": "今天天气很好。",
+  "tags": ["daily"],
+  "pinyin1": "jīn tiān tiān qì hěn hǎo",
+  "pinyin2": "jin1 tian1 tian1 qi4 hen3 hao3",
+  "translation": {
+    "en": "The weather is very nice today.",
+    "vi": "Hôm nay thời tiết rất đẹp."
+  }
+}, {
+  "sentence": "我住在北京。",
+  "tags": ["daily"],
+  "pinyin1": "wǒ zhù zài běi jīng",
+  "pinyin2": "wo3 zhu4 zai4 bei3 jing1",
+  "translation": {
+    "en": "I live in Beijing.",
+    "vi": "Tôi sống ở Bắc Kinh."
+  }
+}, {
+  "sentence": "他喜欢读书。",
+  "tags": ["daily"],
+  "pinyin1": "tā xǐ huān dú shū",
+  "pinyin2": "ta1 xi3 huan1 du2 shu1",
+  "translation": {
+    "en": "He likes reading books.",
+    "vi": "Anh ấy thích đọc sách."
+  }
+},   {
+    "sentence": "我们明天见面吧。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ men míng tiān jiàn miàn ba",
+    "pinyin2": "wo3 men ming2 tian1 jian4 mian4 ba",
+    "translation": {
+      "en": "Let's meet tomorrow.",
+      "vi": "Chúng ta gặp nhau ngày mai nhé."
+    }
+  }, {
+    "sentence": "请开门。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng kāi mén",
+    "pinyin2": "qing3 kai1 men2",
+    "translation": {
+      "en": "Please open the door.",
+      "vi": "Xin hãy mở cửa."
+    }
+  }, {
+    "sentence": "请关门。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng guān mén",
+    "pinyin2": "qing3 guan1 men2",
+    "translation": {
+      "en": "Please close the door.",
+      "vi": "Xin hãy đóng cửa."
+    }
+  }, {
+    "sentence": "我每天早上七点起床。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān zǎo shàng qī diǎn qǐ chuáng",
+    "pinyin2": "wo3 mei3 tian1 zao3 shang4 qi1 dian3 qi3 chuang2",
+    "translation": {
+      "en": "I get up at seven every morning.",
+      "vi": "Tôi thức dậy lúc bảy giờ mỗi buổi sáng."
+    }
+  }, {
+    "sentence": "我八点上班。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ bā diǎn shàng bān",
+    "pinyin2": "wo3 ba1 dian3 shang4 ban1",
+    "translation": {
+      "en": "I go to work at eight o'clock.",
+      "vi": "Tôi đi làm lúc tám giờ."
+    }
+  }, {
+    "sentence": "我五点下班。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ wǔ diǎn xià bān",
+    "pinyin2": "wo3 wu3 dian3 xia4 ban1",
+    "translation": {
+      "en": "I finish work at five o'clock.",
+      "vi": "Tôi tan làm lúc năm giờ."
+    }
+  }, {
+    "sentence": "孩子们去上学了。",
+    "tags": ["daily"],
+    "pinyin1": "hái zi men qù shàng xué le",
+    "pinyin2": "hai2 zi men qu4 shang4 xue2 le",
+    "translation": {
+      "en": "The children have gone to school.",
+      "vi": "Các em đã đi học rồi."
+    }
+  }, {
+    "sentence": "下课了，我们去吃饭吧。",
+    "tags": ["daily"],
+    "pinyin1": "xià kè le, wǒ men qù chī fàn ba",
+    "pinyin2": "xia4 ke4 le, wo3 men qu4 chi1 fan4 ba",
+    "translation": {
+      "en": "Class is over, let's go eat.",
+      "vi": "Hết giờ học rồi, chúng ta đi ăn nhé."
+    }
+  }, {
+    "sentence": "我正在做饭。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zhèng zài zuò fàn",
+    "pinyin2": "wo3 zheng4 zai4 zuo4 fan4",
+    "translation": {
+      "en": "I'm cooking.",
+      "vi": "Tôi đang nấu ăn."
+    }
+  }, {
+    "sentence": "我要去洗澡了。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ yào qù xǐ zǎo le",
+    "pinyin2": "wo3 yao4 qu4 xi3 zao3 le",
+    "translation": {
+      "en": "I'm going to take a shower.",
+      "vi": "Tôi sẽ đi tắm rồi."
+    }
+  }, {
+    "sentence": "吃饭前要洗手。",
+    "tags": ["daily"],
+    "pinyin1": "chī fàn qián yào xǐ shǒu",
+    "pinyin2": "chi1 fan4 qian2 yao4 xi3 shou3",
+    "translation": {
+      "en": "You need to wash your hands before eating.",
+      "vi": "Trước khi ăn cần rửa tay."
+    }
+  }, {
+    "sentence": "我周末洗衣服。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zhōu mò xǐ yī fu",
+    "pinyin2": "wo3 zhou1 mo4 xi3 yi1 fu",
+    "translation": {
+      "en": "I wash clothes on weekends.",
+      "vi": "Tôi giặt quần áo vào cuối tuần."
+    }
+  }, {
+    "sentence": "我需要打扫房间。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xū yào dǎ sǎo fáng jiān",
+    "pinyin2": "wo3 xu1 yao4 da3 sao3 fang2 jian1",
+    "translation": {
+      "en": "I need to clean the room.",
+      "vi": "Tôi cần dọn dẹp phòng."
+    }
+  }, {
+    "sentence": "请帮我扫地。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng bāng wǒ sǎo dì",
+    "pinyin2": "qing3 bang1 wo3 sao3 di4",
+    "translation": {
+      "en": "Please help me sweep the floor.",
+      "vi": "Xin hãy giúp tôi quét sàn."
+    }
+  }, {
+    "sentence": "他正在拖地。",
+    "tags": ["daily"],
+    "pinyin1": "tā zhèng zài tuō dì",
+    "pinyin2": "ta1 zheng4 zai4 tuo1 di4",
+    "translation": {
+      "en": "He is mopping the floor.",
+      "vi": "Anh ấy đang lau sàn."
+    }
+  }, {
+    "sentence": "请开灯。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng kāi dēng",
+    "pinyin2": "qing3 kai1 deng1",
+    "translation": {
+      "en": "Please turn on the light.",
+      "vi": "Xin hãy bật đèn."
+    }
+  }, {
+    "sentence": "请关灯。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng guān dēng",
+    "pinyin2": "qing3 guan1 deng1",
+    "translation": {
+      "en": "Please turn off the light.",
+      "vi": "Xin hãy tắt đèn."
+    }
+  }, {
+    "sentence": "我每天早上洗脸。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān zǎo shàng xǐ liǎn",
+    "pinyin2": "wo3 mei3 tian1 zao3 shang4 xi3 lian3",
+    "translation": {
+      "en": "I wash my face every morning.",
+      "vi": "Tôi rửa mặt mỗi buổi sáng."
+    }
+  }, {
+    "sentence": "记得刷牙。",
+    "tags": ["daily"],
+    "pinyin1": "jì de shuā yá",
+    "pinyin2": "ji4 de shua1 ya2",
+    "translation": {
+      "en": "Remember to brush your teeth.",
+      "vi": "Nhớ đánh răng."
+    }
+  }, {
+    "sentence": "我想喝咖啡。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xiǎng hē kā fēi",
+    "pinyin2": "wo3 xiang3 he1 ka1 fei1",
+    "translation": {
+      "en": "I want to drink coffee.",
+      "vi": "Tôi muốn uống cà phê."
+    }
+  }, {
+    "sentence": "我喜欢喝茶。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xǐ huān hē chá",
+    "pinyin2": "wo3 xi3 huan1 he1 cha2",
+    "translation": {
+      "en": "I like drinking tea.",
+      "vi": "Tôi thích uống trà."
+    }
+  }, {
+    "sentence": "我吃了早饭。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ chī le zǎo fàn",
+    "pinyin2": "wo3 chi1 le zao3 fan4",
+    "translation": {
+      "en": "I ate breakfast.",
+      "vi": "Tôi đã ăn sáng."
+    }
+  }, {
+    "sentence": "午饭时间到了。",
+    "tags": ["daily"],
+    "pinyin1": "wǔ fàn shí jiān dào le",
+    "pinyin2": "wu3 fan4 shi2 jian1 dao4 le",
+    "translation": {
+      "en": "It's lunch time.",
+      "vi": "Đến giờ ăn trưa rồi."
+    }
+  }, {
+    "sentence": "我们吃晚饭吧。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ men chī wǎn fàn ba",
+    "pinyin2": "wo3 men chi1 wan3 fan4 ba",
+    "translation": {
+      "en": "Let's have dinner.",
+      "vi": "Chúng ta ăn tối nhé."
+    }
+  }, {
+    "sentence": "我在做作业。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zài zuò zuò yè",
+    "pinyin2": "wo3 zai4 zuo4 zuo4 ye4",
+    "translation": {
+      "en": "I'm doing homework.",
+      "vi": "Tôi đang làm bài tập."
+    }
+  }, {
+    "sentence": "我需要休息一下。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xū yào xiū xí yī xià",
+    "pinyin2": "wo3 xu1 yao4 xiu1 xi2 yi1 xia4",
+    "translation": {
+      "en": "I need to rest for a while.",
+      "vi": "Tôi cần nghỉ ngơi một chút."
+    }
+  }, {
+    "sentence": "我们聊天吧。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ men liáo tiān ba",
+    "pinyin2": "wo3 men liao2 tian1 ba",
+    "translation": {
+      "en": "Let's chat.",
+      "vi": "Chúng ta trò chuyện nhé."
+    }
+  }, {
+    "sentence": "请给我打电话。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng gěi wǒ dǎ diàn huà",
+    "pinyin2": "qing3 gei3 wo3 da3 dian4 hua4",
+    "translation": {
+      "en": "Please call me.",
+      "vi": "Xin hãy gọi điện cho tôi."
+    }
+  }, {
+    "sentence": "我发信息给你了。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ fā xìn xī gěi nǐ le",
+    "pinyin2": "wo3 fa1 xin4 xi1 gei3 ni3 le",
+    "translation": {
+      "en": "I sent you a message.",
+      "vi": "Tôi đã gửi tin nhắn cho bạn."
+    }
+  }, {
+    "sentence": "我喜欢上网。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xǐ huān shàng wǎng",
+    "pinyin2": "wo3 xi3 huan1 shang4 wang3",
+    "translation": {
+      "en": "I like surfing the internet.",
+      "vi": "Tôi thích lướt mạng."
+    }
+  }, {
+    "sentence": "孩子们在玩游戏。",
+    "tags": ["daily"],
+    "pinyin1": "hái zi men zài wán yóu xì",
+    "pinyin2": "hai2 zi men zai4 wan2 you2 xi4",
+    "translation": {
+      "en": "The children are playing games.",
+      "vi": "Các em đang chơi game."
+    }
+  }, {
+    "sentence": "我们去看电影吧。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ men qù kàn diàn yǐng ba",
+    "pinyin2": "wo3 men qu4 kan4 dian4 ying3 ba",
+    "translation": {
+      "en": "Let's go watch a movie.",
+      "vi": "Chúng ta đi xem phim nhé."
+    }
+  }, {
+    "sentence": "他喜欢看电视。",
+    "tags": ["daily"],
+    "pinyin1": "tā xǐ huān kàn diàn shì",
+    "pinyin2": "ta1 xi3 huan1 kan4 dian4 shi4",
+    "translation": {
+      "en": "He likes watching TV.",
+      "vi": "Anh ấy thích xem TV."
+    }
+  }, {
+    "sentence": "我喜欢看书。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xǐ huān kàn shū",
+    "pinyin2": "wo3 xi3 huan1 kan4 shu1",
+    "translation": {
+      "en": "I like reading books.",
+      "vi": "Tôi thích đọc sách."
+    }
+  }, {
+    "sentence": "她会画画。",
+    "tags": ["daily"],
+    "pinyin1": "tā huì huà huà",
+    "pinyin2": "ta1 hui4 hua4 hua4",
+    "translation": {
+      "en": "She can draw.",
+      "vi": "Cô ấy biết vẽ."
+    }
+  }, {
+    "sentence": "他喜欢唱歌。",
+    "tags": ["daily"],
+    "pinyin1": "tā xǐ huān chàng gē",
+    "pinyin2": "ta1 xi3 huan1 chang4 ge1",
+    "translation": {
+      "en": "He likes singing.",
+      "vi": "Anh ấy thích hát."
+    }
+  }, {
+    "sentence": "她们在跳舞。",
+    "tags": ["daily"],
+    "pinyin1": "tā men zài tiào wǔ",
+    "pinyin2": "ta1 men zai4 tiao4 wu3",
+    "translation": {
+      "en": "They are dancing.",
+      "vi": "Họ đang nhảy múa."
+    }
+  }, {
+    "sentence": "他在卖水果。",
+    "tags": ["daily"],
+    "pinyin1": "tā zài mài shuǐ guǒ",
+    "pinyin2": "ta1 za4i ma4i shui3 guo3",
+    "translation": {
+      "en": "He is selling fruits.",
+      "vi": "Anh ấy đang bán trái cây."
+    }
+  }, {
+    "sentence": "我喜欢运动。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xǐ huān yùn dòng",
+    "pinyin2": "wo3 xi3 huan1 yu4n do4ng",
+    "translation": {
+      "en": "I like exercising.",
+      "vi": "Tôi thích vận động."
+    }
+  }, {
+    "sentence": "我每天早上跑步。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān zǎo shàng pǎo bù",
+    "pinyin2": "wo3 mei3 tian1 zao3 shang4 pao3 bu4",
+    "translation": {
+      "en": "I run every morning.",
+      "vi": "Tôi chạy bộ mỗi buổi sáng."
+    }
+  }, {
+    "sentence": "他喜欢游泳。",
+    "tags": ["daily"],
+    "pinyin1": "tā xǐ huān yóu yǒng",
+    "pinyin2": "ta1 xi3 huan1 you2 yo3ng",
+    "translation": {
+      "en": "He likes swimming.",
+      "vi": "Anh ấy thích bơi lội."
+    }
+  }, {
+    "sentence": "我骑车去上班。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ qí chē qù shàng bān",
+    "pinyin2": "wo3 qi2 che1 qu4 shang4 ban1",
+    "translation": {
+      "en": "I ride a bike to work.",
+      "vi": "Tôi đi xe đạp đi làm."
+    }
+  }, {
+    "sentence": "我坐车去学校。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zuò chē qù xué xiào",
+    "pinyin2": "wo3 zuo4 che1 qu4 xue2 xia4o",
+    "translation": {
+      "en": "I take a car to school.",
+      "vi": "Tôi ngồi xe đi học."
+    }
+  }, {
+    "sentence": "我坐公交去超市。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zuò gōng jiāo qù chāo shì",
+    "pinyin2": "wo3 zuo4 go1ng jia1o qu4 cha1o shi4",
+    "translation": {
+      "en": "I take the bus to the supermarket.",
+      "vi": "Tôi đi xe buýt đến siêu thị."
+    }
+  }, {
+    "sentence": "我坐地铁去市中心。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zuò dì tiě qù shì zhōng xīn",
+    "pinyin2": "wo3 zuo4 di4 tie3 qu4 shi4 zho1ng xi1n",
+    "translation": {
+      "en": "I take the subway to the city center.",
+      "vi": "Tôi đi tàu điện ngầm đến trung tâm thành phố."
+    }
+  }, {
+    "sentence": "他会开车。",
+    "tags": ["daily"],
+    "pinyin1": "tā huì kāi chē",
+    "pinyin2": "ta1 hui4 ka1i che1",
+    "translation": {
+      "en": "He can drive.",
+      "vi": "Anh ấy biết lái xe."
+    }
+  }, {
+    "sentence": "请在这里停车。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng zài zhè lǐ tíng chē",
+    "pinyin2": "qing3 za4i zhe4 li3 ti2ng che1",
+    "translation": {
+      "en": "Please park here.",
+      "vi": "Xin hãy đỗ xe ở đây."
+    }
+  }, {
+    "sentence": "我们需要排队。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ men xū yào pái duì",
+    "pinyin2": "wo3 men xu1 ya4o pa2i dui4",
+    "translation": {
+      "en": "We need to queue.",
+      "vi": "Chúng ta cần xếp hàng."
+    }
+  }, {
+    "sentence": "请帮我拿一下。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng bāng wǒ ná yī xià",
+    "pinyin2": "qing3 ba1ng wo3 na2 yi1 xia4",
+    "translation": {
+      "en": "Please help me take it.",
+      "vi": "Xin hãy giúp tôi lấy một chút."
+    }
+  }, {
+    "sentence": "我今天穿了一件新衣服。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ jīn tiān chuān le yī jiàn xīn yī fu",
+    "pinyin2": "wo3 ji1n tia1n chua1n le yi1 jia4n xi1n yi1 fu",
+    "translation": {
+      "en": "I wore a new piece of clothing today.",
+      "vi": "Hôm nay tôi mặc một bộ quần áo mới."
+    }
+  }, {
+    "sentence": "请脱鞋。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng tuō xié",
+    "pinyin2": "qing3 tuo1 xie2",
+    "translation": {
+      "en": "Please take off your shoes.",
+      "vi": "Xin hãy cởi giày."
+    }
+  }, {
+    "sentence": "他戴了一顶帽子。",
+    "tags": ["daily"],
+    "pinyin1": "tā dài le yī dǐng mào zi",
+    "pinyin2": "ta1 da4i le yi1 di3ng ma4o zi",
+    "translation": {
+      "en": "He is wearing a hat.",
+      "vi": "Anh ấy đội một cái mũ."
+    }
+  }, {
+    "sentence": "我每天洗头。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān xǐ tóu",
+    "pinyin2": "wo3 mei3 tian1 xi3 to2u",
+    "translation": {
+      "en": "I wash my hair every day.",
+      "vi": "Tôi gội đầu mỗi ngày."
+    }
+  }, {
+    "sentence": "她在照镜子。",
+    "tags": ["daily"],
+    "pinyin1": "tā zài zhào jìng zi",
+    "pinyin2": "ta1 za4i zha4o ji4ng zi",
+    "translation": {
+      "en": "She is looking in the mirror.",
+      "vi": "Cô ấy đang soi gương."
+    }
+  }, {
+    "sentence": "她正在梳头。",
+    "tags": ["daily"],
+    "pinyin1": "tā zhèng zài shū tóu",
+    "pinyin2": "ta1 zhe4ng za4i shu1 to2u",
+    "translation": {
+      "en": "She is combing her hair.",
+      "vi": "Cô ấy đang chải tóc."
+    }
+  }, {
+    "sentence": "我想上厕所。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xiǎng shàng cè suǒ",
+    "pinyin2": "wo3 xia3ng sha4ng ce4 suo3",
+    "translation": {
+      "en": "I want to go to the bathroom.",
+      "vi": "Tôi muốn đi vệ sinh."
+    }
+  }, {
+    "sentence": "洗手间在哪里？",
+    "tags": ["daily"],
+    "pinyin1": "xǐ shǒu jiān zài nǎ lǐ",
+    "pinyin2": "xi3 sho3u jia1n za4i na3 li3",
+    "translation": {
+      "en": "Where is the restroom?",
+      "vi": "Phòng vệ sinh ở đâu?"
+    }
+  }, {
+    "sentence": "我在厨房做饭。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zài chú fáng zuò fàn",
+    "pinyin2": "wo3 za4i chu2 fa2ng zuo4 fa4n",
+    "translation": {
+      "en": "I'm cooking in the kitchen.",
+      "vi": "Tôi đang nấu ăn trong bếp."
+    }
+  }, {
+    "sentence": "我们在客厅看电视。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ men zài kè tīng kàn diàn shì",
+    "pinyin2": "wo3 men za4i ke4 ti1ng ka4n dian4 shi4",
+    "translation": {
+      "en": "We are watching TV in the living room.",
+      "vi": "Chúng tôi đang xem TV trong phòng khách."
+    }
+  }, {
+    "sentence": "他在卧室睡觉。",
+    "tags": ["daily"],
+    "pinyin1": "tā zài wò shì shuì jiào",
+    "pinyin2": "ta1 za4i wo4 shi4 shui4 jia4o",
+    "translation": {
+      "en": "He is sleeping in the bedroom.",
+      "vi": "Anh ấy đang ngủ trong phòng ngủ."
+    }
+  }, {
+    "sentence": "我在阳台上晒太阳。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zài yáng tái shàng shài tài yáng",
+    "pinyin2": "wo3 za4i ya2ng ta2i sha4ng sha4i ta4i ya2ng",
+    "translation": {
+      "en": "I'm sunbathing on the balcony.",
+      "vi": "Tôi đang tắm nắng trên ban công."
+    }
+  }, {
+    "sentence": "请打开窗户。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng dǎ kāi chuāng hu",
+    "pinyin2": "qing3 da3 ka1i chua1ng hu",
+    "translation": {
+      "en": "Please open the window.",
+      "vi": "Xin hãy mở cửa sổ."
+    }
+  }, {
+    "sentence": "桌子上有一本书。",
+    "tags": ["daily"],
+    "pinyin1": "zhuō zi shàng yǒu yī běn shū",
+    "pinyin2": "zhuo1 zi sha4ng yo3u yi1 be3n shu1",
+    "translation": {
+      "en": "There is a book on the table.",
+      "vi": "Trên bàn có một cuốn sách."
+    }
+  }, {
+    "sentence": "请坐在椅子上。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng zuò zài yǐ zi shàng",
+    "pinyin2": "qing3 zuo4 za4i yi3 zi sha4ng",
+    "translation": {
+      "en": "Please sit on the chair.",
+      "vi": "Xin hãy ngồi trên ghế."
+    }
+  }, {
+    "sentence": "我想喝一杯水。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xiǎng hē yī bēi shuǐ",
+    "pinyin2": "wo3 xia3ng he1 yi1 be1i shui3",
+    "translation": {
+      "en": "I want to drink a glass of water.",
+      "vi": "Tôi muốn uống một cốc nước."
+    }
+  }, {
+    "sentence": "我用筷子吃饭。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ yòng kuài zi chī fàn",
+    "pinyin2": "wo3 yo4ng kua4i zi chi1 fa4n",
+    "translation": {
+      "en": "I eat with chopsticks.",
+      "vi": "Tôi dùng đũa để ăn."
+    }
+  }, {
+    "sentence": "盘子里有水果。",
+    "tags": ["daily"],
+    "pinyin1": "pán zi lǐ yǒu shuǐ guǒ",
+    "pinyin2": "pa2n zi li3 yo3u shui3 guo3",
+    "translation": {
+      "en": "There is fruit in the plate.",
+      "vi": "Trong đĩa có trái cây."
+    }
+  }, {
+    "sentence": "请用刀切水果。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng yòng dāo qiē shuǐ guǒ",
+    "pinyin2": "qing3 yo4ng da1o qie1 shui3 guo3",
+    "translation": {
+      "en": "Please use a knife to cut the fruit.",
+      "vi": "Xin hãy dùng dao để cắt trái cây."
+    }
+  }, {
+    "sentence": "我用叉子吃西餐。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ yòng chā zi chī xī cān",
+    "pinyin2": "wo3 yo4ng cha1 zi chi1 xi1 ca1n",
+    "translation": {
+      "en": "I eat Western food with a fork.",
+      "vi": "Tôi dùng nĩa để ăn đồ Tây."
+    }
+  }, {
+    "sentence": "我的手机没电了。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ de shǒu jī méi diàn le",
+    "pinyin2": "wo3 de sho3u ji1 mei2 dia4n le",
+    "translation": {
+      "en": "My phone is out of battery.",
+      "vi": "Điện thoại của tôi hết pin rồi."
+    }
+  }, {
+    "sentence": "请开空调。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng kāi kōng tiáo",
+    "pinyin2": "qing3 ka1i ko1ng tia2o",
+    "translation": {
+      "en": "Please turn on the air conditioner.",
+      "vi": "Xin hãy bật điều hòa."
+    }
+  }, {
+    "sentence": "这个杯子很漂亮。",
+    "tags": ["daily"],
+    "pinyin1": "zhè gè bēi zi hěn piào liàng",
+    "pinyin2": "zhe4 ge4 be1i zi hen3 pia4o lia4ng",
+    "translation": {
+      "en": "This cup is very beautiful.",
+      "vi": "Cái cốc này rất đẹp."
+    }
+  }, {
+    "sentence": "冰箱里有水果。",
+    "tags": ["daily"],
+    "pinyin1": "bīng xiāng lǐ yǒu shuǐ guǒ",
+    "pinyin2": "bi1ng xia1ng li3 yo3u shui3 guo3",
+    "translation": {
+      "en": "There is fruit in the refrigerator.",
+      "vi": "Trong tủ lạnh có trái cây."
+    }
+  }, {
+    "sentence": "我晚上八点睡觉。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ wǎn shang bā diǎn shuì jiào",
+    "pinyin2": "wo3 wa3n shang ba1 dia3n shui4 jia4o",
+    "translation": {
+      "en": "I go to sleep at eight in the evening.",
+      "vi": "Tôi đi ngủ lúc tám giờ tối."
+    }
+  }, {
+    "sentence": "我工作八小时。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ gōng zuò bā xiǎo shí",
+    "pinyin2": "wo3 go1ng zuo4 ba1 xia3o shi2",
+    "translation": {
+      "en": "I work for eight hours.",
+      "vi": "Tôi làm việc tám giờ."
+    }
+  }, {
+    "sentence": "昨天我去了公园。",
+    "tags": ["daily"],
+    "pinyin1": "zuó tiān wǒ qù le gōng yuán",
+    "pinyin2": "zuo2 tia1n wo3 qu4 le go1ng yua2n",
+    "translation": {
+      "en": "Yesterday I went to the park.",
+      "vi": "Hôm qua tôi đã đi công viên."
+    }
+  }, {
+    "sentence": "我和家人一起吃饭。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ hé jiā rén yī qǐ chī fàn",
+    "pinyin2": "wo3 he2 jia1 re2n yi1 qi3 chi1 fa4n",
+    "translation": {
+      "en": "I eat with my family.",
+      "vi": "Tôi ăn cơm cùng gia đình."
+    }
+  }, {
+    "sentence": "他是我的同事。",
+    "tags": ["daily"],
+    "pinyin1": "tā shì wǒ de tóng shì",
+    "pinyin2": "ta1 shi4 wo3 de to2ng shi4",
+    "translation": {
+      "en": "He is my colleague.",
+      "vi": "Anh ấy là đồng nghiệp của tôi."
+    }
+  }, {
+    "sentence": "我的邻居很友好。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ de lín jū hěn yǒu hǎo",
+    "pinyin2": "wo3 de li2n ju1 hen3 yo3u ha3o",
+    "translation": {
+      "en": "My neighbor is very friendly.",
+      "vi": "Hàng xóm của tôi rất thân thiện."
+    }
+  }, {
+    "sentence": "我给他发消息了。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ gěi tā fā xiāo xī le",
+    "pinyin2": "wo3 gei3 ta1 fa1 xia1o xi1 le",
+    "translation": {
+      "en": "I sent him a message.",
+      "vi": "Tôi đã gửi tin nhắn cho anh ấy."
+    }
+  }, {
+    "sentence": "我每天早上看新闻。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān zǎo shàng kàn xīn wén",
+    "pinyin2": "wo3 mei3 tia1n zao3 shang4 ka4n xi1n we2n",
+    "translation": {
+      "en": "I watch the news every morning.",
+      "vi": "Tôi xem tin tức mỗi buổi sáng."
+    }
+  }, {
+    "sentence": "我七点吃早餐。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ qī diǎn chī zǎo cān",
+    "pinyin2": "wo3 qi1 dia3n chi1 za3o ca1n",
+    "translation": {
+      "en": "I eat breakfast at seven o'clock.",
+      "vi": "Tôi ăn sáng lúc bảy giờ."
+    }
+  }, {
+    "sentence": "我十二点吃午餐。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ shí èr diǎn chī wǔ cān",
+    "pinyin2": "wo3 shi2 e4r dia3n chi1 wu3 ca1n",
+    "translation": {
+      "en": "I eat lunch at twelve o'clock.",
+      "vi": "Tôi ăn trưa lúc mười hai giờ."
+    }
+  }, {
+    "sentence": "我六点吃晚餐。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ liù diǎn chī wǎn cān",
+    "pinyin2": "wo3 liu4 dia3n chi1 wa3n ca1n",
+    "translation": {
+      "en": "I eat dinner at six o'clock.",
+      "vi": "Tôi ăn tối lúc sáu giờ."
+    }
+  }, {
+    "sentence": "吃完饭要洗碗。",
+    "tags": ["daily"],
+    "pinyin1": "chī wán fàn yào xǐ wǎn",
+    "pinyin2": "chi1 wa2n fa4n ya4o xi3 wa3n",
+    "translation": {
+      "en": "After eating, we need to wash the dishes.",
+      "vi": "Ăn xong cần rửa bát."
+    }
+  }, {
+    "sentence": "我晚饭后去散步。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ wǎn fàn hòu qù sàn bù",
+    "pinyin2": "wo3 wa3n fa4n ho4u qu4 sa4n bu4",
+    "translation": {
+      "en": "I go for a walk after dinner.",
+      "vi": "Tôi đi dạo sau bữa tối."
+    }
+  }, {
+    "sentence": "我要换衣服了。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ yào huàn yī fu le",
+    "pinyin2": "wo3 ya4o hua4n yi1 fu le",
+    "translation": {
+      "en": "I need to change clothes.",
+      "vi": "Tôi cần thay quần áo rồi."
+    }
+  }, {
+    "sentence": "请帮我穿衣服。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng bāng wǒ chuān yī fu",
+    "pinyin2": "qing3 ba1ng wo3 chua1n yi1 fu",
+    "translation": {
+      "en": "Please help me put on clothes.",
+      "vi": "Xin hãy giúp tôi mặc quần áo."
+    }
+  }, {
+    "sentence": "请脱衣服。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng tuō yī fu",
+    "pinyin2": "qing3 tuo1 yi1 fu",
+    "translation": {
+      "en": "Please take off your clothes.",
+      "vi": "Xin hãy cởi quần áo."
+    }
+  }, {
+    "sentence": "他戴了一顶帽子。",
+    "tags": ["daily"],
+    "pinyin1": "tā dài le yī dǐng mào zi",
+    "pinyin2": "ta1 da4i le yi1 di3ng ma4o zi",
+    "translation": {
+      "en": "He is wearing a hat.",
+      "vi": "Anh ấy đội một cái mũ."
+    }
+  }, {
+    "sentence": "冬天要戴手套。",
+    "tags": ["daily"],
+    "pinyin1": "dōng tiān yào dài shǒu tào",
+    "pinyin2": "do1ng tia1n ya4o da4i sho3u ta4o",
+    "translation": {
+      "en": "In winter, we need to wear gloves.",
+      "vi": "Mùa đông cần đeo găng tay."
+    }
+  }, {
+    "sentence": "他戴眼镜看书。",
+    "tags": ["daily"],
+    "pinyin1": "tā dài yǎn jìng kàn shū",
+    "pinyin2": "ta1 da4i ya3n ji4ng ka4n shu1",
+    "translation": {
+      "en": "He reads books with glasses.",
+      "vi": "Anh ấy đeo kính đọc sách."
+    }
+  }, {
+    "sentence": "我五点回家。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ wǔ diǎn huí jiā",
+    "pinyin2": "wo3 wu3 dia3n hui2 jia1",
+    "translation": {
+      "en": "I go home at five o'clock.",
+      "vi": "Tôi về nhà lúc năm giờ."
+    }
+  }, {
+    "sentence": "我周末去逛街。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zhōu mò qù guàng jiē",
+    "pinyin2": "wo3 zho1u mo4 qu4 gua4ng jie1",
+    "translation": {
+      "en": "I go shopping on weekends.",
+      "vi": "Tôi đi mua sắm vào cuối tuần."
+    }
+  }, {
+    "sentence": "请付钱。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng fù qián",
+    "pinyin2": "qing3 fu4 qia2n",
+    "translation": {
+      "en": "Please pay.",
+      "vi": "Xin hãy thanh toán."
+    }
+  }, {
+    "sentence": "收银台在那边。",
+    "tags": ["daily"],
+    "pinyin1": "shōu yín tái zài nà biān",
+    "pinyin2": "shou1 yi2n ta2i za4i na4 bia1n",
+    "translation": {
+      "en": "The cashier is over there.",
+      "vi": "Quầy thu ngân ở đằng kia."
+    }
+  }, {
+    "sentence": "请收拾一下房间。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng shōu shi yī xià fáng jiān",
+    "pinyin2": "qing3 sho1u shi yi1 xia4 fa2ng jia1n",
+    "translation": {
+      "en": "Please tidy up the room.",
+      "vi": "Xin hãy dọn dẹp phòng một chút."
+    }
+  }, {
+    "sentence": "我需要整理这些文件。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ xū yào zhěng lǐ zhè xiē wén jiàn",
+    "pinyin2": "wo3 xu1 ya4o zhe3ng li3 zhe4 xie1 we2n jia4n",
+    "translation": {
+      "en": "I need to organize these documents.",
+      "vi": "Tôi cần sắp xếp những tài liệu này."
+    }
+  }, {
+    "sentence": "我在晾衣服。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zài liàng yī fu",
+    "pinyin2": "wo3 za4i lia4ng yi1 fu",
+    "translation": {
+      "en": "I'm hanging clothes to dry.",
+      "vi": "Tôi đang phơi quần áo."
+    }
+  }, {
+    "sentence": "她正在折衣服。",
+    "tags": ["daily"],
+    "pinyin1": "tā zhèng zài zhé yī fu",
+    "pinyin2": "ta1 zhe4ng za4i zhe2 yi1 fu",
+    "translation": {
+      "en": "She is folding clothes.",
+      "vi": "Cô ấy đang gấp quần áo."
+    }
+  }, {
+    "sentence": "我在厨房切菜。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zài chú fáng qiē cài",
+    "pinyin2": "wo3 za4i chu2 fa2ng qie1 ca4i",
+    "translation": {
+      "en": "I'm cutting vegetables in the kitchen.",
+      "vi": "Tôi đang cắt rau trong bếp."
+    }
+  }, {
+    "sentence": "我妈妈在炒菜。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ mā ma zài chǎo cài",
+    "pinyin2": "wo3 ma1 ma za4i cha3o ca4i",
+    "translation": {
+      "en": "My mother is stir-frying vegetables.",
+      "vi": "Mẹ tôi đang xào rau."
+    }
+  }, {
+    "sentence": "我每天煮饭。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān zhǔ fàn",
+    "pinyin2": "wo3 mei3 tia1n zhu3 fa4n",
+    "translation": {
+      "en": "I cook rice every day.",
+      "vi": "Tôi nấu cơm mỗi ngày."
+    }
+  }, {
+    "sentence": "请倒垃圾。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng dào lā jī",
+    "pinyin2": "qing3 da4o la1 ji1",
+    "translation": {
+      "en": "Please take out the trash.",
+      "vi": "Xin hãy đổ rác."
+    }
+  }, {
+    "sentence": "我周末整理房间。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zhōu mò zhěng lǐ fáng jiān",
+    "pinyin2": "wo3 zho1u mo4 zhe3ng li3 fa2ng jia1n",
+    "translation": {
+      "en": "I organize the room on weekends.",
+      "vi": "Tôi dọn dẹp phòng vào cuối tuần."
+    }
+  }, {
+    "sentence": "我每天早上浇花。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān zǎo shàng jiāo huā",
+    "pinyin2": "wo3 mei3 tia1n zao3 shang4 jia1o hua1",
+    "translation": {
+      "en": "I water the flowers every morning.",
+      "vi": "Tôi tưới hoa mỗi buổi sáng."
+    }
+  }, {
+    "sentence": "她喜欢养宠物。",
+    "tags": ["daily"],
+    "pinyin1": "tā xǐ huān yǎng chǒng wù",
+    "pinyin2": "ta1 xi3 huan1 ya3ng cho3ng wu4",
+    "translation": {
+      "en": "She likes keeping pets.",
+      "vi": "Cô ấy thích nuôi thú cưng."
+    }
+  }, {
+    "sentence": "我每天喂宠物。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān wèi chǒng wù",
+    "pinyin2": "wo3 mei3 tia1n we4i cho3ng wu4",
+    "translation": {
+      "en": "I feed the pets every day.",
+      "vi": "Tôi cho thú cưng ăn mỗi ngày."
+    }
+  }, {
+    "sentence": "我每天遛狗。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān liù gǒu",
+    "pinyin2": "wo3 mei3 tia1n liu4 go3u",
+    "translation": {
+      "en": "I walk the dog every day.",
+      "vi": "Tôi dắt chó đi dạo mỗi ngày."
+    }
+  }, {
+    "sentence": "我周末去买菜。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ zhōu mò qù mǎi cài",
+    "pinyin2": "wo3 zho1u mo4 qu4 ma3i ca4i",
+    "translation": {
+      "en": "I go grocery shopping on weekends.",
+      "vi": "Tôi đi chợ mua rau vào cuối tuần."
+    }
+  }, {
+    "sentence": "我们一起去逛商场。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ men yī qǐ qù guàng shāng chǎng",
+    "pinyin2": "wo3 men yi1 qi3 qu4 gua4ng sha1ng cha3ng",
+    "translation": {
+      "en": "Let's go shopping at the mall together.",
+      "vi": "Chúng ta cùng đi mua sắm ở trung tâm thương mại."
+    }
+  }, {
+    "sentence": "我每天早上喝牛奶。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān zǎo shàng hē niú nǎi",
+    "pinyin2": "wo3 mei3 tia1n zao3 shang4 he1 niu2 na3i",
+    "translation": {
+      "en": "I drink milk every morning.",
+      "vi": "Tôi uống sữa mỗi buổi sáng."
+    }
+  }, {
+    "sentence": "请帮我煮水。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng bāng wǒ zhǔ shuǐ",
+    "pinyin2": "qing3 ba1ng wo3 zhu3 shui3",
+    "translation": {
+      "en": "Please help me boil water.",
+      "vi": "Xin hãy giúp tôi đun nước."
+    }
+  }, {
+    "sentence": "请擦桌子。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng cā zhuō zi",
+    "pinyin2": "qing3 ca1 zhuo1 zi",
+    "translation": {
+      "en": "Please wipe the table.",
+      "vi": "Xin hãy lau bàn."
+    }
+  }, {
+    "sentence": "我每天早上整理床铺。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ měi tiān zǎo shàng zhěng lǐ chuáng pù",
+    "pinyin2": "wo3 mei3 tia1n zao3 shang4 zhe3ng li3 chua2ng pu4",
+    "translation": {
+      "en": "I make the bed every morning.",
+      "vi": "Tôi dọn giường mỗi buổi sáng."
+    }
+  }, {
+    "sentence": "我有点儿累。",
+    "tags": ["daily"],
+    "pinyin1": "wǒ yǒu diǎn er lèi",
+    "pinyin2": "wo3 yo3u dia3n er le4i",
+    "translation": {
+      "en": "I'm a bit tired.",
+      "vi": "Tôi hơi mệt."
+    }
+  }, {
+    "sentence": "请给我一点儿时间。",
+    "tags": ["daily"],
+    "pinyin1": "qǐng gěi wǒ yī diǎn er shí jiān",
+    "pinyin2": "qing3 gei3 wo3 yi1 dia3n er shi2 jia1n",
+    "translation": {
+      "en": "Please give me a little time.",
+      "vi": "Xin hãy cho tôi một chút thời gian."
+    }
+  }, {
+    "sentence": "他出门时戴帽子。",
+    "tags": ["daily"],
+    "pinyin1": "tā chū mén shí dài mào zi",
+    "pinyin2": "ta1 chu1 me2n shi2 da4i ma4o zi",
+    "translation": {
+      "en": "He wears a hat when going out.",
+      "vi": "Anh ấy đội mũ khi ra ngoài."
+    }
+  }]
+

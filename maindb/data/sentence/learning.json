@@ -1,0 +1,425 @@
+[{
+  "sentence": "我每天都要学习中文。",
+  "tags": ["learning"],
+  "pinyin1": "wǒ měi tiān dōu yào xué xí zhōng wén",
+  "pinyin2": "wo3 mei3 tian1 dou1 yao4 xue2 xi2 zhong1 wen2",
+  "translation": {
+    "en": "I study Chinese every day.",
+    "vi": "Tôi học tiếng Trung mỗi ngày."
+  }
+}, {
+  "sentence": "学生们正在上课。",
+  "tags": ["learning"],
+  "pinyin1": "xué sheng men zhèng zài shàng kè",
+  "pinyin2": "xue2 sheng men zheng4 zai4 shang4 ke4",
+  "translation": {
+    "en": "The students are attending class.",
+    "vi": "Các học sinh đang đi học."
+  }
+}, {
+  "sentence": "请认真听讲。",
+  "tags": ["learning"],
+  "pinyin1": "qǐng rèn zhēn tīng jiǎng",
+  "pinyin2": "qing3 ren4 zhen1 ting1 jiang3",
+  "translation": {
+    "en": "Please listen to the lecture carefully.",
+    "vi": "Xin hãy nghe giảng một cách nghiêm túc."
+  }
+}, {
+  "sentence": "做笔记可以帮助你记住重点。",
+  "tags": ["learning"],
+  "pinyin1": "zuò bǐ jì kě yǐ bāng zhù nǐ jì zhù zhòng diǎn",
+  "pinyin2": "zuo4 bi3 ji4 ke3 yi3 bang1 zhu4 ni3 ji4 zhu4 zhong4 dian3",
+  "translation": {
+    "en": "Taking notes can help you remember the key points.",
+    "vi": "Ghi chú có thể giúp bạn nhớ những điểm quan trọng."
+  }
+}, {
+  "sentence": "考试前需要好好复习。",
+  "tags": ["learning"],
+  "pinyin1": "kǎo shì qián xū yào hǎo hǎo fù xí",
+  "pinyin2": "kao3 shi4 qian2 xu1 yao4 hao3 hao3 fu4 xi2",
+  "translation": {
+    "en": "You need to review well before the exam.",
+    "vi": "Cần ôn tập tốt trước kỳ thi."
+  }
+}, {
+  "sentence": "预习新课很重要。",
+  "tags": ["learning"],
+  "pinyin1": "yù xí xīn kè hěn zhòng yào",
+  "pinyin2": "yu4 xi2 xin1 ke4 hen3 zhong4 yao4",
+  "translation": {
+    "en": "Previewing new lessons is very important.",
+    "vi": "Học trước bài mới rất quan trọng."
+  }
+}, {
+  "sentence": "明天的考试准备好了吗？",
+  "tags": ["learning"],
+  "pinyin1": "míng tiān de kǎo shì zhǔn bèi hǎo le ma",
+  "pinyin2": "ming2 tian1 de kao3 shi4 zhun3 bei4 hao3 le ma",
+  "translation": {
+    "en": "Are you ready for tomorrow's exam?",
+    "vi": "Bạn đã chuẩn bị cho kỳ thi ngày mai chưa?"
+  }
+}, {
+  "sentence": "这次测验的题目很难。",
+  "tags": ["learning"],
+  "pinyin1": "zhè cì cè yàn de tí mù hěn nán",
+  "pinyin2": "zhe4 ci4 ce4 yan4 de ti2 mu4 hen3 nan2",
+  "translation": {
+    "en": "The questions in this quiz are very difficult.",
+    "vi": "Các câu hỏi trong bài kiểm tra này rất khó."
+  }
+}, {
+  "sentence": "我的分数提高了。",
+  "tags": ["learning"],
+  "pinyin1": "wǒ de fēn shù tí gāo le",
+  "pinyin2": "wo3 de fen1 shu4 ti2 gao1 le",
+  "translation": {
+    "en": "My score has improved.",
+    "vi": "Điểm số của tôi đã được cải thiện."
+  }
+}, {
+  "sentence": "他的成绩很好。",
+  "tags": ["learning"],
+  "pinyin1": "tā de chéng jì hěn hǎo",
+  "pinyin2": "ta1 de cheng2 ji4 hen3 hao3",
+  "translation": {
+    "en": "His grades are very good.",
+    "vi": "Thành tích của anh ấy rất tốt."
+  }
+}, {
+  "sentence": "老师教我们如何学习。",
+  "tags": ["learning"],
+  "pinyin1": "lǎo shī jiāo wǒ men rú hé xué xí",
+  "pinyin2": "lao3 shi1 jiao1 wo3 men ru2 he2 xue2 xi2",
+  "translation": {
+    "en": "The teacher teaches us how to study.",
+    "vi": "Giáo viên dạy chúng tôi cách học tập."
+  }
+}, {
+  "sentence": "我在图书馆学习。",
+  "tags": ["learning"],
+  "pinyin1": "wǒ zài tú shū guǎn xué xí",
+  "pinyin2": "wo3 zai4 tu2 shu1 guan3 xue2 xi2",
+  "translation": {
+    "en": "I study at the library.",
+    "vi": "Tôi học ở thư viện."
+  }
+}, {
+  "sentence": "上课时不要说话。",
+  "tags": ["learning"],
+  "pinyin1": "shàng kè shí bù yào shuō huà",
+  "pinyin2": "shang4 ke4 shi2 bu4 yao4 shuo1 hua4",
+  "translation": {
+    "en": "Don't talk during class.",
+    "vi": "Đừng nói chuyện trong giờ học."
+  }
+}, {
+  "sentence": "认真听讲才能理解。",
+  "tags": ["learning"],
+  "pinyin1": "rèn zhēn tīng jiǎng cái néng lǐ jiě",
+  "pinyin2": "ren4 zhen1 ting1 jiang3 cai2 neng2 li3 jie3",
+  "translation": {
+    "en": "Only by listening carefully can you understand.",
+    "vi": "Chỉ có nghe giảng nghiêm túc mới có thể hiểu."
+  }
+}, {
+  "sentence": "做笔记是学习的好方法。",
+  "tags": ["learning"],
+  "pinyin1": "zuò bǐ jì shì xué xí de hǎo fāng fǎ",
+  "pinyin2": "zuo4 bi3 ji4 shi4 xue2 xi2 de hao3 fang1 fa3",
+  "translation": {
+    "en": "Taking notes is a good way to study.",
+    "vi": "Ghi chú là một cách học tốt."
+  }
+}, {
+  "sentence": "复习旧知识很重要。",
+  "tags": ["learning"],
+  "pinyin1": "fù xí jiù zhī shi hěn zhòng yào",
+  "pinyin2": "fu4 xi2 jiu4 zhi1 shi hen3 zhong4 yao4",
+  "translation": {
+    "en": "Reviewing old knowledge is very important.",
+    "vi": "Ôn tập kiến thức cũ rất quan trọng."
+  }
+}, {
+  "sentence": "预习可以帮助你更好地理解。",
+  "tags": ["learning"],
+  "pinyin1": "yù xí kě yǐ bāng zhù nǐ gèng hǎo de lǐ jiě",
+  "pinyin2": "yu4 xi2 ke3 yi3 bang1 zhu4 ni3 geng4 hao3 de li3 jie3",
+  "translation": {
+    "en": "Previewing can help you understand better.",
+    "vi": "Học trước có thể giúp bạn hiểu tốt hơn."
+  }
+}, {
+  "sentence": "考试前我很紧张。",
+  "tags": ["learning"],
+  "pinyin1": "kǎo shì qián wǒ hěn jǐn zhāng",
+  "pinyin2": "kao3 shi4 qian2 wo3 hen3 jin3 zhang1",
+  "translation": {
+    "en": "I'm very nervous before the exam.",
+    "vi": "Tôi rất lo lắng trước kỳ thi."
+  }
+}, {
+  "sentence": "这次测验我得了满分。",
+  "tags": ["learning"],
+  "pinyin1": "zhè cì cè yàn wǒ dé le mǎn fēn",
+  "pinyin2": "zhe4 ci4 ce4 yan4 wo3 de2 le man3 fen1",
+  "translation": {
+    "en": "I got a perfect score on this quiz.",
+    "vi": "Tôi đạt điểm tuyệt đối trong bài kiểm tra này."
+  }
+}, {
+  "sentence": "我的分数比上次高。",
+  "tags": ["learning"],
+  "pinyin1": "wǒ de fēn shù bǐ shàng cì gāo",
+  "pinyin2": "wo3 de fen1 shu4 bi3 shang4 ci4 gao1",
+  "translation": {
+    "en": "My score is higher than last time.",
+    "vi": "Điểm số của tôi cao hơn lần trước."
+  }
+},   {
+    "sentence": "他的成绩一直很好。",
+    "tags": ["learning"],
+    "pinyin1": "tā de chéng jì yī zhí hěn hǎo",
+    "pinyin2": "ta1 de cheng2 ji4 yi1 zhi2 hen3 hao3",
+    "translation": {
+      "en": "His grades have always been good.",
+      "vi": "Thành tích của anh ấy luôn tốt."
+    }
+  }, {
+    "sentence": "我需要提高我的中文水平。",
+    "tags": ["learning"],
+    "pinyin1": "wǒ xū yào tí gāo wǒ de zhōng wén shuǐ píng",
+    "pinyin2": "wo3 xu1 yao4 ti2 gao1 wo3 de zhong1 wen2 shui3 ping2",
+    "translation": {
+      "en": "I need to improve my Chinese level.",
+      "vi": "Tôi cần nâng cao trình độ tiếng Trung của mình."
+    }
+  }, {
+    "sentence": "他的进步很明显。",
+    "tags": ["learning"],
+    "pinyin1": "tā de jìn bù hěn míng xiǎn",
+    "pinyin2": "ta1 de jin4 bu4 hen3 ming2 xian3",
+    "translation": {
+      "en": "His progress is very obvious.",
+      "vi": "Sự tiến bộ của anh ấy rất rõ ràng."
+    }
+  }, {
+    "sentence": "我理解了这个概念。",
+    "tags": ["learning"],
+    "pinyin1": "wǒ lǐ jiě le zhè gè gài niàn",
+    "pinyin2": "wo3 li3 jie3 le zhe4 ge4 gai4 nian4",
+    "translation": {
+      "en": "I understand this concept.",
+      "vi": "Tôi đã hiểu khái niệm này."
+    }
+  }, {
+    "sentence": "他已经掌握了这个技能。",
+    "tags": ["learning"],
+    "pinyin1": "tā yǐ jīng zhǎng wò le zhè gè jì néng",
+    "pinyin2": "ta1 yi3 jing1 zhang3 wo4 le zhe4 ge4 ji4 neng2",
+    "translation": {
+      "en": "He has already mastered this skill.",
+      "vi": "Anh ấy đã nắm vững kỹ năng này."
+    }
+  }, {
+    "sentence": "请记住这个单词。",
+    "tags": ["learning"],
+    "pinyin1": "qǐng jì zhù zhè gè dān cí",
+    "pinyin2": "qing3 ji4 zhu4 zhe4 ge4 dan1 ci2",
+    "translation": {
+      "en": "Please remember this word.",
+      "vi": "Xin hãy ghi nhớ từ này."
+    }
+  }, {
+    "sentence": "他很努力地学习。",
+    "tags": ["learning"],
+    "pinyin1": "tā hěn nǔ lì de xué xí",
+    "pinyin2": "ta1 hen3 nu3 li4 de xue2 xi2",
+    "translation": {
+      "en": "He studies very hard.",
+      "vi": "Anh ấy học tập rất nỗ lực."
+    }
+  }, {
+    "sentence": "上课时要专心。",
+    "tags": ["learning"],
+    "pinyin1": "shàng kè shí yào zhuān xīn",
+    "pinyin2": "shang4 ke4 shi2 yao4 zhuan1 xin1",
+    "translation": {
+      "en": "You need to focus during class.",
+      "vi": "Trong giờ học cần chuyên tâm."
+    }
+  }, {
+    "sentence": "他学习很积极。",
+    "tags": ["learning"],
+    "pinyin1": "tā xué xí hěn jī jí",
+    "pinyin2": "ta1 xue2 xi2 hen3 ji1 ji2",
+    "translation": {
+      "en": "He studies very actively.",
+      "vi": "Anh ấy học tập rất tích cực."
+    }
+  }, {
+    "sentence": "她是一个认真的学生。",
+    "tags": ["learning"],
+    "pinyin1": "tā shì yī gè rèn zhēn de xué sheng",
+    "pinyin2": "ta1 shi4 yi1 ge4 ren4 zhen1 de xue2 sheng",
+    "translation": {
+      "en": "She is a diligent student.",
+      "vi": "Cô ấy là một học sinh chăm chỉ."
+    }
+  }, {
+    "sentence": "勤奋是成功的关键。",
+    "tags": ["learning"],
+    "pinyin1": "qín fèn shì chéng gōng de guān jiàn",
+    "pinyin2": "qin2 fen4 shi4 cheng2 gong1 de guan1 jian4",
+    "translation": {
+      "en": "Diligence is the key to success.",
+      "vi": "Siêng năng là chìa khóa của thành công."
+    }
+  }, {
+    "sentence": "请打开课本。",
+    "tags": ["learning"],
+    "pinyin1": "qǐng dǎ kāi kè běn",
+    "pinyin2": "qing3 da3 kai1 ke4 ben3",
+    "translation": {
+      "en": "Please open the textbook.",
+      "vi": "Xin hãy mở sách giáo khoa."
+    }
+  }, {
+    "sentence": "今天的作业很多。",
+    "tags": ["learning"],
+    "pinyin1": "jīn tiān de zuò yè hěn duō",
+    "pinyin2": "jin1 tian1 de zuo4 ye4 hen3 duo1",
+    "translation": {
+      "en": "There's a lot of homework today.",
+      "vi": "Bài tập hôm nay rất nhiều."
+    }
+  }, {
+    "sentence": "多练习才能进步。",
+    "tags": ["learning"],
+    "pinyin1": "duō liàn xí cái néng jìn bù",
+    "pinyin2": "duo1 lian4 xi2 cai2 neng2 jin4 bu4",
+    "translation": {
+      "en": "Only with more practice can you make progress.",
+      "vi": "Chỉ có luyện tập nhiều mới có thể tiến bộ."
+    }
+  }, {
+    "sentence": "这道题目很难。",
+    "tags": ["learning"],
+    "pinyin1": "zhè dào tí mù hěn nán",
+    "pinyin2": "zhe4 dao4 ti2 mu4 hen3 nan2",
+    "translation": {
+      "en": "This question is very difficult.",
+      "vi": "Câu hỏi này rất khó."
+    }
+  }, {
+    "sentence": "这本教材很好。",
+    "tags": ["learning"],
+    "pinyin1": "zhè běn jiào cái hěn hǎo",
+    "pinyin2": "zhe4 ben3 jiao4 cai2 hen3 hao3",
+    "translation": {
+      "en": "This teaching material is very good.",
+      "vi": "Giáo trình này rất tốt."
+    }
+  }, {
+    "sentence": "课堂气氛很活跃。",
+    "tags": ["learning"],
+    "pinyin1": "kè táng qì fēn hěn huó yuè",
+    "pinyin2": "ke4 tang2 qi4 fen1 hen3 huo2 yue4",
+    "translation": {
+      "en": "The classroom atmosphere is very active.",
+      "vi": "Không khí tiết học rất sôi động."
+    }
+  }, {
+    "sentence": "教室里有三十个学生。",
+    "tags": ["learning"],
+    "pinyin1": "jiào shì lǐ yǒu sān shí gè xué sheng",
+    "pinyin2": "jiao4 shi4 li3 you3 san1 shi2 ge4 xue2 sheng",
+    "translation": {
+      "en": "There are thirty students in the classroom.",
+      "vi": "Trong phòng học có ba mươi học sinh."
+    }
+  }, {
+    "sentence": "老师在黑板上写字。",
+    "tags": ["learning"],
+    "pinyin1": "lǎo shī zài hēi bǎn shàng xiě zì",
+    "pinyin2": "lao3 shi1 zai4 hei1 ban3 shang4 xie3 zi4",
+    "translation": {
+      "en": "The teacher is writing on the blackboard.",
+      "vi": "Giáo viên đang viết trên bảng."
+    }
+  }, {
+    "sentence": "请在白板上画图。",
+    "tags": ["learning"],
+    "pinyin1": "qǐng zài bái bǎn shàng huà tú",
+    "pinyin2": "qing3 zai4 bai2 ban3 shang4 hua4 tu2",
+    "translation": {
+      "en": "Please draw on the whiteboard.",
+      "vi": "Xin hãy vẽ trên bảng trắng."
+    }
+  }, {
+    "sentence": "他是我的同学。",
+    "tags": ["learning"],
+    "pinyin1": "tā shì wǒ de tóng xué",
+    "pinyin2": "ta1 shi4 wo3 de to2ng xue2",
+    "translation": {
+      "en": "He is my classmate.",
+      "vi": "Anh ấy là bạn học của tôi."
+    }
+  }, {
+    "sentence": "我有早起的习惯。",
+    "tags": ["learning"],
+    "pinyin1": "wǒ yǒu zǎo qǐ de xí guàn",
+    "pinyin2": "wo3 yo3u za3o qi3 de xi2 gua4n",
+    "translation": {
+      "en": "I have the habit of getting up early.",
+      "vi": "Tôi có thói quen dậy sớm."
+    }
+  }, {
+    "sentence": "这个句子很简单。",
+    "tags": ["learning"],
+    "pinyin1": "zhè gè jù zi hěn jiǎn dān",
+    "pinyin2": "zhe4 ge4 ju4 zi hen3 jia3n da1n",
+    "translation": {
+      "en": "This sentence is very simple.",
+      "vi": "Câu này rất đơn giản."
+    }
+  }, {
+    "sentence": "我的专业是计算机。",
+    "tags": ["learning"],
+    "pinyin1": "wǒ de zhuān yè shì jì suàn jī",
+    "pinyin2": "wo3 de zhua1n ye4 shi4 ji4 sua4n ji1",
+    "translation": {
+      "en": "My major is computer science.",
+      "vi": "Chuyên ngành của tôi là khoa học máy tính."
+    }
+  }, {
+    "sentence": "我们需要多交流。",
+    "tags": ["learning"],
+    "pinyin1": "wǒ men xū yào duō jiāo liú",
+    "pinyin2": "wo3 men xu1 ya4o duo1 jia1o liu2",
+    "translation": {
+      "en": "We need to communicate more.",
+      "vi": "Chúng tôi cần giao lưu nhiều hơn."
+    }
+  }, {
+    "sentence": "让我总结一下。",
+    "tags": ["learning"],
+    "pinyin1": "ràng wǒ zǒng jié yī xià",
+    "pinyin2": "ra4ng wo3 zo3ng jie2 yi1 xia4",
+    "translation": {
+      "en": "Let me summarize.",
+      "vi": "Để tôi tóm tắt lại."
+    }
+  }, {
+    "sentence": "我每天写日记。",
+    "tags": ["learning"],
+    "pinyin1": "wǒ měi tiān xiě rì jì",
+    "pinyin2": "wo3 mei3 tia1n xie3 ri4 ji4",
+    "translation": {
+      "en": "I write a diary every day.",
+      "vi": "Tôi viết nhật ký mỗi ngày."
+    }
+  }]
+

@@ -1,0 +1,296 @@
+[{
+  "name": "HSK",
+  "display_name": {
+    "en": "HSK",
+    "vi": "HSK",
+    "zh": "HSK"
+  },
+  "tags": [{
+      "name": "HSK1",
+      "display_name": {
+        "en": "HSK 1",
+        "vi": "HSK 1",
+        "zh": "HSK 1"
+      },
+      "description": {
+        "en": "Covers the most essential survival Chinese. Learners can handle basic greetings, numbers, simple questions, and everyday nouns. Short, predictable sentences only. Total vocabulary is small and highly practical.",
+        "vi": "Bao gồm tiếng Trung cơ bản nhất để sinh tồn. Người học có thể xử lý các lời chào cơ bản, số, câu hỏi đơn giản và danh từ hàng ngày. Chỉ có các câu ngắn, dễ đoán. Tổng từ vựng nhỏ và rất thực tế.",
+        "zh": "涵盖最基本的生存汉语。学习者可以处理基本问候、数字、简单问题和日常名词。只有简短、可预测的句子。总词汇量小且非常实用。"
+      }
+    },
+    {
+      "name": "HSK2",
+      "display_name": {
+        "en": "HSK 2",
+        "vi": "HSK 2",
+        "zh": "HSK 2"
+      },
+      "description": {
+        "en": "Adds more daily-life verbs and phrases. Learners can talk about time, location, simple plans, and personal routines using short linked sentences. Still relies heavily on memorized patterns.",
+        "vi": "Thêm nhiều động từ và cụm từ trong cuộc sống hàng ngày. Người học có thể nói về thời gian, địa điểm, kế hoạch đơn giản và thói quen cá nhân bằng các câu ngắn liên kết. Vẫn phụ thuộc nhiều vào các mẫu đã ghi nhớ.",
+        "zh": "增加更多日常生活动词和短语。学习者可以使用简短的连句谈论时间、地点、简单计划和个人日常。仍然严重依赖记忆模式。"
+      }
+    },
+    {
+      "name": "HSK3",
+      "display_name": {
+        "en": "HSK 3",
+        "vi": "HSK 3",
+        "zh": "HSK 3"
+      },
+      "description": {
+        "en": "Introduces broader daily-life vocabulary. Learners can describe experiences, hobbies, weather, transportation, feelings, and carry out simple multi-sentence conversations. Grammar becomes more varied.",
+        "vi": "Giới thiệu từ vựng cuộc sống hàng ngày rộng hơn. Người học có thể mô tả trải nghiệm, sở thích, thời tiết, giao thông, cảm xúc và thực hiện các cuộc trò chuyện đa câu đơn giản. Ngữ pháp trở nên đa dạng hơn.",
+        "zh": "介绍更广泛的日常生活词汇。学习者可以描述经历、爱好、天气、交通、感受，并进行简单的多句对话。语法变得更加多样化。"
+      }
+    },
+    {
+      "name": "HSK4",
+      "display_name": {
+        "en": "HSK 4",
+        "vi": "HSK 4",
+        "zh": "HSK 4"
+      },
+      "description": {
+        "en": "Expands vocabulary for more complex daily situations. Learners can discuss work, study, travel, and social activities. Can handle most communication tasks when traveling in China.",
+        "vi": "Mở rộng từ vựng cho các tình huống hàng ngày phức tạp hơn. Người học có thể thảo luận về công việc, học tập, du lịch và hoạt động xã hội. Có thể xử lý hầu hết các nhiệm vụ giao tiếp khi đi du lịch ở Trung Quốc.",
+        "zh": "扩展更复杂日常情况的词汇。学习者可以讨论工作、学习、旅行和社交活动。在中国旅行时可以处理大多数交流任务。"
+      }
+    },
+    {
+      "name": "HSK5",
+      "display_name": {
+        "en": "HSK 5",
+        "vi": "HSK 5",
+        "zh": "HSK 5"
+      },
+      "description": {
+        "en": "Covers a wide range of topics including news, current events, and abstract concepts. Learners can read Chinese newspapers and magazines, watch Chinese films, and give a full-length speech in Chinese.",
+        "vi": "Bao gồm nhiều chủ đề bao gồm tin tức, sự kiện hiện tại và khái niệm trừu tượng. Người học có thể đọc báo và tạp chí tiếng Trung, xem phim Trung Quốc và phát biểu dài bằng tiếng Trung.",
+        "zh": "涵盖广泛的主题，包括新闻、时事和抽象概念。学习者可以阅读中文报纸和杂志，观看中国电影，并用中文发表完整演讲。"
+      }
+    },
+    {
+      "name": "HSK6",
+      "display_name": {
+        "en": "HSK 6",
+        "vi": "HSK 6",
+        "zh": "HSK 6"
+      },
+      "description": {
+        "en": "Advanced level with extensive vocabulary. Learners can easily understand written and spoken Chinese. Can express themselves fluently in both written and oral Chinese.",
+        "vi": "Trình độ nâng cao với từ vựng rộng. Người học có thể dễ dàng hiểu tiếng Trung viết và nói. Có thể diễn đạt trôi chảy bằng cả tiếng Trung viết và nói.",
+        "zh": "高级水平，词汇丰富。学习者可以轻松理解书面和口语中文。可以用书面和口语中文流利地表达自己。"
+      }
+    },
+    {
+      "name": "HSK7-9",
+      "display_name": {
+        "en": "HSK 7-9",
+        "vi": "HSK 7-9",
+        "zh": "HSK 7-9"
+      },
+      "description": {
+        "en": "Upper-advanced to near-native proficiency levels (HSK 7-9). Learners can understand complex texts, academic materials, and professional documents. Can express ideas fluently and precisely in both written and spoken Chinese. Suitable for advanced academic study, professional work, and sophisticated communication in Chinese. Vocabulary includes approximately 5,636 new words beyond HSK 6, covering abstract concepts, specialized terminology, and nuanced expressions.",
+        "vi": "Trình độ cao cấp đến gần như bản ngữ (HSK 7-9). Người học có thể hiểu các văn bản phức tạp, tài liệu học thuật và tài liệu chuyên nghiệp. Có thể diễn đạt ý tưởng trôi chảy và chính xác bằng cả tiếng Trung viết và nói. Phù hợp cho việc học tập học thuật nâng cao, công việc chuyên nghiệp và giao tiếp tinh tế bằng tiếng Trung. Từ vựng bao gồm khoảng 5,636 từ mới ngoài HSK 6, bao gồm các khái niệm trừu tượng, thuật ngữ chuyên ngành và cách diễn đạt tinh tế.",
+        "zh": "高级到接近母语水平（HSK 7-9）。学习者可以理解复杂文本、学术材料和专业文件。可以用书面和口语中文流利准确地表达想法。适合高级学术研究、专业工作和复杂的中文交流。词汇包括约5,636个超出HSK 6的新词，涵盖抽象概念、专业术语和细微表达。"
+      }
+    }
+  ]
+}, {
+  "name": "General",
+  "display_name": {
+    "en": "General",
+    "vi": "Tổng hợp",
+    "zh": "通用"
+  },
+  "tags": [{
+      "name": "number",
+      "display_name": {
+        "en": "Number",
+        "vi": "Số",
+        "zh": "数字"
+      },
+      "description": {
+        "en": "General number",
+        "vi": "Số nói chung",
+        "zh": "通用数字"
+      }
+    },
+    {
+      "name": "IT",
+      "display_name": {
+        "en": "IT",
+        "vi": "Công nghệ thông tin",
+        "zh": "信息技术"
+      },
+      "description": {
+        "en": "Information technology related words",
+        "vi": "Từ vựng liên quan đến công nghệ thông tin",
+        "zh": "信息技术相关词汇"
+      }
+    },
+    {
+      "name": "computer",
+      "display_name": {
+        "en": "Computer",
+        "vi": "Máy tính",
+        "zh": "计算机"
+      },
+      "description": {
+        "en": "Computer and technology related words",
+        "vi": "Từ vựng liên quan đến máy tính và công nghệ",
+        "zh": "计算机和技术相关词汇"
+      }
+    },
+    {
+      "name": "daily",
+      "display_name": {
+        "en": "Daily",
+        "vi": "Hàng ngày",
+        "zh": "日常"
+      },
+      "description": {
+        "en": "Daily life and everyday vocabulary",
+        "vi": "Từ vựng về cuộc sống hàng ngày và sinh hoạt",
+        "zh": "日常生活和日常词汇"
+      }
+    },
+    {
+      "name": "food",
+      "display_name": {
+        "en": "Food",
+        "vi": "Thức ăn",
+        "zh": "食物"
+      },
+      "description": {
+        "en": "Food and cuisine related vocabulary",
+        "vi": "Từ vựng liên quan đến thức ăn và ẩm thực",
+        "zh": "食物和烹饪相关词汇"
+      }
+    },
+    {
+      "name": "fruit",
+      "display_name": {
+        "en": "Fruit",
+        "vi": "Trái cây",
+        "zh": "水果"
+      },
+      "description": {
+        "en": "Fruit related vocabulary",
+        "vi": "Từ vựng liên quan đến trái cây",
+        "zh": "水果相关词汇"
+      }
+    },
+    {
+      "name": "conjunction",
+      "display_name": {
+        "en": "Conjunction",
+        "vi": "Liên từ",
+        "zh": "连词"
+      },
+      "description": {
+        "en": "Conjunctions and connecting words used to link words, phrases, or clauses",
+        "vi": "Liên từ và từ nối được sử dụng để liên kết từ, cụm từ hoặc mệnh đề",
+        "zh": "用于连接单词、短语或从句的连词和连接词"
+      }
+    },
+    {
+      "name": "quantifier",
+      "display_name": {
+        "en": "Quantifier",
+        "vi": "Lượng từ",
+        "zh": "量词"
+      },
+      "description": {
+        "en": "Measure words (classifiers) used between numbers and nouns in Chinese. Essential for counting and specifying quantities.",
+        "vi": "Từ chỉ đơn vị đo lường (phân loại từ) được sử dụng giữa số và danh từ trong tiếng Trung. Cần thiết cho việc đếm và chỉ định số lượng.",
+        "zh": "中文中用于数字和名词之间的量词（分类词）。计数和指定数量时必需。"
+      }
+    },
+    {
+      "name": "learning",
+      "display_name": {
+        "en": "Learning",
+        "vi": "Học tập",
+        "zh": "学习"
+      },
+      "description": {
+        "en": "Learning and education related vocabulary",
+        "vi": "Từ vựng liên quan đến học tập và giáo dục",
+        "zh": "学习和教育相关词汇"
+      }
+    },
+    {
+      "name": "economy",
+      "display_name": {
+        "en": "Economy",
+        "vi": "Kinh tế",
+        "zh": "经济"
+      },
+      "description": {
+        "en": "Economy, finance, business, and commerce related vocabulary",
+        "vi": "Từ vựng liên quan đến kinh tế, tài chính, kinh doanh và thương mại",
+        "zh": "经济、金融、商业和贸易相关词汇"
+      }
+    },
+    {
+      "name": "politic",
+      "display_name": {
+        "en": "Politic",
+        "vi": "Chính trị",
+        "zh": "政治"
+      },
+      "description": {
+        "en": "Politics, government, and political terminology related vocabulary",
+        "vi": "Từ vựng liên quan đến chính trị, chính phủ và thuật ngữ chính trị",
+        "zh": "政治、政府和政治术语相关词汇"
+      }
+    }]
+}, {
+  "name": "science",
+  "display_name": {
+    "en": "Science",
+    "vi": "Khoa học",
+    "zh": "科学"
+  },
+  "tags": [{
+    "name": "math",
+    "display_name": {
+      "en": "Math",
+      "vi": "Toán học",
+      "zh": "数学"
+    },
+    "description": {
+      "en": "Mathematics and mathematical terminology related vocabulary",
+      "vi": "Từ vựng liên quan đến toán học và thuật ngữ toán học",
+      "zh": "数学和数学术语相关词汇"
+    }
+  },
+  {
+    "name": "physic",
+    "display_name": {
+      "en": "Physic",
+      "vi": "Vật lý",
+      "zh": "物理"
+    },
+    "description": {
+      "en": "Physics and physics terminology related vocabulary",
+      "vi": "Từ vựng liên quan đến vật lý và thuật ngữ vật lý",
+      "zh": "物理和物理术语相关词汇"
+    }
+  },
+  {
+    "name": "astronomy",
+    "display_name": {
+      "en": "Astronomy",
+      "vi": "Thiên văn học",
+      "zh": "天文学"
+    },
+    "description": {
+      "en": "Astronomy and astronomical terminology related vocabulary",
+      "vi": "Từ vựng liên quan đến thiên văn học và thuật ngữ thiên văn học",
+      "zh": "天文学和天文学术语相关词汇"
+    }
+  }]
+}]

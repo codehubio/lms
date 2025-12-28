@@ -1,0 +1,1103 @@
+[
+  {
+    "word": "下课",
+    "fileName": "daily.json",
+    "count": 5,
+    "indices": [
+      17,
+      148,
+      154,
+      184,
+      190
+    ]
+  },
+  {
+    "word": "休息",
+    "fileName": "daily.json",
+    "count": 5,
+    "indices": [
+      37,
+      91,
+      155,
+      191,
+      264
+    ]
+  },
+  {
+    "word": "运动",
+    "fileName": "daily.json",
+    "count": 5,
+    "indices": [
+      49,
+      126,
+      162,
+      198,
+      260
+    ]
+  },
+  {
+    "word": "跑步",
+    "fileName": "daily.json",
+    "count": 5,
+    "indices": [
+      50,
+      127,
+      163,
+      199,
+      261
+    ]
+  },
+  {
+    "word": "游泳",
+    "fileName": "daily.json",
+    "count": 5,
+    "indices": [
+      51,
+      129,
+      164,
+      200,
+      262
+    ]
+  },
+  {
+    "word": "上班",
+    "fileName": "daily.json",
+    "count": 4,
+    "indices": [
+      14,
+      124,
+      145,
+      181
+    ]
+  },
+  {
+    "word": "下班",
+    "fileName": "daily.json",
+    "count": 4,
+    "indices": [
+      15,
+      125,
+      146,
+      182
+    ]
+  },
+  {
+    "word": "洗衣服",
+    "fileName": "daily.json",
+    "count": 4,
+    "indices": [
+      22,
+      120,
+      216,
+      243
+    ]
+  },
+  {
+    "word": "看电影",
+    "fileName": "daily.json",
+    "count": 4,
+    "indices": [
+      43,
+      158,
+      194,
+      256
+    ]
+  },
+  {
+    "word": "唱歌",
+    "fileName": "daily.json",
+    "count": 4,
+    "indices": [
+      47,
+      160,
+      196,
+      258
+    ]
+  },
+  {
+    "word": "跳舞",
+    "fileName": "daily.json",
+    "count": 4,
+    "indices": [
+      48,
+      161,
+      197,
+      259
+    ]
+  },
+  {
+    "word": "睡觉",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      12,
+      130,
+      263
+    ]
+  },
+  {
+    "word": "起床",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      13,
+      131,
+      167
+    ]
+  },
+  {
+    "word": "上学",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      16,
+      147,
+      183
+    ]
+  },
+  {
+    "word": "做饭",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      19,
+      116,
+      219
+    ]
+  },
+  {
+    "word": "洗澡",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      20,
+      136,
+      172
+    ]
+  },
+  {
+    "word": "洗脸",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      28,
+      132,
+      168
+    ]
+  },
+  {
+    "word": "刷牙",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      29,
+      133,
+      169
+    ]
+  },
+  {
+    "word": "喝咖啡",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      31,
+      115,
+      237
+    ]
+  },
+  {
+    "word": "做作业",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      36,
+      149,
+      185
+    ]
+  },
+  {
+    "word": "打电话",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      39,
+      107,
+      251
+    ]
+  },
+  {
+    "word": "上网",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      41,
+      109,
+      253
+    ]
+  },
+  {
+    "word": "骑车",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      52,
+      165,
+      201
+    ]
+  },
+  {
+    "word": "坐车",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      53,
+      166,
+      202
+    ]
+  },
+  {
+    "word": "排队",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      58,
+      211,
+      250
+    ]
+  },
+  {
+    "word": "洗头",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      67,
+      134,
+      170
+    ]
+  },
+  {
+    "word": "梳头",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      69,
+      135,
+      171
+    ]
+  },
+  {
+    "word": "洗碗",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      117,
+      223,
+      239
+    ]
+  },
+  {
+    "word": "学习",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      123,
+      152,
+      188
+    ]
+  },
+  {
+    "word": "听音乐",
+    "fileName": "daily.json",
+    "count": 3,
+    "indices": [
+      159,
+      195,
+      257
+    ]
+  },
+  {
+    "word": "蛋糕",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      27,
+      75,
+      122
+    ]
+  },
+  {
+    "word": "饼干",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      28,
+      76,
+      123
+    ]
+  },
+  {
+    "word": "糖果",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      29,
+      77,
+      124
+    ]
+  },
+  {
+    "word": "巧克力",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      30,
+      78,
+      121
+    ]
+  },
+  {
+    "word": "牛奶",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      31,
+      79,
+      118
+    ]
+  },
+  {
+    "word": "酸奶",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      32,
+      80,
+      119
+    ]
+  },
+  {
+    "word": "果汁",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      34,
+      82,
+      130
+    ]
+  },
+  {
+    "word": "茶",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      35,
+      83,
+      129
+    ]
+  },
+  {
+    "word": "咖啡",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      36,
+      84,
+      128
+    ]
+  },
+  {
+    "word": "水",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      38,
+      86,
+      131
+    ]
+  },
+  {
+    "word": "冰淇淋",
+    "fileName": "food.json",
+    "count": 3,
+    "indices": [
+      39,
+      87,
+      120
+    ]
+  },
+  {
+    "word": "前端",
+    "fileName": "computer.json",
+    "count": 2,
+    "indices": [
+      33,
+      143
+    ]
+  },
+  {
+    "word": "后端",
+    "fileName": "computer.json",
+    "count": 2,
+    "indices": [
+      34,
+      144
+    ]
+  },
+  {
+    "word": "全栈",
+    "fileName": "computer.json",
+    "count": 2,
+    "indices": [
+      35,
+      145
+    ]
+  },
+  {
+    "word": "打扫",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      23,
+      214
+    ]
+  },
+  {
+    "word": "扫地",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      24,
+      118
+    ]
+  },
+  {
+    "word": "拖地",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      25,
+      119
+    ]
+  },
+  {
+    "word": "喝水",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      30,
+      114
+    ]
+  },
+  {
+    "word": "喝茶",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      32,
+      236
+    ]
+  },
+  {
+    "word": "聊天",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      38,
+      106
+    ]
+  },
+  {
+    "word": "发信息",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      40,
+      252
+    ]
+  },
+  {
+    "word": "看电视",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      44,
+      255
+    ]
+  },
+  {
+    "word": "看书",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      45,
+      121
+    ]
+  },
+  {
+    "word": "坐公交",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      54,
+      203
+    ]
+  },
+  {
+    "word": "坐地铁",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      55,
+      204
+    ]
+  },
+  {
+    "word": "开车",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      56,
+      205
+    ]
+  },
+  {
+    "word": "停车",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      57,
+      206
+    ]
+  },
+  {
+    "word": "等",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      59,
+      212
+    ]
+  },
+  {
+    "word": "看新闻",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      110,
+      254
+    ]
+  },
+  {
+    "word": "换衣服",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      137,
+      173
+    ]
+  },
+  {
+    "word": "穿衣服",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      138,
+      174
+    ]
+  },
+  {
+    "word": "脱衣服",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      139,
+      175
+    ]
+  },
+  {
+    "word": "戴帽子",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      140,
+      176
+    ]
+  },
+  {
+    "word": "戴手套",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      141,
+      177
+    ]
+  },
+  {
+    "word": "戴眼镜",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      142,
+      178
+    ]
+  },
+  {
+    "word": "出门",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      143,
+      179
+    ]
+  },
+  {
+    "word": "回家",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      144,
+      180
+    ]
+  },
+  {
+    "word": "复习",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      150,
+      186
+    ]
+  },
+  {
+    "word": "考试",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      151,
+      187
+    ]
+  },
+  {
+    "word": "上课",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      153,
+      189
+    ]
+  },
+  {
+    "word": "玩",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      156,
+      192
+    ]
+  },
+  {
+    "word": "游戏",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      157,
+      193
+    ]
+  },
+  {
+    "word": "付钱",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      209,
+      249
+    ]
+  },
+  {
+    "word": "晾衣服",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      217,
+      244
+    ]
+  },
+  {
+    "word": "折衣服",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      218,
+      245
+    ]
+  },
+  {
+    "word": "买菜",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      230,
+      246
+    ]
+  },
+  {
+    "word": "去超市",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      231,
+      247
+    ]
+  },
+  {
+    "word": "去商店",
+    "fileName": "daily.json",
+    "count": 2,
+    "indices": [
+      232,
+      248
+    ]
+  },
+  {
+    "word": "米饭",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      0,
+      48
+    ]
+  },
+  {
+    "word": "面条",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      1,
+      49
+    ]
+  },
+  {
+    "word": "包子",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      2,
+      50
+    ]
+  },
+  {
+    "word": "饺子",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      3,
+      51
+    ]
+  },
+  {
+    "word": "馒头",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      4,
+      52
+    ]
+  },
+  {
+    "word": "鸡肉",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      5,
+      53
+    ]
+  },
+  {
+    "word": "牛肉",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      6,
+      54
+    ]
+  },
+  {
+    "word": "猪肉",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      7,
+      55
+    ]
+  },
+  {
+    "word": "鱼",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      8,
+      56
+    ]
+  },
+  {
+    "word": "虾",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      9,
+      57
+    ]
+  },
+  {
+    "word": "蟹",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      10,
+      58
+    ]
+  },
+  {
+    "word": "贝类",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      11,
+      59
+    ]
+  },
+  {
+    "word": "鸡蛋",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      12,
+      60
+    ]
+  },
+  {
+    "word": "豆腐",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      13,
+      61
+    ]
+  },
+  {
+    "word": "蘑菇",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      14,
+      62
+    ]
+  },
+  {
+    "word": "土豆",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      15,
+      63
+    ]
+  },
+  {
+    "word": "胡萝卜",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      16,
+      64
+    ]
+  },
+  {
+    "word": "白菜",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      17,
+      65
+    ]
+  },
+  {
+    "word": "青菜",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      18,
+      66
+    ]
+  },
+  {
+    "word": "西红柿",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      19,
+      67
+    ]
+  },
+  {
+    "word": "黄瓜",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      20,
+      68
+    ]
+  },
+  {
+    "word": "辣椒",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      21,
+      69
+    ]
+  },
+  {
+    "word": "蒜",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      22,
+      70
+    ]
+  },
+  {
+    "word": "洋葱",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      23,
+      71
+    ]
+  },
+  {
+    "word": "生姜",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      24,
+      72
+    ]
+  },
+  {
+    "word": "玉米",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      25,
+      73
+    ]
+  },
+  {
+    "word": "面包",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      26,
+      74
+    ]
+  },
+  {
+    "word": "豆浆",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      33,
+      81
+    ]
+  },
+  {
+    "word": "啤酒",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      37,
+      85
+    ]
+  },
+  {
+    "word": "水果",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      40,
+      88
+    ]
+  },
+  {
+    "word": "苹果",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      41,
+      89
+    ]
+  },
+  {
+    "word": "香蕉",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      42,
+      90
+    ]
+  },
+  {
+    "word": "橙子",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      43,
+      91
+    ]
+  },
+  {
+    "word": "葡萄",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      44,
+      92
+    ]
+  },
+  {
+    "word": "西瓜",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      45,
+      93
+    ]
+  },
+  {
+    "word": "草莓",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      46,
+      94
+    ]
+  },
+  {
+    "word": "樱桃",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      47,
+      95
+    ]
+  },
+  {
+    "word": "蜂蜜",
+    "fileName": "food.json",
+    "count": 2,
+    "indices": [
+      110,
+      127
+    ]
+  }
+]

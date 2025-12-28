@@ -1,0 +1,209 @@
+{
+  "id": "adjunct",
+  "title": "Adjunct in Chinese",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "Adjunct in Chinese",
+    "vi": "Trạng ngữ trong tiếng Trung",
+    "zh": "汉语中的状语"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "What is Adjunct (状语)?",
+          "vi": "Adjunct (状语) là gì?",
+          "zh": "什么是状语？"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Adjunct (状语) is an adverbial modifier in Chinese grammar that provides additional information about the action or state described by the verb. It answers questions like **when**, **where**, **how**, **why**, and **to what extent**.",
+          "vi": "Adjunct (状语) là thành phần bổ ngữ trạng ngữ trong ngữ pháp tiếng Trung, cung cấp thông tin bổ sung về hành động hoặc trạng thái được mô tả bởi động từ. Nó trả lời các câu hỏi như **khi nào**, **ở đâu**, **như thế nào**, **tại sao**, và **ở mức độ nào**.",
+          "zh": "状语是汉语语法中的修饰成分，用来补充说明动作或状态的时间、地点、方式、原因、程度等信息。它回答**什么时候**、**在哪里**、**怎么样**、**为什么**、**到什么程度**等问题。"
+        }
+      },
+      "placeholders": []
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Time Adjunct (时间状语)",
+          "vi": "Trạng ngữ chỉ thời gian (时间状语)",
+          "zh": "时间状语"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Time adjuncts indicate **when** an action occurs. Common time words include: **{{time1}}** (yesterday), **{{time2}}** (today), **{{time3}}** (tomorrow), **{{time4}}** (now), **{{time5}}** (often), etc.\n\n**Example:**\n- 我**{{time2}}**去学校。 (I go to school **today**.)\n- 他**{{time5}}**锻炼身体。 (He **often** exercises.)",
+          "vi": "Trạng ngữ chỉ thời gian cho biết **khi nào** một hành động xảy ra. Các từ chỉ thời gian phổ biến bao gồm: **{{time1}}** (hôm qua), **{{time2}}** (hôm nay), **{{time3}}** (ngày mai), **{{time4}}** (bây giờ), **{{time5}}** (thường xuyên), v.v.\n\n**Ví dụ:**\n- 我**{{time2}}**去学校。 (Tôi đi học **hôm nay**.)\n- 他**{{time5}}**锻炼身体。 (Anh ấy **thường xuyên** tập thể dục.)",
+          "zh": "时间状语表示动作发生的**时间**。常见的时间词包括：**{{time1}}**（昨天）、**{{time2}}**（今天）、**{{time3}}**（明天）、**{{time4}}**（现在）、**{{time5}}**（经常）等。\n\n**例句：**\n- 我**{{time2}}**去学校。\n- 他**{{time5}}**锻炼身体。"
+        }
+      },
+      "placeholders": [{
+        "time1": "昨天",
+        "time2": "今天",
+        "time3": "明天",
+        "time4": "现在",
+        "time5": "经常"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Place Adjunct (地点状语)",
+          "vi": "Trạng ngữ chỉ địa điểm (地点状语)",
+          "zh": "地点状语"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Place adjuncts indicate **where** an action occurs. Common place words include: **{{place1}}** (at home), **{{place2}}** (at school), **{{place3}}** (in the library), **{{place4}}** (in the park), etc.\n\n**Example:**\n- 我在**{{place1}}**学习。 (I study **at home**.)\n- 孩子们在**{{place4}}**玩耍。 (The children play **in the park**.)",
+          "vi": "Trạng ngữ chỉ địa điểm cho biết **ở đâu** một hành động xảy ra. Các từ chỉ địa điểm phổ biến bao gồm: **{{place1}}** (ở nhà), **{{place2}}** (ở trường), **{{place3}}** (ở thư viện), **{{place4}}** (ở công viên), v.v.\n\n**Ví dụ:**\n- 我在**{{place1}}**学习。 (Tôi học **ở nhà**.)\n- 孩子们在**{{place4}}**玩耍。 (Bọn trẻ chơi **ở công viên**.)",
+          "zh": "地点状语表示动作发生的**地点**。常见的地点词包括：**{{place1}}**（在家）、**{{place2}}**（在学校）、**{{place3}}**（在图书馆）、**{{place4}}**（在公园）等。\n\n**例句：**\n- 我在**{{place1}}**学习。\n- 孩子们在**{{place4}}**玩耍。"
+        }
+      },
+      "placeholders": [{
+        "place1": "家里",
+        "place2": "学校",
+        "place3": "图书馆",
+        "place4": "公园"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Manner Adjunct (方式状语)",
+          "vi": "Trạng ngữ chỉ cách thức (方式状语)",
+          "zh": "方式状语"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Manner adjuncts describe **how** an action is performed. They often use words like: **{{manner1}}** (carefully), **{{manner2}}** (quickly), **{{manner3}}** (slowly), **{{manner4}}** (happily), etc.\n\n**Example:**\n- 他**{{manner1}}**地检查作业。 (He checks homework **carefully**.)\n- 她**{{manner4}}**地唱歌。 (She sings **happily**.)",
+          "vi": "Trạng ngữ chỉ cách thức mô tả **như thế nào** một hành động được thực hiện. Chúng thường sử dụng các từ như: **{{manner1}}** (cẩn thận), **{{manner2}}** (nhanh chóng), **{{manner3}}** (chậm chạp), **{{manner4}}** (vui vẻ), v.v.\n\n**Ví dụ:**\n- 他**{{manner1}}**地检查作业。 (Anh ấy kiểm tra bài tập **cẩn thận**.)\n- 她**{{manner4}}**地唱歌。 (Cô ấy hát **vui vẻ**.)",
+          "zh": "方式状语表示动作进行的**方式**。常用词包括：**{{manner1}}**（仔细地）、**{{manner2}}**（快速地）、**{{manner3}}**（慢慢地）、**{{manner4}}**（高兴地）等。\n\n**例句：**\n- 他**{{manner1}}**地检查作业。\n- 她**{{manner4}}**地唱歌。"
+        }
+      },
+      "placeholders": [{
+        "manner1": "仔细",
+        "manner2": "快速",
+        "manner3": "慢慢",
+        "manner4": "高兴"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Reason Adjunct (原因状语)",
+          "vi": "Trạng ngữ chỉ lý do (原因状语)",
+          "zh": "原因状语"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Reason adjuncts explain **why** an action occurs. Common patterns include: **{{reason1}}...{{reason2}}...** (because... so...), **{{reason3}}** (due to), **{{reason4}}** (in order to), etc.\n\n**Example:**\n- **{{reason1}}**下雨，**{{reason2}}**我们待在家里。 (Because it's raining, we stay at home.)\n- **{{reason4}}**健康，他每天运动。 (In order to be healthy, he exercises every day.)",
+          "vi": "Trạng ngữ chỉ lý do giải thích **tại sao** một hành động xảy ra. Các mẫu phổ biến bao gồm: **{{reason1}}...{{reason2}}...** (vì... nên...), **{{reason3}}** (do), **{{reason4}}** (để), v.v.\n\n**Ví dụ:**\n- **{{reason1}}**下雨，**{{reason2}}**我们待在家里。 (Vì trời mưa, nên chúng tôi ở nhà.)\n- **{{reason4}}**健康，他每天运动。 (Để khỏe mạnh, anh ấy tập thể dục mỗi ngày.)",
+          "zh": "原因状语说明动作发生的**原因**。常见格式包括：**{{reason1}}...{{reason2}}...**、**{{reason3}}**、**{{reason4}}**等。\n\n**例句：**\n- **{{reason1}}**下雨，**{{reason2}}**我们待在家里。\n- **{{reason4}}**健康，他每天运动。"
+        }
+      },
+      "placeholders": [{
+        "reason1": "因为",
+        "reason2": "所以",
+        "reason3": "由于",
+        "reason4": "为了"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Degree Adjunct (程度状语)",
+          "vi": "Trạng ngữ chỉ mức độ (程度状语)",
+          "zh": "程度状语"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Degree adjuncts indicate **to what extent** or **how much**. Common words include: **{{degree1}}** (very), **{{degree2}}** (quite), **{{degree3}}** (extremely), **{{degree4}}** (a little), etc.\n\n**Example:**\n- 这个电影**{{degree1}}**有趣。 (This movie is **very** interesting.)\n- 我**{{degree4}}**累。 (I'm **a little** tired.)",
+          "vi": "Trạng ngữ chỉ mức độ cho biết **ở mức độ nào** hoặc **bao nhiêu**. Các từ phổ biến bao gồm: **{{degree1}}** (rất), **{{degree2}}** (khá), **{{degree3}}** (cực kỳ), **{{degree4}}** (một chút), v.v.\n\n**Ví dụ:**\n- 这个电影**{{degree1}}**有趣。 (Bộ phim này **rất** thú vị.)\n- 我**{{degree4}}**累。 (Tôi **hơi** mệt.)",
+          "zh": "程度状语表示动作或状态的**程度**。常用词包括：**{{degree1}}**（很）、**{{degree2}}**（相当）、**{{degree3}}**（非常）、**{{degree4}}**（有点儿）等。\n\n**例句：**\n- 这个电影**{{degree1}}**有趣。\n- 我**{{degree4}}**累。"
+        }
+      },
+      "placeholders": [{
+        "degree1": "很",
+        "degree2": "相当",
+        "degree3": "非常",
+        "degree4": "有点儿"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Position of Adjuncts (状语的位置)",
+          "vi": "Vị trí của trạng ngữ (状语的位置)",
+          "zh": "状语的位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The position of adjuncts in Chinese sentences is flexible but follows certain rules:\n\n1. **Before the verb**: Most adjuncts are placed before the verb.\n   - 我**{{time}}**学习。 (I study **{{time}}**.)\n\n2. **At the beginning of sentence**: Time and place adjuncts often appear at the beginning.\n   - **{{time}}**，我在**{{place}}**学习。 (**{{time}}**, I study at **{{place}}**.)\n\n3. **After the subject, before the verb**: This is the most common position.\n   - 我**{{manner}}**地说话。 (I speak **{{manner}}**.)",
+          "vi": "Vị trí của trạng ngữ trong câu tiếng Trung linh hoạt nhưng tuân theo các quy tắc nhất định:\n\n1. **Trước động từ**: Hầu hết các trạng ngữ được đặt trước động từ.\n   - 我**{{time}}**学习。 (Tôi học **{{time}}**.)\n\n2. **Ở đầu câu**: Trạng ngữ chỉ thời gian và địa điểm thường xuất hiện ở đầu câu.\n   - **{{time}}**，我在**{{place}}**学习。 (**{{time}}**, tôi học ở **{{place}}**.)\n\n3. **Sau chủ ngữ, trước động từ**: Đây là vị trí phổ biến nhất.\n   - 我**{{manner}}**地说话。 (Tôi nói **{{manner}}**.)",
+          "zh": "状语在句子中的位置比较灵活，但遵循一定规律：\n\n1. **动词前**：大多数状语放在动词前面。\n   - 我**{{time}}**学习。\n\n2. **句首**：时间和地点状语常放在句首。\n   - **{{time}}**，我在**{{place}}**学习。\n\n3. **主语后，动词前**：这是最常见的位置。\n   - 我**{{manner}}**地说话。"
+        }
+      },
+      "placeholders": [{
+        "time": "每天",
+        "place": "图书馆",
+        "manner": "慢慢"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Adjunct Words (常用状语词)",
+          "vi": "Các từ trạng ngữ thường dùng (常用状语词)",
+          "zh": "常用状语词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are some commonly used adjunct words in Chinese:\n\n**Time words:**\n- **{{word1}}** (already), **{{word2}}** (just now), **{{word3}}** (still), **{{word4}}** (always)\n\n**Manner words:**\n- **{{word5}}** (together), **{{word6}}** (alone), **{{word7}}** (suddenly)\n\n**Degree words:**\n- **{{word8}}** (too), **{{word9}}** (enough), **{{word10}}** (especially)\n\n**Example sentences:**\n- 我**{{word1}}**吃过饭了。 (I have **already** eaten.)\n- 他们**{{word5}}**去公园。 (They go to the park **together**.)\n- 这个**{{word8}}**难了。 (This is **too** difficult.)",
+          "vi": "Dưới đây là một số từ trạng ngữ thường dùng trong tiếng Trung:\n\n**Từ chỉ thời gian:**\n- **{{word1}}** (đã), **{{word2}}** (vừa mới), **{{word3}}** (vẫn), **{{word4}}** (luôn luôn)\n\n**Từ chỉ cách thức:**\n- **{{word5}}** (cùng nhau), **{{word6}}** (một mình), **{{word7}}** (đột nhiên)\n\n**Từ chỉ mức độ:**\n- **{{word8}}** (quá), **{{word9}}** (đủ), **{{word10}}** (đặc biệt)\n\n**Ví dụ:**\n- 我**{{word1}}**吃过饭了。 (Tôi **đã** ăn cơm rồi.)\n- 他们**{{word5}}**去公园。 (Họ đi công viên **cùng nhau**.)\n- 这个**{{word8}}**难了。 (Cái này **quá** khó.)",
+          "zh": "以下是一些常用的状语词：\n\n**时间词：**\n- **{{word1}}**（已经）、**{{word2}}**（刚刚）、**{{word3}}**（还）、**{{word4}}**（总是）\n\n**方式词：**\n- **{{word5}}**（一起）、**{{word6}}**（独自）、**{{word7}}**（突然）\n\n**程度词：**\n- **{{word8}}**（太）、**{{word9}}**（够）、**{{word10}}**（特别）\n\n**例句：**\n- 我**{{word1}}**吃过饭了。\n- 他们**{{word5}}**去公园。\n- 这个**{{word8}}**难了。"
+        }
+      },
+      "placeholders": [{
+        "word1": "已经",
+        "word2": "刚刚",
+        "word3": "还",
+        "word4": "总是",
+        "word5": "一起",
+        "word6": "独自",
+        "word7": "突然",
+        "word8": "太",
+        "word9": "够",
+        "word10": "特别"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Multiple Adjuncts (多个状语)",
+          "vi": "Nhiều trạng ngữ (多个状语)",
+          "zh": "多个状语"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "A sentence can have multiple adjuncts. The general order is: **Time → Place → Manner → Verb**.\n\n**Example:**\n- **{{time}}**，我在**{{place}}****{{manner}}**地学习。 (**{{time}}**, I study **{{manner}}** at **{{place}}**.)\n\n**Note:** When there are multiple adjuncts, time adjuncts usually come first, followed by place, then manner.",
+          "vi": "Một câu có thể có nhiều trạng ngữ. Thứ tự chung là: **Thời gian → Địa điểm → Cách thức → Động từ**.\n\n**Ví dụ:**\n- **{{time}}**，我在**{{place}}****{{manner}}**地学习。 (**{{time}}**, tôi học **{{manner}}** ở **{{place}}**.)\n\n**Lưu ý:** Khi có nhiều trạng ngữ, trạng ngữ chỉ thời gian thường đứng đầu, tiếp theo là địa điểm, rồi đến cách thức.",
+          "zh": "一个句子可以有多个状语。一般顺序是：**时间 → 地点 → 方式 → 动词**。\n\n**例句：**\n- **{{time}}**，我在**{{place}}****{{manner}}**地学习。\n\n**注意：** 当有多个状语时，时间状语通常在最前面，其次是地点，然后是方式。"
+        }
+      },
+      "placeholders": [{
+        "time": "每天早上",
+        "place": "图书馆",
+        "manner": "认真"
+      }]
+    }
+  ]
+}

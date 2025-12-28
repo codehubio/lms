@@ -1,0 +1,4729 @@
+[
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "张扬",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāng yáng",
+    "pinyin2": "zha1ng ya2ng",
+    "translation": {
+      "en": "to show off; to make public",
+      "vi": "phô trương; công khai"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "长相",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǎng xiàng",
+    "pinyin2": "zha3ng xia4ng",
+    "translation": {
+      "en": "appearance; looks",
+      "vi": "dáng vẻ; ngoại hình"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "掌管",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǎng guǎn",
+    "pinyin2": "zha3ng gua3n",
+    "translation": {
+      "en": "to be in charge of; to manage",
+      "vi": "quản lý; phụ trách"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "帐子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhàng zi",
+    "pinyin2": "zha4ng zi",
+    "translation": {
+      "en": "bed curtain; mosquito net",
+      "vi": "màn; màn che"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "账单",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhàng dān",
+    "pinyin2": "zha4ng da1n",
+    "translation": {
+      "en": "bill; account",
+      "vi": "hóa đơn; phiếu tính tiền"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "账号",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhàng hào",
+    "pinyin2": "zha4ng ha4o",
+    "translation": {
+      "en": "account number; username",
+      "vi": "số tài khoản; tên đăng nhập"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "胀",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhàng",
+    "pinyin2": "zha4ng",
+    "translation": {
+      "en": "to swell; to expand",
+      "vi": "phình; sưng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "招标",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāo biāo",
+    "pinyin2": "zha1o bia1o",
+    "translation": {
+      "en": "to invite tenders; to call for bids",
+      "vi": "đấu thầu; mời thầu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "招待会",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāo dài huì",
+    "pinyin2": "zha1o da4i hui4",
+    "translation": {
+      "en": "reception; party",
+      "vi": "buổi tiếp đãi; tiệc"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "招揽",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāo lǎn",
+    "pinyin2": "zha1o la3n",
+    "translation": {
+      "en": "to solicit; to canvass",
+      "vi": "chiêu mộ; thu hút"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "招募",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāo mù",
+    "pinyin2": "zha1o mu4",
+    "translation": {
+      "en": "to recruit; to enlist",
+      "vi": "tuyển mộ; chiêu mộ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "招牌",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāo pai",
+    "pinyin2": "zha1o pai",
+    "translation": {
+      "en": "signboard; shop sign",
+      "vi": "biển hiệu; bảng hiệu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "招数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāo shù",
+    "pinyin2": "zha1o shu4",
+    "translation": {
+      "en": "trick; move",
+      "vi": "chiêu; thủ đoạn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "朝三暮四",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāo sān mù sì",
+    "pinyin2": "zha1o sa1n mu4 si4",
+    "translation": {
+      "en": "to change one's mind frequently; capricious",
+      "vi": "thay đổi liên tục; không nhất quán"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "朝夕相处",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāo xī xiāng chǔ",
+    "pinyin2": "zha1o xi1 xia1ng chu3",
+    "translation": {
+      "en": "to be together morning and night; to be constantly together",
+      "vi": "sống cùng nhau; gần gũi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "召集",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhào jí",
+    "pinyin2": "zha4o ji2",
+    "translation": {
+      "en": "to convene; to call together",
+      "vi": "tập hợp; triệu tập"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "兆头",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhào tou",
+    "pinyin2": "zha4o tou",
+    "translation": {
+      "en": "omen; sign",
+      "vi": "điềm báo; dấu hiệu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "照办",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhào bàn",
+    "pinyin2": "zha4o ba4n",
+    "translation": {
+      "en": "to act accordingly; to comply",
+      "vi": "làm theo; tuân theo"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "照例",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhào lì",
+    "pinyin2": "zha4o li4",
+    "translation": {
+      "en": "as a rule; as usual",
+      "vi": "theo lệ; như thường lệ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "照明",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhào míng",
+    "pinyin2": "zha4o mi2ng",
+    "translation": {
+      "en": "lighting; illumination",
+      "vi": "chiếu sáng; ánh sáng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "罩",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhào",
+    "pinyin2": "zha4o",
+    "translation": {
+      "en": "to cover; cover",
+      "vi": "che; phủ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "肇事",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhào shì",
+    "pinyin2": "zha4o shi4",
+    "translation": {
+      "en": "to cause trouble; to create a disturbance",
+      "vi": "gây sự; tạo rối"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "遮",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhē",
+    "pinyin2": "zhe1",
+    "translation": {
+      "en": "to cover; to hide",
+      "vi": "che; che giấu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "遮盖",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhē gài",
+    "pinyin2": "zhe1 ga4i",
+    "translation": {
+      "en": "to cover; to conceal",
+      "vi": "che đậy; che phủ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "折叠",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhé dié",
+    "pinyin2": "zhe2 die2",
+    "translation": {
+      "en": "to fold",
+      "vi": "gấp; xếp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "折合",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhé hé",
+    "pinyin2": "zhe2 he2",
+    "translation": {
+      "en": "to convert into; to amount to",
+      "vi": "quy đổi; tương đương"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "折扣",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhé kòu",
+    "pinyin2": "zhe2 ko4u",
+    "translation": {
+      "en": "discount",
+      "vi": "giảm giá; chiết khấu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "折射",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhé shè",
+    "pinyin2": "zhe2 she4",
+    "translation": {
+      "en": "refraction",
+      "vi": "khúc xạ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "这会儿",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhè huìr",
+    "pinyin2": "zhe4 hu4ir",
+    "translation": {
+      "en": "now; at this moment",
+      "vi": "bây giờ; lúc này"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "这样一来",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhè yàng yī lái",
+    "pinyin2": "zhe4 ya4ng yi1 la2i",
+    "translation": {
+      "en": "in this way; thus",
+      "vi": "như vậy; như thế"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "针锋相对",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn fēng xiāng duì",
+    "pinyin2": "zhe1n fe1ng xia1ng dui4",
+    "translation": {
+      "en": "to be diametrically opposed; tit for tat",
+      "vi": "đối đầu; đối chọi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "针灸",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn jiǔ",
+    "pinyin2": "zhe1n jiu3",
+    "translation": {
+      "en": "acupuncture",
+      "vi": "châm cứu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "侦察",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn chá",
+    "pinyin2": "zhe1n cha2",
+    "translation": {
+      "en": "to reconnoiter; to scout",
+      "vi": "trinh sát; do thám"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "珍藏",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn cáng",
+    "pinyin2": "zhe1n ca2ng",
+    "translation": {
+      "en": "to treasure; to collect",
+      "vi": "trân trọng; sưu tầm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "珍视",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn shì",
+    "pinyin2": "zhe1n shi4",
+    "translation": {
+      "en": "to treasure; to value",
+      "vi": "trân trọng; quý trọng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "珍重",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn zhòng",
+    "pinyin2": "zhe1n zho4ng",
+    "translation": {
+      "en": "to treasure; to take care",
+      "vi": "trân trọng; giữ gìn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "真假",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn jiǎ",
+    "pinyin2": "zhe1n jia3",
+    "translation": {
+      "en": "true and false; genuine and fake",
+      "vi": "thật giả; chính phụ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "真空",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn kōng",
+    "pinyin2": "zhe1n ko1ng",
+    "translation": {
+      "en": "vacuum",
+      "vi": "chân không"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "真情",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn qíng",
+    "pinyin2": "zhe1n qi2ng",
+    "translation": {
+      "en": "true feelings; real situation",
+      "vi": "tình cảm thật; sự thật"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "真是的",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn shì de",
+    "pinyin2": "zhe1n shi4 de",
+    "translation": {
+      "en": "really; indeed",
+      "vi": "thật là; đúng là"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "真心",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēn xīn",
+    "pinyin2": "zhe1n xi1n",
+    "translation": {
+      "en": "sincere; genuine",
+      "vi": "chân thành; thật lòng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "诊所",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhěn suǒ",
+    "pinyin2": "zhe3n suo3",
+    "translation": {
+      "en": "clinic",
+      "vi": "phòng khám; phòng mạch"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "阵营",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèn yíng",
+    "pinyin2": "zhe4n yi2ng",
+    "translation": {
+      "en": "camp; faction",
+      "vi": "trại; phe"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "振作",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèn zuò",
+    "pinyin2": "zhe4n zuo4",
+    "translation": {
+      "en": "to pull oneself together; to cheer up",
+      "vi": "phấn chấn; cố gắng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "震",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèn",
+    "pinyin2": "zhe4n",
+    "translation": {
+      "en": "to shake; to shock",
+      "vi": "rung; chấn động"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "震动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèn dòng",
+    "pinyin2": "zhe4n do4ng",
+    "translation": {
+      "en": "to shake; to vibrate",
+      "vi": "rung động; chấn động"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "震撼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèn hàn",
+    "pinyin2": "zhe4n ha4n",
+    "translation": {
+      "en": "to shock; to shake",
+      "vi": "chấn động; gây sốc"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "争吵",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēng chǎo",
+    "pinyin2": "zhe1ng cha3o",
+    "translation": {
+      "en": "to quarrel; to argue",
+      "vi": "cãi nhau; tranh cãi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "争分夺秒",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēng fēn duó miǎo",
+    "pinyin2": "zhe1n fe1n duo2 mia3o",
+    "translation": {
+      "en": "to race against time; to make every minute count",
+      "vi": "tranh thủ từng giây; gấp rút"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "争光",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēng guāng",
+    "pinyin2": "zhe1ng gua1ng",
+    "translation": {
+      "en": "to win honor; to bring credit",
+      "vi": "làm rạng danh; vinh quang"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "争执",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēng zhí",
+    "pinyin2": "zhe1ng zhi2",
+    "translation": {
+      "en": "dispute; disagreement",
+      "vi": "tranh cãi; bất đồng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "征",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēng",
+    "pinyin2": "zhe1ng",
+    "translation": {
+      "en": "to levy; to go on an expedition",
+      "vi": "đánh; chinh phục"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "征集",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēng jí",
+    "pinyin2": "zhe1ng ji2",
+    "translation": {
+      "en": "to collect; to recruit",
+      "vi": "tuyển tập; thu thập"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "症结",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng jié",
+    "pinyin2": "zhe4ng jie2",
+    "translation": {
+      "en": "crux; key problem",
+      "vi": "vấn đề then chốt; điểm mấu chốt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "蒸",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhēng",
+    "pinyin2": "zhe1ng",
+    "translation": {
+      "en": "to steam",
+      "vi": "hấp; nấu hơi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "拯救",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhěng jiù",
+    "pinyin2": "zhe3ng jiu4",
+    "translation": {
+      "en": "to save; to rescue",
+      "vi": "cứu; giải cứu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "整合",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhěng hé",
+    "pinyin2": "zhe3ng he2",
+    "translation": {
+      "en": "to integrate; to consolidate",
+      "vi": "tích hợp; hợp nhất"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "整洁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhěng jié",
+    "pinyin2": "zhe3ng jie2",
+    "translation": {
+      "en": "neat; tidy",
+      "vi": "gọn gàng; sạch sẽ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "整数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhěng shù",
+    "pinyin2": "zhe3ng shu4",
+    "translation": {
+      "en": "integer; whole number",
+      "vi": "số nguyên"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "正面",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng miàn",
+    "pinyin2": "zhe4ng mia4n",
+    "translation": {
+      "en": "front; positive side",
+      "vi": "mặt trước; tích cực"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "正能量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng néng liàng",
+    "pinyin2": "zhe4ng ne2ng lia4ng",
+    "translation": {
+      "en": "positive energy",
+      "vi": "năng lượng tích cực"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "正视",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng shì",
+    "pinyin2": "zhe4ng shi4",
+    "translation": {
+      "en": "to face squarely; to look squarely at",
+      "vi": "đối mặt; nhìn thẳng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "正直",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng zhí",
+    "pinyin2": "zhe4ng zhi2",
+    "translation": {
+      "en": "upright; honest",
+      "vi": "chính trực; ngay thẳng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "正宗",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng zōng",
+    "pinyin2": "zhe4ng zo1ng",
+    "translation": {
+      "en": "authentic; orthodox",
+      "vi": "chính tông; đích thực"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "证人",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng rén",
+    "pinyin2": "zhe4ng re2n",
+    "translation": {
+      "en": "witness",
+      "vi": "nhân chứng; người làm chứng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "之所以",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī suǒ yǐ",
+    "pinyin2": "zhi1 suo3 yi3",
+    "translation": {
+      "en": "the reason why; that's why",
+      "vi": "lý do tại sao; vì vậy"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "汁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī",
+    "pinyin2": "zhi1",
+    "translation": {
+      "en": "juice; liquid",
+      "vi": "nước ép; chất lỏng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "food"
+    ],
+    "word": "芝士",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī shì",
+    "pinyin2": "zhi1 shi4",
+    "translation": {
+      "en": "cheese",
+      "vi": "phô mai"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "知己",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī jǐ",
+    "pinyin2": "zhi1 ji3",
+    "translation": {
+      "en": "confidant; bosom friend",
+      "vi": "tri kỷ; bạn thân"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "知识分子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī shi fèn zǐ",
+    "pinyin2": "zhi1 shi fe4n zi3",
+    "translation": {
+      "en": "intellectual",
+      "vi": "trí thức; người có học"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "知足",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī zú",
+    "pinyin2": "zhi1 zu2",
+    "translation": {
+      "en": "content; satisfied",
+      "vi": "biết đủ; hài lòng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "肢体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhī tǐ",
+    "pinyin2": "zhi1 ti3",
+    "translation": {
+      "en": "limb; body",
+      "vi": "chi; tay chân"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "执法",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí fǎ",
+    "pinyin2": "zhi2 fa3",
+    "translation": {
+      "en": "to enforce the law",
+      "vi": "thi hành pháp luật; thực thi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "执意",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí yì",
+    "pinyin2": "zhi2 yi4",
+    "translation": {
+      "en": "to insist on; to be determined",
+      "vi": "nhất quyết; kiên quyết"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "执着",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí zhuó",
+    "pinyin2": "zhi2 zhuo2",
+    "translation": {
+      "en": "persistent; persistent",
+      "vi": "kiên trì; bền bỉ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "直奔",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí bēn",
+    "pinyin2": "zhi2 be1n",
+    "translation": {
+      "en": "to go straight to",
+      "vi": "đi thẳng đến; lao đến"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "直达",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí dá",
+    "pinyin2": "zhi2 da2",
+    "translation": {
+      "en": "non-stop; direct",
+      "vi": "thẳng; trực tiếp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "直观",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí guān",
+    "pinyin2": "zhi2 gua1n",
+    "translation": {
+      "en": "intuitive; direct",
+      "vi": "trực quan; trực tiếp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "直径",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí jìng",
+    "pinyin2": "zhi2 ji4ng",
+    "translation": {
+      "en": "diameter",
+      "vi": "đường kính"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "直觉",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí jué",
+    "pinyin2": "zhi2 jue2",
+    "translation": {
+      "en": "intuition",
+      "vi": "trực giác; linh cảm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "直视",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí shì",
+    "pinyin2": "zhi2 shi4",
+    "translation": {
+      "en": "to look directly at",
+      "vi": "nhìn thẳng; nhìn trực tiếp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "值钱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí qián",
+    "pinyin2": "zhi2 qia2n",
+    "translation": {
+      "en": "valuable; worth money",
+      "vi": "có giá trị; đáng tiền"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "职权",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí quán",
+    "pinyin2": "zhi2 qua2n",
+    "translation": {
+      "en": "authority; power",
+      "vi": "quyền hạn; thẩm quyền"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "职业病",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí yè bìng",
+    "pinyin2": "zhi2 ye4 bi4ng",
+    "translation": {
+      "en": "occupational disease",
+      "vi": "bệnh nghề nghiệp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "职员",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí yuán",
+    "pinyin2": "zhi2 yua2n",
+    "translation": {
+      "en": "staff; employee",
+      "vi": "nhân viên; cán bộ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "止步",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ bù",
+    "pinyin2": "zhi3 bu4",
+    "translation": {
+      "en": "to stop; to halt",
+      "vi": "dừng lại; ngừng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "止咳",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ ké",
+    "pinyin2": "zhi3 ke2",
+    "translation": {
+      "en": "to relieve cough",
+      "vi": "chữa ho; giảm ho"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "止血",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ xuè",
+    "pinyin2": "zhi3 xue4",
+    "translation": {
+      "en": "to stop bleeding",
+      "vi": "cầm máu; ngừng chảy máu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "旨在",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ zài",
+    "pinyin2": "zhi3 za4i",
+    "translation": {
+      "en": "to aim at; to be intended to",
+      "vi": "nhằm; mục đích là"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "指点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ diǎn",
+    "pinyin2": "zhi3 dia3n",
+    "translation": {
+      "en": "to point out; to give directions",
+      "vi": "chỉ điểm; hướng dẫn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "指教",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ jiào",
+    "pinyin2": "zhi3 jia4o",
+    "translation": {
+      "en": "to give advice; to instruct",
+      "vi": "chỉ bảo; dạy dỗ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "指南",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ nán",
+    "pinyin2": "zhi3 na2n",
+    "translation": {
+      "en": "guide; manual",
+      "vi": "hướng dẫn; cẩm nang"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "指手画脚",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ shǒu huà jiǎo",
+    "pinyin2": "zhi3 sho3u hua4 jia3o",
+    "translation": {
+      "en": "to gesticulate; to make gestures",
+      "vi": "chỉ tay năm ngón; ra lệnh"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "指向",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ xiàng",
+    "pinyin2": "zhi3 xia4ng",
+    "translation": {
+      "en": "to point to; to direct",
+      "vi": "chỉ về; hướng về"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "指引",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ yǐn",
+    "pinyin2": "zhi3 yi3n",
+    "translation": {
+      "en": "to guide; to direct",
+      "vi": "hướng dẫn; chỉ dẫn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "至此",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì cǐ",
+    "pinyin2": "zhi4 ci3",
+    "translation": {
+      "en": "up to this point; so far",
+      "vi": "đến đây; cho đến nay"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "至关重要",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì guān zhòng yào",
+    "pinyin2": "zhi4 gua1n zho4ng ya4o",
+    "translation": {
+      "en": "crucial; of vital importance",
+      "vi": "cực kỳ quan trọng; then chốt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "制",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì",
+    "pinyin2": "zhi4",
+    "translation": {
+      "en": "to make; to manufacture",
+      "vi": "chế tạo; làm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "制品",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì pǐn",
+    "pinyin2": "zhi4 pi3n",
+    "translation": {
+      "en": "product; goods",
+      "vi": "sản phẩm; hàng hóa"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "质地",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì dì",
+    "pinyin2": "zhi4 di4",
+    "translation": {
+      "en": "texture; quality",
+      "vi": "chất liệu; phẩm chất"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "质朴",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì pǔ",
+    "pinyin2": "zhi4 pu3",
+    "translation": {
+      "en": "simple and honest; unadorned",
+      "vi": "chất phác; mộc mạc"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "质问",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì wèn",
+    "pinyin2": "zhi4 we4n",
+    "translation": {
+      "en": "to question; to interrogate",
+      "vi": "chất vấn; hỏi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "质疑",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì yí",
+    "pinyin2": "zhi4 yi2",
+    "translation": {
+      "en": "to question; to doubt",
+      "vi": "nghi ngờ; đặt câu hỏi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "治学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì xué",
+    "pinyin2": "zhi4 xue2",
+    "translation": {
+      "en": "to pursue scholarship; to do research",
+      "vi": "nghiên cứu; học tập"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "治愈",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì yù",
+    "pinyin2": "zhi4 yu4",
+    "translation": {
+      "en": "to cure; to heal",
+      "vi": "chữa khỏi; điều trị"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "致",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì",
+    "pinyin2": "zhi4",
+    "translation": {
+      "en": "to cause; to send",
+      "vi": "gây ra; gửi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "致富",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì fù",
+    "pinyin2": "zhi4 fu4",
+    "translation": {
+      "en": "to become rich; to make a fortune",
+      "vi": "làm giàu; phát tài"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "致敬",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì jìng",
+    "pinyin2": "zhi4 ji4ng",
+    "translation": {
+      "en": "to pay tribute; to salute",
+      "vi": "kính trọng; chào"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "致命",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì mìng",
+    "pinyin2": "zhi4 mi4ng",
+    "translation": {
+      "en": "fatal; deadly",
+      "vi": "chết người; gây chết"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "窒息",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì xī",
+    "pinyin2": "zhi4 xi1",
+    "translation": {
+      "en": "to suffocate; to choke",
+      "vi": "nghẹt thở; ngạt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "滞后",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì hòu",
+    "pinyin2": "zhi4 ho4u",
+    "translation": {
+      "en": "to lag behind; to be delayed",
+      "vi": "tụt hậu; chậm trễ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "置",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì",
+    "pinyin2": "zhi4",
+    "translation": {
+      "en": "to place; to put",
+      "vi": "đặt; để"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "中国画",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng guó huà",
+    "pinyin2": "zho1ng guo2 hua4",
+    "translation": {
+      "en": "Chinese painting",
+      "vi": "tranh Trung Quốc; hội họa Trung Hoa"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "中途",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng tú",
+    "pinyin2": "zho1ng tu2",
+    "translation": {
+      "en": "midway; halfway",
+      "vi": "giữa đường; nửa chừng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "中型",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng xíng",
+    "pinyin2": "zho1ng xi2ng",
+    "translation": {
+      "en": "medium-sized; medium",
+      "vi": "cỡ trung; vừa"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "中性",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng xìng",
+    "pinyin2": "zho1ng xi4ng",
+    "translation": {
+      "en": "neutral; neuter",
+      "vi": "trung tính"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "中庸",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng yōng",
+    "pinyin2": "zho1ng yo1ng",
+    "translation": {
+      "en": "the Doctrine of the Mean; moderation",
+      "vi": "trung dung; điều độ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "中止",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng zhǐ",
+    "pinyin2": "zho1ng zhi3",
+    "translation": {
+      "en": "to suspend; to discontinue",
+      "vi": "tạm dừng; ngừng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "忠于",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng yú",
+    "pinyin2": "zho1ng yu2",
+    "translation": {
+      "en": "to be loyal to; to be faithful to",
+      "vi": "trung thành với; tận tụy"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "忠贞",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng zhēn",
+    "pinyin2": "zho1ng zhe1n",
+    "translation": {
+      "en": "loyal and steadfast",
+      "vi": "trung kiên; trung thành"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "终结",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng jié",
+    "pinyin2": "zho1ng jie2",
+    "translation": {
+      "en": "to end; to terminate",
+      "vi": "kết thúc; chấm dứt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "终生",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng shēng",
+    "pinyin2": "zho1ng she1ng",
+    "translation": {
+      "en": "all one's life; lifelong",
+      "vi": "suốt đời; cả đời"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "仲裁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng cái",
+    "pinyin2": "zho4ng ca2i",
+    "translation": {
+      "en": "arbitration",
+      "vi": "trọng tài; phân xử"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "众人",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng rén",
+    "pinyin2": "zho4ng re2n",
+    "translation": {
+      "en": "everyone; all people",
+      "vi": "mọi người; tất cả"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "众志成城",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng zhì chéng chéng",
+    "pinyin2": "zho4ng zhi4 che2ng che2ng",
+    "translation": {
+      "en": "unity is strength; united we stand",
+      "vi": "đồng lòng; đoàn kết"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "重创",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng chuàng",
+    "pinyin2": "zho4ng chua4ng",
+    "translation": {
+      "en": "to inflict heavy losses; heavy damage",
+      "vi": "tổn thất nặng; thiệt hại lớn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "重量级",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng liàng jí",
+    "pinyin2": "zho4ng lia4ng ji2",
+    "translation": {
+      "en": "heavyweight; important",
+      "vi": "hạng nặng; quan trọng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "重任",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng rèn",
+    "pinyin2": "zho4ng re4n",
+    "translation": {
+      "en": "important task; heavy responsibility",
+      "vi": "trọng trách; nhiệm vụ quan trọng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "重伤",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng shāng",
+    "pinyin2": "zho4ng sha1ng",
+    "translation": {
+      "en": "serious injury",
+      "vi": "thương tích nặng; bị thương nặng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "重型",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng xíng",
+    "pinyin2": "zho4ng xi2ng",
+    "translation": {
+      "en": "heavy-duty; heavy",
+      "vi": "hạng nặng; nặng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "重中之重",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng zhōng zhī zhòng",
+    "pinyin2": "zho4ng zho1ng zhi1 zho4ng",
+    "translation": {
+      "en": "top priority; most important",
+      "vi": "ưu tiên hàng đầu; quan trọng nhất"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "周旋",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōu xuán",
+    "pinyin2": "zho1u xua2n",
+    "translation": {
+      "en": "to deal with; to socialize",
+      "vi": "giao thiệp; xử lý"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "皱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòu",
+    "pinyin2": "zho4u",
+    "translation": {
+      "en": "wrinkle; to wrinkle",
+      "vi": "nhăn; nếp nhăn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "骤然",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòu rán",
+    "pinyin2": "zho4u ra2n",
+    "translation": {
+      "en": "suddenly; abruptly",
+      "vi": "đột ngột; bất ngờ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "朱红",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhū hóng",
+    "pinyin2": "zhu1 ho2ng",
+    "translation": {
+      "en": "vermilion; bright red",
+      "vi": "đỏ son; đỏ tươi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "诸多",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhū duō",
+    "pinyin2": "zhu1 duo1",
+    "translation": {
+      "en": "many; a lot of",
+      "vi": "nhiều; rất nhiều"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "诸如此类",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhū rú cǐ lèi",
+    "pinyin2": "zhu1 ru2 ci3 le4i",
+    "translation": {
+      "en": "and so on; and the like",
+      "vi": "và những thứ tương tự; các loại như vậy"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "竹竿",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhú gān",
+    "pinyin2": "zhu2 ga1n",
+    "translation": {
+      "en": "bamboo pole",
+      "vi": "cây tre; cây trúc"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ",
+    "pinyin2": "zhu3",
+    "translation": {
+      "en": "main; host",
+      "vi": "chủ; chính"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主编",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ biān",
+    "pinyin2": "zhu3 bia1n",
+    "translation": {
+      "en": "editor-in-chief",
+      "vi": "tổng biên tập; chủ biên"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主妇",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ fù",
+    "pinyin2": "zhu3 fu4",
+    "translation": {
+      "en": "housewife",
+      "vi": "bà nội trợ; người nội trợ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ lì",
+    "pinyin2": "zhu3 li4",
+    "translation": {
+      "en": "main force; backbone",
+      "vi": "lực lượng chính; nòng cốt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主人公",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ rén gōng",
+    "pinyin2": "zhu3 re2n go1ng",
+    "translation": {
+      "en": "protagonist; hero",
+      "vi": "nhân vật chính; nhân vật chủ yếu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主食",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ shí",
+    "pinyin2": "zhu3 shi2",
+    "translation": {
+      "en": "staple food",
+      "vi": "lương thực chính; thức ăn chính"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主题歌",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ tí gē",
+    "pinyin2": "zhu3 ti2 ge1",
+    "translation": {
+      "en": "theme song",
+      "vi": "bài hát chủ đề; nhạc chủ đề"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主演",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ yǎn",
+    "pinyin2": "zhu3 ya3n",
+    "translation": {
+      "en": "to star in; leading actor",
+      "vi": "đóng vai chính; diễn viên chính"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主页",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ yè",
+    "pinyin2": "zhu3 ye4",
+    "translation": {
+      "en": "homepage; main page",
+      "vi": "trang chủ; trang đầu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主义",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ yì",
+    "pinyin2": "zhu3 yi4",
+    "translation": {
+      "en": "doctrine; -ism",
+      "vi": "chủ nghĩa; học thuyết"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "主宰",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ zǎi",
+    "pinyin2": "zhu3 za3i",
+    "translation": {
+      "en": "to dominate; to control",
+      "vi": "thống trị; chi phối"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "瞩目",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ mù",
+    "pinyin2": "zhu3 mu4",
+    "translation": {
+      "en": "to focus attention on; to watch",
+      "vi": "chú ý; quan tâm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "助威",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù wēi",
+    "pinyin2": "zhu4 we1i",
+    "translation": {
+      "en": "to cheer; to root for",
+      "vi": "cổ vũ; động viên"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "住处",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù chù",
+    "pinyin2": "zhu4 chu4",
+    "translation": {
+      "en": "residence; dwelling place",
+      "vi": "nơi ở; chỗ ở"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "住户",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù hù",
+    "pinyin2": "zhu4 hu4",
+    "translation": {
+      "en": "household; resident",
+      "vi": "hộ dân; người ở"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "住宿",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù sù",
+    "pinyin2": "zhu4 su4",
+    "translation": {
+      "en": "to stay; accommodation",
+      "vi": "ở lại; chỗ ở"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "住址",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù zhǐ",
+    "pinyin2": "zhu4 zhi3",
+    "translation": {
+      "en": "address",
+      "vi": "địa chỉ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "贮藏",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù cáng",
+    "pinyin2": "zhu4 ca2ng",
+    "translation": {
+      "en": "to store; to preserve",
+      "vi": "dự trữ; cất giữ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "注",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù",
+    "pinyin2": "zhu4",
+    "translation": {
+      "en": "to pour; to note",
+      "vi": "đổ; chú thích"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "注定",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù dìng",
+    "pinyin2": "zhu4 di4ng",
+    "translation": {
+      "en": "to be doomed; to be destined",
+      "vi": "định mệnh; số phận"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "注入",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù rù",
+    "pinyin2": "zhu4 ru4",
+    "translation": {
+      "en": "to inject; to pour into",
+      "vi": "tiêm; đổ vào"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "筑",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhù",
+    "pinyin2": "zhu4",
+    "translation": {
+      "en": "to build; to construct",
+      "vi": "xây dựng; kiến thiết"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "爪子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎ zi",
+    "pinyin2": "zhua3 zi",
+    "translation": {
+      "en": "claw; paw",
+      "vi": "móng vuốt; chân"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "专柜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān guì",
+    "pinyin2": "zhua1n gui4",
+    "translation": {
+      "en": "special counter; exclusive counter",
+      "vi": "quầy chuyên dụng; quầy riêng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "专栏",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān lán",
+    "pinyin2": "zhua1n la2n",
+    "translation": {
+      "en": "column; special column",
+      "vi": "chuyên mục; cột"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "专卖店",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān mài diàn",
+    "pinyin2": "zhua1n ma4i dia4n",
+    "translation": {
+      "en": "exclusive store; specialty store",
+      "vi": "cửa hàng chuyên doanh; cửa hàng độc quyền"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "专人",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān rén",
+    "pinyin2": "zhua1n re2n",
+    "translation": {
+      "en": "specialist; person assigned to a task",
+      "vi": "người chuyên trách; chuyên viên"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "专职",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān zhí",
+    "pinyin2": "zhua1n zhi2",
+    "translation": {
+      "en": "full-time; professional",
+      "vi": "chuyên trách; toàn thời gian"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "专制",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān zhì",
+    "pinyin2": "zhua1n zhi4",
+    "translation": {
+      "en": "autocracy; despotism",
+      "vi": "chuyên chế; độc tài"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "专注",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān zhù",
+    "pinyin2": "zhua1n zhu4",
+    "translation": {
+      "en": "to concentrate; to focus",
+      "vi": "tập trung; chú ý"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "专著",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān zhù",
+    "pinyin2": "zhua1n zhu4",
+    "translation": {
+      "en": "monograph; specialized work",
+      "vi": "chuyên khảo; tác phẩm chuyên môn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "砖",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuān",
+    "pinyin2": "zhua1n",
+    "translation": {
+      "en": "brick",
+      "vi": "gạch"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转播",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎn bō",
+    "pinyin2": "zhua3n bo1",
+    "translation": {
+      "en": "to relay; to broadcast",
+      "vi": "truyền phát; phát sóng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转机",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎn jī",
+    "pinyin2": "zhua3n ji1",
+    "translation": {
+      "en": "turning point; transfer flight",
+      "vi": "bước ngoặt; chuyến bay quá cảnh"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转交",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎn jiāo",
+    "pinyin2": "zhua3n jia1o",
+    "translation": {
+      "en": "to forward; to pass on",
+      "vi": "chuyển giao; chuyển tiếp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转型",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎn xíng",
+    "pinyin2": "zhua3n xi2ng",
+    "translation": {
+      "en": "transformation; transition",
+      "vi": "chuyển đổi; biến đổi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎn xué",
+    "pinyin2": "zhua3n xue2",
+    "translation": {
+      "en": "to transfer to another school",
+      "vi": "chuyển trường"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转眼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎn yǎn",
+    "pinyin2": "zhua3n ya3n",
+    "translation": {
+      "en": "in the blink of an eye; in a moment",
+      "vi": "chớp mắt; trong nháy mắt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转载",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎn zǎi",
+    "pinyin2": "zhua3n za3i",
+    "translation": {
+      "en": "to reprint; to republish",
+      "vi": "đăng lại; tái bản"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转折点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuǎn zhé diǎn",
+    "pinyin2": "zhua3n zhe2 dia3n",
+    "translation": {
+      "en": "turning point",
+      "vi": "điểm ngoặt; bước ngoặt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "传",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàn",
+    "pinyin2": "zhua4n",
+    "translation": {
+      "en": "biography; to pass on",
+      "vi": "truyện; truyền lại"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "转悠",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàn you",
+    "pinyin2": "zhua4n you",
+    "translation": {
+      "en": "to stroll; to wander",
+      "vi": "đi dạo; lang thang"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "撰写",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàn xiě",
+    "pinyin2": "zhua4n xie3",
+    "translation": {
+      "en": "to write; to compose",
+      "vi": "viết; soạn thảo"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "庄稼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuāng jia",
+    "pinyin2": "zhua1ng jia",
+    "translation": {
+      "en": "crops",
+      "vi": "mùa màng; cây trồng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "庄园",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuāng yuán",
+    "pinyin2": "zhua1ng yua2n",
+    "translation": {
+      "en": "manor; estate",
+      "vi": "trang viên; điền trang"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "桩",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuāng",
+    "pinyin2": "zhua1ng",
+    "translation": {
+      "en": "stake; pile",
+      "vi": "cọc; cột"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "装扮",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuāng bàn",
+    "pinyin2": "zhua1ng ba4n",
+    "translation": {
+      "en": "to dress up; to disguise",
+      "vi": "hóa trang; trang điểm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "壮",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàng",
+    "pinyin2": "zhua4ng",
+    "translation": {
+      "en": "strong; robust",
+      "vi": "mạnh mẽ; khỏe mạnh"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "壮大",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàng dà",
+    "pinyin2": "zhua4ng da4",
+    "translation": {
+      "en": "to strengthen; to expand",
+      "vi": "phát triển; mở rộng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "壮胆",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàng dǎn",
+    "pinyin2": "zhua4ng da3n",
+    "translation": {
+      "en": "to embolden; to boost courage",
+      "vi": "tăng can đảm; động viên"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "壮实",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàng shi",
+    "pinyin2": "zhua4ng shi",
+    "translation": {
+      "en": "sturdy; robust",
+      "vi": "vạm vỡ; khỏe mạnh"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "状元",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàng yuan",
+    "pinyin2": "zhua4ng yuan",
+    "translation": {
+      "en": "top scholar; number one",
+      "vi": "trạng nguyên; người đứng đầu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "撞击",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàng jī",
+    "pinyin2": "zhua4ng ji1",
+    "translation": {
+      "en": "to crash; to collide",
+      "vi": "va chạm; đâm vào"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "追悼会",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuī dào huì",
+    "pinyin2": "zhui1 da4o hui4",
+    "translation": {
+      "en": "memorial service",
+      "vi": "lễ truy điệu; lễ tưởng niệm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "追赶",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuī gǎn",
+    "pinyin2": "zhui1 ga3n",
+    "translation": {
+      "en": "to pursue; to chase",
+      "vi": "đuổi theo; truy đuổi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "追溯",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuī sù",
+    "pinyin2": "zhui1 su4",
+    "translation": {
+      "en": "to trace back; to date back",
+      "vi": "truy nguyên; ngược dòng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "追随",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuī suí",
+    "pinyin2": "zhui1 sui2",
+    "translation": {
+      "en": "to follow; to pursue",
+      "vi": "theo đuổi; đi theo"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "追尾",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuī wěi",
+    "pinyin2": "zhui1 we3i",
+    "translation": {
+      "en": "rear-end collision",
+      "vi": "đâm vào đuôi; va chạm phía sau"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "追问",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuī wèn",
+    "pinyin2": "zhui1 we4n",
+    "translation": {
+      "en": "to question closely; to cross-examine",
+      "vi": "hỏi dồn; chất vấn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "追逐",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuī zhú",
+    "pinyin2": "zhui1 zhu2",
+    "translation": {
+      "en": "to chase; to pursue",
+      "vi": "đuổi bắt; truy đuổi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "追踪",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuī zōng",
+    "pinyin2": "zhui1 zo1ng",
+    "translation": {
+      "en": "to track; to trace",
+      "vi": "theo dõi; truy tìm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "坠",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuì",
+    "pinyin2": "zhui4",
+    "translation": {
+      "en": "to fall; to drop",
+      "vi": "rơi; rớt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "准许",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔn xǔ",
+    "pinyin2": "zhu3n xu3",
+    "translation": {
+      "en": "to permit; to allow",
+      "vi": "cho phép; đồng ý"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "拙劣",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuō liè",
+    "pinyin2": "zhuo1 lie4",
+    "translation": {
+      "en": "clumsy; inferior",
+      "vi": "vụng về; kém cỏi"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "捉迷藏",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuō mí cáng",
+    "pinyin2": "zhuo1 mi2 ca2ng",
+    "translation": {
+      "en": "hide-and-seek",
+      "vi": "trò chơi trốn tìm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "灼热",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuó rè",
+    "pinyin2": "zhuo2 re4",
+    "translation": {
+      "en": "scorching hot; burning",
+      "vi": "nóng bỏng; cháy"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "酌情",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuó qíng",
+    "pinyin2": "zhuo2 qi2ng",
+    "translation": {
+      "en": "at one's discretion; as appropriate",
+      "vi": "tùy tình hình; tùy hoàn cảnh"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "着力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuó lì",
+    "pinyin2": "zhuo2 li4",
+    "translation": {
+      "en": "to make an effort; to focus on",
+      "vi": "nỗ lực; tập trung"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "着落",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuó luò",
+    "pinyin2": "zhuo2 luo4",
+    "translation": {
+      "en": "whereabouts; solution",
+      "vi": "nơi ở; giải pháp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "着实",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuó shí",
+    "pinyin2": "zhuo2 shi2",
+    "translation": {
+      "en": "really; indeed",
+      "vi": "thật sự; quả thật"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "着眼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuó yǎn",
+    "pinyin2": "zhuo2 ya3n",
+    "translation": {
+      "en": "to focus on; to have in mind",
+      "vi": "chú ý; tập trung"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "着眼于",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuó yǎn yú",
+    "pinyin2": "zhuo2 ya3n yu2",
+    "translation": {
+      "en": "to focus on; to aim at",
+      "vi": "tập trung vào; nhằm vào"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "兹",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zī",
+    "pinyin2": "zi1",
+    "translation": {
+      "en": "now; here",
+      "vi": "nay; đây (từ cổ)"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "资本主义",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zī běn zhǔ yì",
+    "pinyin2": "zi1 be3n zhu3 yi4",
+    "translation": {
+      "en": "capitalism",
+      "vi": "chủ nghĩa tư bản"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "资历",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zī lì",
+    "pinyin2": "zi1 li4",
+    "translation": {
+      "en": "qualifications; seniority",
+      "vi": "trình độ; thâm niên"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "资讯",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zī xùn",
+    "pinyin2": "zi1 xu4n",
+    "translation": {
+      "en": "information; news",
+      "vi": "thông tin; tin tức"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "滋润",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zī rùn",
+    "pinyin2": "zi1 ru4n",
+    "translation": {
+      "en": "moist; to moisten",
+      "vi": "ẩm ướt; làm ẩm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "子弟",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǐ dì",
+    "pinyin2": "zi3 di4",
+    "translation": {
+      "en": "sons and younger brothers; children",
+      "vi": "con em; trẻ em"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "子孙",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǐ sūn",
+    "pinyin2": "zi3 su1n",
+    "translation": {
+      "en": "descendants; offspring",
+      "vi": "con cháu; hậu duệ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自称",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì chēng",
+    "pinyin2": "zi4 che1ng",
+    "translation": {
+      "en": "to call oneself; to claim",
+      "vi": "tự xưng; tự nhận"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自费",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì fèi",
+    "pinyin2": "zi4 fe4i",
+    "translation": {
+      "en": "at one's own expense; self-funded",
+      "vi": "tự túc; tự chi trả"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自负",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì fù",
+    "pinyin2": "zi4 fu4",
+    "translation": {
+      "en": "conceited; self-important",
+      "vi": "tự phụ; kiêu ngạo"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì lǐ",
+    "pinyin2": "zi4 li3",
+    "translation": {
+      "en": "to take care of oneself; self-care",
+      "vi": "tự chăm sóc; tự lo"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自立",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì lì",
+    "pinyin2": "zi4 li4",
+    "translation": {
+      "en": "to stand on one's own; to be independent",
+      "vi": "tự lập; độc lập"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自强不息",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì qiáng bù xī",
+    "pinyin2": "zi4 qia2ng bu4 xi1",
+    "translation": {
+      "en": "to constantly strive to become stronger; unremitting self-improvement",
+      "vi": "tự cường không ngừng; phấn đấu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自然而然",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì rán ér rán",
+    "pinyin2": "zi4 ra2n er2 ra2n",
+    "translation": {
+      "en": "naturally; spontaneously",
+      "vi": "tự nhiên; một cách tự nhiên"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自然界",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì rán jiè",
+    "pinyin2": "zi4 ra2n jie4",
+    "translation": {
+      "en": "nature; natural world",
+      "vi": "tự nhiên; thiên nhiên"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自如",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì rú",
+    "pinyin2": "zi4 ru2",
+    "translation": {
+      "en": "freely; smoothly",
+      "vi": "tự nhiên; thoải mái"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自始至终",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì shǐ zhì zhōng",
+    "pinyin2": "zi4 shi3 zhi4 zho1ng",
+    "translation": {
+      "en": "from beginning to end; throughout",
+      "vi": "từ đầu đến cuối; suốt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自私自利",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì sī zì lì",
+    "pinyin2": "zi4 si1 zi4 li4",
+    "translation": {
+      "en": "selfish; self-centered",
+      "vi": "ích kỷ; chỉ nghĩ đến mình"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自卫",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì wèi",
+    "pinyin2": "zi4 we4i",
+    "translation": {
+      "en": "self-defense",
+      "vi": "tự vệ; phòng thủ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自相矛盾",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì xiāng máo dùn",
+    "pinyin2": "zi4 xia1ng ma2o du4n",
+    "translation": {
+      "en": "self-contradictory; inconsistent",
+      "vi": "tự mâu thuẫn; không nhất quán"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自信心",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì xìn xīn",
+    "pinyin2": "zi4 xi4n xi1n",
+    "translation": {
+      "en": "self-confidence",
+      "vi": "tự tin; lòng tự tin"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自行",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì xíng",
+    "pinyin2": "zi4 xi2ng",
+    "translation": {
+      "en": "on one's own; by oneself",
+      "vi": "tự mình; tự động"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自以为是",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì yǐ wéi shì",
+    "pinyin2": "zi4 yi3 we2i shi4",
+    "translation": {
+      "en": "self-righteous; to consider oneself always right",
+      "vi": "tự cho mình đúng; tự phụ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自由自在",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì yóu zì zài",
+    "pinyin2": "zi4 you2 zi4 za4i",
+    "translation": {
+      "en": "free and unrestrained; carefree",
+      "vi": "tự do tự tại; thoải mái"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自责",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì zé",
+    "pinyin2": "zi4 ze2",
+    "translation": {
+      "en": "to blame oneself; self-reproach",
+      "vi": "tự trách; tự trách mình"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自助",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì zhù",
+    "pinyin2": "zi4 zhu4",
+    "translation": {
+      "en": "self-service; self-help",
+      "vi": "tự phục vụ; tự giúp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自尊",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì zūn",
+    "pinyin2": "zi4 zu1n",
+    "translation": {
+      "en": "self-respect; self-esteem",
+      "vi": "tự trọng; lòng tự trọng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "自尊心",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì zūn xīn",
+    "pinyin2": "zi4 zu1n xi1n",
+    "translation": {
+      "en": "self-esteem; self-respect",
+      "vi": "lòng tự trọng; tự tôn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "字迹",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì jì",
+    "pinyin2": "zi4 ji4",
+    "translation": {
+      "en": "handwriting; script",
+      "vi": "chữ viết; nét chữ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "字体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì tǐ",
+    "pinyin2": "zi4 ti3",
+    "translation": {
+      "en": "font; typeface",
+      "vi": "phông chữ; kiểu chữ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "字眼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì yǎn",
+    "pinyin2": "zi4 ya3n",
+    "translation": {
+      "en": "wording; choice of words",
+      "vi": "từ ngữ; cách dùng từ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "宗",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zōng",
+    "pinyin2": "zo1ng",
+    "translation": {
+      "en": "sect; school",
+      "vi": "tông; phái"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "综上所述",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zōng shàng suǒ shù",
+    "pinyin2": "zo1ng sha4ng suo3 shu4",
+    "translation": {
+      "en": "to sum up; in summary",
+      "vi": "tóm lại; tổng hợp"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "总的来说",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒng de lái shuō",
+    "pinyin2": "zo3ng de la2i shuo1",
+    "translation": {
+      "en": "generally speaking; on the whole",
+      "vi": "nói chung; tổng thể"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "总额",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒng é",
+    "pinyin2": "zo3ng e2",
+    "translation": {
+      "en": "total amount; sum total",
+      "vi": "tổng số; tổng cộng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "总计",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒng jì",
+    "pinyin2": "zo3ng ji4",
+    "translation": {
+      "en": "total; sum",
+      "vi": "tổng cộng; tổng số"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "纵观",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zòng guān",
+    "pinyin2": "zo4ng gua1n",
+    "translation": {
+      "en": "to take a comprehensive view",
+      "vi": "nhìn tổng thể; xem xét toàn diện"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "纵横交错",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zòng héng jiāo cuò",
+    "pinyin2": "zo4ng he2ng jia1o cuo4",
+    "translation": {
+      "en": "crisscross; interwoven",
+      "vi": "chằng chịt; đan xen"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "纵容",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zòng róng",
+    "pinyin2": "zo4ng ro2ng",
+    "translation": {
+      "en": "to indulge; to connive",
+      "vi": "nuông chiều; dung túng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "纵深",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zòng shēn",
+    "pinyin2": "zo4ng she1n",
+    "translation": {
+      "en": "depth; in depth",
+      "vi": "chiều sâu; độ sâu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "粽子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zòng zi",
+    "pinyin2": "zo4ng zi",
+    "translation": {
+      "en": "zongzi (sticky rice dumpling)",
+      "vi": "bánh chưng; bánh tét"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "走过场",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒu guò chǎng",
+    "pinyin2": "zo3u guo4 cha3ng",
+    "translation": {
+      "en": "to go through the motions; to do something perfunctorily",
+      "vi": "làm qua loa; làm cho có"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "走后门",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒu hòu mén",
+    "pinyin2": "zo3u ho4u me2n",
+    "translation": {
+      "en": "to go through the back door; to use connections",
+      "vi": "đi cửa sau; dùng quan hệ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "走近",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒu jìn",
+    "pinyin2": "zo3u ji4n",
+    "translation": {
+      "en": "to approach; to walk near",
+      "vi": "đi đến gần; tiếp cận"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "走投无路",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒu tóu wú lù",
+    "pinyin2": "zo3u to2u wu2 lu4",
+    "translation": {
+      "en": "to have no way out; to be in a dead end",
+      "vi": "cùng đường; không còn lối thoát"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "走弯路",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒu wān lù",
+    "pinyin2": "zo3u wa1n lu4",
+    "translation": {
+      "en": "to take a detour; to go the long way",
+      "vi": "đi đường vòng; đi đường dài"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "奏效",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zòu xiào",
+    "pinyin2": "zo4u xia4o",
+    "translation": {
+      "en": "to be effective; to work",
+      "vi": "có hiệu quả; thành công"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "足迹",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zú jì",
+    "pinyin2": "zu2 ji4",
+    "translation": {
+      "en": "footprint; track",
+      "vi": "dấu chân; vết tích"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "足智多谋",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zú zhì duō móu",
+    "pinyin2": "zu2 zhi4 duo1 mo2u",
+    "translation": {
+      "en": "wise and resourceful; clever and full of schemes",
+      "vi": "thông minh mưu trí; đầy mưu kế"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "阻挡",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǔ dǎng",
+    "pinyin2": "zu3 da3ng",
+    "translation": {
+      "en": "to block; to obstruct",
+      "vi": "chặn; cản trở"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "阻力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǔ lì",
+    "pinyin2": "zu3 li4",
+    "translation": {
+      "en": "resistance; obstacle",
+      "vi": "lực cản; trở ngại"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "组建",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǔ jiàn",
+    "pinyin2": "zu3 jia4n",
+    "translation": {
+      "en": "to organize; to form",
+      "vi": "thành lập; tổ chức"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "组装",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǔ zhuāng",
+    "pinyin2": "zu3 zhua1ng",
+    "translation": {
+      "en": "to assemble; to put together",
+      "vi": "lắp ráp; ghép"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "祖传",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǔ chuán",
+    "pinyin2": "zu3 chua2n",
+    "translation": {
+      "en": "handed down from ancestors; hereditary",
+      "vi": "truyền lại; gia truyền"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "祖籍",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǔ jí",
+    "pinyin2": "zu3 ji2",
+    "translation": {
+      "en": "ancestral home; place of origin",
+      "vi": "quê gốc; quê tổ"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "祖宗",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǔ zong",
+    "pinyin2": "zu3 zong",
+    "translation": {
+      "en": "ancestor; forefather",
+      "vi": "tổ tiên; ông bà"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "钻空子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuān kòng zi",
+    "pinyin2": "zua1n ko4ng zi",
+    "translation": {
+      "en": "to exploit a loophole; to take advantage",
+      "vi": "lợi dụng kẽ hở; tận dụng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "罪魁祸首",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuì kuí huò shǒu",
+    "pinyin2": "zui4 kui2 huo4 sho3u",
+    "translation": {
+      "en": "chief culprit; arch-criminal",
+      "vi": "thủ phạm chính; kẻ cầm đầu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "尊贵",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zūn guì",
+    "pinyin2": "zu1n gui4",
+    "translation": {
+      "en": "honorable; noble",
+      "vi": "quý trọng; cao quý"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "遵照",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zūn zhào",
+    "pinyin2": "zu1n zha4o",
+    "translation": {
+      "en": "to act in accordance with; to comply",
+      "vi": "tuân theo; làm theo"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "左顾右盼",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuǒ gù yòu pàn",
+    "pinyin2": "zuo3 gu4 yo4u pa4n",
+    "translation": {
+      "en": "to look left and right; to glance around",
+      "vi": "nhìn trái nhìn phải; đảo mắt"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "佐料",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuǒ liào",
+    "pinyin2": "zuo3 lia4o",
+    "translation": {
+      "en": "condiment; seasoning",
+      "vi": "gia vị; đồ nêm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "作对",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò duì",
+    "pinyin2": "zuo4 dui4",
+    "translation": {
+      "en": "to oppose; to set oneself against",
+      "vi": "chống đối; đối lập"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "作客",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò kè",
+    "pinyin2": "zuo4 ke4",
+    "translation": {
+      "en": "to be a guest; to visit",
+      "vi": "làm khách; đến thăm"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "作物",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò wù",
+    "pinyin2": "zuo4 wu4",
+    "translation": {
+      "en": "crop",
+      "vi": "cây trồng; mùa màng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "坐落",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò luò",
+    "pinyin2": "zuo4 luo4",
+    "translation": {
+      "en": "to be located; to be situated",
+      "vi": "tọa lạc; nằm ở"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "座谈",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò tán",
+    "pinyin2": "zuo4 ta2n",
+    "translation": {
+      "en": "to have a discussion; forum",
+      "vi": "tọa đàm; thảo luận"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9"
+    ],
+    "word": "做证",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò zhèng",
+    "pinyin2": "zuo4 zhe4ng",
+    "translation": {
+      "en": "to testify; to give evidence",
+      "vi": "làm chứng; chứng minh"
+    }
+  }
+]

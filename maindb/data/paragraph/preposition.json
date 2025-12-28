@@ -1,0 +1,205 @@
+{
+  "id": "preposition",
+  "title": "Preposition in Chinese",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "Preposition in Chinese",
+    "vi": "Giới từ trong tiếng Trung",
+    "zh": "汉语中的介词"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "What is Preposition (介词)?",
+          "vi": "Giới từ (介词) là gì?",
+          "zh": "什么是介词？"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Preposition (介词) is a part of speech in Chinese that indicates the relationship between words, phrases, or clauses. Prepositions typically come before nouns or pronouns to show relationships such as **location**, **direction**, **time**, **purpose**, **method**, and **possession**.\n\n**Key characteristics:**\n- Prepositions are usually placed **before** the noun or pronoun they modify\n- They form prepositional phrases that function as adverbials or attributives\n- Prepositions help express spatial, temporal, and logical relationships\n- Many prepositions can also function as verbs in different contexts\n\n**Example:**\n- 我**在**家学习。 (I study at home.)\n- 他**从**北京来。 (He comes from Beijing.)",
+          "vi": "Giới từ (介词) là một từ loại trong tiếng Trung chỉ mối quan hệ giữa các từ, cụm từ hoặc mệnh đề. Giới từ thường đứng trước danh từ hoặc đại từ để chỉ các mối quan hệ như **vị trí**, **hướng**, **thời gian**, **mục đích**, **phương pháp**, và **sở hữu**.\n\n**Đặc điểm chính:**\n- Giới từ thường được đặt **trước** danh từ hoặc đại từ mà chúng bổ nghĩa\n- Chúng tạo thành cụm giới từ hoạt động như trạng ngữ hoặc định ngữ\n- Giới từ giúp diễn đạt các mối quan hệ không gian, thời gian và logic\n- Nhiều giới từ cũng có thể hoạt động như động từ trong các ngữ cảnh khác nhau\n\n**Ví dụ:**\n- 我**在**家学习。 (Tôi học ở nhà.)\n- 他**从**北京来。 (Anh ấy đến từ Bắc Kinh.)",
+          "zh": "介词是汉语中表示词、短语或分句之间关系的词类。介词通常位于名词或代词之前，表示**位置**、**方向**、**时间**、**目的**、**方法**和**所属**等关系。\n\n**主要特点：**\n- 介词通常位于所修饰的名词或代词**之前**\n- 它们构成介词短语，充当状语或定语\n- 介词帮助表达空间、时间和逻辑关系\n- 许多介词在不同语境中也可以充当动词\n\n**例句：**\n- 我**在**家学习。\n- 他**从**北京来。"
+        }
+      },
+      "placeholders": [{
+        "prep1": "在",
+        "prep2": "从"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Location Prepositions (位置介词)",
+          "vi": "Giới từ chỉ vị trí (位置介词)",
+          "zh": "位置介词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Location prepositions indicate where something is or where an action takes place:\n\n**Common location prepositions:**\n- **在** - at, in, on (indicates location)\n- **从** - from (indicates origin)\n- **到** - to, until (indicates destination or endpoint)\n- **向** - toward, in the direction of\n- **往** - toward, going to\n\n**Example:**\n- 我**在**学校。 (I am at school.)\n- 他**从**家来。 (He comes from home.)\n- 我们**到**公园去。 (We go to the park.)\n- 车**向**东开。 (The car drives toward the east.)",
+          "vi": "Giới từ chỉ vị trí cho biết nơi nào đó hoặc nơi một hành động diễn ra:\n\n**Giới từ chỉ vị trí phổ biến:**\n- **在** - ở, tại (chỉ vị trí)\n- **从** - từ (chỉ nguồn gốc)\n- **到** - đến, tới (chỉ điểm đến hoặc điểm cuối)\n- **向** - về phía, theo hướng\n- **往** - về phía, đi đến\n\n**Ví dụ:**\n- 我**在**学校。 (Tôi ở trường.)\n- 他**从**家来。 (Anh ấy đến từ nhà.)\n- 我们**到**公园去。 (Chúng tôi đi đến công viên.)\n- 车**向**东开。 (Xe lái về phía đông.)",
+          "zh": "位置介词表示某物所在的位置或动作发生的地点：\n\n**常见位置介词：**\n- **在** - 在，位于（表示位置）\n- **从** - 从（表示起点）\n- **到** - 到，至（表示终点或目的地）\n- **向** - 向，朝着\n- **往** - 往，向\n\n**例句：**\n- 我**在**学校。\n- 他**从**家来。\n- 我们**到**公园去。\n- 车**向**东开。"
+        }
+      },
+      "placeholders": [{
+        "loc1": "在",
+        "loc2": "从",
+        "loc3": "到",
+        "loc4": "向",
+        "loc5": "往"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Time Prepositions (时间介词)",
+          "vi": "Giới từ chỉ thời gian (时间介词)",
+          "zh": "时间介词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Time prepositions indicate when something happens or the time relationship:\n\n**Common time prepositions:**\n- **在** - at, on, in (indicates specific time)\n- **从** - from, since (indicates starting point)\n- **到** - until, to (indicates endpoint)\n- **自** - from, since (more formal)\n- **当** - when, at the time of\n\n**Example:**\n- 我**在**八点起床。 (I get up at eight o'clock.)\n- 他**从**昨天开始工作。 (He started working from yesterday.)\n- 我们**到**明天结束。 (We finish until tomorrow.)\n- **当**我学习时，他睡觉。 (When I study, he sleeps.)",
+          "vi": "Giới từ chỉ thời gian cho biết khi nào điều gì đó xảy ra hoặc mối quan hệ thời gian:\n\n**Giới từ chỉ thời gian phổ biến:**\n- **在** - vào, lúc (chỉ thời gian cụ thể)\n- **从** - từ, kể từ (chỉ điểm bắt đầu)\n- **到** - đến, cho đến (chỉ điểm cuối)\n- **自** - từ, kể từ (trang trọng hơn)\n- **当** - khi, vào lúc\n\n**Ví dụ:**\n- 我**在**八点起床。 (Tôi thức dậy vào tám giờ.)\n- 他**从**昨天开始工作。 (Anh ấy bắt đầu làm việc từ hôm qua.)\n- 我们**到**明天结束。 (Chúng tôi kết thúc đến ngày mai.)\n- **当**我学习时，他睡觉。 (Khi tôi học, anh ấy ngủ.)",
+          "zh": "时间介词表示某事发生的时间或时间关系：\n\n**常见时间介词：**\n- **在** - 在（表示具体时间）\n- **从** - 从，自（表示起点）\n- **到** - 到，至（表示终点）\n- **自** - 从，自（更正式）\n- **当** - 当，在...时\n\n**例句：**\n- 我**在**八点起床。\n- 他**从**昨天开始工作。\n- 我们**到**明天结束。\n- **当**我学习时，他睡觉。"
+        }
+      },
+      "placeholders": [{
+        "time1": "在",
+        "time2": "从",
+        "time3": "到",
+        "time4": "自",
+        "time5": "当"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Direction Prepositions (方向介词)",
+          "vi": "Giới từ chỉ hướng (方向介词)",
+          "zh": "方向介词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Direction prepositions indicate the direction of movement or orientation:\n\n**Common direction prepositions:**\n- **向** - toward, in the direction of\n- **往** - toward, going to\n- **朝** - toward, facing\n- **对** - toward, to, facing\n- **沿着** - along, following\n\n**Example:**\n- 他**向**前走。 (He walks toward the front.)\n- 车**往**南开。 (The car drives toward the south.)\n- 她**朝**我看。 (She looks toward me.)\n- 我们**沿着**河边散步。 (We walk along the river.)",
+          "vi": "Giới từ chỉ hướng cho biết hướng chuyển động hoặc định hướng:\n\n**Giới từ chỉ hướng phổ biến:**\n- **向** - về phía, theo hướng\n- **往** - về phía, đi đến\n- **朝** - về phía, hướng về\n- **对** - về phía, đối với, hướng về\n- **沿着** - dọc theo, theo\n\n**Ví dụ:**\n- 他**向**前走。 (Anh ấy đi về phía trước.)\n- 车**往**南开。 (Xe lái về phía nam.)\n- 她**朝**我看。 (Cô ấy nhìn về tôi.)\n- 我们**沿着**河边散步。 (Chúng tôi đi dạo dọc theo bờ sông.)",
+          "zh": "方向介词表示运动的方向或朝向：\n\n**常见方向介词：**\n- **向** - 向，朝着\n- **往** - 往，向\n- **朝** - 朝，向\n- **对** - 对，向\n- **沿着** - 沿着，顺着\n\n**例句：**\n- 他**向**前走。\n- 车**往**南开。\n- 她**朝**我看。\n- 我们**沿着**河边散步。"
+        }
+      },
+      "placeholders": [{
+        "dir1": "向",
+        "dir2": "往",
+        "dir3": "朝",
+        "dir4": "对",
+        "dir5": "沿着"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Purpose and Method Prepositions (目的和方法介词)",
+          "vi": "Giới từ chỉ mục đích và phương pháp (目的和方法介词)",
+          "zh": "目的和方法介词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Prepositions that indicate purpose, method, or means:\n\n**Purpose prepositions:**\n- **为了** - for, in order to\n- **为** - for, on behalf of\n\n**Method prepositions:**\n- **用** - with, by means of\n- **以** - with, by (more formal)\n- **通过** - through, via\n- **按照** - according to, in accordance with\n\n**Example:**\n- 我**为了**学习来。 (I come for studying.)\n- 他**用**笔写字。 (He writes with a pen.)\n- 我们**通过**电话联系。 (We contact through phone.)\n- **按照**计划执行。 (Execute according to the plan.)",
+          "vi": "Giới từ chỉ mục đích, phương pháp hoặc phương tiện:\n\n**Giới từ chỉ mục đích:**\n- **为了** - để, vì\n- **为** - cho, thay mặt\n\n**Giới từ chỉ phương pháp:**\n- **用** - bằng, với\n- **以** - bằng, với (trang trọng hơn)\n- **通过** - qua, thông qua\n- **按照** - theo, phù hợp với\n\n**Ví dụ:**\n- 我**为了**学习来。 (Tôi đến để học.)\n- 他**用**笔写字。 (Anh ấy viết bằng bút.)\n- 我们**通过**电话联系。 (Chúng tôi liên hệ qua điện thoại.)\n- **按照**计划执行。 (Thực hiện theo kế hoạch.)",
+          "zh": "表示目的、方法或手段的介词：\n\n**目的介词：**\n- **为了** - 为了，为\n- **为** - 为，替\n\n**方法介词：**\n- **用** - 用，以\n- **以** - 以，用（更正式）\n- **通过** - 通过，经由\n- **按照** - 按照，依照\n\n**例句：**\n- 我**为了**学习来。\n- 他**用**笔写字。\n- 我们**通过**电话联系。\n- **按照**计划执行。"
+        }
+      },
+      "placeholders": [{
+        "purp1": "为了",
+        "purp2": "为",
+        "meth1": "用",
+        "meth2": "以",
+        "meth3": "通过",
+        "meth4": "按照"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Comparison and Relationship Prepositions (比较和关系介词)",
+          "vi": "Giới từ chỉ so sánh và quan hệ (比较和关系介词)",
+          "zh": "比较和关系介词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Prepositions that express comparison, relationship, or association:\n\n**Comparison prepositions:**\n- **比** - than (used in comparisons)\n- **跟** - with, and (indicates comparison or accompaniment)\n- **和** - with, and (indicates relationship)\n\n**Relationship prepositions:**\n- **关于** - about, concerning\n- **对于** - regarding, concerning (more formal)\n- **除了** - except, besides\n- **除了...以外** - except for, besides\n\n**Example:**\n- 我**比**他高。 (I am taller than him.)\n- 我**跟**他去。 (I go with him.)\n- 这**关于**学习。 (This is about studying.)\n- **除了**他，大家都来了。 (Except him, everyone came.)",
+          "vi": "Giới từ diễn đạt so sánh, quan hệ hoặc liên kết:\n\n**Giới từ chỉ so sánh:**\n- **比** - hơn (dùng trong so sánh)\n- **跟** - với, và (chỉ so sánh hoặc đi cùng)\n- **和** - với, và (chỉ quan hệ)\n\n**Giới từ chỉ quan hệ:**\n- **关于** - về, liên quan đến\n- **对于** - đối với, về (trang trọng hơn)\n- **除了** - ngoại trừ, ngoài ra\n- **除了...以外** - ngoại trừ, ngoài ra\n\n**Ví dụ:**\n- 我**比**他高。 (Tôi cao hơn anh ấy.)\n- 我**跟**他去。 (Tôi đi với anh ấy.)\n- 这**关于**学习。 (Đây là về học tập.)\n- **除了**他，大家都来了。 (Ngoại trừ anh ấy, mọi người đều đến.)",
+          "zh": "表示比较、关系或关联的介词：\n\n**比较介词：**\n- **比** - 比（用于比较）\n- **跟** - 跟，和（表示比较或伴随）\n- **和** - 和，与（表示关系）\n\n**关系介词：**\n- **关于** - 关于，有关\n- **对于** - 对于，关于（更正式）\n- **除了** - 除了，除...外\n- **除了...以外** - 除了...以外\n\n**例句：**\n- 我**比**他高。\n- 我**跟**他去。\n- 这**关于**学习。\n- **除了**他，大家都来了。"
+        }
+      },
+      "placeholders": [{
+        "comp1": "比",
+        "comp2": "跟",
+        "comp3": "和",
+        "rel1": "关于",
+        "rel2": "对于",
+        "rel3": "除了",
+        "rel4": "除了...以外"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Position of Prepositions (介词的位置)",
+          "vi": "Vị trí của giới từ (介词的位置)",
+          "zh": "介词的位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The position of prepositions in Chinese sentences follows specific patterns:\n\n**1. Before the noun/pronoun:**\n   Prepositions always come before the noun or pronoun they modify.\n   - 我**在**家学习。 (I study at home.)\n\n**2. In prepositional phrases:**\n   Preposition + Noun forms a prepositional phrase that functions as an adverbial.\n   - **在**学校，我学习。 (At school, I study.)\n\n**3. With verbs:**\n   Prepositional phrases can come before or after the verb.\n   - 我**在**八点起床。 (I get up at eight o'clock.)\n   - 他**从**北京来。 (He comes from Beijing.)\n\n**Note:** Prepositions cannot stand alone and must be followed by a noun or pronoun.",
+          "vi": "Vị trí của giới từ trong câu tiếng Trung tuân theo các mẫu cụ thể:\n\n**1. Trước danh từ/đại từ:**\n   Giới từ luôn đứng trước danh từ hoặc đại từ mà chúng bổ nghĩa.\n   - 我**在**家学习。 (Tôi học ở nhà.)\n\n**2. Trong cụm giới từ:**\n   Giới từ + Danh từ tạo thành cụm giới từ hoạt động như trạng ngữ.\n   - **在**学校，我学习。 (Ở trường, tôi học.)\n\n**3. Với động từ:**\n   Cụm giới từ có thể đứng trước hoặc sau động từ.\n   - 我**在**八点起床。 (Tôi thức dậy vào tám giờ.)\n   - 他**从**北京来。 (Anh ấy đến từ Bắc Kinh.)\n\n**Lưu ý:** Giới từ không thể đứng một mình và phải theo sau bởi danh từ hoặc đại từ.",
+          "zh": "介词在句子中的位置遵循特定规律：\n\n**1. 名词/代词前：**\n   介词总是位于所修饰的名词或代词之前。\n   - 我**在**家学习。\n\n**2. 介词短语中：**\n   介词 + 名词构成介词短语，充当状语。\n   - **在**学校，我学习。\n\n**3. 与动词：**\n   介词短语可以放在动词前或后。\n   - 我**在**八点起床。\n   - 他**从**北京来。\n\n**注意：** 介词不能单独使用，必须后接名词或代词。"
+        }
+      },
+      "placeholders": [{
+        "pos1": "在",
+        "pos2": "在",
+        "pos3": "在",
+        "pos4": "从"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Prepositions (常用介词)",
+          "vi": "Giới từ thường dùng (常用介词)",
+          "zh": "常用介词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are some of the most commonly used prepositions in Chinese:\n\n**Location and direction:**\n- **在** - at, in, on\n- **从** - from\n- **到** - to, until\n- **向** - toward\n- **往** - toward, going to\n\n**Time:**\n- **在** - at, on, in\n- **从** - from, since\n- **到** - until, to\n\n**Purpose and method:**\n- **为了** - for, in order to\n- **用** - with, by means of\n- **通过** - through, via\n\n**Comparison and relationship:**\n- **比** - than\n- **跟** - with, and\n- **和** - with, and\n- **关于** - about\n\n**Example sentences:**\n- 我**在**家。 (I am at home.)\n- 他**从**北京来。 (He comes from Beijing.)\n- 我**为了**学习来。 (I come for studying.)\n- 我**比**他高。 (I am taller than him.)",
+          "vi": "Dưới đây là một số giới từ thường dùng nhất trong tiếng Trung:\n\n**Vị trí và hướng:**\n- **在** - ở, tại\n- **从** - từ\n- **到** - đến, tới\n- **向** - về phía\n- **往** - về phía, đi đến\n\n**Thời gian:**\n- **在** - vào, lúc\n- **从** - từ, kể từ\n- **到** - đến, cho đến\n\n**Mục đích và phương pháp:**\n- **为了** - để, vì\n- **用** - bằng, với\n- **通过** - qua, thông qua\n\n**So sánh và quan hệ:**\n- **比** - hơn\n- **跟** - với, và\n- **和** - với, và\n- **关于** - về\n\n**Ví dụ:**\n- 我**在**家。 (Tôi ở nhà.)\n- 他**从**北京来。 (Anh ấy đến từ Bắc Kinh.)\n- 我**为了**学习来。 (Tôi đến để học.)\n- 我**比**他高。 (Tôi cao hơn anh ấy.)",
+          "zh": "以下是一些最常用的汉语介词：\n\n**位置和方向：**\n- **在** - 在\n- **从** - 从\n- **到** - 到\n- **向** - 向\n- **往** - 往\n\n**时间：**\n- **在** - 在\n- **从** - 从\n- **到** - 到\n\n**目的和方法：**\n- **为了** - 为了\n- **用** - 用\n- **通过** - 通过\n\n**比较和关系：**\n- **比** - 比\n- **跟** - 跟\n- **和** - 和\n- **关于** - 关于\n\n**例句：**\n- 我**在**家。\n- 他**从**北京来。\n- 我**为了**学习来。\n- 我**比**他高。"
+        }
+      },
+      "placeholders": [{
+        "comm1": "在",
+        "comm2": "从",
+        "comm3": "到",
+        "comm4": "向",
+        "comm5": "往",
+        "comm6": "在",
+        "comm7": "从",
+        "comm8": "到",
+        "comm9": "为了",
+        "comm10": "用",
+        "comm11": "通过",
+        "comm12": "比",
+        "comm13": "跟",
+        "comm14": "和",
+        "comm15": "关于"
+      }]
+    }
+  ]
+}
+

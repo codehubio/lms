@@ -1,0 +1,96 @@
+[
+  {
+    "sentence": "这艘船载重一千吨。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè sōu chuán zài zhòng yī qiān dūn",
+    "pinyin2": "zhe4 sou1 chuan2 zai4 zhong4 yi1 qian1 dun1",
+    "translation": {
+      "en": "This ship has a load capacity of one thousand tons.",
+      "vi": "Con tàu này có trọng tải một nghìn tấn."
+    }
+  },
+  {
+    "sentence": "这个比例是一比三。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè bǐ lì shì yī bǐ sān",
+    "pinyin2": "zhe4 ge4 bi3 li4 shi4 yi1 bi3 san1",
+    "translation": {
+      "en": "This ratio is one to three.",
+      "vi": "Tỷ lệ này là một đối ba."
+    }
+  },
+  {
+    "sentence": "这两个三角形相似。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè liǎng gè sān jiǎo xíng xiāng sì",
+    "pinyin2": "zhe4 liang3 ge4 san1 jiao3 xing2 xiang1 si4",
+    "translation": {
+      "en": "These two triangles are similar.",
+      "vi": "Hai tam giác này tương tự nhau."
+    }
+  },
+  {
+    "sentence": "这个立方体的体积是八立方米。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè lì fāng tǐ de tǐ jī shì bā lì fāng mǐ",
+    "pinyin2": "zhe4 ge4 li4 fang1 ti3 de ti3 ji1 shi4 ba1 li4 fang1 mi3",
+    "translation": {
+      "en": "The volume of this cube is eight cubic meters.",
+      "vi": "Thể tích của khối lập phương này là tám mét khối."
+    }
+  },
+  {
+    "sentence": "这个正方形的面积是十六平方米。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè zhèng fāng xíng de miàn jī shì shí liù píng fāng mǐ",
+    "pinyin2": "zhe4 ge4 zheng4 fang1 xing2 de mian4 ji1 shi4 shi2 liu4 ping2 fang1 mi3",
+    "translation": {
+      "en": "The area of this square is sixteen square meters.",
+      "vi": "Diện tích của hình vuông này là mười sáu mét vuông."
+    }
+  },
+  {
+    "sentence": "这个数学公式很复杂。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "zhè gè shù xué gōng shì hěn fù zá",
+    "pinyin2": "zhe4 ge4 shu4 xue2 gong1 shi4 hen3 fu4 za2",
+    "translation": {
+      "en": "This mathematical formula is very complex.",
+      "vi": "Công thức toán học này rất phức tạp."
+    }
+  },
+  {
+    "sentence": "两条垂直的直线相交成直角。",
+    "tags": [
+      "HSK1-6"
+    ],
+    "pinyin1": "liǎng tiáo chuí zhí de zhí xiàn xiāng jiāo chéng zhí jiǎo",
+    "pinyin2": "liang3 tiao2 chui2 zhi2 de zhi2 xian4 xiang1 jiao1 cheng2 zhi2 jiao3",
+    "translation": {
+      "en": "Two perpendicular lines intersect at a right angle.",
+      "vi": "Hai đường thẳng vuông góc cắt nhau tạo thành góc vuông."
+    }
+  },
+  {
+    "sentence": "这个图形是轴对称的。",
+    "tags": ["math"],
+    "pinyin1": "zhè gè tú xíng shì zhóu duì chèn de",
+    "pinyin2": "zhe4 ge4 tu2 xing2 shi4 zhou2 dui4 chen4 de",
+    "translation": {
+      "en": "This figure is axially symmetric.",
+      "vi": "Hình này có tính đối xứng trục."
+    }
+  }
+]

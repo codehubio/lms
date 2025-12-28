@@ -1,0 +1,3349 @@
+[
+  {
+    "tags": [
+      "HSK1",
+      "IT",
+      "computer",
+      "daily"
+    ],
+    "word": "电脑",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn nǎo",
+    "pinyin2": "dian4 nao3",
+    "translation": {
+      "en": "computer",
+      "vi": "máy tính"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "软件",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "ruǎn jiàn",
+    "pinyin2": "ruan3 jian4",
+    "translation": {
+      "en": "software",
+      "vi": "phần mềm"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "硬件",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yìng jiàn",
+    "pinyin2": "ying4 jian4",
+    "translation": {
+      "en": "hardware",
+      "vi": "phần cứng"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "程序",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chéng xù",
+    "pinyin2": "cheng2 xu4",
+    "translation": {
+      "en": "program, order; procedure; sequence",
+      "vi": "chương trình, chương trình; quy trình"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "代码",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dài mǎ",
+    "pinyin2": "dai4 ma3",
+    "translation": {
+      "en": "code",
+      "vi": "mã lập trình"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "编程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biān chéng",
+    "pinyin2": "bian1 cheng2",
+    "translation": {
+      "en": "programming",
+      "vi": "lập trình"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "网络",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wǎng luò",
+    "pinyin2": "wang3 luo4",
+    "translation": {
+      "en": "network",
+      "vi": "mạng, mạng lưới"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "互联网",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hù lián wǎng",
+    "pinyin2": "hu4 lian2 wang3",
+    "translation": {
+      "en": "internet, Internet",
+      "vi": "internet, Internet"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "数据库",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù kù",
+    "pinyin2": "shu4 ju4 ku4",
+    "translation": {
+      "en": "database",
+      "vi": "cơ sở dữ liệu, cơ sở dữ liệu; database"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "文件",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wén jiàn",
+    "pinyin2": "wen2 jian4",
+    "translation": {
+      "en": "file, file; document",
+      "vi": "tập tin, tệp; tài liệu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "文件夹",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wén jiàn jiā",
+    "pinyin2": "wen2 jian4 jia1",
+    "translation": {
+      "en": "folder",
+      "vi": "thư mục"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "压缩",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yā suō",
+    "pinyin2": "ya1 suo1",
+    "translation": {
+      "en": "compress, compress; condense; cut down, to compress; to reduce",
+      "vi": "nén, nén; rút gọn, nén; giảm"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "解压",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiě yā",
+    "pinyin2": "jie3 ya1",
+    "translation": {
+      "en": "decompress",
+      "vi": "giải nén"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "算法",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "suàn fǎ",
+    "pinyin2": "suan4 fa3",
+    "translation": {
+      "en": "algorithm",
+      "vi": "thuật toán"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer",
+      "learning"
+    ],
+    "word": "数据",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù",
+    "pinyin2": "shu4 ju4",
+    "translation": {
+      "en": "data",
+      "vi": "dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "信息",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xìn xī",
+    "pinyin2": "xin4 xi1",
+    "translation": {
+      "en": "information, news; information",
+      "vi": "thông tin, tin tức; thông tin"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数据结构",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù jié gòu",
+    "pinyin2": "shu4 ju4 jie2 gou4",
+    "translation": {
+      "en": "data structure",
+      "vi": "cấu trúc dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "链表",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liàn biǎo",
+    "pinyin2": "lian4 biao3",
+    "translation": {
+      "en": "linked list",
+      "vi": "danh sách liên kết"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数组",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù zǔ",
+    "pinyin2": "shu4 zu3",
+    "translation": {
+      "en": "array",
+      "vi": "mảng"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "变量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biàn liàng",
+    "pinyin2": "bian4 liang4",
+    "translation": {
+      "en": "variable",
+      "vi": "biến"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "常量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cháng liàng",
+    "pinyin2": "chang2 liang4",
+    "translation": {
+      "en": "constant",
+      "vi": "hằng số"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "函数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hán shù",
+    "pinyin2": "han2 shu4",
+    "translation": {
+      "en": "function",
+      "vi": "hàm"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "参数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cān shù",
+    "pinyin2": "can1 shu4",
+    "translation": {
+      "en": "parameter",
+      "vi": "tham số"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "返回值",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎn huí zhí",
+    "pinyin2": "fan3 hui2 zhi2",
+    "translation": {
+      "en": "return value",
+      "vi": "giá trị trả về"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "类",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lèi",
+    "pinyin2": "lei4",
+    "translation": {
+      "en": "class (OOP), category; kind; type",
+      "vi": "lớp, loại; hạng"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "对象",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "duì xiàng",
+    "pinyin2": "dui4 xiang4",
+    "translation": {
+      "en": "object, target; object; partner",
+      "vi": "đối tượng, đối tượng; đối tác"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "实例",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shí lì",
+    "pinyin2": "shi2 li4",
+    "translation": {
+      "en": "instance",
+      "vi": "thể hiện (instance)"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "继承",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jì chéng",
+    "pinyin2": "ji4 cheng2",
+    "translation": {
+      "en": "inheritance, inherit; succeed; carry on",
+      "vi": "kế thừa, kế thừa; tiếp nối; tiếp tục"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "多态",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "duō tài",
+    "pinyin2": "duo1 tai4",
+    "translation": {
+      "en": "polymorphism",
+      "vi": "đa hình"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "封装",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēng zhuāng",
+    "pinyin2": "feng1 zhuang1",
+    "translation": {
+      "en": "encapsulation",
+      "vi": "đóng gói"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "框架",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kuàng jià",
+    "pinyin2": "kuang4 jia4",
+    "translation": {
+      "en": "framework, frame, framework; frame",
+      "vi": "khung làm việc, khung; cấu trúc, khung; cấu trúc"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "库",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kù",
+    "pinyin2": "ku4",
+    "translation": {
+      "en": "library",
+      "vi": "thư viện"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "接口",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiē kǒu",
+    "pinyin2": "jie1 kou3",
+    "translation": {
+      "en": "interface",
+      "vi": "giao diện (interface)"
+    }
+  },
+  {
+    "tags": [
+      "IT",
+      "computer"
+    ],
+    "word": "前端",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qián duān",
+    "pinyin2": "qian2 duan1",
+    "translation": {
+      "en": "frontend",
+      "vi": "front-end, giao diện trước"
+    }
+  },
+  {
+    "tags": [
+      "IT",
+      "computer"
+    ],
+    "word": "后端",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hòu duān",
+    "pinyin2": "hou4 duan1",
+    "translation": {
+      "en": "backend",
+      "vi": "back-end, giao diện sau"
+    }
+  },
+  {
+    "tags": [
+      "IT",
+      "computer"
+    ],
+    "word": "全栈",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "quán zhàn",
+    "pinyin2": "quan2 zhan4",
+    "translation": {
+      "en": "full-stack, full stack",
+      "vi": "fullstack, full stack"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "调试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiáo shì",
+    "pinyin2": "tiao2 shi4",
+    "translation": {
+      "en": "debug, to debug; to adjust",
+      "vi": "gỡ lỗi, gỡ lỗi; điều chỉnh"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "错误",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cuò wù",
+    "pinyin2": "cuo4 wu4",
+    "translation": {
+      "en": "error, error; mistake",
+      "vi": "lỗi, lỗi; sai lầm"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "异常",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yì cháng",
+    "pinyin2": "yi4 chang2",
+    "translation": {
+      "en": "exception, unusual; abnormal; anomalous",
+      "vi": "ngoại lệ, bất thường; khác thường"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "日志",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rì zhì",
+    "pinyin2": "ri4 zhi4",
+    "translation": {
+      "en": "log",
+      "vi": "log"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "操作系统",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cāo zuò xì tǒng",
+    "pinyin2": "cao1 zuo4 xi4 tong3",
+    "translation": {
+      "en": "operating system",
+      "vi": "hệ điều hành"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "进程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jìn chéng",
+    "pinyin2": "jin4 cheng2",
+    "translation": {
+      "en": "process, process; course",
+      "vi": "tiến trình, quá trình; tiến trình"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "线程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiàn chéng",
+    "pinyin2": "xian4 cheng2",
+    "translation": {
+      "en": "thread",
+      "vi": "luồng"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "内存",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "nèi cún",
+    "pinyin2": "nei4 cun2",
+    "translation": {
+      "en": "memory (RAM), memory; RAM",
+      "vi": "bộ nhớ RAM, bộ nhớ; RAM"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "缓存",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huǎn cún",
+    "pinyin2": "huan3 cun2",
+    "translation": {
+      "en": "cache",
+      "vi": "bộ nhớ đệm"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "存储",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cún chǔ",
+    "pinyin2": "cun2 chu3",
+    "translation": {
+      "en": "storage",
+      "vi": "lưu trữ"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "云计算",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yún jì suàn",
+    "pinyin2": "yun2 ji4 suan4",
+    "translation": {
+      "en": "cloud computing",
+      "vi": "điện toán đám mây"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "容器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "róng qì",
+    "pinyin2": "rong2 qi4",
+    "translation": {
+      "en": "container, container; holder; pack",
+      "vi": "container, thùng chứa; vật đựng"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "镜像",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jìng xiàng",
+    "pinyin2": "jing4 xiang4",
+    "translation": {
+      "en": "image (VM/Docker)",
+      "vi": "image"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "协议",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xié yì",
+    "pinyin2": "xie2 yi4",
+    "translation": {
+      "en": "protocol, agree on; understanding; treaty",
+      "vi": "giao thức, thỏa thuận; hiệp định"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "请求",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qǐng qiú",
+    "pinyin2": "qing3 qiu2",
+    "translation": {
+      "en": "request, request; demand; beg",
+      "vi": "yêu cầu, yêu cầu; cầu xin"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "响应",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiǎng yìng",
+    "pinyin2": "xiang3 ying4",
+    "translation": {
+      "en": "response, respond; answer, to respond; to answer",
+      "vi": "phản hồi, hưởng ứng; đáp lại, hưởng ứng; đáp lại"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "带宽",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dài kuān",
+    "pinyin2": "dai4 kuan1",
+    "translation": {
+      "en": "bandwidth",
+      "vi": "băng thông"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "延迟",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yán chí",
+    "pinyin2": "yan2 chi2",
+    "translation": {
+      "en": "latency",
+      "vi": "độ trễ"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "下载",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xià zǎi",
+    "pinyin2": "xia4 zai3",
+    "translation": {
+      "en": "download",
+      "vi": "tải xuống"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "上传",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shàng chuán",
+    "pinyin2": "shang4 chuan2",
+    "translation": {
+      "en": "upload",
+      "vi": "tải lên"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "连接",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lián jiē",
+    "pinyin2": "lian2 jie1",
+    "translation": {
+      "en": "connection",
+      "vi": "kết nối"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "断开",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "duàn kāi",
+    "pinyin2": "duan4 kai1",
+    "translation": {
+      "en": "disconnect",
+      "vi": "ngắt kết nối"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "加密",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiā mì",
+    "pinyin2": "jia1 mi4",
+    "translation": {
+      "en": "encrypt",
+      "vi": "mã hoá"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "解密",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiě mì",
+    "pinyin2": "jie3 mi4",
+    "translation": {
+      "en": "decrypt",
+      "vi": "giải mã"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "防火墙",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fáng huǒ qiáng",
+    "pinyin2": "fang2 huo3 qiang2",
+    "translation": {
+      "en": "firewall",
+      "vi": "tường lửa, tường lửa; firewall"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "权限",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "quán xiàn",
+    "pinyin2": "quan2 xian4",
+    "translation": {
+      "en": "permissions",
+      "vi": "quyền hạn"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "认证",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rèn zhèng",
+    "pinyin2": "ren4 zheng4",
+    "translation": {
+      "en": "authentication, to certify; certification",
+      "vi": "xác thực, chứng nhận; xác nhận"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "授权",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shòu quán",
+    "pinyin2": "shou4 quan2",
+    "translation": {
+      "en": "authorization, to authorize; authorization",
+      "vi": "ủy quyền, ủy quyền; trao quyền"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "配置",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pèi zhì",
+    "pinyin2": "pei4 zhi4",
+    "translation": {
+      "en": "configuration",
+      "vi": "cấu hình"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "版本",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bǎn běn",
+    "pinyin2": "ban3 ben3",
+    "translation": {
+      "en": "version, edition",
+      "vi": "phiên bản, phiên bản; ấn bản"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "更新",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gēng xīn",
+    "pinyin2": "geng1 xin1",
+    "translation": {
+      "en": "update, renew; renovate; update",
+      "vi": "cập nhật, cập nhật; đổi mới"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "升级",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shēng jí",
+    "pinyin2": "sheng1 ji2",
+    "translation": {
+      "en": "upgrade",
+      "vi": "nâng cấp"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "补丁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bǔ dīng",
+    "pinyin2": "bu3 ding1",
+    "translation": {
+      "en": "patch",
+      "vi": "bản vá"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "部署",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bù shǔ",
+    "pinyin2": "bu4 shu3",
+    "translation": {
+      "en": "deploy, arrange; map out; lay out, to deploy; to arrange",
+      "vi": "triển khai, bố trí; sắp xếp, triển khai; bố trí"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "构建",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gòu jiàn",
+    "pinyin2": "gou4 jian4",
+    "translation": {
+      "en": "build (software)",
+      "vi": "build phần mềm"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "编译",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biān yì",
+    "pinyin2": "bian1 yi4",
+    "translation": {
+      "en": "compile",
+      "vi": "biên dịch"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "运行",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yùn xíng",
+    "pinyin2": "yun4 xing2",
+    "translation": {
+      "en": "run/execute, move; be in motion; run",
+      "vi": "chạy, vận hành; chạy"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "启动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qǐ dòng",
+    "pinyin2": "qi3 dong4",
+    "translation": {
+      "en": "start up",
+      "vi": "khởi động"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "IT",
+      "computer"
+    ],
+    "word": "停止",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tíng zhǐ",
+    "pinyin2": "ting2 zhi3",
+    "translation": {
+      "en": "stop, to stop",
+      "vi": "dừng, dừng lại"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "接口文档",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiē kǒu wén dàng",
+    "pinyin2": "jie1 kou3 wen2 dang4",
+    "translation": {
+      "en": "API documentation",
+      "vi": "tài liệu API"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "调API",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiáo API",
+    "pinyin2": "tiao2 API",
+    "translation": {
+      "en": "call API",
+      "vi": "gọi API"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "响应码",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiǎng yìng mǎ",
+    "pinyin2": "xiang3 ying4 ma3",
+    "translation": {
+      "en": "response code",
+      "vi": "mã phản hồi"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "状态码",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuàng tài mǎ",
+    "pinyin2": "zhuang4 tai4 ma3",
+    "translation": {
+      "en": "status code",
+      "vi": "mã trạng thái"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "路由",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lù yóu",
+    "pinyin2": "lu4 you2",
+    "translation": {
+      "en": "routing",
+      "vi": "định tuyến"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "端点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "duān diǎn",
+    "pinyin2": "duan1 dian3",
+    "translation": {
+      "en": "endpoint",
+      "vi": "điểm cuối (endpoint)"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "中间件",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng jiān jiàn",
+    "pinyin2": "zhong1 jian1 jian4",
+    "translation": {
+      "en": "middleware",
+      "vi": "middleware"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "请求体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qǐng qiú tǐ",
+    "pinyin2": "qing3 qiu2 ti3",
+    "translation": {
+      "en": "request body",
+      "vi": "request body"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "响应体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiǎng yìng tǐ",
+    "pinyin2": "xiang3 ying4 ti3",
+    "translation": {
+      "en": "response body",
+      "vi": "response body"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数据包",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù bāo",
+    "pinyin2": "shu4 ju4 bao1",
+    "translation": {
+      "en": "data packet",
+      "vi": "gói dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "流量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liú liàng",
+    "pinyin2": "liu2 liang4",
+    "translation": {
+      "en": "traffic, flow rate; traffic",
+      "vi": "lưu lượng, lưu lượng; lưu thông"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "节点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jié diǎn",
+    "pinyin2": "jie2 dian3",
+    "translation": {
+      "en": "node",
+      "vi": "nút"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "拓扑",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tuò pū",
+    "pinyin2": "tuo4 pu1",
+    "translation": {
+      "en": "topology",
+      "vi": "tốpô"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "端口",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "duān kǒu",
+    "pinyin2": "duan1 kou3",
+    "translation": {
+      "en": "port",
+      "vi": "cổng"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "指针",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǐ zhēn",
+    "pinyin2": "zhi3 zhen1",
+    "translation": {
+      "en": "pointer",
+      "vi": "con trỏ"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "引用",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǐn yòng",
+    "pinyin2": "yin3 yong4",
+    "translation": {
+      "en": "reference, quote; cite; recommend, to quote; to cite",
+      "vi": "tham chiếu, trích dẫn; dẫn chứng, trích dẫn; dẫn chứng"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "IT",
+      "computer"
+    ],
+    "word": "堆",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "duī",
+    "pinyin2": "dui1",
+    "translation": {
+      "en": "heap, heap; pile; crowd",
+      "vi": "heap, đống; đám đông"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "栈",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhàn",
+    "pinyin2": "zhan4",
+    "translation": {
+      "en": "stack",
+      "vi": "stack"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "编译器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biān yì qì",
+    "pinyin2": "bian1 yi4 qi4",
+    "translation": {
+      "en": "compiler",
+      "vi": "trình biên dịch"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "解释器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiě shì qì",
+    "pinyin2": "jie3 shi4 qi4",
+    "translation": {
+      "en": "interpreter",
+      "vi": "trình thông dịch"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "虚拟机语言",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xū nǐ jī yǔ yán",
+    "pinyin2": "xu1 ni3 ji1 yu3 yan2",
+    "translation": {
+      "en": "VM language",
+      "vi": "ngôn ngữ máy ảo"
+    }
+  },
+  {
+    "tags": [
+      "HSK6",
+      "IT",
+      "computer"
+    ],
+    "word": "依赖",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yī lài",
+    "pinyin2": "yi1 lai4",
+    "translation": {
+      "en": "dependency, rely on; be dependent on",
+      "vi": "phụ thuộc, phụ thuộc vào"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "包管理器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bāo guǎn lǐ qì",
+    "pinyin2": "bao1 guan3 li3 qi4",
+    "translation": {
+      "en": "package manager",
+      "vi": "trình quản lý gói"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "依赖树",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yī lài shù",
+    "pinyin2": "yi1 lai4 shu4",
+    "translation": {
+      "en": "dependency tree",
+      "vi": "cây phụ thuộc"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "测试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cè shì",
+    "pinyin2": "ce4 shi4",
+    "translation": {
+      "en": "test",
+      "vi": "kiểm thử"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "单元测试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dān yuán cè shì",
+    "pinyin2": "dan1 yuan2 ce4 shi4",
+    "translation": {
+      "en": "unit test",
+      "vi": "kiểm thử đơn vị"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "集成测试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jí chéng cè shì",
+    "pinyin2": "ji2 cheng2 ce4 shi4",
+    "translation": {
+      "en": "integration test",
+      "vi": "kiểm thử tích hợp"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "自动化测试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì dòng huà cè shì",
+    "pinyin2": "zi4 dong4 hua4 ce4 shi4",
+    "translation": {
+      "en": "automated testing",
+      "vi": "kiểm thử tự động"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "日志分析",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rì zhì fēn xī",
+    "pinyin2": "ri4 zhi4 fen1 xi1",
+    "translation": {
+      "en": "log analysis",
+      "vi": "phân tích log"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "网络模型",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wǎng luò mó xíng",
+    "pinyin2": "wang3 luo4 mo2 xing2",
+    "translation": {
+      "en": "network model",
+      "vi": "mô hình mạng"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "存储空间",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cún chǔ kōng jiān",
+    "pinyin2": "cun2 chu3 kong1 jian1",
+    "translation": {
+      "en": "storage space",
+      "vi": "không gian lưu trữ"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "算法优化",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "suàn fǎ yōu huà",
+    "pinyin2": "suan4 fa3 you1 hua4",
+    "translation": {
+      "en": "algorithm optimization",
+      "vi": "tối ưu thuật toán"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "内核模块",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "nèi hé mó kuài",
+    "pinyin2": "nei4 he2 mo2 kuai4",
+    "translation": {
+      "en": "kernel module",
+      "vi": "mô-đun nhân hệ thống"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "虚拟机",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xū nǐ jī",
+    "pinyin2": "xu1 ni3 ji1",
+    "translation": {
+      "en": "virtual machine",
+      "vi": "máy ảo"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数据冗余",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù rǒng yú",
+    "pinyin2": "shu4 ju4 rong3 yu2",
+    "translation": {
+      "en": "data redundancy",
+      "vi": "dư thừa dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "用户验证",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yòng hù yàn zhèng",
+    "pinyin2": "yong4 hu4 yan4 zheng4",
+    "translation": {
+      "en": "user authentication",
+      "vi": "xác thực người dùng"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "消息队列",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiāo xī duì liè",
+    "pinyin2": "xiao1 xi1 dui4 lie4",
+    "translation": {
+      "en": "message queue",
+      "vi": "hàng đợi thông điệp"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "缓存命中",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huàn cún mìng zhòng",
+    "pinyin2": "huan4 cun2 ming4 zhong4",
+    "translation": {
+      "en": "cache hit",
+      "vi": "trúng bộ nhớ đệm"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "缓存未命中",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huàn cún wèi mìng zhòng",
+    "pinyin2": "huan4 cun2 wei4 ming4 zhong4",
+    "translation": {
+      "en": "cache miss",
+      "vi": "trượt bộ nhớ đệm"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "跨平台",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kuà píng tái",
+    "pinyin2": "kua4 ping2 tai2",
+    "translation": {
+      "en": "cross-platform",
+      "vi": "đa nền tảng"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "容器管理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "róng qì guǎn lǐ",
+    "pinyin2": "rong2 qi4 guan3 li3",
+    "translation": {
+      "en": "container management",
+      "vi": "quản lý container"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "访问控制",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎng wèn kòng zhì",
+    "pinyin2": "fang3 wen4 kong4 zhi4",
+    "translation": {
+      "en": "access control",
+      "vi": "kiểm soát truy cập"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "机器学习模型",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jī qì xué xí mó xíng",
+    "pinyin2": "ji1 qi4 xue2 xi2 mo2 xing2",
+    "translation": {
+      "en": "machine learning model",
+      "vi": "mô hình học máy"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "源代码",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuán dài mǎ",
+    "pinyin2": "yuan2 dai4 ma3",
+    "translation": {
+      "en": "source code",
+      "vi": "mã nguồn"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "版本控制",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bǎn běn kòng zhì",
+    "pinyin2": "ban3 ben3 kong4 zhi4",
+    "translation": {
+      "en": "version control",
+      "vi": "quản lý phiên bản"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数据可视化",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù kě shì huà",
+    "pinyin2": "shu4 ju4 ke3 shi4 hua4",
+    "translation": {
+      "en": "data visualization",
+      "vi": "trực quan dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "工作负载",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gōng zuò fù zǎi",
+    "pinyin2": "gong1 zuo4 fu4 zai3",
+    "translation": {
+      "en": "workload",
+      "vi": "khối lượng công việc"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "程序执行",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chéng xù zhí xíng",
+    "pinyin2": "cheng2 xu4 zhi2 xing2",
+    "translation": {
+      "en": "program execution",
+      "vi": "thực thi chương trình"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "调度器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diào dù qì",
+    "pinyin2": "diao4 du4 qi4",
+    "translation": {
+      "en": "scheduler",
+      "vi": "bộ lập lịch"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "负载均衡",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fù zǎi jūn héng",
+    "pinyin2": "fu4 zai3 jun1 heng2",
+    "translation": {
+      "en": "load balancing",
+      "vi": "cân bằng tải"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "边缘计算",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biān yuán jì suàn",
+    "pinyin2": "bian1 yuan2 ji4 suan4",
+    "translation": {
+      "en": "edge computing",
+      "vi": "điện toán biên"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "深度学习",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shēn dù xué xí",
+    "pinyin2": "shen1 du4 xue2 xi2",
+    "translation": {
+      "en": "deep learning",
+      "vi": "học sâu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "自动扩容",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zì dòng kuò róng",
+    "pinyin2": "zi4 dong4 kuo4 rong2",
+    "translation": {
+      "en": "auto scaling",
+      "vi": "tự mở rộng"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "内存泄漏",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "nèi cún xiè lòu",
+    "pinyin2": "nei4 cun2 xie4 lou4",
+    "translation": {
+      "en": "memory leak",
+      "vi": "rò rỉ bộ nhớ"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "系统日志",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xì tǒng rì zhì",
+    "pinyin2": "xi4 tong3 ri4 zhi4",
+    "translation": {
+      "en": "system log",
+      "vi": "nhật ký hệ thống"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "资源监控",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zī yuán jiān kòng",
+    "pinyin2": "zi1 yuan2 jian1 kong4",
+    "translation": {
+      "en": "resource monitoring",
+      "vi": "giám sát tài nguyên"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "高可用",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gāo kě yòng",
+    "pinyin2": "gao1 ke3 yong4",
+    "translation": {
+      "en": "high availability",
+      "vi": "khả dụng cao"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "并发处理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bìng fā chǔ lǐ",
+    "pinyin2": "bing4 fa1 chu3 li3",
+    "translation": {
+      "en": "concurrent processing",
+      "vi": "xử lý đồng thời"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "访问日志",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎng wèn rì zhì",
+    "pinyin2": "fang3 wen4 ri4 zhi4",
+    "translation": {
+      "en": "access log",
+      "vi": "log truy cập"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "错误追踪",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cuò wù zhuī zōng",
+    "pinyin2": "cuo4 wu4 zhui1 zong1",
+    "translation": {
+      "en": "error tracking",
+      "vi": "theo dõi lỗi"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "持续集成",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chí xù jí chéng",
+    "pinyin2": "chi2 xu4 ji2 cheng2",
+    "translation": {
+      "en": "continuous integration",
+      "vi": "tích hợp liên tục"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "持续部署",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chí xù bù shǔ",
+    "pinyin2": "chi2 xu4 bu4 shu3",
+    "translation": {
+      "en": "continuous deployment",
+      "vi": "triển khai liên tục"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "容器编排",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "róng qì biān pái",
+    "pinyin2": "rong2 qi4 bian1 pai2",
+    "translation": {
+      "en": "container orchestration",
+      "vi": "sắp xếp container"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "服务网格",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fú wù wǎng gé",
+    "pinyin2": "fu2 wu4 wang3 ge2",
+    "translation": {
+      "en": "service mesh",
+      "vi": "lưới dịch vụ"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "微服务",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wēi fú wù",
+    "pinyin2": "wei1 fu2 wu4",
+    "translation": {
+      "en": "microservices",
+      "vi": "dịch vụ vi mô"
+    }
+  },
+  {
+    "tags": [
+      "HSK7-9",
+      "IT",
+      "computer"
+    ],
+    "word": "服务器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fú wù qì",
+    "pinyin2": "fu2 wu4 qi4",
+    "translation": {
+      "en": "server",
+      "vi": "máy chủ, máy chủ; server"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "客户端",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kè hù duān",
+    "pinyin2": "ke4 hu4 duan1",
+    "translation": {
+      "en": "client",
+      "vi": "máy khách"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "应用程序",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yìng yòng chéng xù",
+    "pinyin2": "ying4 yong4 cheng2 xu4",
+    "translation": {
+      "en": "application",
+      "vi": "ứng dụng"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "负载均衡器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fù zǎi jūn héng qì",
+    "pinyin2": "fu4 zai3 jun1 heng2 qi4",
+    "translation": {
+      "en": "load balancer",
+      "vi": "thiết bị cân bằng tải"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数据库索引",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù kù suǒ yǐn",
+    "pinyin2": "shu4 ju4 ku4 suo3 yin3",
+    "translation": {
+      "en": "database index",
+      "vi": "chỉ mục cơ sở dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "事务处理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì wù chǔ lǐ",
+    "pinyin2": "shi4 wu4 chu3 li3",
+    "translation": {
+      "en": "transaction processing",
+      "vi": "xử lý giao dịch"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "分布式系统",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēn bù shì xì tǒng",
+    "pinyin2": "fen1 bu4 shi4 xi4 tong3",
+    "translation": {
+      "en": "distributed system",
+      "vi": "hệ thống phân tán"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数据同步",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù tóng bù",
+    "pinyin2": "shu4 ju4 tong2 bu4",
+    "translation": {
+      "en": "data synchronization",
+      "vi": "đồng bộ dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "事务回滚",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì wù huí gǔn",
+    "pinyin2": "shi4 wu4 hui2 gun3",
+    "translation": {
+      "en": "transaction rollback",
+      "vi": "quay lui giao dịch"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "分片",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēn piàn",
+    "pinyin2": "fen1 pian4",
+    "translation": {
+      "en": "sharding",
+      "vi": "chia mảnh"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "主从复制",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ cóng fù zhì",
+    "pinyin2": "zhu3 cong2 fu4 zhi4",
+    "translation": {
+      "en": "master-slave replication",
+      "vi": "sao chép chính-phụ"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数据分区",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù fēn qū",
+    "pinyin2": "shu4 ju4 fen1 qu1",
+    "translation": {
+      "en": "data partitioning",
+      "vi": "phân vùng dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "索引优化",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "suǒ yǐn yōu huà",
+    "pinyin2": "suo3 yin3 you1 hua4",
+    "translation": {
+      "en": "index optimization",
+      "vi": "tối ưu chỉ mục"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "数据库连接池",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù kù lián jiē chí",
+    "pinyin2": "shu4 ju4 ku4 lian2 jie1 chi2",
+    "translation": {
+      "en": "database connection pool",
+      "vi": "bể kết nối cơ sở dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "事务隔离",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì wù gé lí",
+    "pinyin2": "shi4 wu4 ge2 li2",
+    "translation": {
+      "en": "transaction isolation",
+      "vi": "cô lập giao dịch"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "回调函数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huí diào hán shù",
+    "pinyin2": "hui2 diao4 han2 shu4",
+    "translation": {
+      "en": "callback function",
+      "vi": "hàm gọi lại"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "异步处理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yì bù chǔ lǐ",
+    "pinyin2": "yi4 bu4 chu3 li3",
+    "translation": {
+      "en": "asynchronous processing",
+      "vi": "xử lý bất đồng bộ"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "同步处理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tóng bù chǔ lǐ",
+    "pinyin2": "tong2 bu4 chu3 li3",
+    "translation": {
+      "en": "synchronous processing",
+      "vi": "xử lý đồng bộ"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "负载监控",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fù zǎi jiān kòng",
+    "pinyin2": "fu4 zai3 jian1 kong4",
+    "translation": {
+      "en": "load monitoring",
+      "vi": "giám sát tải"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "任务队列",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rèn wù duì liè",
+    "pinyin2": "ren4 wu4 dui4 lie4",
+    "translation": {
+      "en": "task queue",
+      "vi": "hàng đợi tác vụ"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "事务日志",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì wù rì zhì",
+    "pinyin2": "shi4 wu4 ri4 zhi4",
+    "translation": {
+      "en": "transaction log",
+      "vi": "nhật ký giao dịch"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "数据库快照",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù kù kuài zhào",
+    "pinyin2": "shu4 ju4 ku4 kuai4 zhao4",
+    "translation": {
+      "en": "database snapshot",
+      "vi": "ảnh chụp cơ sở dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "数据恢复",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù huī fù",
+    "pinyin2": "shu4 ju4 hui1 fu4",
+    "translation": {
+      "en": "data recovery",
+      "vi": "phục hồi dữ liệu"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "故障转移",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gù zhàng zhuǎn yí",
+    "pinyin2": "gu4 zhang4 zhuan3 yi2",
+    "translation": {
+      "en": "failover",
+      "vi": "chuyển đổi khi sự cố"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "负载测试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fù zǎi cè shì",
+    "pinyin2": "fu4 zai3 ce4 shi4",
+    "translation": {
+      "en": "load testing",
+      "vi": "kiểm thử tải"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "压力测试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yā lì cè shì",
+    "pinyin2": "ya1 li4 ce4 shi4",
+    "translation": {
+      "en": "stress testing",
+      "vi": "kiểm thử áp lực"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "服务发现",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fú wù fā xiàn",
+    "pinyin2": "fu2 wu4 fa1 xian4",
+    "translation": {
+      "en": "service discovery",
+      "vi": "phát hiện dịch vụ"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "分布式缓存",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēn bù shì huàn cún",
+    "pinyin2": "fen1 bu4 shi4 huan4 cun2",
+    "translation": {
+      "en": "distributed cache",
+      "vi": "bộ nhớ đệm phân tán"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "容器镜像",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "róng qì jìng xiàng",
+    "pinyin2": "rong2 qi4 jing4 xiang4",
+    "translation": {
+      "en": "container image",
+      "vi": "hình ảnh container"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "服务监控",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fú wù jiān kòng",
+    "pinyin2": "fu2 wu4 jian1 kong4",
+    "translation": {
+      "en": "service monitoring",
+      "vi": "giám sát dịch vụ"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "请求速率",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qǐng qiú sù lǜ",
+    "pinyin2": "qing3 qiu2 su4 lv4",
+    "translation": {
+      "en": "request rate",
+      "vi": "tốc độ yêu cầu"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "响应延迟",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiǎng yìng yán chí",
+    "pinyin2": "xiang3 ying4 yan2 chi2",
+    "translation": {
+      "en": "response latency",
+      "vi": "độ trễ phản hồi"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "分布式锁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēn bù shì suǒ",
+    "pinyin2": "fen1 bu4 shi4 suo3",
+    "translation": {
+      "en": "distributed lock",
+      "vi": "khóa phân tán"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "消息中间件",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiāo xī zhōng jiān jiàn",
+    "pinyin2": "xiao1 xi1 zhong1 jian1 jian4",
+    "translation": {
+      "en": "message middleware",
+      "vi": "middleware tin nhắn"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "队列长度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "duì liè cháng dù",
+    "pinyin2": "dui4 lie4 chang2 du4",
+    "translation": {
+      "en": "queue length",
+      "vi": "độ dài hàng đợi"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "请求超时",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qǐng qiú chāo shí",
+    "pinyin2": "qing3 qiu2 chao1 shi2",
+    "translation": {
+      "en": "request timeout",
+      "vi": "hết hạn yêu cầu"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "失败重试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shī bài chóng shì",
+    "pinyin2": "shi1 bai4 chong2 shi4",
+    "translation": {
+      "en": "retry on failure",
+      "vi": "thử lại khi thất bại"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "日志轮转",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rì zhì lún zhuǎn",
+    "pinyin2": "ri4 zhi4 lun2 zhuan3",
+    "translation": {
+      "en": "log rotation",
+      "vi": "xoay vòng nhật ký"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "监控告警",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiān kòng gào jǐng",
+    "pinyin2": "jian1 kong4 gao4 jing3",
+    "translation": {
+      "en": "monitoring alert",
+      "vi": "cảnh báo giám sát"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "系统架构",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xì tǒng jià gòu",
+    "pinyin2": "xi4 tong3 jia4 gou4",
+    "translation": {
+      "en": "system architecture",
+      "vi": "kiến trúc hệ thống"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "网络安全",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wǎng luò ān quán",
+    "pinyin2": "wang3 luo4 an1 quan2",
+    "translation": {
+      "en": "network security",
+      "vi": "bảo mật mạng"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "加密通信",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiā mì tōng xìn",
+    "pinyin2": "jia1 mi4 tong1 xin4",
+    "translation": {
+      "en": "encrypted communication",
+      "vi": "truyền thông mã hóa"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "身份验证",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shēn fèn yàn zhèng",
+    "pinyin2": "shen1 fen4 yan4 zheng4",
+    "translation": {
+      "en": "identity verification",
+      "vi": "xác thực danh tính"
+    }
+  },
+  {
+    "tags": [
+      "HSK3"
+    ],
+    "word": "数据持久化",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shù jù chí jiǔ huà",
+    "pinyin2": "shu4 ju4 chi2 jiu3 hua4",
+    "translation": {
+      "en": "data persistence",
+      "vi": "lưu trữ dữ liệu lâu dài"
+    }
+  },
+  {
+    "tags": [
+      "computer",
+      "IT"
+    ],
+    "word": "服务熔断",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fú wù róng duàn",
+    "pinyin2": "fu2 wu4 rong2 duan4",
+    "translation": {
+      "en": "service circuit breaker",
+      "vi": "ngắt mạch dịch vụ"
+    }
+  }
+]

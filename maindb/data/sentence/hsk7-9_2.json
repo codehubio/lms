@@ -1,0 +1,101 @@
+[{
+  "sentence": "服务器需要定期备份。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "fú wù qì xū yào dìng qī bèi fèn",
+  "pinyin2": "fu2 wu4 qi4 xu1 yao4 di4ng qi1 bei4 fe4n",
+  "translation": {
+    "en": "The server needs regular backups.",
+    "vi": "Máy chủ cần được sao lưu định kỳ."
+  }
+}, {
+  "sentence": "防火墙保护了网络安全。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "fáng huǒ qiáng bǎo hù le wǎng luò ān quán",
+  "pinyin2": "fa2ng huo3 qia2ng ba3o hu4 le wa3ng luo4 a1n qua2n",
+  "translation": {
+    "en": "The firewall protects network security.",
+    "vi": "Tường lửa bảo vệ an ninh mạng."
+  }
+}, {
+  "sentence": "实验的结果令人满意。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "shí yàn de jié guǒ lìng rén mǎn yì",
+  "pinyin2": "shi2 ya4n de jie2 guo3 li4ng re2n ma3n yi4",
+  "translation": {
+    "en": "The experimental results are satisfactory.",
+    "vi": "Kết quả thí nghiệm làm người ta hài lòng."
+  }
+}, {
+  "sentence": "核桃很有营养。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "hé tao hěn yǒu yíng yǎng",
+  "pinyin2": "he2 tao hen3 yo3u yi2ng ya3ng",
+  "translation": {
+    "en": "Walnuts are very nutritious.",
+    "vi": "Quả óc chó rất bổ dưỡng."
+  }
+}, {
+  "sentence": "蜂蜜很甜。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "fēng mì hěn tián",
+  "pinyin2": "fe1ng mi4 hen3 tia2n",
+  "translation": {
+    "en": "Honey is very sweet.",
+    "vi": "Mật ong rất ngọt."
+  }
+}, {
+  "sentence": "今天刮风了。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "jīn tiān guā fēng le",
+  "pinyin2": "ji1n tia1n gua1 fe1ng le",
+  "translation": {
+    "en": "It's windy today.",
+    "vi": "Hôm nay trời có gió."
+  }
+}, {
+  "sentence": "我一个人很孤单。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ yī gè rén hěn gū dān",
+  "pinyin2": "wo3 yi1 ge4 re2n hen3 gu1 da1n",
+  "translation": {
+    "en": "I feel very lonely by myself.",
+    "vi": "Một mình tôi rất cô đơn."
+  }
+}, {
+  "sentence": "她很害羞。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā hěn hài xiū",
+  "pinyin2": "ta1 hen3 ha4i xiu1",
+  "translation": {
+    "en": "She is very shy.",
+    "vi": "Cô ấy rất nhút nhát."
+  }
+}, {
+  "sentence": "这里的气候很干燥。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè lǐ de qì hòu hěn gān zào",
+  "pinyin2": "zhe4 li3 de qi4 ho4u hen3 ga1n za4o",
+  "translation": {
+    "en": "The climate here is very dry.",
+    "vi": "Khí hậu ở đây rất khô."
+  }
+}, {
+  "sentence": "提高关税会影响国际贸易。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tí gāo guān shuì huì yǐng xiǎng guó jì mào yì",
+  "pinyin2": "ti2 gao1 guan1 shui4 hui4 ying3 xiang3 guo2 ji4 mao4 yi4",
+  "translation": {
+    "en": "Raising tariffs will affect international trade.",
+    "vi": "Tăng thuế quan sẽ ảnh hưởng đến thương mại quốc tế."
+  }
+}, {
+  "sentence": "市场出现供过于求的过剩现象。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "shì chǎng chū xiàn gōng guò yú qiú de guò shèng xiàn xiàng",
+  "pinyin2": "shi4 chang3 chu1 xian4 gong1 guo4 yu2 qiu2 de guo4 sheng4 xian4 xiang4",
+  "translation": {
+    "en": "The market shows an oversupply phenomenon.",
+    "vi": "Thị trường xuất hiện hiện tượng dư thừa do cung vượt cầu."
+  }
+}]
+

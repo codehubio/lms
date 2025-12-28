@@ -1,0 +1,20 @@
+{
+  "name": "lms-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test && playwright show-report",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed && playwright show-report",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report",
+    "scrape:hsk7": "playwright test scrape-hsk7-9.spec.ts",
+    "scrape:hsk7:standalone": "npx tsx scrape-hsk7-9.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^24.10.1",
+    "typescript": "~5.9.3"
+  }
+}
+

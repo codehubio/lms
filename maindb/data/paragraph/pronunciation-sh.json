@@ -1,0 +1,177 @@
+{
+  "id": "pronunciation-sh",
+  "title": "How to Pronounce SH in Chinese",
+  "tags": ["pronunciation"],
+  "translation": {
+    "en": "How to Pronounce SH in Chinese",
+    "vi": "Cách phát âm SH trong tiếng Trung",
+    "zh": "如何发音中文的SH"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Introduction to the SH Sound (SH音介绍)",
+          "vi": "Giới thiệu về âm SH (SH音介绍)",
+          "zh": "SH音介绍"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The Chinese **sh** sound (written as **sh** in pinyin) is a **voiceless retroflex** fricative that is challenging for English speakers. It is **NOT** the same as the English \"sh\" sound in \"she\" or \"ship\".\n\n**Key characteristics:**\n- The Chinese **sh** is a **voiceless** sound (no vibration in the vocal cords)\n- It is a **fricative** (continuous airflow, no stop)\n- The tongue must **curl back** and approach the hard palate (retroflex position)\n- It sounds similar to English \"sh\" but with a more pronounced retroflex position\n\n**Common mistake:** Many learners pronounce it like English \"sh\" (palatal) or confuse it with \"x\" (palatal). The Chinese **sh** requires the tongue to curl back significantly.\n\n**Example words:**\n- **{{word1}}** (shī - teacher/master)\n- **{{word2}}** (shǎo - few/little)\n- **{{word3}}** (shuō - to speak)",
+          "vi": "Âm **sh** trong tiếng Trung (viết là **sh** trong pinyin) là một âm xát quặt lưỡi vô thanh khó đối với người nói tiếng Anh. Nó **KHÔNG** giống với âm \"sh\" trong tiếng Anh như \"she\" hoặc \"ship\".\n\n**Đặc điểm chính:**\n- Âm **sh** trong tiếng Trung là âm **vô thanh** (không có rung động ở dây thanh)\n- Đây là âm **xát** (luồng khí liên tục, không có điểm dừng)\n- Lưỡi phải **cuộn lại** và tiếp cận vòm cứng (vị trí quặt lưỡi)\n- Nghe giống \"sh\" tiếng Anh nhưng với vị trí quặt lưỡi rõ ràng hơn\n\n**Lỗi thường gặp:** Nhiều người học phát âm nó giống \"sh\" tiếng Anh (vòm) hoặc nhầm lẫn với \"x\" (vòm). Âm **sh** tiếng Trung yêu cầu lưỡi cuộn lại đáng kể.\n\n**Ví dụ:**\n- **{{word1}}** (shī - thầy giáo/thầy)\n- **{{word2}}** (shǎo - ít)\n- **{{word3}}** (shuō - nói)",
+          "zh": "中文的**sh**音（拼音中写作**sh**）是清卷舌擦音，对英语母语者来说很有挑战性。它**不是**英语中\"she\"或\"ship\"的\"sh\"音。\n\n**主要特点：**\n- 中文的**sh**是**清音**（声带不振动）\n- 它是**擦音**（连续气流，没有阻塞）\n- 舌头必须**卷起**并接近硬腭（卷舌位置）\n- 听起来像英语\"sh\"但卷舌位置更明显\n\n**常见错误：**许多学习者把它发成英语的\"sh\"（腭音）或与\"x\"（腭音）混淆。中文的**sh**需要舌头明显卷起。\n\n**例词：**\n- **{{word1}}**（师）\n- **{{word2}}**（少）\n- **{{word3}}**（说）"
+        }
+      },
+      "placeholders": [{
+        "word1": "师",
+        "word2": "少",
+        "word3": "说"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tongue Position (舌头位置)",
+          "vi": "Vị trí lưỡi (舌头位置)",
+          "zh": "舌头位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The correct tongue position is **crucial** for pronouncing **sh** correctly:\n\n**Step-by-step guide:**\n1. **Curl your tongue back** - the tip should point upward and backward\n2. The underside of the tongue tip should approach the **hard palate** (but not touch)\n3. The tongue should be **curved**, creating a narrow channel for air\n4. Create a narrow gap between the curled tongue and hard palate\n5. Blow air through this gap to create the fricative sound\n6. **Do NOT** vibrate your vocal cords (this is voiceless)\n\n**Visual reference:**\n- Think of it as English \"sh\" but with tongue curled back more\n- The tongue should form a curved surface, not flat\n- The sound should be continuous and smooth, with a \"hollow\" quality\n\n**Practice words:**\n- **{{word1}}** (shīfu - master/teacher)\n- **{{word2}}** (shǎoshù - minority/few)\n- **{{word3}}** (shuōhuà - to speak)",
+          "vi": "Vị trí lưỡi đúng là **rất quan trọng** để phát âm **sh** chính xác:\n\n**Hướng dẫn từng bước:**\n1. **Cuộn lưỡi lại** - đầu lưỡi nên chỉ lên và ra sau\n2. Mặt dưới của đầu lưỡi nên tiếp cận **vòm cứng** (nhưng không chạm)\n3. Lưỡi nên **cong**, tạo một kênh hẹp cho không khí\n4. Tạo một khoảng trống hẹp giữa lưỡi cuộn và vòm cứng\n5. Thổi không khí qua khoảng trống này để tạo ra âm xát\n6. **KHÔNG** rung dây thanh (đây là âm vô thanh)\n\n**Tham khảo trực quan:**\n- Nghĩ về nó như \"sh\" tiếng Anh nhưng với lưỡi cuộn lại nhiều hơn\n- Lưỡi nên tạo thành một bề mặt cong, không phẳng\n- Âm thanh nên liên tục và mượt mà, với chất lượng \"rỗng\"\n\n**Từ luyện tập:**\n- **{{word1}}** (shīfu - thầy giáo)\n- **{{word2}}** (shǎoshù - thiểu số/ít)\n- **{{word3}}** (shuōhuà - nói chuyện)",
+          "zh": "正确的舌头位置对于正确发音**sh**至关重要：\n\n**分步指南：**\n1. **卷起舌头** - 舌尖应该向上和向后指\n2. 舌尖下侧应该接近**硬腭**（但不接触）\n3. 舌头应该**弯曲**，创建一个狭窄的通道让空气通过\n4. 在卷起的舌头和硬腭之间创建一个狭窄的间隙\n5. 通过这个间隙吹气以产生擦音\n6. **不要**振动声带（这是清音）\n\n**视觉参考：**\n- 想象它是英语\"sh\"但舌头更向后卷起\n- 舌头应该形成一个弯曲的表面，不是平的\n- 声音应该连续流畅，带有\"空\"的音质\n\n**练习词：**\n- **{{word1}}**（师傅）\n- **{{word2}}**（少数）\n- **{{word3}}**（说话）"
+        }
+      },
+      "placeholders": [{
+        "word1": "师傅",
+        "word2": "少数",
+        "word3": "说话"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Retroflex vs Palatal (卷舌音 vs 腭音)",
+          "vi": "Quặt lưỡi vs Vòm (卷舌音 vs 腭音)",
+          "zh": "卷舌音 vs 腭音"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding the difference between **retroflex** and **palatal** sounds is crucial for mastering **sh**:\n\n**Retroflex (卷舌音) - Chinese SH:**\n- Tongue **curls back** and approaches hard palate\n- Tongue tip points **upward and backward**\n- Creates a \"hollow\" or \"rounded\" sound quality\n- Similar to \"r\" in American English \"red\" but as a fricative\n\n**Palatal (腭音) - Chinese X:**\n- Tongue is **flat** against hard palate\n- Tongue tip points **downward** (behind lower teeth)\n- Creates a \"sharper\" sound quality\n- Similar to \"sh\" in English \"she\" but flatter\n\n**Key difference:** SH requires tongue curling (retroflex), X requires flat tongue (palatal)\n\n**Test yourself:**\n1. Say **{{word1}}** (shǎo - few) - feel tongue curl back\n2. Now say **{{word2}}** (xiǎo - small) - feel tongue flat\n3. Notice the different tongue positions and sound qualities\n\n**Practice:**\n- **{{word3}}** (shuō - to speak) - tongue curls back\n- **{{word4}}** (xué - to study) - tongue flat",
+          "vi": "Hiểu sự khác biệt giữa âm **quặt lưỡi** và **vòm** là rất quan trọng để thành thạo **sh**:\n\n**Quặt lưỡi (卷舌音) - SH tiếng Trung:**\n- Lưỡi **cuộn lại** và tiếp cận vòm cứng\n- Đầu lưỡi chỉ **lên và ra sau**\n- Tạo ra chất lượng âm thanh \"rỗng\" hoặc \"tròn\"\n- Giống \"r\" trong tiếng Anh Mỹ \"red\" nhưng là âm xát\n\n**Vòm (腭音) - X tiếng Trung:**\n- Lưỡi **phẳng** chống lại vòm cứng\n- Đầu lưỡi chỉ **xuống** (sau răng dưới)\n- Tạo ra chất lượng âm thanh \"sắc\" hơn\n- Giống \"sh\" trong tiếng Anh \"she\" nhưng phẳng hơn\n\n**Khác biệt chính:** SH yêu cầu lưỡi cuộn (quặt lưỡi), X yêu cầu lưỡi phẳng (vòm)\n\n**Tự kiểm tra:**\n1. Nói **{{word1}}** (shǎo - ít) - cảm nhận lưỡi cuộn lại\n2. Bây giờ nói **{{word2}}** (xiǎo - nhỏ) - cảm nhận lưỡi phẳng\n3. Chú ý các vị trí lưỡi và chất lượng âm thanh khác nhau\n\n**Luyện tập:**\n- **{{word3}}** (shuō - nói) - lưỡi cuộn lại\n- **{{word4}}** (xué - học) - lưỡi phẳng",
+          "zh": "理解**卷舌音**和**腭音**之间的区别对于掌握**sh**至关重要：\n\n**卷舌音 - 中文SH：**\n- 舌头**卷起**并接近硬腭\n- 舌尖**向上和向后**指\n- 产生\"空\"或\"圆\"的音质\n- 类似于美式英语\"red\"中的\"r\"但是擦音\n\n**腭音 - 中文X：**\n- 舌头**平**抵硬腭\n- 舌尖**向下**指（在下齿后面）\n- 产生更\"尖锐\"的音质\n- 类似于英语\"she\"中的\"sh\"但更平\n\n**主要区别：**SH需要舌头卷起（卷舌），X需要平的舌头（腭音）\n\n**自我测试：**\n1. 说**{{word1}}**（少） - 感受舌头卷起\n2. 现在说**{{word2}}**（小） - 感受舌头平\n3. 注意不同的舌头位置和音质\n\n**练习：**\n- **{{word3}}**（说） - 舌头卷起\n- **{{word4}}**（学） - 舌头平"
+        }
+      },
+      "placeholders": [{
+        "word1": "少",
+        "word2": "小",
+        "word3": "说",
+        "word4": "学"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes (常见错误)",
+          "vi": "Lỗi thường gặp (常见错误)",
+          "zh": "常见错误"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are the most common mistakes when pronouncing Chinese **sh**:\n\n**Mistake 1: Using English \"sh\" sound (palatal)**\n- ❌ Pronouncing it like \"she\" (palatal, tongue flat)\n- ✅ Should be retroflex (tongue curls back)\n- **Fix:** Practice curling tongue back, not keeping it flat\n\n**Mistake 2: Not curling tongue enough**\n- ❌ Tongue is flat or only slightly curved\n- ✅ Tongue must curl back significantly\n- **Fix:** Exaggerate the tongue curl at first, then refine\n\n**Mistake 3: Confusing with \"x\" (palatal)**\n- ❌ Using palatal position (tongue flat)\n- ✅ Should use retroflex position (tongue curls back)\n- **Fix:** Remember SH is retroflex, X is palatal\n\n**Mistake 4: Making it too sharp**\n- ❌ Making it sound like \"s\" in \"see\" (alveolar, too sharp)\n- ✅ Should be softer, retroflex (tongue curls back)\n- **Fix:** Move tongue further back and curl it\n\n**Mistake 5: Adding a stop**\n- ❌ Making it sound like \"ch\" or \"zh\" (affricate with stop)\n- ✅ Should be continuous fricative (no stop)\n- **Fix:** Ensure continuous airflow, no tongue blocking\n\n**Practice words to avoid mistakes:**\n- **{{word1}}** (shǎo - few) - retroflex + continuous\n- **{{word2}}** (shuō - to speak) - NOT like English \"sh\"\n- **{{word3}}** (shī - teacher) - NOT like \"x\"",
+          "vi": "Dưới đây là những lỗi phổ biến nhất khi phát âm **sh** tiếng Trung:\n\n**Lỗi 1: Dùng âm \"sh\" tiếng Anh (vòm)**\n- ❌ Phát âm giống \"she\" (vòm, lưỡi phẳng)\n- ✅ Nên là quặt lưỡi (lưỡi cuộn lại)\n- **Sửa:** Luyện tập cuộn lưỡi lại, không giữ nó phẳng\n\n**Lỗi 2: Không cuộn lưỡi đủ**\n- ❌ Lưỡi phẳng hoặc chỉ hơi cong\n- ✅ Lưỡi phải cuộn lại đáng kể\n- **Sửa:** Phóng đại việc cuộn lưỡi lúc đầu, sau đó tinh chỉnh\n\n**Lỗi 3: Nhầm lẫn với \"x\" (vòm)**\n- ❌ Dùng vị trí vòm (lưỡi phẳng)\n- ✅ Nên dùng vị trí quặt lưỡi (lưỡi cuộn lại)\n- **Sửa:** Nhớ SH là quặt lưỡi, X là vòm\n\n**Lỗi 4: Làm cho nó quá sắc**\n- ❌ Làm cho nó nghe giống \"s\" trong \"see\" (chân răng, quá sắc)\n- ✅ Nên mềm hơn, quặt lưỡi (lưỡi cuộn lại)\n- **Sửa:** Di chuyển lưỡi xa hơn về phía sau và cuộn nó\n\n**Lỗi 5: Thêm điểm dừng**\n- ❌ Làm cho nó nghe giống \"ch\" hoặc \"zh\" (tắc xát có điểm dừng)\n- ✅ Nên là xát liên tục (không có điểm dừng)\n- **Sửa:** Đảm bảo luồng khí liên tục, không có lưỡi chặn\n\n**Từ luyện tập để tránh lỗi:**\n- **{{word1}}** (shǎo - ít) - quặt lưỡi + liên tục\n- **{{word2}}** (shuō - nói) - KHÔNG giống \"sh\" tiếng Anh\n- **{{word3}}** (shī - thầy) - KHÔNG giống \"x\"",
+          "zh": "以下是发音中文**sh**时最常见的错误：\n\n**错误1：使用英语\"sh\"音（腭音）**\n- ❌ 发成像\"she\"（腭音，舌头平）\n- ✅ 应该是卷舌（舌头卷起）\n- **修正：**练习卷起舌头，不要保持平的\n\n**错误2：舌头卷得不够**\n- ❌ 舌头是平的或只是稍微弯曲\n- ✅ 舌头必须明显卷起\n- **修正：**首先夸张地卷起舌头，然后精炼\n\n**错误3：与\"x\"（腭音）混淆**\n- ❌ 使用腭音位置（舌头平）\n- ✅ 应该使用卷舌位置（舌头卷起）\n- **修正：**记住SH是卷舌，X是腭音\n\n**错误4：发得太尖锐**\n- ❌ 听起来像\"see\"中的\"s\"（齿龈，太尖锐）\n- ✅ 应该更柔和，卷舌（舌头卷起）\n- **修正：**将舌头移得更靠后并卷起它\n\n**错误5：添加阻塞**\n- ❌ 发成像\"ch\"或\"zh\"（有阻塞的塞擦音）\n- ✅ 应该是连续擦音（没有阻塞）\n- **修正：**确保连续气流，没有舌头阻塞\n\n**避免错误的练习词：**\n- **{{word1}}**（少） - 卷舌 + 连续\n- **{{word2}}**（说） - 不像英语\"sh\"\n- **{{word3}}**（师） - 不像\"x\""
+        }
+      },
+      "placeholders": [{
+        "word1": "少",
+        "word2": "说",
+        "word3": "师"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Practice Exercises (练习)",
+          "vi": "Bài tập luyện tập (练习)",
+          "zh": "练习"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are effective practice exercises to master the **sh** sound:\n\n**Exercise 1: Minimal pairs**\nPractice distinguishing **sh** from similar sounds:\n- **{{pair1}}** (shǎo - few) vs **{{pair2}}** (xiǎo - small)\n- **{{pair3}}** (shuō - to speak) vs **{{pair4}}** (xué - to study)\n- **{{pair5}}** (shī - teacher) vs **{{pair6}}** (xī - west)\n\n**Exercise 2: Tongue curling drill**\n1. Curl tongue back (tip points up and back)\n2. Approach hard palate with curled tongue (don't touch)\n3. Create narrow gap for air\n4. Blow continuous air: \"sh\" sound\n5. Repeat 10 times: sh-sh-sh-sh (continuous)\n6. Now add vowel: sha-she-shi-shu-sho\n\n**Exercise 3: Word practice**\nPractice these common words:\n- **{{word1}}** (shīfu - master/teacher)\n- **{{word2}}** (shǎoshù - minority/few)\n- **{{word3}}** (shuōhuà - to speak)\n- **{{word4}}** (shàngwǔ - morning)\n- **{{word5}}** (shénme - what)\n\n**Exercise 4: Sentence practice**\n- 我**{{word3}}**中文。 (I speak Chinese.)\n- **{{word5}}**是**{{word1}}**？ (What is a master?)",
+          "vi": "Dưới đây là các bài tập luyện tập hiệu quả để thành thạo âm **sh**:\n\n**Bài tập 1: Cặp tối thiểu**\nLuyện tập phân biệt **sh** với các âm tương tự:\n- **{{pair1}}** (shǎo - ít) vs **{{pair2}}** (xiǎo - nhỏ)\n- **{{pair3}}** (shuō - nói) vs **{{pair4}}** (xué - học)\n- **{{pair5}}** (shī - thầy) vs **{{pair6}}** (xī - phía tây)\n\n**Bài tập 2: Luyện cuộn lưỡi**\n1. Cuộn lưỡi lại (đầu lưỡi chỉ lên và ra sau)\n2. Tiếp cận vòm cứng bằng lưỡi cuộn (không chạm)\n3. Tạo khoảng trống hẹp cho không khí\n4. Thổi không khí liên tục: âm \"sh\"\n5. Lặp lại 10 lần: sh-sh-sh-sh (liên tục)\n6. Bây giờ thêm nguyên âm: sha-she-shi-shu-sho\n\n**Bài tập 3: Luyện từ**\nLuyện tập các từ phổ biến:\n- **{{word1}}** (shīfu - thầy giáo)\n- **{{word2}}** (shǎoshù - thiểu số/ít)\n- **{{word3}}** (shuōhuà - nói chuyện)\n- **{{word4}}** (shàngwǔ - buổi sáng)\n- **{{word5}}** (shénme - gì)\n\n**Bài tập 4: Luyện câu**\n- 我**{{word3}}**中文。 (Tôi nói tiếng Trung.)\n- **{{word5}}**是**{{word1}}**？ (Gì là thầy giáo?)",
+          "zh": "以下是一些有效的练习来掌握**sh**音：\n\n**练习1：最小对立体**\n练习区分**sh**和相似音：\n- **{{pair1}}**（少） vs **{{pair2}}**（小）\n- **{{pair3}}**（说） vs **{{pair4}}**（学）\n- **{{pair5}}**（师） vs **{{pair6}}**（西）\n\n**练习2：卷舌训练**\n1. 卷起舌头（舌尖向上和向后指）\n2. 用卷起的舌头接近硬腭（不接触）\n3. 创建狭窄的间隙让空气通过\n4. 连续吹气：\"sh\"音\n5. 重复10次：sh-sh-sh-sh（连续）\n6. 现在添加元音：sha-she-shi-shu-sho\n\n**练习3：单词练习**\n练习这些常用词：\n- **{{word1}}**（师傅）\n- **{{word2}}**（少数）\n- **{{word3}}**（说话）\n- **{{word4}}**（上午）\n- **{{word5}}**（什么）\n\n**练习4：句子练习**\n- 我**{{word3}}**中文。\n- **{{word5}}**是**{{word1}}**？"
+        }
+      },
+      "placeholders": [{
+        "pair1": "少",
+        "pair2": "小",
+        "pair3": "说",
+        "pair4": "学",
+        "pair5": "师",
+        "pair6": "西",
+        "word1": "师傅",
+        "word2": "少数",
+        "word3": "说话",
+        "word4": "上午",
+        "word5": "什么"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Comparison with Similar Sounds (与相似音的比较)",
+          "vi": "So sánh với các âm tương tự (与相似音的比较)",
+          "zh": "与相似音的比较"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding how **sh** differs from similar sounds helps avoid confusion:\n\n**SH vs X (sh vs x):**\n- **SH** ({{word1}} - shǎo): Retroflex (tongue curls back)\n- **X** ({{word2}} - xiǎo): Palatal (tongue flat against hard palate)\n- **Key difference:** SH is retroflex, X is palatal (different tongue position)\n\n**SH vs S (sh vs s):**\n- **SH** ({{word3}} - shuō): Retroflex (tongue curls back)\n- **S** ({{word4}} - suō): Alveolar (tongue near teeth)\n- **Key difference:** SH is retroflex, S is alveolar (different tongue position)\n\n**SH vs ZH (sh vs zh):**\n- **SH** ({{word5}} - shī): Fricative (continuous)\n- **ZH** ({{word6}} - zhī): Affricate (stop + release)\n- **Key difference:** SH is continuous, ZH has a stop\n\n**Practice distinguishing:**\n- **{{word1}}** (shǎo) vs **{{word2}}** (xiǎo) vs **{{word4}}** (suō) vs **{{word6}}** (zhī)",
+          "vi": "Hiểu cách **sh** khác với các âm tương tự giúp tránh nhầm lẫn:\n\n**SH vs X (sh vs x):**\n- **SH** ({{word1}} - shǎo): Quặt lưỡi (lưỡi cuộn lại)\n- **X** ({{word2}} - xiǎo): Vòm (lưỡi phẳng chống lại vòm cứng)\n- **Khác biệt chính:** SH là quặt lưỡi, X là vòm (vị trí lưỡi khác nhau)\n\n**SH vs S (sh vs s):**\n- **SH** ({{word3}} - shuō): Quặt lưỡi (lưỡi cuộn lại)\n- **S** ({{word4}} - suō): Chân răng (lưỡi gần răng)\n- **Khác biệt chính:** SH là quặt lưỡi, S là chân răng (vị trí lưỡi khác nhau)\n\n**SH vs ZH (sh vs zh):**\n- **SH** ({{word5}} - shī): Xát (liên tục)\n- **ZH** ({{word6}} - zhī): Tắc xát (dừng + giải phóng)\n- **Khác biệt chính:** SH liên tục, ZH có điểm dừng\n\n**Luyện tập phân biệt:**\n- **{{word1}}** (shǎo) vs **{{word2}}** (xiǎo) vs **{{word4}}** (suō) vs **{{word6}}** (zhī)",
+          "zh": "理解**sh**与相似音的区别有助于避免混淆：\n\n**SH vs X (sh vs x)：**\n- **SH**（{{word1}} - 少）：卷舌（舌头卷起）\n- **X**（{{word2}} - 小）：腭音（舌头平抵硬腭）\n- **主要区别：**SH是卷舌，X是腭音（不同的舌头位置）\n\n**SH vs S (sh vs s)：**\n- **SH**（{{word3}} - 说）：卷舌（舌头卷起）\n- **S**（{{word4}} - 缩）：齿龈（舌头靠近牙齿）\n- **主要区别：**SH是卷舌，S是齿龈（不同的舌头位置）\n\n**SH vs ZH (sh vs zh)：**\n- **SH**（{{word5}} - 师）：擦音（连续）\n- **ZH**（{{word6}} - 知）：塞擦音（阻塞 + 释放）\n- **主要区别：**SH是连续的，ZH有阻塞\n\n**练习区分：**\n- **{{word1}}**（少） vs **{{word2}}**（小） vs **{{word4}}**（缩） vs **{{word6}}**（知）"
+        }
+      },
+      "placeholders": [{
+        "word1": "少",
+        "word2": "小",
+        "word3": "说",
+        "word4": "缩",
+        "word5": "师",
+        "word6": "知"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tips for Mastery (掌握技巧)",
+          "vi": "Mẹo để thành thạo (掌握技巧)",
+          "zh": "掌握技巧"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are expert tips to master the **sh** sound:\n\n**Tip 1: Practice tongue curling**\n- Start by curling your tongue back as far as comfortable\n- Approach the hard palate with the underside of your tongue tip\n- Practice this position without making sound first\n- Use a mirror to see your tongue position\n\n**Tip 2: Compare with \"x\"**\n- Say **{{word1}}** (xiǎo - small) - tongue flat\n- Now say **{{word2}}** (shǎo - few) - tongue curls back\n- Feel the difference in tongue position\n- This contrast helps train your muscles\n\n**Tip 3: Start with English \"sh\" then curl more**\n- First practice saying \"sh\" in \"she\"\n- Then curl your tongue back more than English \"sh\"\n- This gives you the Chinese **sh** sound\n\n**Tip 4: Practice daily**\n- Spend 5-10 minutes daily on **sh** sound practice\n- Focus on maintaining retroflex position\n- Use words like **{{word3}}** (shīfu), **{{word4}}** (shuōhuà), **{{word5}}** (shénme)\n\n**Tip 5: Start slow, then speed up**\n- Begin with slow, exaggerated tongue curling\n- Gradually increase speed while maintaining retroflex position\n- Practice with **{{word6}}** (shàngwǔ), **{{word7}}** (shíhou), **{{word8}}** (shìqíng)\n\n**Remember:** The retroflex position feels unnatural at first, but with practice it becomes natural!",
+          "vi": "Dưới đây là các mẹo chuyên gia để thành thạo âm **sh**:\n\n**Mẹo 1: Luyện cuộn lưỡi**\n- Bắt đầu bằng cách cuộn lưỡi lại xa nhất có thể thoải mái\n- Tiếp cận vòm cứng bằng mặt dưới của đầu lưỡi\n- Luyện tập vị trí này mà không tạo ra âm thanh trước\n- Sử dụng gương để xem vị trí lưỡi của bạn\n\n**Mẹo 2: So sánh với \"x\"**\n- Nói **{{word1}}** (xiǎo - nhỏ) - lưỡi phẳng\n- Bây giờ nói **{{word2}}** (shǎo - ít) - lưỡi cuộn lại\n- Cảm nhận sự khác biệt trong vị trí lưỡi\n- Sự tương phản này giúp rèn luyện cơ bắp của bạn\n\n**Mẹo 3: Bắt đầu với \"sh\" tiếng Anh sau đó cuộn nhiều hơn**\n- Đầu tiên luyện tập nói \"sh\" trong \"she\"\n- Sau đó cuộn lưỡi lại nhiều hơn \"sh\" tiếng Anh\n- Điều này cho bạn âm **sh** tiếng Trung\n\n**Mẹo 4: Luyện tập hàng ngày**\n- Dành 5-10 phút mỗi ngày để luyện âm **sh**\n- Tập trung vào việc duy trì vị trí quặt lưỡi\n- Sử dụng các từ như **{{word3}}** (shīfu), **{{word4}}** (shuōhuà), **{{word5}}** (shénme)\n\n**Mẹo 5: Bắt đầu chậm, sau đó tăng tốc**\n- Bắt đầu với việc cuộn lưỡi chậm, phóng đại\n- Dần dần tăng tốc độ trong khi duy trì vị trí quặt lưỡi\n- Luyện tập với **{{word6}}** (shàngwǔ), **{{word7}}** (shíhou), **{{word8}}** (shìqíng)\n\n**Nhớ:** Vị trí quặt lưỡi cảm thấy không tự nhiên lúc đầu, nhưng với luyện tập nó trở nên tự nhiên!",
+          "zh": "以下是一些掌握**sh**音的专家技巧：\n\n**技巧1：练习卷舌**\n- 首先尽可能舒适地卷起舌头\n- 用舌尖下侧接近硬腭\n- 先练习这个位置而不发出声音\n- 使用镜子观察你的舌头位置\n\n**技巧2：与\"x\"比较**\n- 说**{{word1}}**（小） - 舌头平\n- 现在说**{{word2}}**（少） - 舌头卷起\n- 感受舌头位置的不同\n- 这种对比有助于训练你的肌肉\n\n**技巧3：从英语\"sh\"开始然后卷得更多**\n- 首先练习说\"she\"中的\"sh\"\n- 然后比英语\"sh\"更向后卷起舌头\n- 这给你中文**sh**音\n\n**技巧4：每天练习**\n- 每天花5-10分钟练习**sh**音\n- 专注于保持卷舌位置\n- 使用像**{{word3}}**（师傅）、**{{word4}}**（说话）、**{{word5}}**（什么）这样的词\n\n**技巧5：从慢开始，然后加速**\n- 从缓慢、夸张的卷舌开始\n- 在保持卷舌位置的同时逐渐提高速度\n- 用**{{word6}}**（上午）、**{{word7}}**（时候）、**{{word8}}**（事情）练习\n\n**记住：**卷舌位置起初感觉不自然，但通过练习会变得自然！"
+        }
+      },
+      "placeholders": [{
+        "word1": "小",
+        "word2": "少",
+        "word3": "师傅",
+        "word4": "说话",
+        "word5": "什么",
+        "word6": "上午",
+        "word7": "时候",
+        "word8": "事情"
+      }]
+    }
+  ]
+}
+
+

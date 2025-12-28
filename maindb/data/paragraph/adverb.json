@@ -1,0 +1,131 @@
+{
+  "id": "adverb",
+  "title": "Adverb in Chinese",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "Adverb in Chinese",
+    "vi": "Phó từ trong tiếng Trung",
+    "zh": "汉语中的副词"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Adverb in Chinese (副词)",
+          "vi": "Phó từ trong tiếng Trung (副词)",
+          "zh": "汉语中的副词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Adverb (副词) is a part of speech in Chinese that modifies verbs, adjectives, or other adverbs. Adverbs provide information about **time**, **frequency**, **degree**, **manner**, **negation**, and **affirmation**.\n\n**Key characteristics:**\n- Adverbs typically come **before** the verb or adjective they modify\n- Most adverbs cannot be modified by **很** (very)\n- Adverbs help express the speaker's attitude or evaluation\n\n**Example:**\n- 他**经常**来。 (He **often** comes.)\n- 这个**很**好。 (This is **very** good.)",
+          "vi": "Phó từ (副词) là một từ loại trong tiếng Trung dùng để bổ nghĩa cho động từ, tính từ hoặc phó từ khác. Phó từ cung cấp thông tin về **thời gian**, **tần suất**, **mức độ**, **cách thức**, **phủ định**, và **khẳng định**.\n\n**Đặc điểm chính:**\n- Phó từ thường đứng **trước** động từ hoặc tính từ mà nó bổ nghĩa\n- Hầu hết phó từ không thể được bổ nghĩa bởi **很** (rất)\n- Phó từ giúp thể hiện thái độ hoặc đánh giá của người nói\n\n**Ví dụ:**\n- 他**经常**来。 (Anh ấy **thường xuyên** đến.)\n- 这个**很**好。 (Cái này **rất** tốt.)",
+          "zh": "副词是汉语中的词类，用来修饰动词、形容词或其他副词。副词提供**时间**、**频率**、**程度**、**方式**、**否定**和**肯定**等信息。\n\n**主要特点：**\n- 副词通常位于所修饰的动词或形容词**之前**\n- 大多数副词不能用**很**（很）修饰\n- 副词帮助表达说话人的态度或评价\n\n**例句：**\n- 他**经常**来。\n- 这个**很**好。"
+        }
+      },
+      "placeholders": [{
+        "adv1": "很",
+        "adv2": "经常",
+        "adv3": "很"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Types of Adverbs (副词的种类)",
+          "vi": "Các loại phó từ (副词的种类)",
+          "zh": "副词的种类"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Chinese adverbs can be classified into several categories:\n\n**1. Time Adverbs (时间副词):**\n- **已经** (already), **刚刚** (just now), **还** (still), **马上** (immediately)\n\n**2. Frequency Adverbs (频率副词):**\n- **经常** (often), **总是** (always), **有时** (sometimes), **从不** (never)\n\n**3. Degree Adverbs (程度副词):**\n- **很** (very), **相当** (quite), **非常** (extremely), **有点儿** (a little)\n\n**4. Manner Adverbs (方式副词):**\n- **仔细** (carefully), **快速** (quickly), **慢慢** (slowly)\n\n**5. Negation Adverbs (否定副词):**\n- **不** (not), **别** (don't), **没** (no)\n\n**Example:**\n- 我**已经**吃过饭了。 (I have **already** eaten.)\n- 他**经常**锻炼。 (He exercises **often**.)\n- 这个**很**好。 (This is **very** good.)",
+          "vi": "Phó từ tiếng Trung có thể được phân loại thành nhiều loại:\n\n**1. Phó từ chỉ thời gian (时间副词):**\n- **已经** (đã), **刚刚** (vừa mới), **还** (vẫn), **马上** (ngay lập tức)\n\n**2. Phó từ chỉ tần suất (频率副词):**\n- **经常** (thường xuyên), **总是** (luôn luôn), **有时** (đôi khi), **从不** (không bao giờ)\n\n**3. Phó từ chỉ mức độ (程度副词):**\n- **很** (rất), **相当** (khá), **非常** (cực kỳ), **有点儿** (một chút)\n\n**4. Phó từ chỉ cách thức (方式副词):**\n- **仔细** (cẩn thận), **快速** (nhanh chóng), **慢慢** (chậm chạp)\n\n**5. Phó từ phủ định (否定副词):**\n- **不** (không), **别** (đừng), **没** (chưa)\n\n**Ví dụ:**\n- 我**已经**吃过饭了。 (Tôi **đã** ăn cơm rồi.)\n- 他**经常**锻炼。 (Anh ấy tập thể dục **thường xuyên**.)\n- 这个**很**好。 (Cái này **rất** tốt.)",
+          "zh": "汉语副词可以分为以下几类：\n\n**1. 时间副词：**\n- **已经**（已经）、**刚刚**（刚刚）、**还**（还）、**马上**（马上）\n\n**2. 频率副词：**\n- **经常**（经常）、**总是**（总是）、**有时**（有时）、**从不**（从不）\n\n**3. 程度副词：**\n- **很**（很）、**相当**（相当）、**非常**（非常）、**有点儿**（有点儿）\n\n**4. 方式副词：**\n- **仔细**（仔细地）、**快速**（快速地）、**慢慢**（慢慢地）\n\n**5. 否定副词：**\n- **不**（不）、**别**（别）、**没**（没）\n\n**例句：**\n- 我**已经**吃过饭了。\n- 他**经常**锻炼。\n- 这个**很**好。"
+        }
+      },
+      "placeholders": [{
+        "time1": "已经",
+        "time2": "刚刚",
+        "time3": "还",
+        "time4": "马上",
+        "freq1": "经常",
+        "freq2": "总是",
+        "freq3": "有时",
+        "freq4": "从不",
+        "deg1": "很",
+        "deg2": "相当",
+        "deg3": "非常",
+        "deg4": "有点儿",
+        "man1": "仔细",
+        "man2": "快速",
+        "man3": "慢慢",
+        "neg1": "不",
+        "neg2": "别",
+        "neg3": "没"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Position of Adverbs (副词的位置)",
+          "vi": "Vị trí của phó từ (副词的位置)",
+          "zh": "副词的位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The position of adverbs in Chinese sentences follows specific rules:\n\n1. **Before the verb**: Most adverbs are placed directly before the verb they modify.\n   - 我**经常**学习。 (I **often** study.)\n\n2. **Before the adjective**: Degree adverbs are placed before adjectives.\n   - 这个**很**好。 (This is **very** good.)\n\n3. **At the beginning of sentence**: Some time and frequency adverbs can appear at the beginning.\n   - **今天**，我在家。 (**Today**, I am at home.)\n\n4. **Before the subject**: Certain adverbs can be placed before the subject for emphasis.\n   - **突然**他来了。 (**Suddenly** he came.)\n\n**Note:** The position of adverbs affects the meaning and emphasis of the sentence.",
+          "vi": "Vị trí của phó từ trong câu tiếng Trung tuân theo các quy tắc cụ thể:\n\n1. **Trước động từ**: Hầu hết phó từ được đặt ngay trước động từ mà nó bổ nghĩa.\n   - 我**经常**学习。 (Tôi **thường xuyên** học.)\n\n2. **Trước tính từ**: Phó từ chỉ mức độ được đặt trước tính từ.\n   - 这个**很**好。 (Cái này **rất** tốt.)\n\n3. **Ở đầu câu**: Một số phó từ chỉ thời gian và tần suất có thể xuất hiện ở đầu câu.\n   - **今天**，我在家。 (**Hôm nay**, tôi ở nhà.)\n\n4. **Trước chủ ngữ**: Một số phó từ có thể được đặt trước chủ ngữ để nhấn mạnh.\n   - **突然**他来了。 (**Đột nhiên** anh ấy đã đến.)\n\n**Lưu ý:** Vị trí của phó từ ảnh hưởng đến ý nghĩa và sự nhấn mạnh của câu.",
+          "zh": "副词在句子中的位置遵循特定规律：\n\n1. **动词前**：大多数副词直接放在所修饰的动词前面。\n   - 我**经常**学习。\n\n2. **形容词前**：程度副词放在形容词前面。\n   - 这个**很**好。\n\n3. **句首**：一些时间和频率副词可以出现在句首。\n   - **今天**，我在家。\n\n4. **主语前**：某些副词可以放在主语前以表示强调。\n   - **突然**他来了。\n\n**注意：** 副词的位置影响句子的意义和强调。"
+        }
+      },
+      "placeholders": [{
+        "adv1": "经常",
+        "adv2": "很",
+        "adv3": "今天",
+        "adv4": "突然"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Adverbs (常用副词)",
+          "vi": "Phó từ thường dùng (常用副词)",
+          "zh": "常用副词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are some of the most commonly used adverbs in Chinese:\n\n**Time adverbs:**\n- **已经** (already), **刚刚** (just now), **还** (still), **马上** (immediately), **很快** (soon)\n\n**Frequency adverbs:**\n- **经常** (often), **总是** (always), **有时** (sometimes), **从不** (never), **再** (again)\n\n**Degree adverbs:**\n- **很** (very), **相当** (quite), **非常** (extremely), **有点儿** (a little), **太** (too)\n\n**Manner adverbs:**\n- **仔细** (carefully), **快速** (quickly), **慢慢** (slowly), **一起** (together)\n\n**Negation adverbs:**\n- **不** (not), **别** (don't), **没** (no/not yet)\n\n**Example sentences:**\n- 我**已经**吃过饭了。 (I have **already** eaten.)\n- 他**经常**锻炼身体。 (He exercises **often**.)\n- 这个**很**有趣。 (This is **very** interesting.)\n- 我**不**知道。 (I **don't** know.)",
+          "vi": "Dưới đây là một số phó từ thường dùng nhất trong tiếng Trung:\n\n**Phó từ chỉ thời gian:**\n- **已经** (đã), **刚刚** (vừa mới), **还** (vẫn), **马上** (ngay lập tức), **很快** (sớm)\n\n**Phó từ chỉ tần suất:**\n- **经常** (thường xuyên), **总是** (luôn luôn), **有时** (đôi khi), **从不** (không bao giờ), **再** (lại)\n\n**Phó từ chỉ mức độ:**\n- **很** (rất), **相当** (khá), **非常** (cực kỳ), **有点儿** (một chút), **太** (quá)\n\n**Phó từ chỉ cách thức:**\n- **仔细** (cẩn thận), **快速** (nhanh chóng), **慢慢** (chậm chạp), **一起** (cùng nhau)\n\n**Phó từ phủ định:**\n- **不** (không), **别** (đừng), **没** (chưa)\n\n**Ví dụ:**\n- 我**已经**吃过饭了。 (Tôi **đã** ăn cơm rồi.)\n- 他**经常**锻炼身体。 (Anh ấy tập thể dục **thường xuyên**.)\n- 这个**很**有趣。 (Cái này **rất** thú vị.)\n- 我**不**知道。 (Tôi **không** biết.)",
+          "zh": "以下是一些最常用的汉语副词：\n\n**时间副词：**\n- **已经**（已经）、**刚刚**（刚刚）、**还**（还）、**马上**（马上）、**很快**（很快）\n\n**频率副词：**\n- **经常**（经常）、**总是**（总是）、**有时**（有时）、**从不**（从不）、**再**（再）\n\n**程度副词：**\n- **很**（很）、**相当**（相当）、**非常**（非常）、**有点儿**（有点儿）、**太**（太）\n\n**方式副词：**\n- **仔细**（仔细地）、**快速**（快速地）、**慢慢**（慢慢地）、**一起**（一起）\n\n**否定副词：**\n- **不**（不）、**别**（别）、**没**（没）\n\n**例句：**\n- 我**已经**吃过饭了。\n- 他**经常**锻炼身体。\n- 这个**很**有趣。\n- 我**不**知道。"
+        }
+      },
+      "placeholders": [{
+        "adv1": "已经",
+        "adv2": "刚刚",
+        "adv3": "还",
+        "adv4": "马上",
+        "adv5": "很快",
+        "adv6": "经常",
+        "adv7": "总是",
+        "adv8": "有时",
+        "adv9": "从不",
+        "adv10": "再",
+        "adv11": "很",
+        "adv12": "相当",
+        "adv13": "非常",
+        "adv14": "有点儿",
+        "adv15": "太",
+        "adv16": "仔细",
+        "adv17": "快速",
+        "adv18": "慢慢",
+        "adv19": "一起",
+        "adv20": "不",
+        "adv21": "别",
+        "adv22": "没"
+      }]
+    }
+  ]
+}
+

@@ -1,0 +1,92 @@
+[{
+  "sentence": "这个数据库存储了大量信息。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè shù jù kù cún chǔ le dà liàng xìn xī",
+  "pinyin2": "zhe4 ge4 shu4 ju4 ku4 cun2 chu3 le da4 lia4ng xi4n xi1",
+  "translation": {
+    "en": "This database stores a large amount of information.",
+    "vi": "Cơ sở dữ liệu này lưu trữ một lượng lớn thông tin."
+  }
+}, {
+  "sentence": "我正在调试这个程序。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ zhèng zài tiáo shì zhè gè chéng xù",
+  "pinyin2": "wo3 zhe4ng za4i tia2o shi4 zhe4 ge4 che2ng xu4",
+  "translation": {
+    "en": "I'm debugging this program.",
+    "vi": "Tôi đang gỡ lỗi chương trình này."
+  }
+}, {
+  "sentence": "用户认证是必要的。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "yòng hù rèn zhèng shì bì yào de",
+  "pinyin2": "yo4ng hu4 re4n zhe4ng shi4 bi4 ya4o de",
+  "translation": {
+    "en": "User authentication is necessary.",
+    "vi": "Xác thực người dùng là cần thiết."
+  }
+}, {
+  "sentence": "他获得了授权。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā huò dé le shòu quán",
+  "pinyin2": "ta1 huo4 de2 le sho4u qua2n",
+  "translation": {
+    "en": "He received authorization.",
+    "vi": "Anh ấy đã nhận được ủy quyền."
+  }
+}, {
+  "sentence": "倘若明天下雨，我们就取消计划。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tǎng ruò míng tiān xià yǔ, wǒ men jiù qǔ xiāo jì huà",
+  "pinyin2": "ta3ng ruo4 mi2ng tia1n xia4 yu3, wo3 men jiu4 qu3 xia1o ji4 hua4",
+  "translation": {
+    "en": "If it rains tomorrow, we will cancel the plan.",
+    "vi": "Nếu như ngày mai trời mưa, chúng ta sẽ hủy kế hoạch."
+  }
+}, {
+  "sentence": "他不仅会英语，甚至于会法语。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā bù jǐn huì yīng yǔ, shèn zhì yú huì fǎ yǔ",
+  "pinyin2": "ta1 bu4 ji3n hui4 yi1ng yu3, she4n zhi4 yu2 hui4 fa3 yu3",
+  "translation": {
+    "en": "He not only speaks English, but even speaks French.",
+    "vi": "Anh ấy không chỉ biết tiếng Anh, thậm chí còn biết tiếng Pháp."
+  }
+}, {
+  "sentence": "炒菜时放点蒜。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "chǎo cài shí fàng diǎn suàn",
+  "pinyin2": "cha3o ca4i shi2 fa4ng dia3n sua4n",
+  "translation": {
+    "en": "Add some garlic when stir-frying vegetables.",
+    "vi": "Khi xào rau cho thêm chút tỏi."
+  }
+}, {
+  "sentence": "孩子们喜欢吃糖果。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "hái zi men xǐ huān chī táng guǒ",
+  "pinyin2": "ha2i zi men xi3 huan1 chi1 ta2ng guo3",
+  "translation": {
+    "en": "Children like eating candy.",
+    "vi": "Trẻ em thích ăn kẹo."
+  }
+}, {
+  "sentence": "我的亲戚都来了。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ de qīn qi dōu lái le",
+  "pinyin2": "wo3 de qi1n qi dou1 la2i le",
+  "translation": {
+    "en": "All my relatives came.",
+    "vi": "Tất cả họ hàng của tôi đều đến."
+  }
+}, {
+  "sentence": "政府提高了税收以增加财政收入。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhèng fǔ tí gāo le shuì shōu yǐ zēng jiā cái zhèng shōu rù",
+  "pinyin2": "zheng4 fu3 ti2 gao1 le shui4 shou1 yi3 zeng1 jia1 cai2 zheng4 shou1 ru4",
+  "translation": {
+    "en": "The government raised taxes to increase fiscal revenue.",
+    "vi": "Chính phủ tăng thuế để tăng thu nhập tài chính."
+  }
+}]
+

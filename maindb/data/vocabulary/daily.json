@@ -1,0 +1,2754 @@
+[
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "吃",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chī",
+    "pinyin2": "chi1",
+    "translation": {
+      "en": "eat, to eat",
+      "vi": "ăn"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "喝",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hē",
+    "pinyin2": "he1",
+    "translation": {
+      "en": "drink, to drink",
+      "vi": "uống"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "走",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǒu",
+    "pinyin2": "zou3",
+    "translation": {
+      "en": "walk, go; walk",
+      "vi": "đi bộ, đi; đi bộ"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "跑",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pǎo",
+    "pinyin2": "pao3",
+    "translation": {
+      "en": "run",
+      "vi": "chạy"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "看",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kàn",
+    "pinyin2": "kan4",
+    "translation": {
+      "en": "look / watch, to see; to read; to watch; to look at",
+      "vi": "xem, xem; đọc; nhìn"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "听",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tīng",
+    "pinyin2": "ting1",
+    "translation": {
+      "en": "listen, to listen; hear",
+      "vi": "nghe"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "说",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuō",
+    "pinyin2": "shuo1",
+    "translation": {
+      "en": "speak",
+      "vi": "nói"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "读",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dú",
+    "pinyin2": "du2",
+    "translation": {
+      "en": "read, read aloud",
+      "vi": "đọc, đọc to"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "买",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mǎi",
+    "pinyin2": "mai3",
+    "translation": {
+      "en": "buy",
+      "vi": "mua"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "卖",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mài",
+    "pinyin2": "mai4",
+    "translation": {
+      "en": "sell, to sell",
+      "vi": "bán"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "开",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kāi",
+    "pinyin2": "kai1",
+    "translation": {
+      "en": "open / drive, to switch on; open",
+      "vi": "mở / lái, bật; mở"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "关",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guān",
+    "pinyin2": "guan1",
+    "translation": {
+      "en": "close, to close",
+      "vi": "đóng"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "睡觉",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuì jiào",
+    "pinyin2": "shui4 jiao4",
+    "translation": {
+      "en": "sleep, to go to bed; to sleep, sleep, sleep",
+      "vi": "ngủ, đi ngủ; ngủ, ngủ, ngủ"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "起床",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qǐ chuáng",
+    "pinyin2": "qi3 chuang2",
+    "translation": {
+      "en": "get up, get up (out of bed), get up, get up",
+      "vi": "thức dậy"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "上班",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shàng bān",
+    "pinyin2": "shang4 ban1",
+    "translation": {
+      "en": "go to work, start work, go to work, go to work, go to work",
+      "vi": "đi làm"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "下班",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xià bān",
+    "pinyin2": "xia4 ban1",
+    "translation": {
+      "en": "get off work, finish work, finish work",
+      "vi": "tan làm"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "上学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shàng xué",
+    "pinyin2": "shang4 xue2",
+    "translation": {
+      "en": "go to school",
+      "vi": "đi học"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "下课",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xià kè",
+    "pinyin2": "xia4 ke4",
+    "translation": {
+      "en": "finish class",
+      "vi": "hết tiết, tan học, tan học, tan học, tan học"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "吃饭",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chī fàn",
+    "pinyin2": "chi1 fan4",
+    "translation": {
+      "en": "eat meal",
+      "vi": "ăn cơm"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "做饭",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò fàn",
+    "pinyin2": "zuo4 fan4",
+    "translation": {
+      "en": "cook",
+      "vi": "nấu ăn"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "洗澡",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xǐ zǎo",
+    "pinyin2": "xi3 zao3",
+    "translation": {
+      "en": "take a shower, have a shower; bath, take a shower, take a shower",
+      "vi": "tắm"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "洗手",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xǐ shǒu",
+    "pinyin2": "xi3 shou3",
+    "translation": {
+      "en": "wash hands",
+      "vi": "rửa tay"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "洗衣服",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xǐ yīfu, xǐ yī fu, xǐ yī fú",
+    "pinyin2": "xi3 yi1 fu, xi3 yi1 fu2",
+    "translation": {
+      "en": "wash clothes",
+      "vi": "giặt đồ, giặt quần áo, giặt quần áo"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "打扫",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dǎ sǎo",
+    "pinyin2": "da3 sao3",
+    "translation": {
+      "en": "clean, to clean, clean",
+      "vi": "dọn dẹp, quét dọn"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "扫地",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "sǎo dì",
+    "pinyin2": "sao3 di4",
+    "translation": {
+      "en": "sweep floor",
+      "vi": "quét nhà"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "拖地",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tuō dì",
+    "pinyin2": "tuo1 di4",
+    "translation": {
+      "en": "mop the floor, mop floor",
+      "vi": "lau nhà"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "开灯",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kāi dēng",
+    "pinyin2": "kai1 deng1",
+    "translation": {
+      "en": "turn on the light",
+      "vi": "bật đèn"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "关灯",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guān dēng",
+    "pinyin2": "guan1 deng1",
+    "translation": {
+      "en": "turn off the light",
+      "vi": "tắt đèn"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "洗脸",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xǐ liǎn",
+    "pinyin2": "xi3 lian3",
+    "translation": {
+      "en": "wash face",
+      "vi": "rửa mặt"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "刷牙",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuā yá",
+    "pinyin2": "shua1 ya2",
+    "translation": {
+      "en": "brush teeth",
+      "vi": "đánh răng"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "喝水",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hē shuǐ",
+    "pinyin2": "he1 shui3",
+    "translation": {
+      "en": "drink water",
+      "vi": "uống nước"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "喝咖啡",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hē kāfēi, hē kā fēi",
+    "pinyin2": "he1 ka1 fei1",
+    "translation": {
+      "en": "drink coffee",
+      "vi": "uống cà phê"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "喝茶",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hē chá",
+    "pinyin2": "he1 cha2",
+    "translation": {
+      "en": "drink tea",
+      "vi": "uống trà"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "早饭",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǎofàn",
+    "pinyin2": "zao3 fan4",
+    "translation": {
+      "en": "breakfast",
+      "vi": "bữa ăn sáng"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "午饭",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wǔfàn",
+    "pinyin2": "wu3 fan4",
+    "translation": {
+      "en": "lunch",
+      "vi": "ăn trưa"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "晚饭",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wǎnfàn",
+    "pinyin2": "wan3 fan4",
+    "translation": {
+      "en": "dinner",
+      "vi": "bữa ăn tối"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "做作业",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò zuòyè, zuò zuò yè",
+    "pinyin2": "zuo4 zuo4 ye4",
+    "translation": {
+      "en": "do homework",
+      "vi": "làm bài tập"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "休息",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiūxi, xiū xi",
+    "pinyin2": "xiu1 xi, xiu1 xi1",
+    "translation": {
+      "en": "rest, to rest, rest, rest, rest, rest",
+      "vi": "nghỉ ngơi"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "daily"
+    ],
+    "word": "聊天",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liáotiān, liáo tiān",
+    "pinyin2": "liao2 tian1",
+    "translation": {
+      "en": "chat, to chat, chat",
+      "vi": "tán chuyện, trò chuyện, tán gẫu"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "打电话",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dǎ diànhuà, dǎ diàn huà",
+    "pinyin2": "da3 dian4 hua4",
+    "translation": {
+      "en": "make a phone call, to make a telephone call, make a call, make a call",
+      "vi": "gọi điện, gọi điện thoại, gọi điện thoại, gọi điện thoại"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "发信息",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fā xìnxī, fā xìn xī",
+    "pinyin2": "fa1 xin4 xi1",
+    "translation": {
+      "en": "send a message, send message",
+      "vi": "gửi tin nhắn"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "上网",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shàng wǎng",
+    "pinyin2": "shang4 wang3",
+    "translation": {
+      "en": "surf the internet, get on the internet, go online, surf the internet",
+      "vi": "lướt web, lên mạng, lên mạng, lên mạng"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "玩游戏",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wán yóuxì",
+    "pinyin2": "wan2 you2 xi4",
+    "translation": {
+      "en": "play games",
+      "vi": "chơi game"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "看电影",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kàn diànyǐng, kàn diàn yǐng",
+    "pinyin2": "kan4 dian4 ying3",
+    "translation": {
+      "en": "watch movie, watch a movie",
+      "vi": "xem phim"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "看电视",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kàn diànshì, kàn diàn shì",
+    "pinyin2": "kan4 dian4 shi4",
+    "translation": {
+      "en": "watch TV",
+      "vi": "xem tivi"
+    }
+  },
+  {
+    "tags": [
+      "daily",
+      "learning"
+    ],
+    "word": "看书",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kàn shū",
+    "pinyin2": "kan4 shu1",
+    "translation": {
+      "en": "read books, read, read books",
+      "vi": "đọc sách, đọc, đọc sách"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "画画",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huà huà",
+    "pinyin2": "hua4 hua4",
+    "translation": {
+      "en": "draw",
+      "vi": "vẽ"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "唱歌",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chàng gē",
+    "pinyin2": "chang4 ge1",
+    "translation": {
+      "en": "sing, to sing; singing, sing, sing, sing",
+      "vi": "hát"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "跳舞",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tiào wǔ",
+    "pinyin2": "tiao4 wu3",
+    "translation": {
+      "en": "dance, to dance, dance, dance, dance",
+      "vi": "nhảy, nhảy múa, nhảy, nhảy, nhảy"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "运动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yùndòng, yùn dòng",
+    "pinyin2": "yun4 dong4",
+    "translation": {
+      "en": "exercise, sport, exercise, exercise, exercise, exercise",
+      "vi": "tập thể dục, thể thao, tập thể dục, tập thể dục, tập thể dục, tập thể dục"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "跑步",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pǎo bù",
+    "pinyin2": "pao3 bu4",
+    "translation": {
+      "en": "jog, running; jogging, jog/run, jog, jog, jog/run",
+      "vi": "chạy bộ"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "游泳",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yóuyǒng, yóu yǒng",
+    "pinyin2": "you2 yong3",
+    "translation": {
+      "en": "swim, swimming, swim, swim, swim, swim",
+      "vi": "bơi, bơi lội, bơi, bơi, bơi"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "骑车",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qí chē",
+    "pinyin2": "qi2 che1",
+    "translation": {
+      "en": "ride a bike",
+      "vi": "đạp xe"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "坐车",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò chē",
+    "pinyin2": "zuo4 che1",
+    "translation": {
+      "en": "take a vehicle",
+      "vi": "ngồi xe"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "坐公交",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò gōngjiāo",
+    "pinyin2": "zuo4 gong1 jiao1",
+    "translation": {
+      "en": "take the bus",
+      "vi": "đi xe buýt"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "坐地铁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò dìtiě",
+    "pinyin2": "zuo4 di4 tie3",
+    "translation": {
+      "en": "take the subway",
+      "vi": "đi tàu điện ngầm"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "开车",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kāi chē",
+    "pinyin2": "kai1 che1",
+    "translation": {
+      "en": "drive a car",
+      "vi": "lái xe"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "停车",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tíng chē",
+    "pinyin2": "ting2 che1",
+    "translation": {
+      "en": "park",
+      "vi": "đậu xe"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "daily"
+    ],
+    "word": "排队",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pái duì",
+    "pinyin2": "pai2 dui4",
+    "translation": {
+      "en": "queue, queue up; line up, queue, queue",
+      "vi": "xếp hàng"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "等",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "děng",
+    "pinyin2": "deng3",
+    "translation": {
+      "en": "wait, to wait for, wait",
+      "vi": "chờ, đợi, chờ"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "找",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǎo",
+    "pinyin2": "zhao3",
+    "translation": {
+      "en": "look for, to find; to look for",
+      "vi": "tìm"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "拿",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "ná",
+    "pinyin2": "na2",
+    "translation": {
+      "en": "take, to take",
+      "vi": "lấy"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "放",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fàng",
+    "pinyin2": "fang4",
+    "translation": {
+      "en": "put, to put; set free",
+      "vi": "đặt, đặt; thả"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "带",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dài",
+    "pinyin2": "dai4",
+    "translation": {
+      "en": "bring, carry",
+      "vi": "mang theo, mang"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "穿",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chuān",
+    "pinyin2": "chuan1",
+    "translation": {
+      "en": "wear, to wear; to put on",
+      "vi": "mặc, mặc; đeo"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "daily"
+    ],
+    "word": "脱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tuō",
+    "pinyin2": "tuo1",
+    "translation": {
+      "en": "take off (clothes), to escape; shed",
+      "vi": "cởi, thoát; cởi"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "daily"
+    ],
+    "word": "戴",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dài",
+    "pinyin2": "dai4",
+    "translation": {
+      "en": "wear (accessories), to wear (accessories)",
+      "vi": "đeo, đeo (phụ kiện)"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "洗头",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xǐ tóu",
+    "pinyin2": "xi3 tou2",
+    "translation": {
+      "en": "wash hair",
+      "vi": "gội đầu"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "照镜子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhào jìngzi",
+    "pinyin2": "zhao4 jing4 zi",
+    "translation": {
+      "en": "look in the mirror",
+      "vi": "soi gương"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "梳头",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shū tóu",
+    "pinyin2": "shu1 tou2",
+    "translation": {
+      "en": "comb hair",
+      "vi": "chải đầu"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "上厕所",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shàng cèsuǒ",
+    "pinyin2": "shang4 ce4 suo3",
+    "translation": {
+      "en": "go to the toilet",
+      "vi": "đi vệ sinh"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "洗手间",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xǐshǒujiān",
+    "pinyin2": "xi3 shou3 jian1",
+    "translation": {
+      "en": "restroom, toilets; washroom",
+      "vi": "nhà vệ sinh"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "厨房",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chúfáng",
+    "pinyin2": "chu2 fang2",
+    "translation": {
+      "en": "kitchen",
+      "vi": "nhà bếp, bếp"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "daily"
+    ],
+    "word": "客厅",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kètīng",
+    "pinyin2": "ke4 ting1",
+    "translation": {
+      "en": "living room",
+      "vi": "phòng khách"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "daily"
+    ],
+    "word": "卧室",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wòshì",
+    "pinyin2": "wo4 shi4",
+    "translation": {
+      "en": "bedroom",
+      "vi": "phòng ngủ"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "daily"
+    ],
+    "word": "阳台",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yángtái",
+    "pinyin2": "yang2 tai2",
+    "translation": {
+      "en": "balcony, balcony; terrace; gallery",
+      "vi": "ban công"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "门",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mén",
+    "pinyin2": "men2",
+    "translation": {
+      "en": "door",
+      "vi": "cửa"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "daily"
+    ],
+    "word": "窗户",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chuānghu",
+    "pinyin2": "chuang1 hu",
+    "translation": {
+      "en": "window",
+      "vi": "cửa sổ"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "桌子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuōzi",
+    "pinyin2": "zhuo1 zi",
+    "translation": {
+      "en": "table",
+      "vi": "cái bàn, bàn"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "椅子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǐzi",
+    "pinyin2": "yi3 zi",
+    "translation": {
+      "en": "chair",
+      "vi": "cái ghế, ghế"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "床",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chuáng",
+    "pinyin2": "chuang2",
+    "translation": {
+      "en": "bed",
+      "vi": "giường"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "杯子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bēizi",
+    "pinyin2": "bei1 zi",
+    "translation": {
+      "en": "cup, cup; glass; mug",
+      "vi": "cái cốc, cốc; ly; cốc"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily",
+      "quantifier"
+    ],
+    "word": "碗",
+    "description": {
+      "en": "Quantifier for bowls.",
+      "vi": "Lượng từ cho bát.",
+      "zh": "用于碗的量词。"
+    },
+    "pinyin1": "wǎn",
+    "pinyin2": "wan3",
+    "translation": {
+      "en": "bowl, a bowl of, bowl",
+      "vi": "cái bát, bát, bát"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "筷子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kuàizi",
+    "pinyin2": "kuai4 zi",
+    "translation": {
+      "en": "chopsticks",
+      "vi": "đũa"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "盘子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pánzi",
+    "pinyin2": "pan2 zi",
+    "translation": {
+      "en": "plate, tray",
+      "vi": "đĩa, khay"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "daily"
+    ],
+    "word": "刀",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dāo",
+    "pinyin2": "dao1",
+    "translation": {
+      "en": "knife",
+      "vi": "dao"
+    }
+  },
+  {
+    "tags": [
+      "HSK5",
+      "daily"
+    ],
+    "word": "叉子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chāzi",
+    "pinyin2": "cha1 zi",
+    "translation": {
+      "en": "fork, fork; prong",
+      "vi": "nĩa"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "手机",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shǒujī",
+    "pinyin2": "shou3 ji1",
+    "translation": {
+      "en": "mobile phone",
+      "vi": "điện thoại, điện thoại di động"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "电视",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diànshì",
+    "pinyin2": "dian4 shi4",
+    "translation": {
+      "en": "television, TV",
+      "vi": "tivi, TV; tivi"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "空调",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kōngtiáo",
+    "pinyin2": "kong1 tiao2",
+    "translation": {
+      "en": "air conditioner, air-conditioning",
+      "vi": "máy lạnh, điều hòa"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "冰箱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bīngxiāng",
+    "pinyin2": "bing1 xiang1",
+    "translation": {
+      "en": "fridge",
+      "vi": "tủ lạnh"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "早上",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zǎo shang",
+    "pinyin2": "zao3 shang4",
+    "translation": {
+      "en": "morning, early morning",
+      "vi": "buổi sáng, sáng sớm"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "晚上",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wǎn shang",
+    "pinyin2": "wan3 shang4",
+    "translation": {
+      "en": "evening",
+      "vi": "buổi tối"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "中午",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng wǔ",
+    "pinyin2": "zhong1 wu3",
+    "translation": {
+      "en": "noon, midday",
+      "vi": "buổi trưa"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diǎn",
+    "pinyin2": "dian3",
+    "translation": {
+      "en": "o'clock, o’clock; spot; dot",
+      "vi": "giờ, giờ; điểm; chấm"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "分钟",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēn zhōng",
+    "pinyin2": "fen1 zhong1",
+    "translation": {
+      "en": "minute",
+      "vi": "phút"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily",
+      "quantifier"
+    ],
+    "word": "小时",
+    "description": {
+      "en": "Quantifier for hours.",
+      "vi": "Lượng từ cho giờ.",
+      "zh": "用于小时的量词。"
+    },
+    "pinyin1": "xiǎo shí",
+    "pinyin2": "xiao3 shi2",
+    "translation": {
+      "en": "hour",
+      "vi": "giờ"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "昨天",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuó tiān",
+    "pinyin2": "zuo2 tian1",
+    "translation": {
+      "en": "yesterday",
+      "vi": "hôm qua"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "今天",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jīn tiān",
+    "pinyin2": "jin1 tian1",
+    "translation": {
+      "en": "today",
+      "vi": "hôm nay"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "明天",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "míng tiān",
+    "pinyin2": "ming2 tian1",
+    "translation": {
+      "en": "tomorrow",
+      "vi": "ngày mai"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily"
+    ],
+    "word": "朋友",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "péng you",
+    "pinyin2": "peng2 you",
+    "translation": {
+      "en": "friend",
+      "vi": "bạn bè, bạn"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "家人",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiā rén",
+    "pinyin2": "jia1 ren2",
+    "translation": {
+      "en": "family members",
+      "vi": "người nhà"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily",
+      "learning"
+    ],
+    "word": "老师",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lǎo shī",
+    "pinyin2": "lao3 shi1",
+    "translation": {
+      "en": "teacher",
+      "vi": "giáo viên, giáo viên; thầy cô, giáo viên"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "同事",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tóng shì",
+    "pinyin2": "tong2 shi4",
+    "translation": {
+      "en": "colleague",
+      "vi": "đồng nghiệp"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "邻居",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lín jū",
+    "pinyin2": "lin2 ju1",
+    "translation": {
+      "en": "neighbor, neighbour",
+      "vi": "hàng xóm"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "发消息",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fā xiāo xi",
+    "pinyin2": "fa1 xiao1 xi1",
+    "translation": {
+      "en": "send message",
+      "vi": "gửi tin nhắn"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "看新闻",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kàn xīn wén",
+    "pinyin2": "kan4 xin1 wen2",
+    "translation": {
+      "en": "read news",
+      "vi": "đọc tin tức, xem tin tức"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "吃早餐",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chī zǎo cān",
+    "pinyin2": "chi1 zao3 can1",
+    "translation": {
+      "en": "eat breakfast",
+      "vi": "ăn sáng"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "吃午餐",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chī wǔ cān",
+    "pinyin2": "chi1 wu3 can1",
+    "translation": {
+      "en": "eat lunch",
+      "vi": "ăn trưa"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "吃晚餐",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chī wǎn cān",
+    "pinyin2": "chi1 wan3 can1",
+    "translation": {
+      "en": "eat dinner",
+      "vi": "ăn tối"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "洗碗",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xǐ wǎn",
+    "pinyin2": "xi3 wan3",
+    "translation": {
+      "en": "wash dishes",
+      "vi": "rửa chén, rửa bát, rửa bát"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "写字",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiě zì",
+    "pinyin2": "xie3 zi4",
+    "translation": {
+      "en": "write",
+      "vi": "viết chữ"
+    }
+  },
+  {
+    "tags": [
+      "HSK1",
+      "daily",
+      "learning"
+    ],
+    "word": "学习",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xué xí",
+    "pinyin2": "xue2 xi2",
+    "translation": {
+      "en": "study, to learn; to study, study, study, study",
+      "vi": "học tập, học, học tập, học tập, học tập"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "daily"
+    ],
+    "word": "散步",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "sàn bù",
+    "pinyin2": "san4 bu4",
+    "translation": {
+      "en": "take a walk, to go for a walk; stroll",
+      "vi": "đi bộ, đi dạo"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "换衣服",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huàn yī fu",
+    "pinyin2": "huan4 yi1 fu2",
+    "translation": {
+      "en": "change clothes",
+      "vi": "thay quần áo"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "穿衣服",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chuān yī fu",
+    "pinyin2": "chuan1 yi1 fu2",
+    "translation": {
+      "en": "put on clothes",
+      "vi": "mặc quần áo"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "脱衣服",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tuō yī fu",
+    "pinyin2": "tuo1 yi1 fu2",
+    "translation": {
+      "en": "take off clothes",
+      "vi": "cởi quần áo"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "戴帽子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dài mào zi",
+    "pinyin2": "dai4 mao4 zi",
+    "translation": {
+      "en": "wear hat",
+      "vi": "đội mũ"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "戴手套",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dài shǒu tào",
+    "pinyin2": "dai4 shou3 tao4",
+    "translation": {
+      "en": "wear gloves",
+      "vi": "đeo găng tay"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "戴眼镜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dài yǎn jìng",
+    "pinyin2": "dai4 yan3 jing4",
+    "translation": {
+      "en": "wear glasses",
+      "vi": "đeo kính"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "出门",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chū mén",
+    "pinyin2": "chu1 men2",
+    "translation": {
+      "en": "go out",
+      "vi": "ra ngoài"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "回家",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huí jiā",
+    "pinyin2": "hui2 jia1",
+    "translation": {
+      "en": "go home",
+      "vi": "về nhà"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily",
+      "learning"
+    ],
+    "word": "复习",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fù xí",
+    "pinyin2": "fu4 xi2",
+    "translation": {
+      "en": "review, revise, review, review",
+      "vi": "ôn tập"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily",
+      "learning"
+    ],
+    "word": "考试",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kǎo shì",
+    "pinyin2": "kao3 shi4",
+    "translation": {
+      "en": "exam, examination, exam, exam",
+      "vi": "thi cử, kỳ thi, kỳ thi, thi cử"
+    }
+  },
+  {
+    "tags": [
+      "daily",
+      "learning"
+    ],
+    "word": "上课",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shàng kè",
+    "pinyin2": "shang4 ke4",
+    "translation": {
+      "en": "attend class",
+      "vi": "lên lớp, đi học, lên lớp"
+    }
+  },
+  {
+    "tags": [
+      "HSK2",
+      "daily"
+    ],
+    "word": "玩",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wán",
+    "pinyin2": "wan2",
+    "translation": {
+      "en": "play, to play, play",
+      "vi": "chơi"
+    }
+  },
+  {
+    "tags": [
+      "HSK3",
+      "daily"
+    ],
+    "word": "游戏",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yóu xì",
+    "pinyin2": "you2 xi4",
+    "translation": {
+      "en": "game",
+      "vi": "trò chơi"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "听音乐",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tīng yīn yuè",
+    "pinyin2": "ting1 yin1 yue4",
+    "translation": {
+      "en": "listen to music",
+      "vi": "nghe nhạc"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "买东西",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mǎi dōng xī",
+    "pinyin2": "mai3 dong1 xi1",
+    "translation": {
+      "en": "shop/buy things",
+      "vi": "mua sắm"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "逛街",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guàng jiē",
+    "pinyin2": "guang4 jie1",
+    "translation": {
+      "en": "go shopping/stroll",
+      "vi": "đi dạo phố"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "付钱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fù qián",
+    "pinyin2": "fu4 qian2",
+    "translation": {
+      "en": "pay",
+      "vi": "trả tiền"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "收银",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shōu yín",
+    "pinyin2": "shou1 yin2",
+    "translation": {
+      "en": "cashier",
+      "vi": "thu ngân"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "daily"
+    ],
+    "word": "收拾",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shōu shi",
+    "pinyin2": "shou1 shi",
+    "translation": {
+      "en": "tidy up, to put in order",
+      "vi": "dọn dẹp"
+    }
+  },
+  {
+    "tags": [
+      "HSK4",
+      "daily"
+    ],
+    "word": "整理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhěng lǐ",
+    "pinyin2": "zheng3 li3",
+    "translation": {
+      "en": "organize, to arrange",
+      "vi": "sắp xếp"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "晾衣服",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liàng yī fú",
+    "pinyin2": "liang4 yi1 fu2",
+    "translation": {
+      "en": "hang clothes to dry",
+      "vi": "phơi quần áo"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "折衣服",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhé yī fú",
+    "pinyin2": "zhe2 yi1 fu2",
+    "translation": {
+      "en": "fold clothes",
+      "vi": "gấp quần áo"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "切菜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qiē cài",
+    "pinyin2": "qie1 cai4",
+    "translation": {
+      "en": "cut vegetables",
+      "vi": "cắt rau"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "炒菜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chǎo cài",
+    "pinyin2": "chao3 cai4",
+    "translation": {
+      "en": "stir-fry",
+      "vi": "xào nấu"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "煮饭",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ fàn",
+    "pinyin2": "zhu3 fan4",
+    "translation": {
+      "en": "cook rice",
+      "vi": "nấu cơm"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "倒垃圾",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dào lā jī",
+    "pinyin2": "dao4 la1 ji1",
+    "translation": {
+      "en": "take out trash",
+      "vi": "đổ rác"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "整理房间",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhěng lǐ fáng jiān",
+    "pinyin2": "zheng3 li3 fang2 jian1",
+    "translation": {
+      "en": "tidy the room",
+      "vi": "dọn phòng"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "浇花",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiāo huā",
+    "pinyin2": "jiao1 hua1",
+    "translation": {
+      "en": "water flowers",
+      "vi": "tưới cây"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "养宠物",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǎng chǒng wù",
+    "pinyin2": "yang3 chong3 wu4",
+    "translation": {
+      "en": "raise pets",
+      "vi": "nuôi thú cưng"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "喂宠物",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wèi chǒng wù",
+    "pinyin2": "wei4 chong3 wu4",
+    "translation": {
+      "en": "feed pets",
+      "vi": "cho thú cưng ăn"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "遛狗",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liù gǒu",
+    "pinyin2": "liu4 gou3",
+    "translation": {
+      "en": "walk the dog",
+      "vi": "dắt chó đi dạo"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "买菜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mǎi cài",
+    "pinyin2": "mai3 cai4",
+    "translation": {
+      "en": "buy groceries",
+      "vi": "mua rau"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "去超市",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qù chāo shì",
+    "pinyin2": "qu4 chao1 shi4",
+    "translation": {
+      "en": "go to supermarket",
+      "vi": "đi siêu thị"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "去商店",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qù shāng diàn",
+    "pinyin2": "qu4 shang1 dian4",
+    "translation": {
+      "en": "go to the store, go to store",
+      "vi": "đi cửa hàng"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "逛商场",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guàng shāng chǎng",
+    "pinyin2": "guang4 shang1 chang3",
+    "translation": {
+      "en": "stroll in shopping mall",
+      "vi": "đi dạo trung tâm thương mại"
+    }
+  },
+  {
+    "tags": [
+      "daily",
+      "fruit"
+    ],
+    "word": "吃水果",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chī shuǐ guǒ",
+    "pinyin2": "chi1 shui3 guo3",
+    "translation": {
+      "en": "eat fruit",
+      "vi": "ăn trái cây"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "喝牛奶",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hē niú nǎi",
+    "pinyin2": "he1 niu2 nai3",
+    "translation": {
+      "en": "drink milk",
+      "vi": "uống sữa"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "煮水",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔ shuǐ",
+    "pinyin2": "zhu3 shui3",
+    "translation": {
+      "en": "boil water",
+      "vi": "đun nước"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "擦桌子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cā zhuō zi",
+    "pinyin2": "ca1 zhuo1 zi",
+    "translation": {
+      "en": "wipe the table",
+      "vi": "lau bàn"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "整理床铺",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhěng lǐ chuáng pù",
+    "pinyin2": "zheng3 li3 chuang2 pu4",
+    "translation": {
+      "en": "make the bed",
+      "vi": "dọn giường"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "打扫房间",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dǎ sǎo fáng jiān",
+    "pinyin2": "da3 sao3 fang2 jian1",
+    "translation": {
+      "en": "clean the room",
+      "vi": "quét dọn phòng"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "有点儿",
+    "description": {
+      "en": "Used to express a slight degree of something, often with a negative connotation. Placed before adjectives or verbs.",
+      "vi": "Dùng để diễn tả mức độ nhẹ của cái gì đó, thường mang nghĩa tiêu cực. Đặt trước tính từ hoặc động từ.",
+      "zh": "表示程度轻微，常带有消极色彩。放在形容词或动词前面。"
+    },
+    "pinyin1": "yǒu diǎnr",
+    "pinyin2": "you3 dian3r",
+    "translation": {
+      "en": "a bit / somewhat",
+      "vi": "hơi / một chút"
+    }
+  },
+  {
+    "tags": [
+      "daily"
+    ],
+    "word": "一点儿",
+    "description": {
+      "en": "Used to express a small amount or degree. Often used with '不' (not) to mean 'not at all', or to modify nouns meaning 'a little bit of something'.",
+      "vi": "Dùng để diễn tả một lượng nhỏ hoặc mức độ nhẹ. Thường dùng với '不' (không) để có nghĩa 'không chút nào', hoặc bổ nghĩa cho danh từ có nghĩa 'một chút gì đó'.",
+      "zh": "表示数量少或程度轻。常与'不'连用表示'一点也不'，或修饰名词表示'一点儿...'。"
+    },
+    "pinyin1": "yī diǎnr",
+    "pinyin2": "yi1 dian3r",
+    "translation": {
+      "en": "a little / a bit",
+      "vi": "một chút"
+    }
+  }
+]

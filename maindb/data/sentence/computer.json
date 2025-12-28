@@ -1,0 +1,1576 @@
+[{
+  "sentence": "我用电脑工作。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ yòng diàn nǎo gōng zuò",
+  "pinyin2": "wo3 yong4 dian4 nao3 gong1 zuo4",
+  "translation": {
+    "en": "I work with a computer.",
+    "vi": "Tôi làm việc bằng máy tính."
+  }
+}, {
+  "sentence": "这个软件很好用。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè ruǎn jiàn hěn hǎo yòng",
+  "pinyin2": "zhe4 ge4 ruan3 jian4 hen3 hao3 yong4",
+  "translation": {
+    "en": "This software is very easy to use.",
+    "vi": "Phần mềm này rất dễ sử dụng."
+  }
+}, {
+  "sentence": "硬件需要升级了。",
+  "tags": ["computer"],
+  "pinyin1": "yìng jiàn xū yào shēng jí le",
+  "pinyin2": "ying4 jian4 xu1 yao4 sheng1 ji2 le",
+  "translation": {
+    "en": "The hardware needs to be upgraded.",
+    "vi": "Phần cứng cần được nâng cấp rồi."
+  }
+}, {
+  "sentence": "我正在写程序。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ zhèng zài xiě chéng xù",
+  "pinyin2": "wo3 zheng4 zai4 xie3 cheng2 xu4",
+  "translation": {
+    "en": "I'm writing a program.",
+    "vi": "Tôi đang viết chương trình."
+  }
+}, {
+  "sentence": "请打开这个文件。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng dǎ kāi zhè gè wén jiàn",
+  "pinyin2": "qing3 da3 kai1 zhe4 ge4 wen2 jian4",
+  "translation": {
+    "en": "Please open this file.",
+    "vi": "Xin hãy mở file này."
+  }
+}, {
+  "sentence": "我需要下载这个软件。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ xū yào xià zài zhè gè ruǎn jiàn",
+  "pinyin2": "wo3 xu1 yao4 xia4 zai4 zhe4 ge4 ruan3 jian4",
+  "translation": {
+    "en": "I need to download this software.",
+    "vi": "Tôi cần tải phần mềm này."
+  }
+}, {
+  "sentence": "我的电脑死机了。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ de diàn nǎo sǐ jī le",
+  "pinyin2": "wo3 de dian4 nao3 si3 ji1 le",
+  "translation": {
+    "en": "My computer crashed.",
+    "vi": "Máy tính của tôi bị treo rồi."
+  }
+}, {
+  "sentence": "请保存你的工作。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng bǎo cún nǐ de gōng zuò",
+  "pinyin2": "qing3 bao3 cun2 ni3 de gong1 zuo4",
+  "translation": {
+    "en": "Please save your work.",
+    "vi": "Xin hãy lưu công việc của bạn."
+  }
+}, {
+  "sentence": "这个网站打不开。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè wǎng zhàn dǎ bù kāi",
+  "pinyin2": "zhe4 ge4 wang3 zhan4 da3 bu4 kai1",
+  "translation": {
+    "en": "This website won't open.",
+    "vi": "Trang web này không mở được."
+  }
+}, {
+  "sentence": "我需要连接网络。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ xū yào lián jiē wǎng luò",
+  "pinyin2": "wo3 xu1 yao4 lian2 jie1 wang3 luo4",
+  "translation": {
+    "en": "I need to connect to the network.",
+    "vi": "Tôi cần kết nối mạng."
+  }
+}, {
+  "sentence": "请检查你的邮箱。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng jiǎn chá nǐ de yóu xiāng",
+  "pinyin2": "qing3 jian3 cha2 ni3 de you2 xiang1",
+  "translation": {
+    "en": "Please check your email.",
+    "vi": "Xin hãy kiểm tra hộp thư của bạn."
+  }
+}, {
+  "sentence": "这个程序运行很慢。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè chéng xù yùn xíng hěn màn",
+  "pinyin2": "zhe4 ge4 cheng2 xu4 yun4 xing2 hen3 man4",
+  "translation": {
+    "en": "This program runs very slowly.",
+    "vi": "Chương trình này chạy rất chậm."
+  }
+}, {
+  "sentence": "我正在学习编程。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ zhèng zài xué xí biān chéng",
+  "pinyin2": "wo3 zheng4 zai4 xue2 xi2 bian1 cheng2",
+  "translation": {
+    "en": "I'm learning programming.",
+    "vi": "Tôi đang học lập trình."
+  }
+}, {
+  "sentence": "这段代码有问题。",
+  "tags": ["computer"],
+  "pinyin1": "zhè duàn dài mǎ yǒu wèn tí",
+  "pinyin2": "zhe4 duan4 dai4 ma3 you3 wen4 ti2",
+  "translation": {
+    "en": "There's a problem with this code.",
+    "vi": "Đoạn mã này có vấn đề."
+  }
+}, {
+  "sentence": "请把文件放在文件夹里。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng bǎ wén jiàn fàng zài wén jiàn jiā lǐ",
+  "pinyin2": "qing3 ba3 wen2 jian4 fang4 zai4 wen2 jian4 jia1 li3",
+  "translation": {
+    "en": "Please put the file in the folder.",
+    "vi": "Xin hãy đặt file vào thư mục."
+  }
+}, {
+  "sentence": "我需要压缩这个文件。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ xū yào yā suō zhè gè wén jiàn",
+  "pinyin2": "wo3 xu1 yao4 ya1 suo1 zhe4 ge4 wen2 jian4",
+  "translation": {
+    "en": "I need to compress this file.",
+    "vi": "Tôi cần nén file này."
+  }
+}, {
+  "sentence": "请解压这个文件。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng jiě yā zhè gè wén jiàn",
+  "pinyin2": "qing3 jie3 ya1 zhe4 ge4 wen2 jian4",
+  "translation": {
+    "en": "Please decompress this file.",
+    "vi": "Xin hãy giải nén file này."
+  }
+}, {
+  "sentence": "这个算法很高效。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè suàn fǎ hěn gāo xiào",
+  "pinyin2": "zhe4 ge4 suan4 fa3 hen3 gao1 xiao4",
+  "translation": {
+    "en": "This algorithm is very efficient.",
+    "vi": "Thuật toán này rất hiệu quả."
+  }
+}, {
+  "sentence": "这些数据很重要。",
+  "tags": ["computer"],
+  "pinyin1": "zhè xiē shù jù hěn zhòng yào",
+  "pinyin2": "zhe4 xie1 shu4 ju4 hen3 zhong4 yao4",
+  "translation": {
+    "en": "This data is very important.",
+    "vi": "Dữ liệu này rất quan trọng."
+  }
+}, {
+  "sentence": "我需要更多信息。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ xū yào gèng duō xìn xī",
+  "pinyin2": "wo3 xu1 yao4 geng4 duo1 xin4 xi1",
+  "translation": {
+    "en": "I need more information.",
+    "vi": "Tôi cần thêm thông tin."
+  }
+}, {
+  "sentence": "我正在学习数据结构。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ zhèng zài xué xí shù jù jié gòu",
+  "pinyin2": "wo3 zheng4 zai4 xue2 xi2 shu4 ju4 jie2 gou4",
+  "translation": {
+    "en": "I'm learning data structures.",
+    "vi": "Tôi đang học cấu trúc dữ liệu."
+  }
+}, {
+  "sentence": "这个链表需要优化。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè liàn biǎo xū yào yōu huà",
+  "pinyin2": "zhe4 ge4 lian4 biao3 xu1 yao4 you1 hua4",
+  "translation": {
+    "en": "This linked list needs optimization.",
+    "vi": "Danh sách liên kết này cần được tối ưu."
+  }
+}, {
+  "sentence": "互联网改变了我们的生活。",
+  "tags": ["computer"],
+  "pinyin1": "hù lián wǎng gǎi biàn le wǒ men de shēng huó",
+  "pinyin2": "hu4 lian2 wang3 gai3 bian4 le wo3 men de sheng1 huo2",
+  "translation": {
+    "en": "The internet has changed our lives.",
+    "vi": "Internet đã thay đổi cuộc sống của chúng ta."
+  }
+}, {
+  "sentence": "服务器需要定期维护。",
+  "tags": ["computer"],
+  "pinyin1": "fú wù qì xū yào dìng qī wéi hù",
+  "pinyin2": "fu2 wu4 qi4 xu1 yao4 di4ng qi1 wei2 hu4",
+  "translation": {
+    "en": "The server needs regular maintenance.",
+    "vi": "Máy chủ cần được bảo trì định kỳ."
+  }
+}, {
+  "sentence": "这个数据库存储了大量信息。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè shù jù kù cún chǔ le dà liàng xìn xī",
+  "pinyin2": "zhe4 ge4 shu4 ju4 ku4 cun2 chu3 le da4 lia4ng xi4n xi1",
+  "translation": {
+    "en": "This database stores a large amount of information.",
+    "vi": "Cơ sở dữ liệu này lưu trữ một lượng lớn thông tin."
+  }
+}, {
+  "sentence": "我们需要创建一个数组来存储数据。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men xū yào chuàng jiàn yī gè shù zǔ lái cún chǔ shù jù",
+  "pinyin2": "wo3 men xu1 yao4 chua4ng jia4n yi1 ge4 shu4 zu3 lai2 cun2 chu3 shu4 ju4",
+  "translation": {
+    "en": "We need to create an array to store data.",
+    "vi": "Chúng ta cần tạo một mảng để lưu trữ dữ liệu."
+  }
+}, {
+  "sentence": "这个变量存储了用户的名字。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè biàn liàng cún chǔ le yòng hù de míng zi",
+  "pinyin2": "zhe4 ge4 bian4 lia4ng cun2 chu3 le yo4ng hu4 de mi2ng zi",
+  "translation": {
+    "en": "This variable stores the user's name.",
+    "vi": "Biến này lưu trữ tên người dùng."
+  }
+}, {
+  "sentence": "这个常量不能被修改。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè cháng liàng bù néng bèi xiū gǎi",
+  "pinyin2": "zhe4 ge4 cha2ng lia4ng bu4 ne2ng bei4 xiu1 ga3i",
+  "translation": {
+    "en": "This constant cannot be modified.",
+    "vi": "Hằng số này không thể được sửa đổi."
+  }
+}, {
+  "sentence": "这个函数返回一个数字。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè hán shù fǎn huí yī gè shù zì",
+  "pinyin2": "zhe4 ge4 ha2n shu4 fa3n hui2 yi1 ge4 shu4 zi4",
+  "translation": {
+    "en": "This function returns a number.",
+    "vi": "Hàm này trả về một số."
+  }
+}, {
+  "sentence": "这个函数需要两个参数。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè hán shù xū yào liǎng gè cān shù",
+  "pinyin2": "zhe4 ge4 ha2n shu4 xu1 yao4 lia3ng ge4 ca1n shu4",
+  "translation": {
+    "en": "This function requires two parameters.",
+    "vi": "Hàm này cần hai tham số."
+  }
+}, {
+  "sentence": "函数的返回值很重要。",
+  "tags": ["computer"],
+  "pinyin1": "hán shù de fǎn huí zhí hěn zhòng yào",
+  "pinyin2": "ha2n shu4 de fa3n hui2 zhi2 hen3 zho4ng ya4o",
+  "translation": {
+    "en": "The function's return value is very important.",
+    "vi": "Giá trị trả về của hàm rất quan trọng."
+  }
+}, {
+  "sentence": "我们创建了一个对象。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men chuàng jiàn le yī gè duì xiàng",
+  "pinyin2": "wo3 men chua4ng jia4n le yi1 ge4 dui4 xia4ng",
+  "translation": {
+    "en": "We created an object.",
+    "vi": "Chúng ta đã tạo một đối tượng."
+  }
+}, {
+  "sentence": "这是类的一个实例。",
+  "tags": ["computer"],
+  "pinyin1": "zhè shì lèi de yī gè shí lì",
+  "pinyin2": "zhe4 shi4 le4i de yi1 ge4 shi2 li4",
+  "translation": {
+    "en": "This is an instance of the class.",
+    "vi": "Đây là một thể hiện của lớp."
+  }
+}, {
+  "sentence": "这个类继承了父类的属性。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè lèi jì chéng le fù lèi de shǔ xìng",
+  "pinyin2": "zhe4 ge4 le4i ji4 che2ng le fu4 le4i de shu3 xi4ng",
+  "translation": {
+    "en": "This class inherits properties from the parent class.",
+    "vi": "Lớp này kế thừa thuộc tính từ lớp cha."
+  }
+}, {
+  "sentence": "多态是面向对象编程的重要特性。",
+  "tags": ["computer"],
+  "pinyin1": "duō tài shì miàn xiàng duì xiàng biān chéng de zhòng yào tè xìng",
+  "pinyin2": "duo1 ta4i shi4 mia4n xia4ng dui4 xia4ng bian1 che2ng de zho4ng ya4o te4 xi4ng",
+  "translation": {
+    "en": "Polymorphism is an important feature of object-oriented programming.",
+    "vi": "Đa hình là đặc tính quan trọng của lập trình hướng đối tượng."
+  }
+}, {
+  "sentence": "封装可以保护数据。",
+  "tags": ["computer"],
+  "pinyin1": "fēng zhuāng kě yǐ bǎo hù shù jù",
+  "pinyin2": "fe1ng zhuang1 ke3 yi3 ba3o hu4 shu4 ju4",
+  "translation": {
+    "en": "Encapsulation can protect data.",
+    "vi": "Đóng gói có thể bảo vệ dữ liệu."
+  }
+}, {
+  "sentence": "我们使用这个框架来开发应用。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men shǐ yòng zhè gè kuàng jià lái kāi fā yìng yòng",
+  "pinyin2": "wo3 men shi3 yo4ng zhe4 ge4 kua4ng jia4 lai2 ka1i fa1 yi4ng yo4ng",
+  "translation": {
+    "en": "We use this framework to develop applications.",
+    "vi": "Chúng ta sử dụng khung làm việc này để phát triển ứng dụng."
+  }
+}, {
+  "sentence": "这个接口定义了方法。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè jiē kǒu dìng yì le fāng fǎ",
+  "pinyin2": "zhe4 ge4 jie1 ko3u di4ng yi4 le fa1ng fa3",
+  "translation": {
+    "en": "This interface defines methods.",
+    "vi": "Giao diện này định nghĩa các phương thức."
+  }
+}, {
+  "sentence": "前端负责用户界面。",
+  "tags": ["computer"],
+  "pinyin1": "qián duān fù zé yòng hù jiè miàn",
+  "pinyin2": "qia2n dua1n fu4 ze2 yo4ng hu4 jie4 mia4n",
+  "translation": {
+    "en": "The frontend is responsible for the user interface.",
+    "vi": "Frontend chịu trách nhiệm về giao diện người dùng."
+  }
+}, {
+  "sentence": "后端处理业务逻辑。",
+  "tags": ["computer"],
+  "pinyin1": "hòu duān chǔ lǐ yè wù luó jí",
+  "pinyin2": "ho4u dua1n chu3 li3 ye4 wu4 luo2 ji2",
+  "translation": {
+    "en": "The backend handles business logic.",
+    "vi": "Backend xử lý logic nghiệp vụ."
+  }
+}, {
+  "sentence": "全栈开发者需要掌握前后端技术。",
+  "tags": ["computer"],
+  "pinyin1": "quán zhàn kāi fā zhě xū yào zhǎng wò qián hòu duān jì shù",
+  "pinyin2": "qua2n zha4n ka1i fa1 zhe3 xu1 ya4o zha3ng wo4 qia2n ho4u dua1n ji4 shu4",
+  "translation": {
+    "en": "Full-stack developers need to master both frontend and backend technologies.",
+    "vi": "Lập trình viên fullstack cần nắm vững cả công nghệ frontend và backend."
+  }
+}, {
+  "sentence": "我正在调试这个程序。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ zhèng zài tiáo shì zhè gè chéng xù",
+  "pinyin2": "wo3 zhe4ng za4i tia2o shi4 zhe4 ge4 che2ng xu4",
+  "translation": {
+    "en": "I'm debugging this program.",
+    "vi": "Tôi đang gỡ lỗi chương trình này."
+  }
+}, {
+  "sentence": "程序抛出了一个异常。",
+  "tags": ["computer"],
+  "pinyin1": "chéng xù pāo chū le yī gè yì cháng",
+  "pinyin2": "che2ng xu4 pao1 chu1 le yi1 ge4 yi4 cha2ng",
+  "translation": {
+    "en": "The program threw an exception.",
+    "vi": "Chương trình đã ném ra một ngoại lệ."
+  }
+}, {
+  "sentence": "系统日志记录了所有操作。",
+  "tags": ["computer"],
+  "pinyin1": "xì tǒng rì zhì jì lù le suǒ yǒu cāo zuò",
+  "pinyin2": "xi4 to3ng ri4 zhi4 ji4 lu4 le suo3 yo3u ca1o zuo4",
+  "translation": {
+    "en": "The system log records all operations.",
+    "vi": "Nhật ký hệ thống ghi lại tất cả các thao tác."
+  }
+}, {
+  "sentence": "操作系统管理计算机资源。",
+  "tags": ["computer"],
+  "pinyin1": "cāo zuò xì tǒng guǎn lǐ jì suàn jī zī yuán",
+  "pinyin2": "ca1o zuo4 xi4 to3ng gua3n li3 ji4 sua4n ji1 zi1 yua2n",
+  "translation": {
+    "en": "The operating system manages computer resources.",
+    "vi": "Hệ điều hành quản lý tài nguyên máy tính."
+  }
+}, {
+  "sentence": "这个进程正在运行。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè jìn chéng zhèng zài yùn xíng",
+  "pinyin2": "zhe4 ge4 ji4n che2ng zhe4ng za4i yu4n xi2ng",
+  "translation": {
+    "en": "This process is running.",
+    "vi": "Tiến trình này đang chạy."
+  }
+}, {
+  "sentence": "多线程可以提高程序性能。",
+  "tags": ["computer"],
+  "pinyin1": "duō xiàn chéng kě yǐ tí gāo chéng xù xìng néng",
+  "pinyin2": "duo1 xia4n che2ng ke3 yi3 ti2 ga1o che2ng xu4 xi4ng ne2ng",
+  "translation": {
+    "en": "Multithreading can improve program performance.",
+    "vi": "Đa luồng có thể cải thiện hiệu suất chương trình."
+  }
+}, {
+  "sentence": "内存不足会导致程序崩溃。",
+  "tags": ["computer"],
+  "pinyin1": "nèi cún bù zú huì dǎo zhì chéng xù bēng kuì",
+  "pinyin2": "ne4i cu2n bu4 zu2 hui4 da3o zhi4 che2ng xu4 be1ng ku4i",
+  "translation": {
+    "en": "Insufficient memory can cause the program to crash.",
+    "vi": "Bộ nhớ không đủ có thể khiến chương trình sụp đổ."
+  }
+}, {
+  "sentence": "缓存可以加快访问速度。",
+  "tags": ["computer"],
+  "pinyin1": "huǎn cún kě yǐ jiā kuài fǎng wèn sù dù",
+  "pinyin2": "hua3n cu2n ke3 yi3 jia1 kua4i fa3ng we4n su4 du4",
+  "translation": {
+    "en": "Cache can speed up access.",
+    "vi": "Bộ nhớ đệm có thể tăng tốc độ truy cập."
+  }
+}, {
+  "sentence": "我们需要更多的存储空间。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men xū yào gèng duō de cún chǔ kōng jiān",
+  "pinyin2": "wo3 men xu1 ya4o ge4ng duo1 de cu2n chu3 ko1ng jia1n",
+  "translation": {
+    "en": "We need more storage space.",
+    "vi": "Chúng ta cần thêm không gian lưu trữ."
+  }
+}, {
+  "sentence": "云计算提供了灵活的解决方案。",
+  "tags": ["computer"],
+  "pinyin1": "yún jì suàn tí gōng le líng huó de jiě jué fāng àn",
+  "pinyin2": "yu2n ji4 sua4n ti2 go1ng le li2ng huo2 de jie3 ju2e fa1ng a4n",
+  "translation": {
+    "en": "Cloud computing provides flexible solutions.",
+    "vi": "Điện toán đám mây cung cấp các giải pháp linh hoạt."
+  }
+}, {
+  "sentence": "容器技术简化了部署过程。",
+  "tags": ["computer"],
+  "pinyin1": "róng qì jì shù jiǎn huà le bù shǔ guò chéng",
+  "pinyin2": "ro2ng qi4 ji4 shu4 jia3n hua4 le bu4 shu3 guo4 che2ng",
+  "translation": {
+    "en": "Container technology simplifies the deployment process.",
+    "vi": "Công nghệ container đơn giản hóa quá trình triển khai."
+  }
+}, {
+  "sentence": "我们需要下载这个镜像。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men xū yào xià zǎi zhè gè jìng xiàng",
+  "pinyin2": "wo3 men xu1 ya4o xia4 za3i zhe4 ge4 ji4ng xia4ng",
+  "translation": {
+    "en": "We need to download this image.",
+    "vi": "Chúng ta cần tải xuống hình ảnh này."
+  }
+}, {
+  "sentence": "HTTP是一个网络协议。",
+  "tags": ["computer"],
+  "pinyin1": "HTTP shì yī gè wǎng luò xié yì",
+  "pinyin2": "HTTP shi4 yi1 ge4 wa3ng luo4 xie2 yi4",
+  "translation": {
+    "en": "HTTP is a network protocol.",
+    "vi": "HTTP là một giao thức mạng."
+  }
+}, {
+  "sentence": "客户端发送了一个请求。",
+  "tags": ["computer"],
+  "pinyin1": "kè hù duān fā sòng le yī gè qǐng qiú",
+  "pinyin2": "ke4 hu4 dua1n fa1 so4ng le yi1 ge4 qi3ng qiu2",
+  "translation": {
+    "en": "The client sent a request.",
+    "vi": "Máy khách đã gửi một yêu cầu."
+  }
+}, {
+  "sentence": "服务器返回了响应。",
+  "tags": ["computer"],
+  "pinyin1": "fú wù qì fǎn huí le xiǎng yìng",
+  "pinyin2": "fu2 wu4 qi4 fa3n hui2 le xia3ng yi4ng",
+  "translation": {
+    "en": "The server returned a response.",
+    "vi": "Máy chủ đã trả về phản hồi."
+  }
+}, {
+  "sentence": "网络带宽限制了传输速度。",
+  "tags": ["computer"],
+  "pinyin1": "wǎng luò dài kuān xiàn zhì le chuán shū sù dù",
+  "pinyin2": "wa3ng luo4 da4i kua1n xia4n zhi4 le chua2n shu1 su4 du4",
+  "translation": {
+    "en": "Network bandwidth limits transmission speed.",
+    "vi": "Băng thông mạng giới hạn tốc độ truyền tải."
+  }
+}, {
+  "sentence": "网络延迟影响了用户体验。",
+  "tags": ["computer"],
+  "pinyin1": "wǎng luò yán chí yǐng xiǎng le yòng hù tǐ yàn",
+  "pinyin2": "wa3ng luo4 ya2n chi2 yi3ng xia3ng le yo4ng hu4 ti3 ya4n",
+  "translation": {
+    "en": "Network latency affects user experience.",
+    "vi": "Độ trễ mạng ảnh hưởng đến trải nghiệm người dùng."
+  }
+}, {
+  "sentence": "请上传文件到服务器。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng shàng chuán wén jiàn dào fú wù qì",
+  "pinyin2": "qing3 sha4ng chua2n we2n jia4n dao4 fu2 wu4 qi4",
+  "translation": {
+    "en": "Please upload the file to the server.",
+    "vi": "Vui lòng tải lên file lên máy chủ."
+  }
+}, {
+  "sentence": "连接已断开。",
+  "tags": ["computer"],
+  "pinyin1": "lián jiē yǐ duàn kāi",
+  "pinyin2": "lia2n jie1 yi3 dua4n ka1i",
+  "translation": {
+    "en": "The connection has been disconnected.",
+    "vi": "Kết nối đã bị ngắt."
+  }
+}, {
+  "sentence": "我们需要加密敏感数据。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men xū yào jiā mì mǐn gǎn shù jù",
+  "pinyin2": "wo3 men xu1 ya4o jia1 mi4 mi3n ga3n shu4 ju4",
+  "translation": {
+    "en": "We need to encrypt sensitive data.",
+    "vi": "Chúng ta cần mã hóa dữ liệu nhạy cảm."
+  }
+}, {
+  "sentence": "系统正在解密文件。",
+  "tags": ["computer"],
+  "pinyin1": "xì tǒng zhèng zài jiě mì wén jiàn",
+  "pinyin2": "xi4 to3ng zhe4ng za4i jie3 mi4 we2n jia4n",
+  "translation": {
+    "en": "The system is decrypting the file.",
+    "vi": "Hệ thống đang giải mã file."
+  }
+}, {
+  "sentence": "防火墙阻止了未授权的访问。",
+  "tags": ["computer"],
+  "pinyin1": "fáng huǒ qiáng zǔ zhǐ le wèi shòu quán de fǎng wèn",
+  "pinyin2": "fa2ng huo3 qia2ng zu3 zhi3 le we4i sho4u qua2n de fa3ng we4n",
+  "translation": {
+    "en": "The firewall blocked unauthorized access.",
+    "vi": "Tường lửa đã chặn các truy cập trái phép."
+  }
+}, {
+  "sentence": "用户需要适当的权限才能访问。",
+  "tags": ["computer"],
+  "pinyin1": "yòng hù xū yào shì dàng de quán xiàn cái néng fǎng wèn",
+  "pinyin2": "yo4ng hu4 xu1 ya4o shi4 da4ng de qua2n xia4n ca2i ne2ng fa3ng we4n",
+  "translation": {
+    "en": "Users need appropriate permissions to access.",
+    "vi": "Người dùng cần quyền hạn phù hợp mới có thể truy cập."
+  }
+}, {
+  "sentence": "系统需要用户认证。",
+  "tags": ["computer"],
+  "pinyin1": "xì tǒng xū yào yòng hù rèn zhèng",
+  "pinyin2": "xi4 to3ng xu1 ya4o yo4ng hu4 re4n zhe4ng",
+  "translation": {
+    "en": "The system requires user authentication.",
+    "vi": "Hệ thống cần xác thực người dùng."
+  }
+}, {
+  "sentence": "管理员需要授权才能执行操作。",
+  "tags": ["computer"],
+  "pinyin1": "guǎn lǐ yuán xū yào shòu quán cái néng zhí xíng cāo zuò",
+  "pinyin2": "gua3n li3 yua2n xu1 ya4o sho4u qua2n ca2i ne2ng zhi2 xi2ng ca1o zuo4",
+  "translation": {
+    "en": "Administrators need authorization to perform operations.",
+    "vi": "Quản trị viên cần được ủy quyền mới có thể thực hiện thao tác."
+  }
+}, {
+  "sentence": "请检查系统配置。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng jiǎn chá xì tǒng pèi zhì",
+  "pinyin2": "qing3 jia3n cha2 xi4 to3ng pe4i zhi4",
+  "translation": {
+    "en": "Please check the system configuration.",
+    "vi": "Vui lòng kiểm tra cấu hình hệ thống."
+  }
+}, {
+  "sentence": "这是软件的最新版本。",
+  "tags": ["computer"],
+  "pinyin1": "zhè shì ruǎn jiàn de zuì xīn bǎn běn",
+  "pinyin2": "zhe4 shi4 rua3n jia4n de zu4i xi1n ba3n be3n",
+  "translation": {
+    "en": "This is the latest version of the software.",
+    "vi": "Đây là phiên bản mới nhất của phần mềm."
+  }
+}, {
+  "sentence": "系统需要定期更新。",
+  "tags": ["computer"],
+  "pinyin1": "xì tǒng xū yào dìng qī gēng xīn",
+  "pinyin2": "xi4 to3ng xu1 ya4o di4ng qi1 ge1ng xi1n",
+  "translation": {
+    "en": "The system needs regular updates.",
+    "vi": "Hệ thống cần được cập nhật định kỳ."
+  }
+}, {
+  "sentence": "我们需要安装安全补丁。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men xū yào ān zhuāng ān quán bǔ dīng",
+  "pinyin2": "wo3 men xu1 ya4o a1n zhuang1 a1n qua2n bu3 di1ng",
+  "translation": {
+    "en": "We need to install security patches.",
+    "vi": "Chúng ta cần cài đặt bản vá bảo mật."
+  }
+}, {
+  "sentence": "我们需要构建这个项目。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men xū yào gòu jiàn zhè gè xiàng mù",
+  "pinyin2": "wo3 men xu1 ya4o go4u jia4n zhe4 ge4 xia4ng mu4",
+  "translation": {
+    "en": "We need to build this project.",
+    "vi": "Chúng ta cần build dự án này."
+  }
+}, {
+  "sentence": "编译器将源代码转换为可执行文件。",
+  "tags": ["computer"],
+  "pinyin1": "biān yì qì jiāng yuán dài mǎ zhuǎn huàn wéi kě zhí xíng wén jiàn",
+  "pinyin2": "bia1n yi4 qi4 jia1ng yua2n da4i ma3 zhua3n hua4n we2i ke3 zhi2 xi2ng we2n jia4n",
+  "translation": {
+    "en": "The compiler converts source code into executable files.",
+    "vi": "Trình biên dịch chuyển đổi mã nguồn thành file thực thi."
+  }
+}, {
+  "sentence": "请停止这个服务。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng tíng zhǐ zhè gè fú wù",
+  "pinyin2": "qing3 ti2ng zhi3 zhe4 ge4 fu2 wu4",
+  "translation": {
+    "en": "Please stop this service.",
+    "vi": "Vui lòng dừng dịch vụ này."
+  }
+}, {
+  "sentence": "请查看接口文档。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng chá kàn jiē kǒu wén dàng",
+  "pinyin2": "qing3 cha2 ka4n jie1 ko3u we2n da4ng",
+  "translation": {
+    "en": "Please check the API documentation.",
+    "vi": "Vui lòng xem tài liệu API."
+  }
+}, {
+  "sentence": "我们需要调API来获取数据。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men xū yào tiáo API lái huò qǔ shù jù",
+  "pinyin2": "wo3 men xu1 ya4o tia2o API lai2 huo4 qu3 shu4 ju4",
+  "translation": {
+    "en": "We need to call the API to get data.",
+    "vi": "Chúng ta cần gọi API để lấy dữ liệu."
+  }
+}, {
+  "sentence": "响应码200表示请求成功。",
+  "tags": ["computer"],
+  "pinyin1": "xiǎng yìng mǎ èr bǎi biǎo shì qǐng qiú chéng gōng",
+  "pinyin2": "xia3ng yi4ng ma3 er4 ba3i bia3o shi4 qi3ng qiu2 che2ng go1ng",
+  "translation": {
+    "en": "Response code 200 indicates a successful request.",
+    "vi": "Mã phản hồi 200 cho thấy yêu cầu thành công."
+  }
+}, {
+  "sentence": "状态码404表示页面未找到。",
+  "tags": ["computer"],
+  "pinyin1": "zhuàng tài mǎ sì líng sì biǎo shì yè miàn wèi zhǎo dào",
+  "pinyin2": "zhua4ng ta4i ma3 si4 li2ng si4 bia3o shi4 ye4 mia4n we4i zha3o da4o",
+  "translation": {
+    "en": "Status code 404 indicates the page was not found.",
+    "vi": "Mã trạng thái 404 cho thấy trang không tìm thấy."
+  }
+}, {
+  "sentence": "路由决定了数据包的传输路径。",
+  "tags": ["computer"],
+  "pinyin1": "lù yóu jué dìng le shù jù bāo de chuán shū lù jìng",
+  "pinyin2": "lu4 you2 ju2e di4ng le shu4 ju4 bao1 de chua2n shu1 lu4 ji4ng",
+  "translation": {
+    "en": "Routing determines the transmission path of data packets.",
+    "vi": "Định tuyến quyết định đường truyền của gói dữ liệu."
+  }
+}, {
+  "sentence": "这个端点是API的入口。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè duān diǎn shì API de rù kǒu",
+  "pinyin2": "zhe4 ge4 dua1n dia3n shi4 API de ru4 ko3u",
+  "translation": {
+    "en": "This endpoint is the entry point of the API.",
+    "vi": "Điểm cuối này là cửa vào của API."
+  }
+}, {
+  "sentence": "中间件处理请求和响应。",
+  "tags": ["computer"],
+  "pinyin1": "zhōng jiān jiàn chǔ lǐ qǐng qiú hé xiǎng yìng",
+  "pinyin2": "zho1ng jia1n jia4n chu3 li3 qi3ng qiu2 he2 xia3ng yi4ng",
+  "translation": {
+    "en": "Middleware handles requests and responses.",
+    "vi": "Middleware xử lý yêu cầu và phản hồi."
+  }
+}, {
+  "sentence": "请求体包含了用户输入的数据。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng qiú tǐ bāo hán le yòng hù shū rù de shù jù",
+  "pinyin2": "qi3ng qiu2 ti3 bao1 ha2n le yo4ng hu4 shu1 ru4 de shu4 ju4",
+  "translation": {
+    "en": "The request body contains data entered by the user.",
+    "vi": "Request body chứa dữ liệu người dùng nhập vào."
+  }
+}, {
+  "sentence": "响应体包含了服务器返回的数据。",
+  "tags": ["computer"],
+  "pinyin1": "xiǎng yìng tǐ bāo hán le fú wù qì fǎn huí de shù jù",
+  "pinyin2": "xia3ng yi4ng ti3 bao1 ha2n le fu2 wu4 qi4 fa3n hui2 de shu4 ju4",
+  "translation": {
+    "en": "The response body contains data returned by the server.",
+    "vi": "Response body chứa dữ liệu máy chủ trả về."
+  }
+}, {
+  "sentence": "数据包在网络中传输。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù bāo zài wǎng luò zhōng chuán shū",
+  "pinyin2": "shu4 ju4 bao1 za4i wa3ng luo4 zho1ng chua2n shu1",
+  "translation": {
+    "en": "Data packets are transmitted over the network.",
+    "vi": "Gói dữ liệu được truyền qua mạng."
+  }
+}, {
+  "sentence": "网络流量很大。",
+  "tags": ["computer"],
+  "pinyin1": "wǎng luò liú liàng hěn dà",
+  "pinyin2": "wa3ng luo4 liu2 lia4ng hen3 da4",
+  "translation": {
+    "en": "The network traffic is very high.",
+    "vi": "Lưu lượng mạng rất lớn."
+  }
+}, {
+  "sentence": "这个节点连接了多个设备。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè jié diǎn lián jiē le duō gè shè bèi",
+  "pinyin2": "zhe4 ge4 jie2 dia3n lia2n jie1 le duo1 ge4 she4 be4i",
+  "translation": {
+    "en": "This node connects multiple devices.",
+    "vi": "Nút này kết nối nhiều thiết bị."
+  }
+}, {
+  "sentence": "网络拓扑决定了连接方式。",
+  "tags": ["computer"],
+  "pinyin1": "wǎng luò tuò pū jué dìng le lián jiē fāng shì",
+  "pinyin2": "wa3ng luo4 tuo4 pu1 ju2e di4ng le lia2n jie1 fa1ng shi4",
+  "translation": {
+    "en": "Network topology determines the connection method.",
+    "vi": "Tốpô mạng quyết định cách thức kết nối."
+  }
+}, {
+  "sentence": "请打开端口8080。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng dǎ kāi duān kǒu bā líng bā líng",
+  "pinyin2": "qing3 da3 ka1i dua1n ko3u ba1 li2ng ba1 li2ng",
+  "translation": {
+    "en": "Please open port 8080.",
+    "vi": "Vui lòng mở cổng 8080."
+  }
+}, {
+  "sentence": "指针指向内存地址。",
+  "tags": ["computer"],
+  "pinyin1": "zhǐ zhēn zhǐ xiàng nèi cún dì zhǐ",
+  "pinyin2": "zhi3 zhe1n zhi3 xia4ng ne4i cu2n di4 zhi3",
+  "translation": {
+    "en": "The pointer points to a memory address.",
+    "vi": "Con trỏ trỏ đến địa chỉ bộ nhớ."
+  }
+}, {
+  "sentence": "这个函数引用了外部库。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè hán shù yǐn yòng le wài bù kù",
+  "pinyin2": "zhe4 ge4 ha2n shu4 yi3n yo4ng le wa4i bu4 ku4",
+  "translation": {
+    "en": "This function references an external library.",
+    "vi": "Hàm này tham chiếu đến thư viện bên ngoài."
+  }
+}, {
+  "sentence": "堆内存需要手动管理。",
+  "tags": ["computer"],
+  "pinyin1": "duī nèi cún xū yào shǒu dòng guǎn lǐ",
+  "pinyin2": "dui1 ne4i cu2n xu1 ya4o sho3u do4ng gua3n li3",
+  "translation": {
+    "en": "Heap memory needs manual management.",
+    "vi": "Bộ nhớ heap cần được quản lý thủ công."
+  }
+}, {
+  "sentence": "编译器检查代码错误。",
+  "tags": ["computer"],
+  "pinyin1": "biān yì qì jiǎn chá dài mǎ cuò wù",
+  "pinyin2": "bia1n yi4 qi4 jia3n cha2 da4i ma3 cuo4 wu4",
+  "translation": {
+    "en": "The compiler checks for code errors.",
+    "vi": "Trình biên dịch kiểm tra lỗi mã."
+  }
+}, {
+  "sentence": "解释器逐行执行代码。",
+  "tags": ["computer"],
+  "pinyin1": "jiě shì qì zhú háng zhí xíng dài mǎ",
+  "pinyin2": "jie3 shi4 qi4 zhu2 ha2ng zhi2 xi2ng da4i ma3",
+  "translation": {
+    "en": "The interpreter executes code line by line.",
+    "vi": "Trình thông dịch thực thi mã từng dòng."
+  }
+}, {
+  "sentence": "Java是一种虚拟机语言。",
+  "tags": ["computer"],
+  "pinyin1": "Java shì yī zhǒng xū nǐ jī yǔ yán",
+  "pinyin2": "Java shi4 yi1 zho3ng xu1 ni3 ji1 yu3 ya2n",
+  "translation": {
+    "en": "Java is a virtual machine language.",
+    "vi": "Java là một ngôn ngữ máy ảo."
+  }
+}, {
+  "sentence": "这个项目有很多依赖。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè xiàng mù yǒu hěn duō yī lài",
+  "pinyin2": "zhe4 ge4 xia4ng mu4 you3 hen3 duo1 yi1 la4i",
+  "translation": {
+    "en": "This project has many dependencies.",
+    "vi": "Dự án này có nhiều phụ thuộc."
+  }
+}, {
+  "sentence": "npm是一个包管理器。",
+  "tags": ["computer"],
+  "pinyin1": "npm shì yī gè bāo guǎn lǐ qì",
+  "pinyin2": "npm shi4 yi1 ge4 bao1 gua3n li3 qi4",
+  "translation": {
+    "en": "npm is a package manager.",
+    "vi": "npm là một trình quản lý gói."
+  }
+}, {
+  "sentence": "依赖树显示了所有依赖关系。",
+  "tags": ["computer"],
+  "pinyin1": "yī lài shù xiǎn shì le suǒ yǒu yī lài guān xì",
+  "pinyin2": "yi1 la4i shu4 xia3n shi4 le suo3 yo3u yi1 la4i gua1n xi4",
+  "translation": {
+    "en": "The dependency tree shows all dependency relationships.",
+    "vi": "Cây phụ thuộc hiển thị tất cả các mối quan hệ phụ thuộc."
+  }
+}, {
+  "sentence": "我们需要测试这个功能。",
+  "tags": ["computer"],
+  "pinyin1": "wǒ men xū yào cè shì zhè gè gōng néng",
+  "pinyin2": "wo3 men xu1 ya4o ce4 shi4 zhe4 ge4 go1ng ne2ng",
+  "translation": {
+    "en": "We need to test this feature.",
+    "vi": "Chúng ta cần kiểm thử tính năng này."
+  }
+}, {
+  "sentence": "单元测试确保每个函数正常工作。",
+  "tags": ["computer"],
+  "pinyin1": "dān yuán cè shì què bǎo měi gè hán shù zhèng cháng gōng zuò",
+  "pinyin2": "da1n yua2n ce4 shi4 que4 ba3o me3i ge4 ha2n shu4 zhe4ng cha2ng go1ng zuo4",
+  "translation": {
+    "en": "Unit tests ensure each function works correctly.",
+    "vi": "Kiểm thử đơn vị đảm bảo mỗi hàm hoạt động đúng."
+  }
+}, {
+  "sentence": "集成测试检查组件之间的交互。",
+  "tags": ["computer"],
+  "pinyin1": "jí chéng cè shì jiǎn chá zǔ jiàn zhī jiān de jiāo hù",
+  "pinyin2": "ji2 che2ng ce4 shi4 jia3n cha2 zu3 jia4n zhi1 jia1n de jia1o hu4",
+  "translation": {
+    "en": "Integration tests check interactions between components.",
+    "vi": "Kiểm thử tích hợp kiểm tra tương tác giữa các thành phần."
+  }
+}, {
+  "sentence": "自动化测试提高了开发效率。",
+  "tags": ["computer"],
+  "pinyin1": "zì dòng huà cè shì tí gāo le kāi fā xiào lǜ",
+  "pinyin2": "zi4 do4ng hua4 ce4 shi4 ti2 ga1o le ka1i fa1 xia4o lv4",
+  "translation": {
+    "en": "Automated testing improves development efficiency.",
+    "vi": "Kiểm thử tự động nâng cao hiệu quả phát triển."
+  }
+}, {
+  "sentence": "日志分析帮助我们发现问题。",
+  "tags": ["computer"],
+  "pinyin1": "rì zhì fēn xī bāng zhù wǒ men fā xiàn wèn tí",
+  "pinyin2": "ri4 zhi4 fe1n xi1 ba1ng zhu4 wo3 men fa1 xia4n we4n ti2",
+  "translation": {
+    "en": "Log analysis helps us discover problems.",
+    "vi": "Phân tích log giúp chúng ta phát hiện vấn đề."
+  }
+}, {
+  "sentence": "网络模型描述了数据传输方式。",
+  "tags": ["computer"],
+  "pinyin1": "wǎng luò mó xíng miáo shù le shù jù chuán shū fāng shì",
+  "pinyin2": "wa3ng luo4 mo2 xi2ng mia2o shu4 le shu4 ju4 chua2n shu1 fa1ng shi4",
+  "translation": {
+    "en": "Network models describe data transmission methods.",
+    "vi": "Mô hình mạng mô tả cách thức truyền dữ liệu."
+  }
+}, {
+  "sentence": "算法优化可以提升性能。",
+  "tags": ["computer"],
+  "pinyin1": "suàn fǎ yōu huà kě yǐ tí shēng xìng néng",
+  "pinyin2": "sua4n fa3 yo1u hua4 ke3 yi3 ti2 she1ng xi4ng ne2ng",
+  "translation": {
+    "en": "Algorithm optimization can improve performance.",
+    "vi": "Tối ưu thuật toán có thể nâng cao hiệu suất."
+  }
+}, {
+  "sentence": "内核模块扩展了系统功能。",
+  "tags": ["computer"],
+  "pinyin1": "nèi hé mó kuài kuò zhǎn le xì tǒng gōng néng",
+  "pinyin2": "ne4i he2 mo2 kua4i kuo4 zha3n le xi4 to3ng go1ng ne2ng",
+  "translation": {
+    "en": "Kernel modules extend system functionality.",
+    "vi": "Mô-đun nhân hệ thống mở rộng chức năng hệ thống."
+  }
+}, {
+  "sentence": "数据冗余可以提高可靠性。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù rǒng yú kě yǐ tí gāo kě kào xìng",
+  "pinyin2": "shu4 ju4 ro3ng yu2 ke3 yi3 ti2 ga1o ke3 ka4o xi4ng",
+  "translation": {
+    "en": "Data redundancy can improve reliability.",
+    "vi": "Dư thừa dữ liệu có thể nâng cao độ tin cậy."
+  }
+}, {
+  "sentence": "用户验证确保账户安全。",
+  "tags": ["computer"],
+  "pinyin1": "yòng hù yàn zhèng què bǎo zhàng hù ān quán",
+  "pinyin2": "yo4ng hu4 ya4n zhe4ng que4 ba3o zha4ng hu4 a1n qua2n",
+  "translation": {
+    "en": "User verification ensures account security.",
+    "vi": "Xác thực người dùng đảm bảo an toàn tài khoản."
+  }
+}, {
+  "sentence": "消息队列处理异步任务。",
+  "tags": ["computer"],
+  "pinyin1": "xiāo xī duì liè chǔ lǐ yì bù rèn wù",
+  "pinyin2": "xia1o xi1 dui4 lie4 chu3 li3 yi4 bu4 re4n wu4",
+  "translation": {
+    "en": "Message queues handle asynchronous tasks.",
+    "vi": "Hàng đợi thông điệp xử lý các tác vụ bất đồng bộ."
+  }
+}, {
+  "sentence": "缓存命中提高了响应速度。",
+  "tags": ["computer"],
+  "pinyin1": "huàn cún mìng zhòng tí gāo le xiǎng yìng sù dù",
+  "pinyin2": "hua4n cu2n mi4ng zho4ng ti2 ga1o le xia3ng yi4ng su4 du4",
+  "translation": {
+    "en": "Cache hits improve response speed.",
+    "vi": "Trúng bộ nhớ đệm tăng tốc độ phản hồi."
+  }
+}, {
+  "sentence": "缓存未命中需要从数据库读取。",
+  "tags": ["computer"],
+  "pinyin1": "huàn cún wèi mìng zhòng xū yào cóng shù jù kù dú qǔ",
+  "pinyin2": "hua4n cu2n we4i mi4ng zho4ng xu1 ya4o co2ng shu4 ju4 ku4 du2 qu3",
+  "translation": {
+    "en": "Cache misses require reading from the database.",
+    "vi": "Trượt bộ nhớ đệm cần đọc từ cơ sở dữ liệu."
+  }
+}, {
+  "sentence": "这个应用支持跨平台运行。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè yìng yòng zhī chí kuà píng tái yùn xíng",
+  "pinyin2": "zhe4 ge4 yi4ng yo4ng zhi1 chi2 kua4 pi2ng ta2i yu4n xi2ng",
+  "translation": {
+    "en": "This application supports cross-platform operation.",
+    "vi": "Ứng dụng này hỗ trợ chạy đa nền tảng."
+  }
+}, {
+  "sentence": "容器管理简化了部署流程。",
+  "tags": ["computer"],
+  "pinyin1": "róng qì guǎn lǐ jiǎn huà le bù shǔ liú chéng",
+  "pinyin2": "ro2ng qi4 gua3n li3 jia3n hua4 le bu4 shu3 liu2 che2ng",
+  "translation": {
+    "en": "Container management simplifies the deployment process.",
+    "vi": "Quản lý container đơn giản hóa quy trình triển khai."
+  }
+}, {
+  "sentence": "访问控制保护系统安全。",
+  "tags": ["computer"],
+  "pinyin1": "fǎng wèn kòng zhì bǎo hù xì tǒng ān quán",
+  "pinyin2": "fa3ng we4n ko4ng zhi4 ba3o hu4 xi4 to3ng a1n qua2n",
+  "translation": {
+    "en": "Access control protects system security.",
+    "vi": "Kiểm soát truy cập bảo vệ an ninh hệ thống."
+  }
+}, {
+  "sentence": "机器学习模型需要大量数据训练。",
+  "tags": ["computer"],
+  "pinyin1": "jī qì xué xí mó xíng xū yào dà liàng shù jù xùn liàn",
+  "pinyin2": "ji1 qi4 xu2e xi2 mo2 xi2ng xu1 ya4o da4 lia4ng shu4 ju4 xu4n lia4n",
+  "translation": {
+    "en": "Machine learning models require large amounts of data for training.",
+    "vi": "Mô hình học máy cần lượng lớn dữ liệu để huấn luyện."
+  }
+}, {
+  "sentence": "版本控制帮助我们管理代码变更。",
+  "tags": ["computer"],
+  "pinyin1": "bǎn běn kòng zhì bāng zhù wǒ men guǎn lǐ dài mǎ biàn gēng",
+  "pinyin2": "ba3n be3n ko4ng zhi4 ba1ng zhu4 wo3 men gua3n li3 da4i ma3 bia4n ge1ng",
+  "translation": {
+    "en": "Version control helps us manage code changes.",
+    "vi": "Quản lý phiên bản giúp chúng ta quản lý thay đổi mã."
+  }
+}, {
+  "sentence": "数据可视化让信息更易理解。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù kě shì huà ràng xìn xī gèng yì lǐ jiě",
+  "pinyin2": "shu4 ju4 ke3 shi4 hua4 ra4ng xi4n xi1 ge4ng yi4 li3 jie3",
+  "translation": {
+    "en": "Data visualization makes information easier to understand.",
+    "vi": "Trực quan dữ liệu làm thông tin dễ hiểu hơn."
+  }
+}, {
+  "sentence": "工作负载需要合理分配。",
+  "tags": ["computer"],
+  "pinyin1": "gōng zuò fù zǎi xū yào hé lǐ fēn pèi",
+  "pinyin2": "go1ng zuo4 fu4 za3i xu1 ya4o he2 li3 fe1n pe4i",
+  "translation": {
+    "en": "Workload needs to be distributed reasonably.",
+    "vi": "Khối lượng công việc cần được phân bổ hợp lý."
+  }
+}, {
+  "sentence": "程序执行需要系统资源。",
+  "tags": ["computer"],
+  "pinyin1": "chéng xù zhí xíng xū yào xì tǒng zī yuán",
+  "pinyin2": "che2ng xu4 zhi2 xi2ng xu1 ya4o xi4 to3ng zi1 yua2n",
+  "translation": {
+    "en": "Program execution requires system resources.",
+    "vi": "Thực thi chương trình cần tài nguyên hệ thống."
+  }
+}, {
+  "sentence": "调度器管理任务执行顺序。",
+  "tags": ["computer"],
+  "pinyin1": "diào dù qì guǎn lǐ rèn wù zhí xíng shùn xù",
+  "pinyin2": "dia4o du4 qi4 gua3n li3 re4n wu4 zhi2 xi2ng shu4n xu4",
+  "translation": {
+    "en": "The scheduler manages task execution order.",
+    "vi": "Bộ lập lịch quản lý thứ tự thực thi tác vụ."
+  }
+}, {
+  "sentence": "负载均衡提高了系统性能。",
+  "tags": ["computer"],
+  "pinyin1": "fù zǎi jūn héng tí gāo le xì tǒng xìng néng",
+  "pinyin2": "fu4 za3i ju1n he2ng ti2 ga1o le xi4 to3ng xi4ng ne2ng",
+  "translation": {
+    "en": "Load balancing improves system performance.",
+    "vi": "Cân bằng tải nâng cao hiệu suất hệ thống."
+  }
+}, {
+  "sentence": "边缘计算减少了延迟。",
+  "tags": ["computer"],
+  "pinyin1": "biān yuán jì suàn jiǎn shǎo le yán chí",
+  "pinyin2": "bia1n yua2n ji4 sua4n jia3n sha3o le ya2n chi2",
+  "translation": {
+    "en": "Edge computing reduces latency.",
+    "vi": "Điện toán biên giảm độ trễ."
+  }
+}, {
+  "sentence": "深度学习是人工智能的重要分支。",
+  "tags": ["computer"],
+  "pinyin1": "shēn dù xué xí shì rén gōng zhì néng de zhòng yào fēn zhī",
+  "pinyin2": "she1n du4 xu2e xi2 shi4 re2n go1ng zhi4 ne2ng de zho4ng ya4o fe1n zhi1",
+  "translation": {
+    "en": "Deep learning is an important branch of artificial intelligence.",
+    "vi": "Học sâu là nhánh quan trọng của trí tuệ nhân tạo."
+  }
+}, {
+  "sentence": "自动扩容根据需求调整资源。",
+  "tags": ["computer"],
+  "pinyin1": "zì dòng kuò róng gēn jù xū qiú tiáo zhěng zī yuán",
+  "pinyin2": "zi4 do4ng kuo4 ro2ng ge1n ju4 xu1 qiu2 tia2o zhe3ng zi1 yua2n",
+  "translation": {
+    "en": "Auto scaling adjusts resources based on demand.",
+    "vi": "Tự mở rộng điều chỉnh tài nguyên theo nhu cầu."
+  }
+}, {
+  "sentence": "内存泄漏会导致系统变慢。",
+  "tags": ["computer"],
+  "pinyin1": "nèi cún xiè lòu huì dǎo zhì xì tǒng biàn màn",
+  "pinyin2": "ne4i cu2n xie4 lo4u hui4 da3o zhi4 xi4 to3ng bia4n ma4n",
+  "translation": {
+    "en": "Memory leaks can cause the system to slow down.",
+    "vi": "Rò rỉ bộ nhớ có thể khiến hệ thống chậm lại."
+  }
+}, {
+  "sentence": "资源监控帮助我们了解系统状态。",
+  "tags": ["computer"],
+  "pinyin1": "zī yuán jiān kòng bāng zhù wǒ men liǎo jiě xì tǒng zhuàng tài",
+  "pinyin2": "zi1 yua2n jia1n ko4ng ba1ng zhu4 wo3 men lia3o jie3 xi4 to3ng zhua4ng ta4i",
+  "translation": {
+    "en": "Resource monitoring helps us understand system status.",
+    "vi": "Giám sát tài nguyên giúp chúng ta hiểu trạng thái hệ thống."
+  }
+}, {
+  "sentence": "高可用系统确保服务不中断。",
+  "tags": ["computer"],
+  "pinyin1": "gāo kě yòng xì tǒng què bǎo fú wù bù zhōng duàn",
+  "pinyin2": "ga1o ke3 yo4ng xi4 to3ng que4 ba3o fu2 wu4 bu4 zho1ng dua4n",
+  "translation": {
+    "en": "High availability systems ensure uninterrupted service.",
+    "vi": "Hệ thống khả dụng cao đảm bảo dịch vụ không gián đoạn."
+  }
+}, {
+  "sentence": "并发处理提高了系统吞吐量。",
+  "tags": ["computer"],
+  "pinyin1": "bìng fā chǔ lǐ tí gāo le xì tǒng tūn tǔ liàng",
+  "pinyin2": "bi4ng fa1 chu3 li3 ti2 ga1o le xi4 to3ng tu1n tu3 lia4ng",
+  "translation": {
+    "en": "Concurrent processing improves system throughput.",
+    "vi": "Xử lý đồng thời nâng cao thông lượng hệ thống."
+  }
+}, {
+  "sentence": "访问日志记录了所有请求。",
+  "tags": ["computer"],
+  "pinyin1": "fǎng wèn rì zhì jì lù le suǒ yǒu qǐng qiú",
+  "pinyin2": "fa3ng we4n ri4 zhi4 ji4 lu4 le suo3 yo3u qi3ng qiu2",
+  "translation": {
+    "en": "Access logs record all requests.",
+    "vi": "Log truy cập ghi lại tất cả các yêu cầu."
+  }
+}, {
+  "sentence": "错误追踪帮助我们快速定位问题。",
+  "tags": ["computer"],
+  "pinyin1": "cuò wù zhuī zōng bāng zhù wǒ men kuài sù dìng wèi wèn tí",
+  "pinyin2": "cuo4 wu4 zhui1 zo1ng ba1ng zhu4 wo3 men kua4i su4 di4ng we4i we4n ti2",
+  "translation": {
+    "en": "Error tracking helps us quickly locate problems.",
+    "vi": "Theo dõi lỗi giúp chúng ta nhanh chóng xác định vấn đề."
+  }
+}, {
+  "sentence": "持续集成确保代码质量。",
+  "tags": ["computer"],
+  "pinyin1": "chí xù jí chéng què bǎo dài mǎ zhì liàng",
+  "pinyin2": "chi2 xu4 ji2 che2ng que4 ba3o da4i ma3 zhi4 lia4ng",
+  "translation": {
+    "en": "Continuous integration ensures code quality.",
+    "vi": "Tích hợp liên tục đảm bảo chất lượng mã."
+  }
+}, {
+  "sentence": "持续部署加快了发布速度。",
+  "tags": ["computer"],
+  "pinyin1": "chí xù bù shǔ jiā kuài le fā bù sù dù",
+  "pinyin2": "chi2 xu4 bu4 shu3 jia1 kua4i le fa1 bu4 su4 du4",
+  "translation": {
+    "en": "Continuous deployment speeds up releases.",
+    "vi": "Triển khai liên tục tăng tốc độ phát hành."
+  }
+}, {
+  "sentence": "容器编排管理多个容器。",
+  "tags": ["computer"],
+  "pinyin1": "róng qì biān pái guǎn lǐ duō gè róng qì",
+  "pinyin2": "ro2ng qi4 bia1n pa2i gua3n li3 duo1 ge4 ro2ng qi4",
+  "translation": {
+    "en": "Container orchestration manages multiple containers.",
+    "vi": "Sắp xếp container quản lý nhiều container."
+  }
+}, {
+  "sentence": "服务网格提供了微服务通信机制。",
+  "tags": ["computer"],
+  "pinyin1": "fú wù wǎng gé tí gōng le wēi fú wù tōng xìn jī zhì",
+  "pinyin2": "fu2 wu4 wa3ng ge2 ti2 go1ng le we1i fu2 wu4 to1ng xi4n ji1 zhi4",
+  "translation": {
+    "en": "Service mesh provides microservice communication mechanisms.",
+    "vi": "Lưới dịch vụ cung cấp cơ chế giao tiếp cho dịch vụ vi mô."
+  }
+}, {
+  "sentence": "微服务架构提高了系统灵活性。",
+  "tags": ["computer"],
+  "pinyin1": "wēi fú wù jià gòu tí gāo le xì tǒng líng huó xìng",
+  "pinyin2": "we1i fu2 wu4 jia4 go4u ti2 ga1o le xi4 to3ng li2ng huo2 xi4ng",
+  "translation": {
+    "en": "Microservices architecture improves system flexibility.",
+    "vi": "Kiến trúc dịch vụ vi mô nâng cao tính linh hoạt của hệ thống."
+  }
+}, {
+  "sentence": "这个应用程序运行在云端。",
+  "tags": ["computer"],
+  "pinyin1": "zhè gè yìng yòng chéng xù yùn xíng zài yún duān",
+  "pinyin2": "zhe4 ge4 yi4ng yo4ng che2ng xu4 yu4n xi2ng za4i yu2n dua1n",
+  "translation": {
+    "en": "This application runs in the cloud.",
+    "vi": "Ứng dụng này chạy trên đám mây."
+  }
+}, {
+  "sentence": "负载均衡器分配请求到不同服务器。",
+  "tags": ["computer"],
+  "pinyin1": "fù zǎi jūn héng qì fēn pèi qǐng qiú dào bù tóng fú wù qì",
+  "pinyin2": "fu4 za3i ju1n he2ng qi4 fe1n pe4i qi3ng qiu2 da4o bu4 to2ng fu2 wu4 qi4",
+  "translation": {
+    "en": "The load balancer distributes requests to different servers.",
+    "vi": "Thiết bị cân bằng tải phân phối yêu cầu đến các máy chủ khác nhau."
+  }
+}, {
+  "sentence": "数据库索引加快了查询速度。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù kù suǒ yǐn jiā kuài le chá xún sù dù",
+  "pinyin2": "shu4 ju4 ku4 suo3 yi3n jia1 kua4i le cha2 xu2n su4 du4",
+  "translation": {
+    "en": "Database indexes speed up queries.",
+    "vi": "Chỉ mục cơ sở dữ liệu tăng tốc độ truy vấn."
+  }
+}, {
+  "sentence": "事务处理确保数据一致性。",
+  "tags": ["computer"],
+  "pinyin1": "shì wù chǔ lǐ què bǎo shù jù yī zhì xìng",
+  "pinyin2": "shi4 wu4 chu3 li3 que4 ba3o shu4 ju4 yi1 zhi4 xi4ng",
+  "translation": {
+    "en": "Transaction processing ensures data consistency.",
+    "vi": "Xử lý giao dịch đảm bảo tính nhất quán của dữ liệu."
+  }
+}, {
+  "sentence": "分布式系统提高了可扩展性。",
+  "tags": ["computer"],
+  "pinyin1": "fēn bù shì xì tǒng tí gāo le kě kuò zhǎn xìng",
+  "pinyin2": "fe1n bu4 shi4 xi4 to3ng ti2 ga1o le ke3 kuo4 zha3n xi4ng",
+  "translation": {
+    "en": "Distributed systems improve scalability.",
+    "vi": "Hệ thống phân tán nâng cao khả năng mở rộng."
+  }
+}, {
+  "sentence": "数据同步确保多节点数据一致。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù tóng bù què bǎo duō jié diǎn shù jù yī zhì",
+  "pinyin2": "shu4 ju4 to2ng bu4 que4 ba3o duo1 jie2 dia3n shu4 ju4 yi1 zhi4",
+  "translation": {
+    "en": "Data synchronization ensures consistency across multiple nodes.",
+    "vi": "Đồng bộ dữ liệu đảm bảo tính nhất quán giữa các nút."
+  }
+}, {
+  "sentence": "事务回滚可以撤销错误操作。",
+  "tags": ["computer"],
+  "pinyin1": "shì wù huí gǔn kě yǐ chè xiāo cuò wù cāo zuò",
+  "pinyin2": "shi4 wu4 hui2 gu3n ke3 yi3 che4 xia1o cuo4 wu4 ca1o zuo4",
+  "translation": {
+    "en": "Transaction rollback can undo erroneous operations.",
+    "vi": "Quay lui giao dịch có thể hủy bỏ các thao tác sai."
+  }
+}, {
+  "sentence": "分片可以提高数据库性能。",
+  "tags": ["computer"],
+  "pinyin1": "fēn piàn kě yǐ tí gāo shù jù kù xìng néng",
+  "pinyin2": "fe1n pia4n ke3 yi3 ti2 ga1o shu4 ju4 ku4 xi4ng ne2ng",
+  "translation": {
+    "en": "Sharding can improve database performance.",
+    "vi": "Chia mảnh có thể nâng cao hiệu suất cơ sở dữ liệu."
+  }
+}, {
+  "sentence": "主从复制提供了数据备份。",
+  "tags": ["computer"],
+  "pinyin1": "zhǔ cóng fù zhì tí gōng le shù jù bèi fèn",
+  "pinyin2": "zhu3 co2ng fu4 zhi4 ti2 go1ng le shu4 ju4 be4i fe4n",
+  "translation": {
+    "en": "Master-slave replication provides data backup.",
+    "vi": "Sao chép chính-phụ cung cấp sao lưu dữ liệu."
+  }
+}, {
+  "sentence": "数据分区提高了查询效率。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù fēn qū tí gāo le chá xún xiào lǜ",
+  "pinyin2": "shu4 ju4 fe1n qu1 ti2 ga1o le cha2 xu2n xia4o lv4",
+  "translation": {
+    "en": "Data partitioning improves query efficiency.",
+    "vi": "Phân vùng dữ liệu nâng cao hiệu quả truy vấn."
+  }
+}, {
+  "sentence": "索引优化减少了查询时间。",
+  "tags": ["computer"],
+  "pinyin1": "suǒ yǐn yōu huà jiǎn shǎo le chá xún shí jiān",
+  "pinyin2": "suo3 yi3n yo1u hua4 jia3n sha3o le cha2 xu2n shi2 jia1n",
+  "translation": {
+    "en": "Index optimization reduces query time.",
+    "vi": "Tối ưu chỉ mục giảm thời gian truy vấn."
+  }
+}, {
+  "sentence": "数据库连接池管理连接资源。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù kù lián jiē chí guǎn lǐ lián jiē zī yuán",
+  "pinyin2": "shu4 ju4 ku4 lia2n jie1 chi2 gua3n li3 lia2n jie1 zi1 yua2n",
+  "translation": {
+    "en": "Database connection pools manage connection resources.",
+    "vi": "Bể kết nối cơ sở dữ liệu quản lý tài nguyên kết nối."
+  }
+}, {
+  "sentence": "事务隔离防止数据冲突。",
+  "tags": ["computer"],
+  "pinyin1": "shì wù gé lí fáng zhǐ shù jù chōng tū",
+  "pinyin2": "shi4 wu4 ge2 li2 fa2ng zhi3 shu4 ju4 cho1ng tu1",
+  "translation": {
+    "en": "Transaction isolation prevents data conflicts.",
+    "vi": "Cô lập giao dịch ngăn chặn xung đột dữ liệu."
+  }
+}, {
+  "sentence": "回调函数在操作完成后执行。",
+  "tags": ["computer"],
+  "pinyin1": "huí diào hán shù zài cāo zuò wán chéng hòu zhí xíng",
+  "pinyin2": "hui2 diao4 ha2n shu4 za4i ca1o zuo4 wa2n che2ng ho4u zhi2 xi2ng",
+  "translation": {
+    "en": "Callback functions execute after operations complete.",
+    "vi": "Hàm gọi lại được thực thi sau khi thao tác hoàn thành."
+  }
+}, {
+  "sentence": "异步处理提高了系统响应速度。",
+  "tags": ["computer"],
+  "pinyin1": "yì bù chǔ lǐ tí gāo le xì tǒng xiǎng yìng sù dù",
+  "pinyin2": "yi4 bu4 chu3 li3 ti2 ga1o le xi4 to3ng xia3ng yi4ng su4 du4",
+  "translation": {
+    "en": "Asynchronous processing improves system response speed.",
+    "vi": "Xử lý bất đồng bộ nâng cao tốc độ phản hồi hệ thống."
+  }
+}, {
+  "sentence": "同步处理确保操作顺序执行。",
+  "tags": ["computer"],
+  "pinyin1": "tóng bù chǔ lǐ què bǎo cāo zuò shùn xù zhí xíng",
+  "pinyin2": "to2ng bu4 chu3 li3 que4 ba3o ca1o zuo4 shu4n xu4 zhi2 xi2ng",
+  "translation": {
+    "en": "Synchronous processing ensures operations execute in order.",
+    "vi": "Xử lý đồng bộ đảm bảo các thao tác thực thi theo thứ tự."
+  }
+}, {
+  "sentence": "负载监控帮助我们了解系统压力。",
+  "tags": ["computer"],
+  "pinyin1": "fù zǎi jiān kòng bāng zhù wǒ men liǎo jiě xì tǒng yā lì",
+  "pinyin2": "fu4 za3i jia1n ko4ng ba1ng zhu4 wo3 men lia3o jie3 xi4 to3ng ya1 li4",
+  "translation": {
+    "en": "Load monitoring helps us understand system pressure.",
+    "vi": "Giám sát tải giúp chúng ta hiểu áp lực hệ thống."
+  }
+}, {
+  "sentence": "任务队列管理待处理的任务。",
+  "tags": ["computer"],
+  "pinyin1": "rèn wù duì liè guǎn lǐ dài chǔ lǐ de rèn wù",
+  "pinyin2": "re4n wu4 dui4 lie4 gua3n li3 da4i chu3 li3 de re4n wu4",
+  "translation": {
+    "en": "Task queues manage pending tasks.",
+    "vi": "Hàng đợi tác vụ quản lý các nhiệm vụ đang chờ xử lý."
+  }
+}, {
+  "sentence": "事务日志记录了所有数据库操作。",
+  "tags": ["computer"],
+  "pinyin1": "shì wù rì zhì jì lù le suǒ yǒu shù jù kù cāo zuò",
+  "pinyin2": "shi4 wu4 ri4 zhi4 ji4 lu4 le suo3 yo3u shu4 ju4 ku4 ca1o zuo4",
+  "translation": {
+    "en": "Transaction logs record all database operations.",
+    "vi": "Nhật ký giao dịch ghi lại tất cả các thao tác cơ sở dữ liệu."
+  }
+}, {
+  "sentence": "数据库快照保存了某个时间点的数据状态。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù kù kuài zhào bǎo cún le mǒu gè shí jiān diǎn de shù jù zhuàng tài",
+  "pinyin2": "shu4 ju4 ku4 kua4i zha4o ba3o cu2n le mo3u ge4 shi2 jia1n dia3n de shu4 ju4 zhua4ng ta4i",
+  "translation": {
+    "en": "Database snapshots save the data state at a specific point in time.",
+    "vi": "Ảnh chụp cơ sở dữ liệu lưu trạng thái dữ liệu tại một thời điểm cụ thể."
+  }
+}, {
+  "sentence": "数据恢复可以从备份中还原。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù huī fù kě yǐ cóng bèi fèn zhōng huán yuán",
+  "pinyin2": "shu4 ju4 hui1 fu4 ke3 yi3 co2ng be4i fe4n zho1ng hua2n yua2n",
+  "translation": {
+    "en": "Data recovery can restore from backups.",
+    "vi": "Phục hồi dữ liệu có thể khôi phục từ bản sao lưu."
+  }
+}, {
+  "sentence": "故障转移确保服务高可用。",
+  "tags": ["computer"],
+  "pinyin1": "gù zhàng zhuǎn yí què bǎo fú wù gāo kě yòng",
+  "pinyin2": "gu4 zha4ng zhua3n yi2 que4 ba3o fu2 wu4 ga1o ke3 yo4ng",
+  "translation": {
+    "en": "Failover ensures high service availability.",
+    "vi": "Chuyển đổi khi sự cố đảm bảo dịch vụ khả dụng cao."
+  }
+}, {
+  "sentence": "负载测试检查系统在压力下的表现。",
+  "tags": ["computer"],
+  "pinyin1": "fù zǎi cè shì jiǎn chá xì tǒng zài yā lì xià de biǎo xiàn",
+  "pinyin2": "fu4 za3i ce4 shi4 jia3n cha2 xi4 to3ng za4i ya1 li4 xia4 de bia3o xia4n",
+  "translation": {
+    "en": "Load testing checks system performance under pressure.",
+    "vi": "Kiểm thử tải kiểm tra hiệu suất hệ thống dưới áp lực."
+  }
+}, {
+  "sentence": "压力测试验证系统的极限能力。",
+  "tags": ["computer"],
+  "pinyin1": "yā lì cè shì yàn zhèng xì tǒng de jí xiàn néng lì",
+  "pinyin2": "ya1 li4 ce4 shi4 ya4n zhe4ng xi4 to3ng de ji2 xia4n ne2ng li4",
+  "translation": {
+    "en": "Stress testing verifies the system's maximum capacity.",
+    "vi": "Kiểm thử áp lực xác minh khả năng tối đa của hệ thống."
+  }
+}, {
+  "sentence": "服务发现帮助系统找到可用的服务。",
+  "tags": ["computer"],
+  "pinyin1": "fú wù fā xiàn bāng zhù xì tǒng zhǎo dào kě yòng de fú wù",
+  "pinyin2": "fu2 wu4 fa1 xia4n ba1ng zhu4 xi4 to3ng zha3o da4o ke3 yo4ng de fu2 wu4",
+  "translation": {
+    "en": "Service discovery helps systems find available services.",
+    "vi": "Phát hiện dịch vụ giúp hệ thống tìm thấy các dịch vụ có sẵn."
+  }
+}, {
+  "sentence": "分布式缓存提高了数据访问速度。",
+  "tags": ["computer"],
+  "pinyin1": "fēn bù shì huàn cún tí gāo le shù jù fǎng wèn sù dù",
+  "pinyin2": "fe1n bu4 shi4 hua4n cu2n ti2 ga1o le shu4 ju4 fa3ng we4n su4 du4",
+  "translation": {
+    "en": "Distributed cache improves data access speed.",
+    "vi": "Bộ nhớ đệm phân tán tăng tốc độ truy cập dữ liệu."
+  }
+}, {
+  "sentence": "容器镜像包含了应用的所有依赖。",
+  "tags": ["computer"],
+  "pinyin1": "róng qì jìng xiàng bāo hán le yìng yòng de suǒ yǒu yī lài",
+  "pinyin2": "ro2ng qi4 ji4ng xia4ng bao1 ha2n le yi4ng yo4ng de suo3 yo3u yi1 la4i",
+  "translation": {
+    "en": "Container images contain all application dependencies.",
+    "vi": "Hình ảnh container chứa tất cả các phụ thuộc của ứng dụng."
+  }
+}, {
+  "sentence": "服务监控实时跟踪系统状态。",
+  "tags": ["computer"],
+  "pinyin1": "fú wù jiān kòng shí shí gēn zōng xì tǒng zhuàng tài",
+  "pinyin2": "fu2 wu4 jia1n ko4ng shi2 shi2 ge1n zo1ng xi4 to3ng zhua4ng ta4i",
+  "translation": {
+    "en": "Service monitoring tracks system status in real-time.",
+    "vi": "Giám sát dịch vụ theo dõi trạng thái hệ thống theo thời gian thực."
+  }
+}, {
+  "sentence": "请求速率过高会导致系统过载。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng qiú sù lǜ guò gāo huì dǎo zhì xì tǒng guò zǎi",
+  "pinyin2": "qi3ng qiu2 su4 lv4 guo4 ga1o hui4 da3o zhi4 xi4 to3ng guo4 za3i",
+  "translation": {
+    "en": "Excessively high request rates can cause system overload.",
+    "vi": "Tốc độ yêu cầu quá cao có thể khiến hệ thống quá tải."
+  }
+}, {
+  "sentence": "响应延迟影响了用户体验。",
+  "tags": ["computer"],
+  "pinyin1": "xiǎng yìng yán chí yǐng xiǎng le yòng hù tǐ yàn",
+  "pinyin2": "xia3ng yi4ng ya2n chi2 yi3ng xia3ng le yo4ng hu4 ti3 ya4n",
+  "translation": {
+    "en": "Response latency affects user experience.",
+    "vi": "Độ trễ phản hồi ảnh hưởng đến trải nghiệm người dùng."
+  }
+}, {
+  "sentence": "分布式锁防止并发冲突。",
+  "tags": ["computer"],
+  "pinyin1": "fēn bù shì suǒ fáng zhǐ bìng fā chōng tū",
+  "pinyin2": "fe1n bu4 shi4 suo3 fa2ng zhi3 bi4ng fa1 cho1ng tu1",
+  "translation": {
+    "en": "Distributed locks prevent concurrent conflicts.",
+    "vi": "Khóa phân tán ngăn chặn xung đột đồng thời."
+  }
+}, {
+  "sentence": "消息中间件处理服务间通信。",
+  "tags": ["computer"],
+  "pinyin1": "xiāo xī zhōng jiān jiàn chǔ lǐ fú wù jiān tōng xìn",
+  "pinyin2": "xia1o xi1 zho1ng jia1n jia4n chu3 li3 fu2 wu4 jia1n to1ng xi4n",
+  "translation": {
+    "en": "Message middleware handles inter-service communication.",
+    "vi": "Middleware tin nhắn xử lý giao tiếp giữa các dịch vụ."
+  }
+}, {
+  "sentence": "队列长度反映了系统负载。",
+  "tags": ["computer"],
+  "pinyin1": "duì liè cháng dù fǎn yìng le xì tǒng fù zǎi",
+  "pinyin2": "dui4 lie4 cha2ng du4 fa3n yi4ng le xi4 to3ng fu4 za3i",
+  "translation": {
+    "en": "Queue length reflects system load.",
+    "vi": "Độ dài hàng đợi phản ánh tải hệ thống."
+  }
+}, {
+  "sentence": "请求超时需要重试机制。",
+  "tags": ["computer"],
+  "pinyin1": "qǐng qiú chāo shí xū yào chóng shì jī zhì",
+  "pinyin2": "qi3ng qiu2 cha1o shi2 xu1 ya4o cho2ng shi4 ji1 zhi4",
+  "translation": {
+    "en": "Request timeouts require retry mechanisms.",
+    "vi": "Hết hạn yêu cầu cần cơ chế thử lại."
+  }
+}, {
+  "sentence": "失败重试提高了系统可靠性。",
+  "tags": ["computer"],
+  "pinyin1": "shī bài chóng shì tí gāo le xì tǒng kě kào xìng",
+  "pinyin2": "shi1 ba4i cho2ng shi4 ti2 ga1o le xi4 to3ng ke3 ka4o xi4ng",
+  "translation": {
+    "en": "Retry on failure improves system reliability.",
+    "vi": "Thử lại khi thất bại nâng cao độ tin cậy hệ thống."
+  }
+}, {
+  "sentence": "日志轮转防止日志文件过大。",
+  "tags": ["computer"],
+  "pinyin1": "rì zhì lún zhuǎn fáng zhǐ rì zhì wén jiàn guò dà",
+  "pinyin2": "ri4 zhi4 lu2n zhua3n fa2ng zhi3 ri4 zhi4 we2n jia4n guo4 da4",
+  "translation": {
+    "en": "Log rotation prevents log files from becoming too large.",
+    "vi": "Xoay vòng nhật ký ngăn file log trở nên quá lớn."
+  }
+}, {
+  "sentence": "监控告警及时通知系统问题。",
+  "tags": ["computer"],
+  "pinyin1": "jiān kòng gào jǐng jí shí tōng zhī xì tǒng wèn tí",
+  "pinyin2": "jia1n ko4ng ga4o ji3ng ji2 shi2 to1ng zhi1 xi4 to3ng we4n ti2",
+  "translation": {
+    "en": "Monitoring alerts promptly notify about system issues.",
+    "vi": "Cảnh báo giám sát thông báo kịp thời về vấn đề hệ thống."
+  }
+}, {
+  "sentence": "系统架构决定了系统的可扩展性。",
+  "tags": ["computer"],
+  "pinyin1": "xì tǒng jià gòu jué dìng le xì tǒng de kě kuò zhǎn xìng",
+  "pinyin2": "xi4 to3ng jia4 go4u ju2e di4ng le xi4 to3ng de ke3 kuo4 zha3n xi4ng",
+  "translation": {
+    "en": "System architecture determines system scalability.",
+    "vi": "Kiến trúc hệ thống quyết định khả năng mở rộng của hệ thống."
+  }
+}, {
+  "sentence": "加密通信保护数据传输安全。",
+  "tags": ["computer"],
+  "pinyin1": "jiā mì tōng xìn bǎo hù shù jù chuán shū ān quán",
+  "pinyin2": "jia1 mi4 to1ng xi4n ba3o hu4 shu4 ju4 chua2n shu1 a1n qua2n",
+  "translation": {
+    "en": "Encrypted communication protects data transmission security.",
+    "vi": "Truyền thông mã hóa bảo vệ an toàn truyền dữ liệu."
+  }
+}, {
+  "sentence": "身份验证确认用户身份。",
+  "tags": ["computer"],
+  "pinyin1": "shēn fèn yàn zhèng què rèn yòng hù shēn fèn",
+  "pinyin2": "she1n fe4n ya4n zhe4ng que4 re4n yo4ng hu4 she1n fe4n",
+  "translation": {
+    "en": "Identity verification confirms user identity.",
+    "vi": "Xác thực danh tính xác nhận danh tính người dùng."
+  }
+}, {
+  "sentence": "数据持久化确保数据不丢失。",
+  "tags": ["computer"],
+  "pinyin1": "shù jù chí jiǔ huà què bǎo shù jù bù diū shī",
+  "pinyin2": "shu4 ju4 chi2 jiu3 hua4 que4 ba3o shu4 ju4 bu4 diu1 shi1",
+  "translation": {
+    "en": "Data persistence ensures data is not lost.",
+    "vi": "Lưu trữ dữ liệu lâu dài đảm bảo dữ liệu không bị mất."
+  }
+}, {
+  "sentence": "服务熔断防止系统崩溃。",
+  "tags": ["computer"],
+  "pinyin1": "fú wù róng duàn fáng zhǐ xì tǒng bēng kuì",
+  "pinyin2": "fu2 wu4 ro2ng dua4n fa2ng zhi3 xi4 to3ng be1ng ku4i",
+  "translation": {
+    "en": "Service circuit breakers prevent system crashes.",
+    "vi": "Ngắt mạch dịch vụ ngăn chặn hệ thống sụp đổ."
+  }
+}]

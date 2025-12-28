@@ -1,0 +1,2852 @@
+[
+  {
+    "tags": ["physic"],
+    "word": "物理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wù lǐ",
+    "pinyin2": "wu4 li3",
+    "translation": {
+      "en": "physics",
+      "vi": "vật lý"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lì",
+    "pinyin2": "li4",
+    "translation": {
+      "en": "force",
+      "vi": "lực"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "质量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì liàng",
+    "pinyin2": "zhi4 liang4",
+    "translation": {
+      "en": "mass",
+      "vi": "khối lượng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "速度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "sù dù",
+    "pinyin2": "su4 du4",
+    "translation": {
+      "en": "velocity",
+      "vi": "vận tốc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "加速度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiā sù dù",
+    "pinyin2": "jia1 su4 du4",
+    "translation": {
+      "en": "acceleration",
+      "vi": "gia tốc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "能量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "néng liàng",
+    "pinyin2": "neng2 liang4",
+    "translation": {
+      "en": "energy",
+      "vi": "năng lượng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "功",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gōng",
+    "pinyin2": "gong1",
+    "translation": {
+      "en": "work",
+      "vi": "công"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "功率",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gōng lǜ",
+    "pinyin2": "gong1 lü4",
+    "translation": {
+      "en": "power",
+      "vi": "công suất"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "动量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dòng liàng",
+    "pinyin2": "dong4 liang4",
+    "translation": {
+      "en": "momentum",
+      "vi": "động lượng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "惯性",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guàn xìng",
+    "pinyin2": "guan4 xing4",
+    "translation": {
+      "en": "inertia",
+      "vi": "quán tính"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "重力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng lì",
+    "pinyin2": "zhong4 li4",
+    "translation": {
+      "en": "gravity",
+      "vi": "trọng lực"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "压力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yā lì",
+    "pinyin2": "ya1 li4",
+    "translation": {
+      "en": "pressure",
+      "vi": "áp lực"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "温度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wēn dù",
+    "pinyin2": "wen1 du4",
+    "translation": {
+      "en": "temperature",
+      "vi": "nhiệt độ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "热量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rè liàng",
+    "pinyin2": "re4 liang4",
+    "translation": {
+      "en": "heat",
+      "vi": "nhiệt lượng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电流",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn liú",
+    "pinyin2": "dian4 liu2",
+    "translation": {
+      "en": "electric current",
+      "vi": "dòng điện"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电压",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn yā",
+    "pinyin2": "dian4 ya1",
+    "translation": {
+      "en": "voltage",
+      "vi": "điện áp"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电阻",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn zǔ",
+    "pinyin2": "dian4 zu3",
+    "translation": {
+      "en": "resistance",
+      "vi": "điện trở"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "磁场",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cí chǎng",
+    "pinyin2": "ci2 chang3",
+    "translation": {
+      "en": "magnetic field",
+      "vi": "từ trường"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电场",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn chǎng",
+    "pinyin2": "dian4 chang3",
+    "translation": {
+      "en": "electric field",
+      "vi": "điện trường"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "光",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng",
+    "pinyin2": "guang1",
+    "translation": {
+      "en": "light",
+      "vi": "ánh sáng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "波长",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bō cháng",
+    "pinyin2": "bo1 chang2",
+    "translation": {
+      "en": "wavelength",
+      "vi": "bước sóng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "频率",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pín lǜ",
+    "pinyin2": "pin2 lü4",
+    "translation": {
+      "en": "frequency",
+      "vi": "tần số"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "波",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bō",
+    "pinyin2": "bo1",
+    "translation": {
+      "en": "wave",
+      "vi": "sóng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "原子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuán zǐ",
+    "pinyin2": "yuan2 zi3",
+    "translation": {
+      "en": "atom",
+      "vi": "nguyên tử"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "分子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēn zǐ",
+    "pinyin2": "fen1 zi3",
+    "translation": {
+      "en": "molecule",
+      "vi": "phân tử"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn zǐ",
+    "pinyin2": "dian4 zi3",
+    "translation": {
+      "en": "electron",
+      "vi": "electron"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "质子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhì zǐ",
+    "pinyin2": "zhi4 zi3",
+    "translation": {
+      "en": "proton",
+      "vi": "proton"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "中子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōng zǐ",
+    "pinyin2": "zhong1 zi3",
+    "translation": {
+      "en": "neutron",
+      "vi": "neutron"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "核",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé",
+    "pinyin2": "he2",
+    "translation": {
+      "en": "nucleus",
+      "vi": "hạt nhân"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "量子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liàng zǐ",
+    "pinyin2": "liang4 zi3",
+    "translation": {
+      "en": "quantum",
+      "vi": "lượng tử"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "粒子",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lì zǐ",
+    "pinyin2": "li4 zi3",
+    "translation": {
+      "en": "particle",
+      "vi": "hạt"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "密度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mì dù",
+    "pinyin2": "mi4 du4",
+    "translation": {
+      "en": "density",
+      "vi": "mật độ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "体积",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tǐ jī",
+    "pinyin2": "ti3 ji1",
+    "translation": {
+      "en": "volume",
+      "vi": "thể tích"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "位移",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wèi yí",
+    "pinyin2": "wei4 yi2",
+    "translation": {
+      "en": "displacement",
+      "vi": "độ dời"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "距离",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jù lí",
+    "pinyin2": "ju4 li2",
+    "translation": {
+      "en": "distance",
+      "vi": "khoảng cách"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "时间",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shí jiān",
+    "pinyin2": "shi2 jian1",
+    "translation": {
+      "en": "time",
+      "vi": "thời gian"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "空间",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kōng jiān",
+    "pinyin2": "kong1 jian1",
+    "translation": {
+      "en": "space",
+      "vi": "không gian"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "运动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yùn dòng",
+    "pinyin2": "yun4 dong4",
+    "translation": {
+      "en": "motion",
+      "vi": "chuyển động"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "静止",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jìng zhǐ",
+    "pinyin2": "jing4 zhi3",
+    "translation": {
+      "en": "rest",
+      "vi": "đứng yên"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "平衡",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "píng héng",
+    "pinyin2": "ping2 heng2",
+    "translation": {
+      "en": "equilibrium",
+      "vi": "cân bằng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "摩擦",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "mó cā",
+    "pinyin2": "mo2 ca1",
+    "translation": {
+      "en": "friction",
+      "vi": "ma sát"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "张力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhāng lì",
+    "pinyin2": "zhang1 li4",
+    "translation": {
+      "en": "tension",
+      "vi": "lực căng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "弹性",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tán xìng",
+    "pinyin2": "tan2 xing4",
+    "translation": {
+      "en": "elasticity",
+      "vi": "tính đàn hồi"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "振动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèn dòng",
+    "pinyin2": "zhen4 dong4",
+    "translation": {
+      "en": "vibration",
+      "vi": "dao động"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "振荡",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèn dàng",
+    "pinyin2": "zhen4 dang4",
+    "translation": {
+      "en": "oscillation",
+      "vi": "dao động"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "振幅",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèn fú",
+    "pinyin2": "zhen4 fu2",
+    "translation": {
+      "en": "amplitude",
+      "vi": "biên độ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "周期",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōu qī",
+    "pinyin2": "zhou1 qi1",
+    "translation": {
+      "en": "period",
+      "vi": "chu kỳ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "反射",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎn shè",
+    "pinyin2": "fan3 she4",
+    "translation": {
+      "en": "reflection",
+      "vi": "phản xạ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "折射",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhé shè",
+    "pinyin2": "zhe2 she4",
+    "translation": {
+      "en": "refraction",
+      "vi": "khúc xạ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "衍射",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǎn shè",
+    "pinyin2": "yan3 she4",
+    "translation": {
+      "en": "diffraction",
+      "vi": "nhiễu xạ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "干涉",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gān shè",
+    "pinyin2": "gan1 she4",
+    "translation": {
+      "en": "interference",
+      "vi": "giao thoa"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "透镜",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tòu jìng",
+    "pinyin2": "tou4 jing4",
+    "translation": {
+      "en": "lens",
+      "vi": "thấu kính"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "焦点",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiāo diǎn",
+    "pinyin2": "jiao1 dian3",
+    "translation": {
+      "en": "focus",
+      "vi": "tiêu điểm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "图像",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tú xiàng",
+    "pinyin2": "tu2 xiang4",
+    "translation": {
+      "en": "image",
+      "vi": "ảnh"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "光谱",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng pǔ",
+    "pinyin2": "guang1 pu3",
+    "translation": {
+      "en": "spectrum",
+      "vi": "quang phổ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "颜色",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yán sè",
+    "pinyin2": "yan2 se4",
+    "translation": {
+      "en": "color",
+      "vi": "màu sắc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "声波",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shēng bō",
+    "pinyin2": "sheng1 bo1",
+    "translation": {
+      "en": "sound wave",
+      "vi": "sóng âm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "声速",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shēng sù",
+    "pinyin2": "sheng1 su4",
+    "translation": {
+      "en": "speed of sound",
+      "vi": "tốc độ âm thanh"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "光速",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng sù",
+    "pinyin2": "guang1 su4",
+    "translation": {
+      "en": "speed of light",
+      "vi": "tốc độ ánh sáng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "相对论",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiāng duì lùn",
+    "pinyin2": "xiang1 dui4 lun4",
+    "translation": {
+      "en": "relativity",
+      "vi": "thuyết tương đối"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "相对",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiāng duì",
+    "pinyin2": "xiang1 dui4",
+    "translation": {
+      "en": "relative",
+      "vi": "tương đối"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "绝对",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jué duì",
+    "pinyin2": "jue2 dui4",
+    "translation": {
+      "en": "absolute",
+      "vi": "tuyệt đối"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "参考系",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cān kǎo xì",
+    "pinyin2": "can1 kao3 xi4",
+    "translation": {
+      "en": "reference frame",
+      "vi": "hệ quy chiếu"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "坐标系",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò biāo xì",
+    "pinyin2": "zuo4 biao1 xi4",
+    "translation": {
+      "en": "coordinate system",
+      "vi": "hệ tọa độ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "矢量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shǐ liàng",
+    "pinyin2": "shi3 liang4",
+    "translation": {
+      "en": "vector",
+      "vi": "vectơ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "标量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biāo liàng",
+    "pinyin2": "biao1 liang4",
+    "translation": {
+      "en": "scalar",
+      "vi": "đại lượng vô hướng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "方向",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fāng xiàng",
+    "pinyin2": "fang1 xiang4",
+    "translation": {
+      "en": "direction",
+      "vi": "hướng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "大小",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dà xiǎo",
+    "pinyin2": "da4 xiao3",
+    "translation": {
+      "en": "magnitude",
+      "vi": "độ lớn"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "单位",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dān wèi",
+    "pinyin2": "dan1 wei4",
+    "translation": {
+      "en": "unit",
+      "vi": "đơn vị"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "测量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cè liáng",
+    "pinyin2": "ce4 liang2",
+    "translation": {
+      "en": "measurement",
+      "vi": "đo lường"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "实验",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shí yàn",
+    "pinyin2": "shi2 yan4",
+    "translation": {
+      "en": "experiment",
+      "vi": "thí nghiệm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "观察",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guān chá",
+    "pinyin2": "guan1 cha2",
+    "translation": {
+      "en": "observation",
+      "vi": "quan sát"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "理论",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lǐ lùn",
+    "pinyin2": "li3 lun4",
+    "translation": {
+      "en": "theory",
+      "vi": "lý thuyết"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dìng lǜ",
+    "pinyin2": "ding4 lü4",
+    "translation": {
+      "en": "law",
+      "vi": "định luật"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "原理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuán lǐ",
+    "pinyin2": "yuan2 li3",
+    "translation": {
+      "en": "principle",
+      "vi": "nguyên lý"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "公式",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gōng shì",
+    "pinyin2": "gong1 shi4",
+    "translation": {
+      "en": "formula",
+      "vi": "công thức"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "方程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fāng chéng",
+    "pinyin2": "fang1 cheng2",
+    "translation": {
+      "en": "equation",
+      "vi": "phương trình"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "计算",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jì suàn",
+    "pinyin2": "ji4 suan4",
+    "translation": {
+      "en": "calculation",
+      "vi": "tính toán"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "结果",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jié guǒ",
+    "pinyin2": "jie2 guo3",
+    "translation": {
+      "en": "result",
+      "vi": "kết quả"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "误差",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wù chā",
+    "pinyin2": "wu4 cha1",
+    "translation": {
+      "en": "error",
+      "vi": "sai số"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "精度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jīng dù",
+    "pinyin2": "jing1 du4",
+    "translation": {
+      "en": "precision",
+      "vi": "độ chính xác"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "准确度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhǔn què dù",
+    "pinyin2": "zhun3 que4 du4",
+    "translation": {
+      "en": "accuracy",
+      "vi": "độ chính xác"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "仪器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yí qì",
+    "pinyin2": "yi2 qi4",
+    "translation": {
+      "en": "instrument",
+      "vi": "dụng cụ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "设备",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shè bèi",
+    "pinyin2": "she4 bei4",
+    "translation": {
+      "en": "equipment",
+      "vi": "thiết bị"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "装置",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhuāng zhì",
+    "pinyin2": "zhuang1 zhi4",
+    "translation": {
+      "en": "device",
+      "vi": "thiết bị"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "机械",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jī xiè",
+    "pinyin2": "ji1 xie4",
+    "translation": {
+      "en": "machine",
+      "vi": "máy móc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "杠杆",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "gàng gǎn",
+    "pinyin2": "gang4 gan3",
+    "translation": {
+      "en": "lever",
+      "vi": "đòn bẩy"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "滑轮",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "huá lún",
+    "pinyin2": "hua2 lun2",
+    "translation": {
+      "en": "pulley",
+      "vi": "ròng rọc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "斜面",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xié miàn",
+    "pinyin2": "xie2 mian4",
+    "translation": {
+      "en": "inclined plane",
+      "vi": "mặt phẳng nghiêng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "轮轴",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lún zhóu",
+    "pinyin2": "lun2 zhou2",
+    "translation": {
+      "en": "wheel and axle",
+      "vi": "bánh xe và trục"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "效率",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiào lǜ",
+    "pinyin2": "xiao4 lü4",
+    "translation": {
+      "en": "efficiency",
+      "vi": "hiệu suất"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "机械能",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jī xiè néng",
+    "pinyin2": "ji1 xie4 neng2",
+    "translation": {
+      "en": "mechanical energy",
+      "vi": "năng lượng cơ học"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "动能",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dòng néng",
+    "pinyin2": "dong4 neng2",
+    "translation": {
+      "en": "kinetic energy",
+      "vi": "động năng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "势能",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shì néng",
+    "pinyin2": "shi4 neng2",
+    "translation": {
+      "en": "potential energy",
+      "vi": "thế năng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "重力势能",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhòng lì shì néng",
+    "pinyin2": "zhong4 li4 shi4 neng2",
+    "translation": {
+      "en": "gravitational potential energy",
+      "vi": "thế năng trọng trường"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "弹性势能",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tán xìng shì néng",
+    "pinyin2": "tan2 xing4 shi4 neng2",
+    "translation": {
+      "en": "elastic potential energy",
+      "vi": "thế năng đàn hồi"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "守恒",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shǒu héng",
+    "pinyin2": "shou3 heng2",
+    "translation": {
+      "en": "conservation",
+      "vi": "bảo toàn"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "能量守恒",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "néng liàng shǒu héng",
+    "pinyin2": "neng2 liang4 shou3 heng2",
+    "translation": {
+      "en": "conservation of energy",
+      "vi": "bảo toàn năng lượng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "动量守恒",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dòng liàng shǒu héng",
+    "pinyin2": "dong4 liang4 shou3 heng2",
+    "translation": {
+      "en": "conservation of momentum",
+      "vi": "bảo toàn động lượng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "碰撞",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "pèng zhuàng",
+    "pinyin2": "peng4 zhuang4",
+    "translation": {
+      "en": "collision",
+      "vi": "va chạm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "弹性碰撞",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tán xìng pèng zhuàng",
+    "pinyin2": "tan2 xing4 peng4 zhuang4",
+    "translation": {
+      "en": "elastic collision",
+      "vi": "va chạm đàn hồi"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "非弹性碰撞",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēi tán xìng pèng zhuàng",
+    "pinyin2": "fei1 tan2 xing4 peng4 zhuang4",
+    "translation": {
+      "en": "inelastic collision",
+      "vi": "va chạm không đàn hồi"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "完全非弹性碰撞",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wán quán fēi tán xìng pèng zhuàng",
+    "pinyin2": "wan2 quan2 fei1 tan2 xing4 peng4 zhuang4",
+    "translation": {
+      "en": "perfectly inelastic collision",
+      "vi": "va chạm hoàn toàn không đàn hồi"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "冲量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chōng liàng",
+    "pinyin2": "chong1 liang4",
+    "translation": {
+      "en": "impulse",
+      "vi": "xung lượng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "作用力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zuò yòng lì",
+    "pinyin2": "zuo4 yong4 li4",
+    "translation": {
+      "en": "action force",
+      "vi": "lực tác dụng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "反作用力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎn zuò yòng lì",
+    "pinyin2": "fan3 zuo4 yong4 li4",
+    "translation": {
+      "en": "reaction force",
+      "vi": "lực phản tác dụng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "合力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé lì",
+    "pinyin2": "he2 li4",
+    "translation": {
+      "en": "resultant force",
+      "vi": "hợp lực"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "分力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fēn lì",
+    "pinyin2": "fen1 li4",
+    "translation": {
+      "en": "component force",
+      "vi": "phân lực"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "垂直",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chuí zhí",
+    "pinyin2": "chui2 zhi2",
+    "translation": {
+      "en": "perpendicular",
+      "vi": "vuông góc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "平行",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "píng xíng",
+    "pinyin2": "ping2 xing2",
+    "translation": {
+      "en": "parallel",
+      "vi": "song song"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "角度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiǎo dù",
+    "pinyin2": "jiao3 du4",
+    "translation": {
+      "en": "angle",
+      "vi": "góc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "弧度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hú dù",
+    "pinyin2": "hu2 du4",
+    "translation": {
+      "en": "radian",
+      "vi": "radian"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "圆周运动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuán zhōu yùn dòng",
+    "pinyin2": "yuan2 zhou1 yun4 dong4",
+    "translation": {
+      "en": "circular motion",
+      "vi": "chuyển động tròn"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "向心力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xiàng xīn lì",
+    "pinyin2": "xiang4 xin1 li4",
+    "translation": {
+      "en": "centripetal force",
+      "vi": "lực hướng tâm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "离心力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lí xīn lì",
+    "pinyin2": "li2 xin1 li4",
+    "translation": {
+      "en": "centrifugal force",
+      "vi": "lực ly tâm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "角速度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiǎo sù dù",
+    "pinyin2": "jiao3 su4 du4",
+    "translation": {
+      "en": "angular velocity",
+      "vi": "vận tốc góc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "角加速度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiǎo jiā sù dù",
+    "pinyin2": "jiao3 jia1 su4 du4",
+    "translation": {
+      "en": "angular acceleration",
+      "vi": "gia tốc góc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "周期运动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhōu qī yùn dòng",
+    "pinyin2": "zhou1 qi1 yun4 dong4",
+    "translation": {
+      "en": "periodic motion",
+      "vi": "chuyển động tuần hoàn"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "简谐运动",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiǎn xié yùn dòng",
+    "pinyin2": "jian3 xie2 yun4 dong4",
+    "translation": {
+      "en": "simple harmonic motion",
+      "vi": "dao động điều hòa"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "单摆",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "dān bǎi",
+    "pinyin2": "dan1 bai3",
+    "translation": {
+      "en": "simple pendulum",
+      "vi": "con lắc đơn"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "弹簧",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tán huáng",
+    "pinyin2": "tan2 huang2",
+    "translation": {
+      "en": "spring",
+      "vi": "lò xo"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "胡克定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hú kè dìng lǜ",
+    "pinyin2": "hu2 ke4 ding4 lü4",
+    "translation": {
+      "en": "Hooke's law",
+      "vi": "định luật Hooke"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "弹性系数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "tán xìng xì shù",
+    "pinyin2": "tan2 xing4 xi4 shu4",
+    "translation": {
+      "en": "spring constant",
+      "vi": "hệ số đàn hồi"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "流体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liú tǐ",
+    "pinyin2": "liu2 ti3",
+    "translation": {
+      "en": "fluid",
+      "vi": "chất lỏng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "浮力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fú lì",
+    "pinyin2": "fu2 li4",
+    "translation": {
+      "en": "buoyant force",
+      "vi": "lực đẩy Archimedes"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "阿基米德原理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "ā jī mǐ dé yuán lǐ",
+    "pinyin2": "a1 ji1 mi3 de2 yuan2 li3",
+    "translation": {
+      "en": "Archimedes' principle",
+      "vi": "nguyên lý Archimedes"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "粘度",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "nián dù",
+    "pinyin2": "nian2 du4",
+    "translation": {
+      "en": "viscosity",
+      "vi": "độ nhớt"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "表面张力",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biǎo miàn zhāng lì",
+    "pinyin2": "biao3 mian4 zhang1 li4",
+    "translation": {
+      "en": "surface tension",
+      "vi": "sức căng bề mặt"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "毛细现象",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "máo xì xiàn xiàng",
+    "pinyin2": "mao2 xi4 xian4 xiang4",
+    "translation": {
+      "en": "capillary action",
+      "vi": "hiện tượng mao dẫn"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "热力学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rè lì xué",
+    "pinyin2": "re4 li4 xue2",
+    "translation": {
+      "en": "thermodynamics",
+      "vi": "nhiệt động lực học"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "内能",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "nèi néng",
+    "pinyin2": "nei4 neng2",
+    "translation": {
+      "en": "internal energy",
+      "vi": "nội năng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "熵",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shāng",
+    "pinyin2": "shang1",
+    "translation": {
+      "en": "entropy",
+      "vi": "entropy"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "热机",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "rè jī",
+    "pinyin2": "re4 ji1",
+    "translation": {
+      "en": "heat engine",
+      "vi": "động cơ nhiệt"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "卡诺循环",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kǎ nuò xún huán",
+    "pinyin2": "ka3 nuo4 xun2 huan2",
+    "translation": {
+      "en": "Carnot cycle",
+      "vi": "chu trình Carnot"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "等温过程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "děng wēn guò chéng",
+    "pinyin2": "deng3 wen1 guo4 cheng2",
+    "translation": {
+      "en": "isothermal process",
+      "vi": "quá trình đẳng nhiệt"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "绝热过程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jué rè guò chéng",
+    "pinyin2": "jue2 re4 guo4 cheng2",
+    "translation": {
+      "en": "adiabatic process",
+      "vi": "quá trình đoạn nhiệt"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "等压过程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "děng yā guò chéng",
+    "pinyin2": "deng3 ya1 guo4 cheng2",
+    "translation": {
+      "en": "isobaric process",
+      "vi": "quá trình đẳng áp"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "等容过程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "děng róng guò chéng",
+    "pinyin2": "deng3 rong2 guo4 cheng2",
+    "translation": {
+      "en": "isochoric process",
+      "vi": "quá trình đẳng tích"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "理想气体",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lǐ xiǎng qì tǐ",
+    "pinyin2": "li3 xiang3 qi4 ti3",
+    "translation": {
+      "en": "ideal gas",
+      "vi": "khí lý tưởng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "理想气体状态方程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lǐ xiǎng qì tǐ zhuàng tài fāng chéng",
+    "pinyin2": "li3 xiang3 qi4 ti3 zhuang4 tai4 fang1 cheng2",
+    "translation": {
+      "en": "ideal gas law",
+      "vi": "phương trình trạng thái khí lý tưởng"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "玻尔兹曼常数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bō ěr zī màn cháng shù",
+    "pinyin2": "bo1 er3 zi1 man4 chang2 shu4",
+    "translation": {
+      "en": "Boltzmann constant",
+      "vi": "hằng số Boltzmann"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "阿伏伽德罗常数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "ā fú jiā dé luó cháng shù",
+    "pinyin2": "a1 fu2 jia1 de2 luo2 chang2 shu4",
+    "translation": {
+      "en": "Avogadro's number",
+      "vi": "số Avogadro"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "气体常数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "qì tǐ cháng shù",
+    "pinyin2": "qi4 ti3 chang2 shu4",
+    "translation": {
+      "en": "gas constant",
+      "vi": "hằng số khí"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电磁学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn cí xué",
+    "pinyin2": "dian4 ci2 xue2",
+    "translation": {
+      "en": "electromagnetism",
+      "vi": "điện từ học"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电荷",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn hè",
+    "pinyin2": "dian4 he4",
+    "translation": {
+      "en": "electric charge",
+      "vi": "điện tích"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "正电荷",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhèng diàn hè",
+    "pinyin2": "zheng4 dian4 he4",
+    "translation": {
+      "en": "positive charge",
+      "vi": "điện tích dương"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "负电荷",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fù diàn hè",
+    "pinyin2": "fu4 dian4 he4",
+    "translation": {
+      "en": "negative charge",
+      "vi": "điện tích âm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "库仑定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kù lún dìng lǜ",
+    "pinyin2": "ku4 lun2 ding4 lü4",
+    "translation": {
+      "en": "Coulomb's law",
+      "vi": "định luật Coulomb"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "库仑常数",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "kù lún cháng shù",
+    "pinyin2": "ku4 lun2 chang2 shu4",
+    "translation": {
+      "en": "Coulomb constant",
+      "vi": "hằng số Coulomb"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电容",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn róng",
+    "pinyin2": "dian4 rong2",
+    "translation": {
+      "en": "capacitance",
+      "vi": "điện dung"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电容器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn róng qì",
+    "pinyin2": "dian4 rong2 qi4",
+    "translation": {
+      "en": "capacitor",
+      "vi": "tụ điện"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电感",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn gǎn",
+    "pinyin2": "dian4 gan3",
+    "translation": {
+      "en": "inductance",
+      "vi": "điện cảm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电感器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn gǎn qì",
+    "pinyin2": "dian4 gan3 qi4",
+    "translation": {
+      "en": "inductor",
+      "vi": "cuộn cảm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "磁铁",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cí tiě",
+    "pinyin2": "ci2 tie3",
+    "translation": {
+      "en": "magnet",
+      "vi": "nam châm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "磁极",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cí jí",
+    "pinyin2": "ci2 ji2",
+    "translation": {
+      "en": "magnetic pole",
+      "vi": "cực từ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "磁感线",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cí gǎn xiàn",
+    "pinyin2": "ci2 gan3 xian4",
+    "translation": {
+      "en": "magnetic field line",
+      "vi": "đường sức từ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "磁通量",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "cí tōng liàng",
+    "pinyin2": "ci2 tong1 liang4",
+    "translation": {
+      "en": "magnetic flux",
+      "vi": "từ thông"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电磁感应",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn cí gǎn yìng",
+    "pinyin2": "dian4 ci2 gan3 ying4",
+    "translation": {
+      "en": "electromagnetic induction",
+      "vi": "cảm ứng điện từ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "法拉第定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fǎ lā dì dìng lǜ",
+    "pinyin2": "fa3 la1 di4 ding4 lü4",
+    "translation": {
+      "en": "Faraday's law",
+      "vi": "định luật Faraday"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "楞次定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "léng cì dìng lǜ",
+    "pinyin2": "leng2 ci4 ding4 lü4",
+    "translation": {
+      "en": "Lenz's law",
+      "vi": "định luật Lenz"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "发电机",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fā diàn jī",
+    "pinyin2": "fa1 dian4 ji1",
+    "translation": {
+      "en": "generator",
+      "vi": "máy phát điện"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电动机",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn dòng jī",
+    "pinyin2": "dian4 dong4 ji1",
+    "translation": {
+      "en": "electric motor",
+      "vi": "động cơ điện"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "交流电",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jiāo liú diàn",
+    "pinyin2": "jiao1 liu2 dian4",
+    "translation": {
+      "en": "alternating current",
+      "vi": "dòng điện xoay chiều"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "直流电",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhí liú diàn",
+    "pinyin2": "zhi2 liu2 dian4",
+    "translation": {
+      "en": "direct current",
+      "vi": "dòng điện một chiều"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "变压器",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "biàn yā qì",
+    "pinyin2": "bian4 ya1 qi4",
+    "translation": {
+      "en": "transformer",
+      "vi": "máy biến áp"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "电路",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "diàn lù",
+    "pinyin2": "dian4 lu4",
+    "translation": {
+      "en": "circuit",
+      "vi": "mạch điện"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "串联",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "chuàn lián",
+    "pinyin2": "chuan4 lian2",
+    "translation": {
+      "en": "series",
+      "vi": "nối tiếp"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "并联",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bìng lián",
+    "pinyin2": "bing4 lian2",
+    "translation": {
+      "en": "parallel",
+      "vi": "song song"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "欧姆定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "ōu mǔ dìng lǜ",
+    "pinyin2": "ou1 mu3 ding4 lü4",
+    "translation": {
+      "en": "Ohm's law",
+      "vi": "định luật Ohm"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "基尔霍夫定律",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jī ěr huò fū dìng lǜ",
+    "pinyin2": "ji1 er3 huo4 fu1 ding4 lü4",
+    "translation": {
+      "en": "Kirchhoff's laws",
+      "vi": "định luật Kirchhoff"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "光学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "guāng xué",
+    "pinyin2": "guang1 xue2",
+    "translation": {
+      "en": "optics",
+      "vi": "quang học"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "几何光学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "jǐ hé guāng xué",
+    "pinyin2": "ji3 he2 guang1 xue2",
+    "translation": {
+      "en": "geometric optics",
+      "vi": "quang học hình học"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "物理光学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "wù lǐ guāng xué",
+    "pinyin2": "wu4 li3 guang1 xue2",
+    "translation": {
+      "en": "physical optics",
+      "vi": "quang học vật lý"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "折射率",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "zhé shè lǜ",
+    "pinyin2": "zhe2 she4 lü4",
+    "translation": {
+      "en": "refractive index",
+      "vi": "chiết suất"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "全反射",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "quán fǎn shè",
+    "pinyin2": "quan2 fan3 she4",
+    "translation": {
+      "en": "total internal reflection",
+      "vi": "phản xạ toàn phần"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "临界角",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "lín jiè jiǎo",
+    "pinyin2": "lin2 jie4 jiao3",
+    "translation": {
+      "en": "critical angle",
+      "vi": "góc tới hạn"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "色散",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "sè sàn",
+    "pinyin2": "se4 san4",
+    "translation": {
+      "en": "dispersion",
+      "vi": "tán sắc"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "偏振",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "piān zhèn",
+    "pinyin2": "pian1 zhen4",
+    "translation": {
+      "en": "polarization",
+      "vi": "phân cực"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "双缝干涉",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "shuāng fèng gān shè",
+    "pinyin2": "shuang1 feng4 gan1 she4",
+    "translation": {
+      "en": "double-slit interference",
+      "vi": "giao thoa khe đôi"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "衍射光栅",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yǎn shè guāng shān",
+    "pinyin2": "yan3 she4 guang1 shan1",
+    "translation": {
+      "en": "diffraction grating",
+      "vi": "cách tử nhiễu xạ"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "量子力学",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "liàng zǐ lì xué",
+    "pinyin2": "liang4 zi3 li4 xue2",
+    "translation": {
+      "en": "quantum mechanics",
+      "vi": "cơ học lượng tử"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "波粒二象性",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bō lì èr xiàng xìng",
+    "pinyin2": "bo1 li4 er4 xiang4 xing4",
+    "translation": {
+      "en": "wave-particle duality",
+      "vi": "lưỡng tính sóng hạt"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "不确定性原理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bù què dìng xìng yuán lǐ",
+    "pinyin2": "bu4 que4 ding4 xing4 yuan2 li3",
+    "translation": {
+      "en": "uncertainty principle",
+      "vi": "nguyên lý bất định"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "薛定谔方程",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "xuē dìng è fāng chéng",
+    "pinyin2": "xue1 ding4 e4 fang1 cheng2",
+    "translation": {
+      "en": "Schrödinger equation",
+      "vi": "phương trình Schrödinger"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "原子核物理",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "yuán zǐ hé wù lǐ",
+    "pinyin2": "yuan2 zi3 he2 wu4 li3",
+    "translation": {
+      "en": "nuclear physics",
+      "vi": "vật lý hạt nhân"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "核反应",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé fǎn yìng",
+    "pinyin2": "he2 fan3 ying4",
+    "translation": {
+      "en": "nuclear reaction",
+      "vi": "phản ứng hạt nhân"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "核裂变",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé liè biàn",
+    "pinyin2": "he2 lie4 bian4",
+    "translation": {
+      "en": "nuclear fission",
+      "vi": "phản ứng phân hạch"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "核聚变",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "hé jù biàn",
+    "pinyin2": "he2 ju4 bian4",
+    "translation": {
+      "en": "nuclear fusion",
+      "vi": "phản ứng nhiệt hạch"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "半衰期",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "bàn shuāi qī",
+    "pinyin2": "ban4 shuai1 qi1",
+    "translation": {
+      "en": "half-life",
+      "vi": "chu kỳ bán rã"
+    }
+  },
+  {
+    "tags": ["physic"],
+    "word": "放射性",
+    "description": {
+      "en": "",
+      "vi": "",
+      "zh": ""
+    },
+    "pinyin1": "fàng shè xìng",
+    "pinyin2": "fang4 she4 xing4",
+    "translation": {
+      "en": "radioactivity",
+      "vi": "phóng xạ"
+    }
+  }
+]

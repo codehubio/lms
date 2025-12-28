@@ -1,0 +1,172 @@
+{
+  "id": "quantifier",
+  "title": "Quantifier in Chinese",
+  "tags": ["grammar"],
+  "translation": {
+    "en": "Quantifier in Chinese",
+    "vi": "Lượng từ trong tiếng Trung",
+    "zh": "汉语中的量词"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "What is Quantifier (量词)?",
+          "vi": "Lượng từ (量词) là gì?",
+          "zh": "什么是量词？"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Quantifier (量词) is a measure word in Chinese grammar that is used between a number and a noun. Unlike English, Chinese requires a measure word (classifier) when counting or specifying quantities. Quantifiers help classify nouns and make counting more precise.\n\n**Key characteristics:**\n- Quantifiers are **required** when using numbers with nouns\n- Different nouns use different quantifiers based on their shape, type, or category\n- Quantifiers come **between** the number and the noun\n- They help express the quantity or measure of objects\n\n**Example:**\n- 一**本**书 (one book)\n- 三**个**苹果 (three apples)",
+          "vi": "Lượng từ (量词) là từ chỉ đơn vị đo lường trong ngữ pháp tiếng Trung, được dùng giữa số và danh từ. Khác với tiếng Anh, tiếng Trung yêu cầu một lượng từ (phân loại từ) khi đếm hoặc chỉ định số lượng. Lượng từ giúp phân loại danh từ và làm cho việc đếm chính xác hơn.\n\n**Đặc điểm chính:**\n- Lượng từ là **bắt buộc** khi sử dụng số với danh từ\n- Các danh từ khác nhau sử dụng lượng từ khác nhau dựa trên hình dạng, loại hoặc danh mục của chúng\n- Lượng từ đứng **giữa** số và danh từ\n- Chúng giúp diễn đạt số lượng hoặc đơn vị đo của đối tượng\n\n**Ví dụ:**\n- 一**本**书 (một cuốn sách)\n- 三**个**苹果 (ba quả táo)",
+          "zh": "量词是汉语语法中的计量单位词，用在数词和名词之间。与英语不同，汉语在计数或指定数量时需要量词。量词帮助对名词进行分类，使计数更加精确。\n\n**主要特点：**\n- 使用数词与名词时，量词是**必需的**\n- 不同的名词根据其形状、类型或类别使用不同的量词\n- 量词位于数词和名词**之间**\n- 它们帮助表达物体的数量或计量单位\n\n**例句：**\n- 一**本**书\n- 三**个**苹果"
+        }
+      },
+      "placeholders": [{
+        "quant1": "本",
+        "quant2": "个"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Quantifiers (常用量词)",
+          "vi": "Lượng từ thường dùng (常用量词)",
+          "zh": "常用量词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are some of the most commonly used quantifiers in Chinese:\n\n**General quantifier:**\n- **个** - The most common, used for people and general objects\n\n**For flat/thin objects:**\n- **张** - for paper, tables, photos\n- **片** - for slices, pieces\n\n**For long/cylindrical objects:**\n- **条** - for roads, rivers, fish\n- **根** - for sticks, strings\n- **支** - for pens, branches\n\n**For books and bound items:**\n- **本** - for books\n- **册** - for volumes\n\n**For animals:**\n- **只** - for small animals, birds\n- **头** - for large animals\n- **匹** - for horses\n\n**Example:**\n- 一**个**人 (one person)\n- 两**张**纸 (two sheets of paper)\n- 三**条**鱼 (three fish)\n- 五**本**书 (five books)",
+          "vi": "Dưới đây là một số lượng từ thường dùng nhất trong tiếng Trung:\n\n**Lượng từ chung:**\n- **个** - Phổ biến nhất, dùng cho người và đồ vật nói chung\n\n**Cho đồ vật phẳng/mỏng:**\n- **张** - cho giấy, bàn, ảnh\n- **片** - cho lát, miếng\n\n**Cho đồ vật dài/hình trụ:**\n- **条** - cho đường, sông, cá\n- **根** - cho que, dây\n- **支** - cho bút, cành\n\n**Cho sách và vật đóng bìa:**\n- **本** - cho sách\n- **册** - cho tập\n\n**Cho động vật:**\n- **只** - cho động vật nhỏ, chim\n- **头** - cho động vật lớn\n- **匹** - cho ngựa\n\n**Ví dụ:**\n- 一**个**人 (một người)\n- 两**张**纸 (hai tờ giấy)\n- 三**条**鱼 (ba con cá)\n- 五**本**书 (năm cuốn sách)",
+          "zh": "以下是一些最常用的汉语量词：\n\n**通用量词：**\n- **个** - 最常用，用于人和一般物体\n\n**用于扁平/薄物体：**\n- **张** - 用于纸、桌子、照片\n- **片** - 用于片、块\n\n**用于长/圆柱形物体：**\n- **条** - 用于路、河、鱼\n- **根** - 用于棍、线\n- **支** - 用于笔、树枝\n\n**用于书籍和装订物品：**\n- **本** - 用于书\n- **册** - 用于册、卷\n\n**用于动物：**\n- **只** - 用于小动物、鸟\n- **头** - 用于大动物\n- **匹** - 用于马\n\n**例句：**\n- 一**个**人\n- 两**张**纸\n- 三**条**鱼\n- 五**本**书"
+        }
+      },
+      "placeholders": [{
+        "gen1": "个",
+        "flat1": "张",
+        "flat2": "片",
+        "long1": "条",
+        "long2": "根",
+        "long3": "支",
+        "book1": "本",
+        "book2": "册",
+        "animal1": "只",
+        "animal2": "头",
+        "animal3": "匹"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Structure with Quantifiers (量词的结构)",
+          "vi": "Cấu trúc với lượng từ (量词的结构)",
+          "zh": "量词的结构"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The basic structure for using quantifiers in Chinese is:\n\n**Number + Quantifier + Noun**\n\n**Examples:**\n1. **Number + Quantifier + Noun**\n   - 一**本**书 (one book)\n   - 三**个**苹果 (three apples)\n\n2. **Demonstrative + Number + Quantifier + Noun**\n   - 这**本**书 (this book)\n   - 那**个**苹果 (that apple)\n\n3. **Number + Quantifier + Adjective + Noun**\n   - 一**本**大书 (one big book)\n   - 两**个**红苹果 (two red apples)\n\n**Note:** The quantifier is always placed between the number/demonstrative and the noun.",
+          "vi": "Cấu trúc cơ bản để sử dụng lượng từ trong tiếng Trung là:\n\n**Số + Lượng từ + Danh từ**\n\n**Ví dụ:**\n1. **Số + Lượng từ + Danh từ**\n   - 一**本**书 (một cuốn sách)\n   - 三**个**苹果 (ba quả táo)\n\n2. **Chỉ định + Số + Lượng từ + Danh từ**\n   - 这**本**书 (cuốn sách này)\n   - 那**个**苹果 (quả táo đó)\n\n3. **Số + Lượng từ + Tính từ + Danh từ**\n   - 一**本**大书 (một cuốn sách lớn)\n   - 两**个**红苹果 (hai quả táo đỏ)\n\n**Lưu ý:** Lượng từ luôn được đặt giữa số/chỉ định và danh từ.",
+          "zh": "汉语中使用量词的基本结构是：\n\n**数词 + 量词 + 名词**\n\n**例句：**\n1. **数词 + 量词 + 名词**\n   - 一**本**书\n   - 三**个**苹果\n\n2. **指示词 + 数词 + 量词 + 名词**\n   - 这**本**书\n   - 那**个**苹果\n\n3. **数词 + 量词 + 形容词 + 名词**\n   - 一**本**大书\n   - 两**个**红苹果\n\n**注意：** 量词总是放在数词/指示词和名词之间。"
+        }
+      },
+      "placeholders": [{
+        "quant1": "本",
+        "quant2": "个",
+        "quant3": "本",
+        "quant4": "个",
+        "quant5": "本",
+        "quant6": "个"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Special Quantifiers (特殊量词)",
+          "vi": "Lượng từ đặc biệt (特殊量词)",
+          "zh": "特殊量词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Some quantifiers have special uses or meanings:\n\n**Container quantifiers:**\n- **杯** - cup, glass\n- **瓶** - bottle\n- **碗** - bowl\n- **盒** - box\n\n**Time quantifiers:**\n- **年** - year\n- **月** - month\n- **天** - day\n- **小时** - hour\n\n**Measurement quantifiers:**\n- **米** - meter\n- **公斤** - kilogram\n- **升** - liter\n\n**Collective quantifiers:**\n- **双** - pair (for shoes, socks)\n- **套** - set (for clothes, furniture)\n- **群** - group (for people, animals)\n\n**Example:**\n- 一**杯**水 (one cup of water)\n- 两**年**前 (two years ago)\n- 三**米**布 (three meters of cloth)\n- 一**双**鞋 (one pair of shoes)",
+          "vi": "Một số lượng từ có công dụng hoặc ý nghĩa đặc biệt:\n\n**Lượng từ chỉ đồ chứa:**\n- **杯** - cốc, ly\n- **瓶** - chai\n- **碗** - bát\n- **盒** - hộp\n\n**Lượng từ chỉ thời gian:**\n- **年** - năm\n- **月** - tháng\n- **天** - ngày\n- **小时** - giờ\n\n**Lượng từ chỉ đo lường:**\n- **米** - mét\n- **公斤** - kilôgam\n- **升** - lít\n\n**Lượng từ tập hợp:**\n- **双** - đôi (cho giày, tất)\n- **套** - bộ (cho quần áo, đồ nội thất)\n- **群** - nhóm (cho người, động vật)\n\n**Ví dụ:**\n- 一**杯**水 (một cốc nước)\n- 两**年**前 (hai năm trước)\n- 三**米**布 (ba mét vải)\n- 一**双**鞋 (một đôi giày)",
+          "zh": "有些量词有特殊的用途或含义：\n\n**容器量词：**\n- **杯** - 杯子\n- **瓶** - 瓶子\n- **碗** - 碗\n- **盒** - 盒子\n\n**时间量词：**\n- **年** - 年\n- **月** - 月\n- **天** - 天\n- **小时** - 小时\n\n**计量量词：**\n- **米** - 米\n- **公斤** - 公斤\n- **升** - 升\n\n**集合量词：**\n- **双** - 双（用于鞋、袜）\n- **套** - 套（用于衣服、家具）\n- **群** - 群（用于人、动物）\n\n**例句：**\n- 一**杯**水\n- 两**年**前\n- 三**米**布\n- 一**双**鞋"
+        }
+      },
+      "placeholders": [{
+        "cont1": "杯",
+        "cont2": "瓶",
+        "cont3": "碗",
+        "cont4": "盒",
+        "time1": "年",
+        "time2": "月",
+        "time3": "天",
+        "time4": "小时",
+        "meas1": "米",
+        "meas2": "公斤",
+        "meas3": "升",
+        "coll1": "双",
+        "coll2": "套",
+        "coll3": "群"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Choosing the Right Quantifier (选择正确的量词)",
+          "vi": "Chọn lượng từ đúng (选择正确的量词)",
+          "zh": "选择正确的量词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Choosing the correct quantifier depends on the characteristics of the noun:\n\n**1. Shape-based selection:**\n- Flat objects → **张**\n- Long objects → **条**\n- Round objects → **个**\n\n**2. Category-based selection:**\n- Books → **本**\n- Animals → **只** or **头**\n- Vehicles → **辆**\n\n**3. Function-based selection:**\n- Containers → **杯**, **瓶**\n- Pairs → **双**\n- Sets → **套**\n\n**Tips:**\n- **个** is the most versatile and can be used as a default\n- When in doubt, **个** is often acceptable\n- Learning quantifiers comes with practice and exposure to the language\n\n**Example:**\n- 一**张**桌子 (one table - flat object)\n- 一**条**路 (one road - long object)\n- 一**本**书 (one book - category: book)",
+          "vi": "Chọn lượng từ đúng phụ thuộc vào đặc điểm của danh từ:\n\n**1. Chọn dựa trên hình dạng:**\n- Đồ vật phẳng → **张**\n- Đồ vật dài → **条**\n- Đồ vật tròn → **个**\n\n**2. Chọn dựa trên danh mục:**\n- Sách → **本**\n- Động vật → **只** hoặc **头**\n- Phương tiện → **辆**\n\n**3. Chọn dựa trên chức năng:**\n- Đồ chứa → **杯**, **瓶**\n- Đôi → **双**\n- Bộ → **套**\n\n**Mẹo:**\n- **个** là linh hoạt nhất và có thể dùng làm mặc định\n- Khi không chắc, **个** thường có thể chấp nhận được\n- Học lượng từ cần thực hành và tiếp xúc với ngôn ngữ\n\n**Ví dụ:**\n- 一**张**桌子 (một cái bàn - đồ vật phẳng)\n- 一**条**路 (một con đường - đồ vật dài)\n- 一**本**书 (một cuốn sách - danh mục: sách)",
+          "zh": "选择正确的量词取决于名词的特征：\n\n**1. 基于形状选择：**\n- 扁平物体 → **张**\n- 长形物体 → **条**\n- 圆形物体 → **个**\n\n**2. 基于类别选择：**\n- 书籍 → **本**\n- 动物 → **只** 或 **头**\n- 车辆 → **辆**\n\n**3. 基于功能选择：**\n- 容器 → **杯**、**瓶**\n- 双 → **双**\n- 套 → **套**\n\n**提示：**\n- **个** 最通用，可以作为默认选择\n- 不确定时，**个** 通常可以接受\n- 学习量词需要练习和接触语言\n\n**例句：**\n- 一**张**桌子\n- 一**条**路\n- 一**本**书"
+        }
+      },
+      "placeholders": [{
+        "shape1": "张",
+        "shape2": "条",
+        "shape3": "个",
+        "cat1": "本",
+        "cat2": "只",
+        "cat3": "头",
+        "cat4": "辆",
+        "func1": "杯",
+        "func2": "瓶",
+        "func3": "双",
+        "func4": "套",
+        "tip1": "个",
+        "tip2": "个"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes (常见错误)",
+          "vi": "Lỗi thường gặp (常见错误)",
+          "zh": "常见错误"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are some common mistakes when using quantifiers:\n\n**1. Omitting the quantifier:**\n- ❌ 一书 (missing quantifier)\n- ✅ 一**本**书 (correct)\n\n**2. Using wrong quantifier:**\n- ❌ 一**个**书 (wrong quantifier for book)\n- ✅ 一**本**书 (correct)\n\n**3. Placing quantifier incorrectly:**\n- ❌ 书一**本** (quantifier in wrong position)\n- ✅ 一**本**书 (correct position)\n\n**4. Using quantifier with uncountable nouns incorrectly:**\n- For abstract concepts or uncountable nouns, use appropriate quantifiers:\n  - 一**杯**水 (one glass of water)\n  - 一**条**建议 (one piece of advice)\n\n**Remember:** Quantifiers are essential in Chinese and cannot be omitted when counting or specifying quantities.",
+          "vi": "Dưới đây là một số lỗi thường gặp khi sử dụng lượng từ:\n\n**1. Bỏ sót lượng từ:**\n- ❌ 一书 (thiếu lượng từ)\n- ✅ 一**本**书 (đúng)\n\n**2. Dùng sai lượng từ:**\n- ❌ 一**个**书 (sai lượng từ cho sách)\n- ✅ 一**本**书 (đúng)\n\n**3. Đặt lượng từ sai vị trí:**\n- ❌ 书一**本** (lượng từ ở vị trí sai)\n- ✅ 一**本**书 (vị trí đúng)\n\n**4. Dùng lượng từ với danh từ không đếm được sai:**\n- Đối với khái niệm trừu tượng hoặc danh từ không đếm được, dùng lượng từ phù hợp:\n  - 一**杯**水 (một cốc nước)\n  - 一**条**建议 (một lời khuyên)\n\n**Nhớ:** Lượng từ là bắt buộc trong tiếng Trung và không thể bỏ qua khi đếm hoặc chỉ định số lượng.",
+          "zh": "以下是一些使用量词时的常见错误：\n\n**1. 省略量词：**\n- ❌ 一书（缺少量词）\n- ✅ 一**本**书（正确）\n\n**2. 使用错误的量词：**\n- ❌ 一**个**书（书的量词错误）\n- ✅ 一**本**书（正确）\n\n**3. 量词位置错误：**\n- ❌ 书一**本**（量词位置错误）\n- ✅ 一**本**书（位置正确）\n\n**4. 不可数名词的量词使用错误：**\n- 对于抽象概念或不可数名词，使用适当的量词：\n  - 一**杯**水\n  - 一**条**建议\n\n**记住：** 量词在汉语中是必需的，在计数或指定数量时不能省略。"
+        }
+      },
+      "placeholders": [{
+        "corr1": "本",
+        "wrong1": "个",
+        "corr2": "本",
+        "corr3": "本",
+        "uncount1": "杯",
+        "uncount2": "条"
+      }]
+    }
+  ]
+}
+

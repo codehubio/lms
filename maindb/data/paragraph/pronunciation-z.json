@@ -1,0 +1,173 @@
+{
+  "id": "pronunciation-z",
+  "title": "How to Pronounce Z in Chinese",
+  "tags": ["pronunciation"],
+  "translation": {
+    "en": "How to Pronounce Z in Chinese",
+    "vi": "Cách phát âm Z trong tiếng Trung",
+    "zh": "如何发音中文的Z"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Introduction to the Z Sound (Z音介绍)",
+          "vi": "Giới thiệu về âm Z (Z音介绍)",
+          "zh": "Z音介绍"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The Chinese **z** sound (written as **z** in pinyin) is one of the most challenging sounds for English speakers to master. It is **NOT** the same as the English \"z\" sound in words like \"zoo\" or \"zero\".\n\n**Key characteristics:**\n- The Chinese **z** is a **voiceless** sound (no vibration in the vocal cords)\n- It is an **unaspirated** alveolar affricate\n- The tongue position is crucial for correct pronunciation\n- It sounds similar to \"ds\" in \"beds\" but without voicing\n\n**Common mistake:** Many learners pronounce it like the English \"z\" (voiced), which is incorrect. The Chinese **z** should have no vibration in your throat.\n\n**Example words:**\n- **{{word1}}** (zì - character/word)\n- **{{word2}}** (zǎo - early/morning)\n- **{{word3}}** (zuò - to do/to sit)",
+          "vi": "Âm **z** trong tiếng Trung (viết là **z** trong pinyin) là một trong những âm khó nhất đối với người nói tiếng Anh. Nó **KHÔNG** giống với âm \"z\" trong tiếng Anh như \"zoo\" hoặc \"zero\".\n\n**Đặc điểm chính:**\n- Âm **z** trong tiếng Trung là âm **vô thanh** (không có rung động ở dây thanh)\n- Đây là âm tắc xát chân răng không bật hơi\n- Vị trí lưỡi rất quan trọng để phát âm đúng\n- Nghe giống \"ds\" trong \"beds\" nhưng không có thanh\n\n**Lỗi thường gặp:** Nhiều người học phát âm nó giống \"z\" trong tiếng Anh (hữu thanh), điều này là sai. Âm **z** trong tiếng Trung không nên có rung động trong cổ họng.\n\n**Ví dụ:**\n- **{{word1}}** (zì - chữ/từ)\n- **{{word2}}** (zǎo - sớm/buổi sáng)\n- **{{word3}}** (zuò - làm/ngồi)",
+          "zh": "中文的**z**音（拼音中写作**z**）是英语母语者最难掌握的音之一。它**不是**英语中\"zoo\"或\"zero\"中的\"z\"音。\n\n**主要特点：**\n- 中文的**z**是**清音**（声带不振动）\n- 它是不送气的齿龈塞擦音\n- 舌头位置对正确发音至关重要\n- 听起来像\"beds\"中的\"ds\"但没有浊音\n\n**常见错误：**许多学习者把它发成英语的\"z\"（浊音），这是错误的。中文的**z**不应该在喉咙里有振动。\n\n**例词：**\n- **{{word1}}**（字）\n- **{{word2}}**（早）\n- **{{word3}}**（做/坐）"
+        }
+      },
+      "placeholders": [{
+        "word1": "字",
+        "word2": "早",
+        "word3": "做"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tongue Position (舌头位置)",
+          "vi": "Vị trí lưỡi (舌头位置)",
+          "zh": "舌头位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The correct tongue position is essential for pronouncing **z** correctly:\n\n**Step-by-step guide:**\n1. Place the **tip of your tongue** against the **back of your upper front teeth** (alveolar ridge)\n2. The tongue should be **flat** and **tense**, not curled\n3. Build up slight pressure by pushing the tongue against the teeth\n4. Release the pressure quickly to create the \"ts\"-like sound\n5. **Do NOT** vibrate your vocal cords (this is voiceless)\n\n**Visual reference:**\n- Think of it as saying \"ts\" but with the tongue touching the teeth\n- The sound should be sharp and crisp, not buzzy like English \"z\"\n\n**Practice words:**\n- **{{word1}}** (zài - at/in)\n- **{{word2}}** (zěnme - how)\n- **{{word3}}** (zìjǐ - oneself)",
+          "vi": "Vị trí lưỡi đúng là điều cần thiết để phát âm **z** chính xác:\n\n**Hướng dẫn từng bước:**\n1. Đặt **đầu lưỡi** chạm vào **sau răng cửa trên** (gờ chân răng)\n2. Lưỡi nên **phẳng** và **căng**, không cuộn\n3. Tạo áp lực nhẹ bằng cách đẩy lưỡi vào răng\n4. Giải phóng áp lực nhanh chóng để tạo ra âm giống \"ts\"\n5. **KHÔNG** rung dây thanh (đây là âm vô thanh)\n\n**Tham khảo trực quan:**\n- Nghĩ về nó như nói \"ts\" nhưng với lưỡi chạm vào răng\n- Âm thanh nên sắc và rõ ràng, không rung như \"z\" trong tiếng Anh\n\n**Từ luyện tập:**\n- **{{word1}}** (zài - ở/tại)\n- **{{word2}}** (zěnme - như thế nào)\n- **{{word3}}** (zìjǐ - bản thân)",
+          "zh": "正确的舌头位置对于正确发音**z**至关重要：\n\n**分步指南：**\n1. 将**舌尖**抵住**上齿龈**（齿龈脊）\n2. 舌头应该**平**且**紧张**，不要卷起\n3. 通过将舌头推向牙齿来建立轻微压力\n4. 快速释放压力以产生类似\"ts\"的声音\n5. **不要**振动声带（这是清音）\n\n**视觉参考：**\n- 想象说\"ts\"但舌头接触牙齿\n- 声音应该尖锐清晰，不像英语\"z\"那样嗡嗡作响\n\n**练习词：**\n- **{{word1}}**（在）\n- **{{word2}}**（怎么）\n- **{{word3}}**（自己）"
+        }
+      },
+      "placeholders": [{
+        "word1": "在",
+        "word2": "怎么",
+        "word3": "自己"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Voiceless vs Voiced (清音 vs 浊音)",
+          "vi": "Vô thanh vs Hữu thanh (清音 vs 浊音)",
+          "zh": "清音 vs 浊音"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding the difference between **voiceless** and **voiced** sounds is crucial:\n\n**Voiceless (清音) - Chinese Z:**\n- **No vibration** in the vocal cords\n- Place your hand on your throat - you should feel **no vibration**\n- Sounds sharp and crisp\n- Similar to \"ts\" in \"cats\" or \"ds\" in \"beds\" (without voicing)\n\n**Voiced (浊音) - English Z:**\n- **Vibration** in the vocal cords\n- Place your hand on your throat - you will feel **vibration**\n- Sounds buzzy and continuous\n- Like \"z\" in \"zoo\" or \"zero\"\n\n**Test yourself:**\n1. Say English \"zoo\" - feel the vibration in your throat\n2. Now try to make the same sound but **without** the vibration\n3. That voiceless sound is closer to Chinese **z**\n\n**Practice:**\n- **{{word1}}** (zǒu - to walk) - should have NO vibration\n- **{{word2}}** (zì - character) - should have NO vibration\n- **{{word3}}** (zuótiān - yesterday) - should have NO vibration",
+          "vi": "Hiểu sự khác biệt giữa âm **vô thanh** và **hữu thanh** là rất quan trọng:\n\n**Vô thanh (清音) - Z tiếng Trung:**\n- **Không rung** dây thanh\n- Đặt tay lên cổ họng - bạn sẽ **không cảm thấy rung động**\n- Nghe sắc và rõ ràng\n- Giống \"ts\" trong \"cats\" hoặc \"ds\" trong \"beds\" (không có thanh)\n\n**Hữu thanh (浊音) - Z tiếng Anh:**\n- **Rung** dây thanh\n- Đặt tay lên cổ họng - bạn sẽ cảm thấy **rung động**\n- Nghe rung và liên tục\n- Như \"z\" trong \"zoo\" hoặc \"zero\"\n\n**Tự kiểm tra:**\n1. Nói \"zoo\" tiếng Anh - cảm nhận rung động trong cổ họng\n2. Bây giờ thử tạo âm tương tự nhưng **không có** rung động\n3. Âm vô thanh đó gần giống với **z** tiếng Trung hơn\n\n**Luyện tập:**\n- **{{word1}}** (zǒu - đi bộ) - không nên có rung động\n- **{{word2}}** (zì - chữ) - không nên có rung động\n- **{{word3}}** (zuótiān - hôm qua) - không nên có rung động",
+          "zh": "理解**清音**和**浊音**之间的区别至关重要：\n\n**清音 - 中文Z：**\n- 声带**不振动**\n- 将手放在喉咙上 - 你应该**感觉不到振动**\n- 声音尖锐清晰\n- 类似于\"cats\"中的\"ts\"或\"beds\"中的\"ds\"（无浊音）\n\n**浊音 - 英语Z：**\n- 声带**振动**\n- 将手放在喉咙上 - 你会**感觉到振动**\n- 声音嗡嗡作响且连续\n- 像\"zoo\"或\"zero\"中的\"z\"\n\n**自我测试：**\n1. 说英语\"zoo\" - 感受喉咙中的振动\n2. 现在尝试发出相同的声音但**没有**振动\n3. 那个清音更接近中文**z**\n\n**练习：**\n- **{{word1}}**（走） - 应该没有振动\n- **{{word2}}**（字） - 应该没有振动\n- **{{word3}}**（昨天） - 应该没有振动"
+        }
+      },
+      "placeholders": [{
+        "word1": "走",
+        "word2": "字",
+        "word3": "昨天"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes (常见错误)",
+          "vi": "Lỗi thường gặp (常见错误)",
+          "zh": "常见错误"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are the most common mistakes when pronouncing Chinese **z**:\n\n**Mistake 1: Using English \"z\" sound**\n- ❌ Pronouncing it like \"zoo\" (voiced, buzzy)\n- ✅ Should be voiceless and sharp\n- **Fix:** Remove the vibration from your throat\n\n**Mistake 2: Making it too soft**\n- ❌ Making it sound like \"s\" in \"see\"\n- ✅ Should have a clear \"ts\"-like quality\n- **Fix:** Ensure your tongue touches the teeth and releases quickly\n\n**Mistake 3: Adding aspiration**\n- ❌ Blowing air out strongly (like \"ts\" in \"cats\")\n- ✅ Should be unaspirated (no strong puff of air)\n- **Fix:** Release the tongue pressure gently, not forcefully\n\n**Mistake 4: Wrong tongue position**\n- ❌ Tongue too far back or curled\n- ✅ Tip of tongue should touch the back of upper front teeth\n- **Fix:** Practice with mirror to see tongue position\n\n**Practice words to avoid mistakes:**\n- **{{word1}}** (zěnme - how) - NOT like English \"z\"\n- **{{word2}}** (zìjǐ - oneself) - NOT like \"s\"\n- **{{word3}}** (zuò - to do) - NOT aspirated",
+          "vi": "Dưới đây là những lỗi phổ biến nhất khi phát âm **z** tiếng Trung:\n\n**Lỗi 1: Dùng âm \"z\" tiếng Anh**\n- ❌ Phát âm giống \"zoo\" (hữu thanh, rung)\n- ✅ Nên là vô thanh và sắc\n- **Sửa:** Loại bỏ rung động khỏi cổ họng\n\n**Lỗi 2: Làm cho nó quá mềm**\n- ❌ Làm cho nó nghe giống \"s\" trong \"see\"\n- ✅ Nên có chất lượng rõ ràng giống \"ts\"\n- **Sửa:** Đảm bảo lưỡi chạm vào răng và giải phóng nhanh chóng\n\n**Lỗi 3: Thêm bật hơi**\n- ❌ Thổi mạnh không khí ra (như \"ts\" trong \"cats\")\n- ✅ Nên không bật hơi (không có luồng khí mạnh)\n- **Sửa:** Giải phóng áp lực lưỡi nhẹ nhàng, không mạnh mẽ\n\n**Lỗi 4: Vị trí lưỡi sai**\n- ❌ Lưỡi quá xa về phía sau hoặc cuộn\n- ✅ Đầu lưỡi nên chạm vào sau răng cửa trên\n- **Sửa:** Luyện tập với gương để xem vị trí lưỡi\n\n**Từ luyện tập để tránh lỗi:**\n- **{{word1}}** (zěnme - như thế nào) - KHÔNG giống \"z\" tiếng Anh\n- **{{word2}}** (zìjǐ - bản thân) - KHÔNG giống \"s\"\n- **{{word3}}** (zuò - làm) - KHÔNG bật hơi",
+          "zh": "以下是发音中文**z**时最常见的错误：\n\n**错误1：使用英语\"z\"音**\n- ❌ 发成像\"zoo\"（浊音，嗡嗡声）\n- ✅ 应该是清音且尖锐\n- **修正：**从喉咙中去除振动\n\n**错误2：发得太软**\n- ❌ 听起来像\"see\"中的\"s\"\n- ✅ 应该有清晰的类似\"ts\"的音质\n- **修正：**确保舌头接触牙齿并快速释放\n\n**错误3：添加送气**\n- ❌ 强烈吹气（如\"cats\"中的\"ts\"）\n- ✅ 应该是不送气的（没有强烈的气流）\n- **修正：**轻轻释放舌头压力，不要用力\n\n**错误4：舌头位置错误**\n- ❌ 舌头太靠后或卷起\n- ✅ 舌尖应该接触上齿背\n- **修正：**用镜子练习以查看舌头位置\n\n**避免错误的练习词：**\n- **{{word1}}**（怎么） - 不像英语\"z\"\n- **{{word2}}**（自己） - 不像\"s\"\n- **{{word3}}**（做） - 不送气"
+        }
+      },
+      "placeholders": [{
+        "word1": "怎么",
+        "word2": "自己",
+        "word3": "做"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Practice Exercises (练习)",
+          "vi": "Bài tập luyện tập (练习)",
+          "zh": "练习"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are effective practice exercises to master the **z** sound:\n\n**Exercise 1: Minimal pairs**\nPractice distinguishing **z** from similar sounds:\n- **{{pair1}}** (zì - character) vs **{{pair2}}** (sì - four)\n- **{{pair3}}** (zǎo - early) vs **{{pair4}}** (sǎo - sweep)\n- **{{pair5}}** (zuò - do) vs **{{pair6}}** (suò - shrink)\n\n**Exercise 2: Tongue position drill**\n1. Place tongue tip against upper teeth\n2. Build pressure (don't release yet)\n3. Release quickly: \"ts\" sound\n4. Repeat 10 times: ts-ts-ts-ts\n5. Now add vowel: za-ze-zi-zu-zo\n\n**Exercise 3: Word practice**\nPractice these common words:\n- **{{word1}}** (zài - at/in)\n- **{{word2}}** (zěnme - how)\n- **{{word3}}** (zìjǐ - oneself)\n- **{{word4}}** (zuótiān - yesterday)\n- **{{word5}}** (zǒu - to walk)\n\n**Exercise 4: Sentence practice**\n- 我**{{word1}}**家。 (I am at home.)\n- **{{word2}}**样？ (How?)",
+          "vi": "Dưới đây là các bài tập luyện tập hiệu quả để thành thạo âm **z**:\n\n**Bài tập 1: Cặp tối thiểu**\nLuyện tập phân biệt **z** với các âm tương tự:\n- **{{pair1}}** (zì - chữ) vs **{{pair2}}** (sì - bốn)\n- **{{pair3}}** (zǎo - sớm) vs **{{pair4}}** (sǎo - quét)\n- **{{pair5}}** (zuò - làm) vs **{{pair6}}** (suò - co lại)\n\n**Bài tập 2: Luyện vị trí lưỡi**\n1. Đặt đầu lưỡi chạm vào răng trên\n2. Tạo áp lực (chưa giải phóng)\n3. Giải phóng nhanh: âm \"ts\"\n4. Lặp lại 10 lần: ts-ts-ts-ts\n5. Bây giờ thêm nguyên âm: za-ze-zi-zu-zo\n\n**Bài tập 3: Luyện từ**\nLuyện tập các từ phổ biến:\n- **{{word1}}** (zài - ở/tại)\n- **{{word2}}** (zěnme - như thế nào)\n- **{{word3}}** (zìjǐ - bản thân)\n- **{{word4}}** (zuótiān - hôm qua)\n- **{{word5}}** (zǒu - đi bộ)\n\n**Bài tập 4: Luyện câu**\n- 我**{{word1}}**家。 (Tôi ở nhà.)\n- **{{word2}}**样？ (Như thế nào?)",
+          "zh": "以下是一些有效的练习来掌握**z**音：\n\n**练习1：最小对立体**\n练习区分**z**和相似音：\n- **{{pair1}}**（字） vs **{{pair2}}**（四）\n- **{{pair3}}**（早） vs **{{pair4}}**（扫）\n- **{{pair5}}**（做） vs **{{pair6}}**（缩）\n\n**练习2：舌头位置训练**\n1. 将舌尖抵住上齿\n2. 建立压力（尚未释放）\n3. 快速释放：\"ts\"音\n4. 重复10次：ts-ts-ts-ts\n5. 现在添加元音：za-ze-zi-zu-zo\n\n**练习3：单词练习**\n练习这些常用词：\n- **{{word1}}**（在）\n- **{{word2}}**（怎么）\n- **{{word3}}**（自己）\n- **{{word4}}**（昨天）\n- **{{word5}}**（走）\n\n**练习4：句子练习**\n- 我**{{word1}}**家。\n- **{{word2}}**样？"
+        }
+      },
+      "placeholders": [{
+        "pair1": "字",
+        "pair2": "四",
+        "pair3": "早",
+        "pair4": "扫",
+        "pair5": "做",
+        "pair6": "缩",
+        "word1": "在",
+        "word2": "怎么",
+        "word3": "自己",
+        "word4": "昨天",
+        "word5": "走"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Comparison with Similar Sounds (与相似音的比较)",
+          "vi": "So sánh với các âm tương tự (与相似音的比较)",
+          "zh": "与相似音的比较"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding how **z** differs from similar sounds helps avoid confusion:\n\n**Z vs S (z vs s):**\n- **Z** ({{word1}} - zì): Tongue touches teeth, creates \"ts\"-like sound\n- **S** ({{word2}} - sì): Tongue near teeth, continuous hissing sound\n- **Key difference:** Z has a stop (tongue touches), S is continuous (tongue doesn't touch)\n\n**Z vs C (z vs c):**\n- **Z** ({{word3}} - zǎo): Unaspirated (no strong puff of air)\n- **C** ({{word4}} - cǎo): Aspirated (strong puff of air)\n- **Key difference:** C has aspiration (blow air), Z does not\n\n**Z vs ZH (z vs zh):**\n- **Z** ({{word5}} - zuò): Tongue tip touches upper teeth (alveolar)\n- **ZH** ({{word6}} - zhuó): Tongue curls back, touches hard palate (retroflex)\n- **Key difference:** Z is alveolar, ZH is retroflex (tongue position)\n\n**Practice distinguishing:**\n- **{{word1}}** (zì) vs **{{word2}}** (sì) vs **{{word4}}** (cǎo) vs **{{word6}}** (zhuó)",
+          "vi": "Hiểu cách **z** khác với các âm tương tự giúp tránh nhầm lẫn:\n\n**Z vs S (z vs s):**\n- **Z** ({{word1}} - zì): Lưỡi chạm vào răng, tạo ra âm giống \"ts\"\n- **S** ({{word2}} - sì): Lưỡi gần răng, âm xì liên tục\n- **Khác biệt chính:** Z có điểm dừng (lưỡi chạm), S liên tục (lưỡi không chạm)\n\n**Z vs C (z vs c):**\n- **Z** ({{word3}} - zǎo): Không bật hơi (không có luồng khí mạnh)\n- **C** ({{word4}} - cǎo): Bật hơi (luồng khí mạnh)\n- **Khác biệt chính:** C có bật hơi (thổi khí), Z không có\n\n**Z vs ZH (z vs zh):**\n- **Z** ({{word5}} - zuò): Đầu lưỡi chạm vào răng trên (chân răng)\n- **ZH** ({{word6}} - zhuó): Lưỡi cuộn lại, chạm vào vòm cứng (quặt lưỡi)\n- **Khác biệt chính:** Z là chân răng, ZH là quặt lưỡi (vị trí lưỡi)\n\n**Luyện tập phân biệt:**\n- **{{word1}}** (zì) vs **{{word2}}** (sì) vs **{{word4}}** (cǎo) vs **{{word6}}** (zhuó)",
+          "zh": "理解**z**与相似音的区别有助于避免混淆：\n\n**Z vs S (z vs s)：**\n- **Z**（{{word1}} - 字）：舌头接触牙齿，产生类似\"ts\"的声音\n- **S**（{{word2}} - 四）：舌头靠近牙齿，连续的嘶嘶声\n- **主要区别：**Z有阻塞（舌头接触），S是连续的（舌头不接触）\n\n**Z vs C (z vs c)：**\n- **Z**（{{word3}} - 早）：不送气（没有强烈的气流）\n- **C**（{{word4}} - 草）：送气（强烈的气流）\n- **主要区别：**C有送气（吹气），Z没有\n\n**Z vs ZH (z vs zh)：**\n- **Z**（{{word5}} - 做）：舌尖接触上齿（齿龈）\n- **ZH**（{{word6}} - 着）：舌头卷起，接触硬腭（卷舌）\n- **主要区别：**Z是齿龈音，ZH是卷舌音（舌头位置）\n\n**练习区分：**\n- **{{word1}}**（字） vs **{{word2}}**（四） vs **{{word4}}**（草） vs **{{word6}}**（着）"
+        }
+      },
+      "placeholders": [{
+        "word1": "字",
+        "word2": "四",
+        "word3": "早",
+        "word4": "草",
+        "word5": "做",
+        "word6": "着"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tips for Mastery (掌握技巧)",
+          "vi": "Mẹo để thành thạo (掌握技巧)",
+          "zh": "掌握技巧"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are expert tips to master the **z** sound:\n\n**Tip 1: Use a mirror**\n- Watch your tongue position in a mirror\n- Ensure the tip touches the back of upper front teeth\n- Practice until it becomes natural\n\n**Tip 2: Record yourself**\n- Record your pronunciation and compare with native speakers\n- Listen for the voiceless quality (no vibration)\n- Adjust based on what you hear\n\n**Tip 3: Practice daily**\n- Spend 5-10 minutes daily on **z** sound practice\n- Consistency is more important than long sessions\n- Use words like **{{word1}}** (zài), **{{word2}}** (zěnme), **{{word3}}** (zìjǐ)\n\n**Tip 4: Feel the difference**\n- Place hand on throat when saying English \"z\" (feel vibration)\n- Now say Chinese **z** (no vibration)\n- This physical difference helps train your muscles\n\n**Tip 5: Start slow, then speed up**\n- Begin with slow, exaggerated pronunciation\n- Gradually increase speed while maintaining accuracy\n- Practice with **{{word4}}** (zuótiān), **{{word5}}** (zǒu), **{{word6}}** (zuò)\n\n**Remember:** Mastery takes time. Be patient and practice consistently!",
+          "vi": "Dưới đây là các mẹo chuyên gia để thành thạo âm **z**:\n\n**Mẹo 1: Sử dụng gương**\n- Xem vị trí lưỡi của bạn trong gương\n- Đảm bảo đầu lưỡi chạm vào sau răng cửa trên\n- Luyện tập cho đến khi tự nhiên\n\n**Mẹo 2: Ghi âm bản thân**\n- Ghi âm phát âm của bạn và so sánh với người bản ngữ\n- Lắng nghe chất lượng vô thanh (không rung động)\n- Điều chỉnh dựa trên những gì bạn nghe\n\n**Mẹo 3: Luyện tập hàng ngày**\n- Dành 5-10 phút mỗi ngày để luyện âm **z**\n- Sự nhất quán quan trọng hơn các buổi dài\n- Sử dụng các từ như **{{word1}}** (zài), **{{word2}}** (zěnme), **{{word3}}** (zìjǐ)\n\n**Mẹo 4: Cảm nhận sự khác biệt**\n- Đặt tay lên cổ họng khi nói \"z\" tiếng Anh (cảm nhận rung động)\n- Bây giờ nói **z** tiếng Trung (không rung động)\n- Sự khác biệt vật lý này giúp rèn luyện cơ bắp của bạn\n\n**Mẹo 5: Bắt đầu chậm, sau đó tăng tốc**\n- Bắt đầu với phát âm chậm, phóng đại\n- Dần dần tăng tốc độ trong khi duy trì độ chính xác\n- Luyện tập với **{{word4}}** (zuótiān), **{{word5}}** (zǒu), **{{word6}}** (zuò)\n\n**Nhớ:** Thành thạo cần thời gian. Hãy kiên nhẫn và luyện tập đều đặn!",
+          "zh": "以下是一些掌握**z**音的专家技巧：\n\n**技巧1：使用镜子**\n- 在镜子中观察你的舌头位置\n- 确保舌尖接触上齿背\n- 练习直到自然\n\n**技巧2：录音**\n- 录制你的发音并与母语者比较\n- 倾听清音特性（无振动）\n- 根据听到的内容进行调整\n\n**技巧3：每天练习**\n- 每天花5-10分钟练习**z**音\n- 一致性比长时间练习更重要\n- 使用像**{{word1}}**（在）、**{{word2}}**（怎么）、**{{word3}}**（自己）这样的词\n\n**技巧4：感受差异**\n- 说英语\"z\"时将手放在喉咙上（感受振动）\n- 现在说中文**z**（无振动）\n- 这种物理差异有助于训练你的肌肉\n\n**技巧5：从慢开始，然后加速**\n- 从缓慢、夸张的发音开始\n- 在保持准确性的同时逐渐提高速度\n- 用**{{word4}}**（昨天）、**{{word5}}**（走）、**{{word6}}**（做）练习\n\n**记住：**掌握需要时间。要有耐心并持续练习！"
+        }
+      },
+      "placeholders": [{
+        "word1": "在",
+        "word2": "怎么",
+        "word3": "自己",
+        "word4": "昨天",
+        "word5": "走",
+        "word6": "做"
+      }]
+    }
+  ]
+}
+

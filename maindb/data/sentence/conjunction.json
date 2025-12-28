@@ -1,0 +1,812 @@
+[{
+  "sentence": "我和他都是学生。",
+  "tags": ["conjunction"],
+  "pinyin1": "wǒ hé tā dōu shì xué sheng",
+  "pinyin2": "wo3 he2 ta1 dou1 shi4 xue2 sheng",
+  "translation": {
+    "en": "Both he and I are students.",
+    "vi": "Cả tôi và anh ấy đều là học sinh."
+  }
+}, {
+  "sentence": "我跟你一起去。",
+  "tags": ["conjunction"],
+  "pinyin1": "wǒ gēn nǐ yī qǐ qù",
+  "pinyin2": "wo3 gen1 ni3 yi1 qi3 qu4",
+  "translation": {
+    "en": "I'll go with you.",
+    "vi": "Tôi sẽ đi cùng bạn."
+  }
+}, {
+  "sentence": "学习与工作都很重要。",
+  "tags": ["conjunction"],
+  "pinyin1": "xué xí yǔ gōng zuò dōu hěn zhòng yào",
+  "pinyin2": "xue2 xi2 yu3 gong1 zuo4 dou1 hen3 zhong4 yao4",
+  "translation": {
+    "en": "Both study and work are very important.",
+    "vi": "Cả học tập và công việc đều rất quan trọng."
+  }
+}, {
+  "sentence": "还有别的问题吗？",
+  "tags": ["conjunction"],
+  "pinyin1": "hái yǒu bié de wèn tí ma",
+  "pinyin2": "hai2 you3 bie2 de wen4 ti2 ma",
+  "translation": {
+    "en": "Are there any other questions?",
+    "vi": "Còn câu hỏi nào khác không?"
+  }
+}, {
+  "sentence": "以及其他的事情。",
+  "tags": ["conjunction"],
+  "pinyin1": "yǐ jí qí tā de shì qíng",
+  "pinyin2": "yi3 ji2 qi2 ta1 de shi4 qing2",
+  "translation": {
+    "en": "As well as other matters.",
+    "vi": "Cũng như những việc khác."
+  }
+}, {
+  "sentence": "我喜欢苹果和香蕉。",
+  "tags": ["conjunction"],
+  "pinyin1": "wǒ xǐ huān píng guǒ hé xiāng jiāo",
+  "pinyin2": "wo3 xi3 huan1 ping2 guo3 he2 xiang1 jiao1",
+  "translation": {
+    "en": "I like apples and bananas.",
+    "vi": "Tôi thích táo và chuối."
+  }
+}, {
+  "sentence": "他跟我一样高。",
+  "tags": ["conjunction"],
+  "pinyin1": "tā gēn wǒ yī yàng gāo",
+  "pinyin2": "ta1 gen1 wo3 yi1 yang4 gao1",
+  "translation": {
+    "en": "He is as tall as I am.",
+    "vi": "Anh ấy cao bằng tôi."
+  }
+},   {
+    "sentence": "学习与生活都需要平衡。",
+    "tags": ["conjunction"],
+    "pinyin1": "xué xí yǔ shēng huó dōu xū yào píng héng",
+    "pinyin2": "xue2 xi2 yu3 sheng1 huo2 dou1 xu1 yao4 ping2 heng2",
+    "translation": {
+      "en": "Both study and life need balance.",
+      "vi": "Cả học tập và cuộc sống đều cần cân bằng."
+    }
+  }, {
+    "sentence": "你想喝茶或者咖啡？",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ xiǎng hē chá huò zhě kā fēi",
+    "pinyin2": "ni3 xiang3 he1 cha2 huo4 zhe3 ka1 fei1",
+    "translation": {
+      "en": "Do you want tea or coffee?",
+      "vi": "Bạn muốn uống trà hay cà phê?"
+    }
+  }, {
+    "sentence": "你可以选这个或那个。",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ kě yǐ xuǎn zhè gè huò nà gè",
+    "pinyin2": "ni3 ke3 yi3 xuan3 zhe4 ge4 huo4 na4 ge4",
+    "translation": {
+      "en": "You can choose this one or that one.",
+      "vi": "Bạn có thể chọn cái này hoặc cái kia."
+    }
+  }, {
+    "sentence": "你想去还是不去？",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ xiǎng qù hái shì bù qù",
+    "pinyin2": "ni3 xiang3 qu4 hai2 shi4 bu4 qu4",
+    "translation": {
+      "en": "Do you want to go or not?",
+      "vi": "Bạn muốn đi hay không?"
+    }
+  }, {
+    "sentence": "我想去，但是没时间。",
+    "tags": ["conjunction"],
+    "pinyin1": "wǒ xiǎng qù, dàn shì méi shí jiān",
+    "pinyin2": "wo3 xiang3 qu4, dan4 shi4 mei2 shi2 jian1",
+    "translation": {
+      "en": "I want to go, but I don't have time.",
+      "vi": "Tôi muốn đi, nhưng không có thời gian."
+    }
+  }, {
+    "sentence": "他很聪明，可是不努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā hěn cōng míng, kě shì bù nǔ lì",
+    "pinyin2": "ta1 hen3 cong1 ming2, ke3 shi4 bu4 nu3 li4",
+    "translation": {
+      "en": "He is very smart, but not hardworking.",
+      "vi": "Anh ấy rất thông minh, nhưng không chăm chỉ."
+    }
+  }, {
+    "sentence": "这个不错，不过有点贵。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhè gè bù cuò, bù guò yǒu diǎn guì",
+    "pinyin2": "zhe4 ge4 bu4 cuo4, bu4 guo4 you3 dian3 gui4",
+    "translation": {
+      "en": "This is good, but a bit expensive.",
+      "vi": "Cái này không tệ, nhưng hơi đắt."
+    }
+  }, {
+    "sentence": "因为下雨，所以我不去了。",
+    "tags": ["conjunction"],
+    "pinyin1": "yīn wèi xià yǔ, suǒ yǐ wǒ bù qù le",
+    "pinyin2": "yin1 wei4 xia4 yu3, suo3 yi3 wo3 bu4 qu4 le",
+    "translation": {
+      "en": "Because it's raining, so I'm not going.",
+      "vi": "Vì trời mưa, nên tôi không đi nữa."
+    }
+  }, {
+    "sentence": "他努力学习，因此成绩很好。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā nǔ lì xué xí, yīn cǐ chéng jì hěn hǎo",
+    "pinyin2": "ta1 nu3 li4 xu2e xi2, yi1n ci3 che2ng ji4 hen3 ha3o",
+    "translation": {
+      "en": "He studies hard, therefore his grades are very good.",
+      "vi": "Anh ấy học tập chăm chỉ, do đó thành tích rất tốt."
+    }
+  }, {
+    "sentence": "他努力工作，因而得到了晋升。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā nǔ lì gōng zuò, yīn ér dé dào le jìn shēng",
+    "pinyin2": "ta1 nu3 li4 go1ng zuo4, yi1n e2r de2 da4o le ji4n she1ng",
+    "translation": {
+      "en": "He worked hard, and thus got promoted.",
+      "vi": "Anh ấy làm việc chăm chỉ, vì vậy được thăng chức."
+    }
+  }, {
+    "sentence": "由于天气不好，比赛取消了。",
+    "tags": ["conjunction"],
+    "pinyin1": "yóu yú tiān qì bù hǎo, bǐ sài qǔ xiāo le",
+    "pinyin2": "you2 yu2 tia1n qi4 bu4 ha3o, bi3 sa4i qu3 xia1o le",
+    "translation": {
+      "en": "Due to bad weather, the match was cancelled.",
+      "vi": "Do thời tiết xấu, trận đấu đã bị hủy."
+    }
+  }, {
+    "sentence": "如果你有时间，我们可以见面。",
+    "tags": ["conjunction"],
+    "pinyin1": "rú guǒ nǐ yǒu shí jiān, wǒ men kě yǐ jiàn miàn",
+    "pinyin2": "ru2 guo3 ni3 yo3u shi2 jia1n, wo3 men ke3 yi3 jia4n mia4n",
+    "translation": {
+      "en": "If you have time, we can meet.",
+      "vi": "Nếu bạn có thời gian, chúng ta có thể gặp nhau."
+    }
+  }, {
+    "sentence": "要是明天下雨，我就不出门了。",
+    "tags": ["conjunction"],
+    "pinyin1": "yào shì míng tiān xià yǔ, wǒ jiù bù chū mén le",
+    "pinyin2": "ya4o shi4 mi2ng tia1n xia4 yu3, wo3 jiu4 bu4 chu1 me2n le",
+    "translation": {
+      "en": "If it rains tomorrow, I won't go out.",
+      "vi": "Nếu ngày mai trời mưa, tôi sẽ không ra ngoài."
+    }
+  }, {
+    "sentence": "假如我是你，我会接受这个工作。",
+    "tags": ["conjunction"],
+    "pinyin1": "jiǎ rú wǒ shì nǐ, wǒ huì jiē shòu zhè gè gōng zuò",
+    "pinyin2": "jia3 ru2 wo3 shi4 ni3, wo3 hui4 jie1 sho4u zhe4 ge4 go1ng zuo4",
+    "translation": {
+      "en": "If I were you, I would accept this job.",
+      "vi": "Giả sử tôi là bạn, tôi sẽ chấp nhận công việc này."
+    }
+  }, {
+    "sentence": "你要努力学习，要不然会落后。",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ yào nǔ lì xué xí, yào bu rán huì luò hòu",
+    "pinyin2": "ni3 ya4o nu3 li4 xu2e xi2, ya4o bu ra2n hui4 luo4 ho4u",
+    "translation": {
+      "en": "You need to study hard, otherwise you'll fall behind.",
+      "vi": "Bạn cần học tập chăm chỉ, nếu không sẽ bị tụt hậu."
+    }
+  }, {
+    "sentence": "请按时到达，否则会议会延迟。",
+    "tags": ["conjunction"],
+    "pinyin1": "qǐng àn shí dào dá, fǒu zé huì yì huì yán chí",
+    "pinyin2": "qing3 a4n shi2 da4o da2, fo3u ze2 hui4 yi4 hui4 ya2n chi2",
+    "translation": {
+      "en": "Please arrive on time, otherwise the meeting will be delayed.",
+      "vi": "Vui lòng đến đúng giờ, nếu không cuộc họp sẽ bị trì hoãn."
+    }
+  }, {
+    "sentence": "虽然他很累，但是还在工作。",
+    "tags": ["conjunction"],
+    "pinyin1": "suī rán tā hěn lèi, dàn shì hái zài gōng zuò",
+    "pinyin2": "sui1 ra2n ta1 hen3 le4i, da4n shi4 ha2i za4i go1ng zuo4",
+    "translation": {
+      "en": "Although he is very tired, he is still working.",
+      "vi": "Mặc dù anh ấy rất mệt, nhưng vẫn đang làm việc."
+    }
+  }, {
+    "sentence": "尽管困难很多，我们也要坚持。",
+    "tags": ["conjunction"],
+    "pinyin1": "jǐn guǎn kùn nán hěn duō, wǒ men yě yào jiān chí",
+    "pinyin2": "ji3n gua3n ku4n na2n hen3 duo1, wo3 men ye3 ya4o jia1n chi2",
+    "translation": {
+      "en": "Despite many difficulties, we must persist.",
+      "vi": "Mặc dù có nhiều khó khăn, chúng ta vẫn phải kiên trì."
+    }
+  }, {
+    "sentence": "他很聪明，然而不够努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā hěn cōng míng, rán ér bù gòu nǔ lì",
+    "pinyin2": "ta1 hen3 co1ng mi2ng, ra2n e2r bu4 go4u nu3 li4",
+    "translation": {
+      "en": "He is very smart, however not hardworking enough.",
+      "vi": "Anh ấy rất thông minh, tuy nhiên không đủ chăm chỉ."
+    }
+  }, {
+    "sentence": "他学习很好，并且很努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā xué xí hěn hǎo, bìng qiě hěn nǔ lì",
+    "pinyin2": "ta1 xu2e xi2 hen3 ha3o, bi4ng qie3 hen3 nu3 li4",
+    "translation": {
+      "en": "He studies very well, and is also very hardworking.",
+      "vi": "Anh ấy học rất tốt, và cũng rất chăm chỉ."
+    }
+  }, {
+    "sentence": "他不仅聪明，而且很努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù jǐn cōng míng, ér qiě hěn nǔ lì",
+    "pinyin2": "ta1 bu4 ji3n co1ng mi2ng, e2r qie3 hen3 nu3 li4",
+    "translation": {
+      "en": "He is not only smart, but also very hardworking.",
+      "vi": "Anh ấy không chỉ thông minh, mà còn rất chăm chỉ."
+    }
+  }, {
+    "sentence": "他不但会英语，而且会法语。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù dàn huì yīng yǔ, ér qiě huì fǎ yǔ",
+    "pinyin2": "ta1 bu4 da4n hui4 yi1ng yu3, e2r qie3 hui4 fa3 yu3",
+    "translation": {
+      "en": "He not only speaks English, but also French.",
+      "vi": "Anh ấy không chỉ biết tiếng Anh, mà còn biết tiếng Pháp."
+    }
+  }, {
+    "sentence": "这个房间既宽敞又明亮。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhè gè fáng jiān jì kuān chǎng yòu míng liàng",
+    "pinyin2": "zhe4 ge4 fa2ng jia1n ji4 kua1n cha3ng yo4u mi2ng lia4ng",
+    "translation": {
+      "en": "This room is both spacious and bright.",
+      "vi": "Căn phòng này vừa rộng rãi vừa sáng sủa."
+    }
+  }, {
+    "sentence": "他又聪明又努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā yòu cōng míng yòu nǔ lì",
+    "pinyin2": "ta1 yo4u co1ng mi2ng yo4u nu3 li4",
+    "translation": {
+      "en": "He is both smart and hardworking.",
+      "vi": "Anh ấy vừa thông minh vừa chăm chỉ."
+    }
+  }, {
+    "sentence": "既然你来了，我们就开始吧。",
+    "tags": ["conjunction"],
+    "pinyin1": "jì rán nǐ lái le, wǒ men jiù kāi shǐ ba",
+    "pinyin2": "ji4 ra2n ni3 la2i le, wo3 men jiu4 ka1i shi3 ba",
+    "translation": {
+      "en": "Since you've come, let's start.",
+      "vi": "Vì bạn đã đến rồi, chúng ta hãy bắt đầu thôi."
+    }
+  }, {
+    "sentence": "他迟到了，于是我们等了他很久。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā chí dào le, yú shì wǒ men děng le tā hěn jiǔ",
+    "pinyin2": "ta1 chi2 da4o le, yu2 shi4 wo3 men de3ng le ta1 hen3 jiu3",
+    "translation": {
+      "en": "He was late, so we waited for him for a long time.",
+      "vi": "Anh ấy đến muộn, vì vậy chúng tôi đã đợi anh ấy rất lâu."
+    }
+  }, {
+    "sentence": "他努力学习，结果考上了好大学。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā nǔ lì xué xí, jié guǒ kǎo shàng le hǎo dà xué",
+    "pinyin2": "ta1 nu3 li4 xu2e xi2, jie2 guo3 ka3o sha4ng le ha3o da4 xu2e",
+    "translation": {
+      "en": "He studied hard, and as a result got into a good university.",
+      "vi": "Anh ấy học tập chăm chỉ, kết quả đã đỗ vào trường đại học tốt."
+    }
+  }, {
+    "sentence": "他不仅会英语，甚至会法语。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù jǐn huì yīng yǔ, shèn zhì huì fǎ yǔ",
+    "pinyin2": "ta1 bu4 ji3n hui4 yi1ng yu3, she4n zhi4 hui4 fa3 yu3",
+    "translation": {
+      "en": "He not only speaks English, he even speaks French.",
+      "vi": "Anh ấy không chỉ biết tiếng Anh, thậm chí còn biết tiếng Pháp."
+    }
+  }, {
+    "sentence": "他不但没生气，反而笑了。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù dàn méi shēng qì, fǎn ér xiào le",
+    "pinyin2": "ta1 bu4 da4n mei2 she1ng qi4, fa3n e2r xia4o le",
+    "translation": {
+      "en": "He not only didn't get angry, but instead laughed.",
+      "vi": "Anh ấy không những không tức giận, mà ngược lại còn cười."
+    }
+  }, {
+    "sentence": "我以为他会拒绝，相反他同意了。",
+    "tags": ["conjunction"],
+    "pinyin1": "wǒ yǐ wéi tā huì jù jué, xiāng fǎn tā tóng yì le",
+    "pinyin2": "wo3 yi3 we2i ta1 hui4 ju4 jue2, xia1ng fa3n ta1 to2ng yi4 le",
+    "translation": {
+      "en": "I thought he would refuse, on the contrary he agreed.",
+      "vi": "Tôi nghĩ anh ấy sẽ từ chối, ngược lại anh ấy đã đồng ý."
+    }
+  }, {
+    "sentence": "他工作很忙，同时还要照顾家庭。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā gōng zuò hěn máng, tóng shí hái yào zhào gù jiā tíng",
+    "pinyin2": "ta1 go1ng zuo4 hen3 ma2ng, to2ng shi2 ha2i ya4o zha4o gu4 jia1 ti2ng",
+    "translation": {
+      "en": "He is very busy with work, and at the same time has to take care of his family.",
+      "vi": "Anh ấy công việc rất bận, đồng thời còn phải chăm sóc gia đình."
+    }
+  }, {
+    "sentence": "与其等待，不如主动行动。",
+    "tags": ["conjunction"],
+    "pinyin1": "yǔ qí děng dài, bù rú zhǔ dòng xíng dòng",
+    "pinyin2": "yu3 qi2 de3ng da4i, bu4 ru2 zhu3 do4ng xi2ng do4ng",
+    "translation": {
+      "en": "Rather than waiting, it's better to take action.",
+      "vi": "Thà chờ đợi, còn hơn là chủ động hành động."
+    }
+  }, {
+    "sentence": "他不是在家，就是在办公室。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù shì zài jiā, jiù shì zài bàn gōng shì",
+    "pinyin2": "ta1 bu4 shi4 za4i jia1, jiu4 shi4 za4i ba4n go1ng shi4",
+    "translation": {
+      "en": "He is either at home or in the office.",
+      "vi": "Anh ấy hoặc ở nhà, hoặc ở văn phòng."
+    }
+  }, {
+    "sentence": "你要么现在去，要么明天去。",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ yào me xiàn zài qù, yào me míng tiān qù",
+    "pinyin2": "ni3 ya4o me xia4n za4i qu4, ya4o me mi2ng tia1n qu4",
+    "translation": {
+      "en": "You either go now or go tomorrow.",
+      "vi": "Bạn hoặc đi bây giờ, hoặc đi ngày mai."
+    }
+  }, {
+    "sentence": "他一边听音乐，一边做作业。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā yì biān tīng yīn yuè, yì biān zuò zuò yè",
+    "pinyin2": "ta1 yi4 bia1n ti1ng yi1n yue4, yi4 bia1n zuo4 zuo4 ye4",
+    "translation": {
+      "en": "He listens to music while doing homework.",
+      "vi": "Anh ấy vừa nghe nhạc vừa làm bài tập."
+    }
+  }, {
+    "sentence": "一方面要努力学习，另一方面也要注意休息。",
+    "tags": ["conjunction"],
+    "pinyin1": "yī fāng miàn yào nǔ lì xué xí, lìng yī fāng miàn yě yào zhù yì xiū xí",
+    "pinyin2": "yi1 fa1ng mia4n ya4o nu3 li4 xu2e xi2, li4ng yi1 fa1ng mia4n ye3 ya4o zhu4 yi4 xiu1 xi2",
+    "translation": {
+      "en": "On one hand, we need to study hard, on the other hand, we also need to pay attention to rest.",
+      "vi": "Một mặt cần học tập chăm chỉ, mặt khác cũng cần chú ý nghỉ ngơi."
+    }
+  }, {
+    "sentence": "难道你不知道这件事吗？",
+    "tags": ["conjunction"],
+    "pinyin1": "nán dào nǐ bù zhī dào zhè jiàn shì ma",
+    "pinyin2": "na2n da4o ni3 bu4 zhi1 da4o zhe4 jia4n shi4 ma",
+    "translation": {
+      "en": "Could it be that you don't know about this?",
+      "vi": "Chẳng lẽ bạn không biết việc này sao?"
+    }
+  }, {
+    "sentence": "连他都不知道答案。",
+    "tags": ["conjunction"],
+    "pinyin1": "lián tā dōu bù zhī dào dá àn",
+    "pinyin2": "lia2n ta1 dou1 bu4 zhi1 da4o da2 a4n",
+    "translation": {
+      "en": "Even he doesn't know the answer.",
+      "vi": "Thậm chí anh ấy cũng không biết câu trả lời."
+    }
+  }, {
+    "sentence": "倘若明天下雨，我们就取消计划。",
+    "tags": ["conjunction"],
+    "pinyin1": "tǎng ruò míng tiān xià yǔ, wǒ men jiù qǔ xiāo jì huà",
+    "pinyin2": "ta3ng ruo4 mi2ng tia1n xia4 yu3, wo3 men jiu4 qu3 xia1o ji4 hua4",
+    "translation": {
+      "en": "If it rains tomorrow, we will cancel the plan.",
+      "vi": "Nếu như ngày mai trời mưa, chúng ta sẽ hủy kế hoạch."
+    }
+  }, {
+    "sentence": "他先说了几句话，随后离开了。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā xiān shuō le jǐ jù huà, suí hòu lí kāi le",
+    "pinyin2": "ta1 xia1n shuo1 le ji3 ju4 hua4, sui2 ho4u li2 ka1i le",
+    "translation": {
+      "en": "He said a few words first, then left afterwards.",
+      "vi": "Anh ấy nói vài câu trước, sau đó rời đi."
+    }
+  }, {
+    "sentence": "至于其他问题，我们稍后讨论。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhì yú qí tā wèn tí, wǒ men shāo hòu tǎo lùn",
+    "pinyin2": "zhi4 yu2 qi2 ta1 we4n ti2, wo3 men sha1o ho4u ta3o lu4n",
+    "translation": {
+      "en": "As for other questions, we'll discuss them later.",
+      "vi": "Còn về các vấn đề khác, chúng ta sẽ thảo luận sau."
+    }
+  }, {
+    "sentence": "他努力学习，以便通过考试。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā nǔ lì xué xí, yǐ biàn tōng guò kǎo shì",
+    "pinyin2": "ta1 nu3 li4 xu2e xi2, yi3 bia4n to1ng guo4 ka3o shi4",
+    "translation": {
+      "en": "He studies hard so that he can pass the exam.",
+      "vi": "Anh ấy học tập chăm chỉ để có thể vượt qua kỳ thi."
+    }
+  }, {
+    "sentence": "这个倒是挺有意思的。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhè gè dào shì tǐng yǒu yì sī de",
+    "pinyin2": "zhe4 ge4 da4o shi4 ti3ng yo3u yi4 si1 de",
+    "translation": {
+      "en": "This is actually quite interesting.",
+      "vi": "Cái này thực ra khá thú vị."
+    }
+  }, {
+    "sentence": "无论多忙，他都会坚持锻炼。",
+    "tags": ["conjunction"],
+    "pinyin1": "wú lùn duō máng, tā dōu huì jiān chí duàn liàn",
+    "pinyin2": "wu2 lu4n duo1 ma2ng, ta1 dou1 hui4 jia1n chi2 dua4n lia4n",
+    "translation": {
+      "en": "No matter how busy, he always persists in exercising.",
+      "vi": "Dù bận đến đâu, anh ấy vẫn kiên trì tập thể dục."
+    }
+  }, {
+    "sentence": "纵然困难重重，我们也要坚持。",
+    "tags": ["conjunction"],
+    "pinyin1": "zòng rán kùn nán chóng chóng, wǒ men yě yào jiān chí",
+    "pinyin2": "zo4ng ra2n ku4n na2n cho2ng cho2ng, wo3 men ye3 ya4o jia1n chi2",
+    "translation": {
+      "en": "Even if there are many difficulties, we must persist.",
+      "vi": "Dù cho khó khăn chồng chất, chúng ta vẫn phải kiên trì."
+    }
+  }, {
+    "sentence": "纵使失败，我们也不后悔。",
+    "tags": ["conjunction"],
+    "pinyin1": "zòng shǐ shī bài, wǒ men yě bù hòu huǐ",
+    "pinyin2": "zo4ng shi3 shi1 ba4i, wo3 men ye3 bu4 ho4u hui3",
+    "translation": {
+      "en": "Even if we fail, we won't regret it.",
+      "vi": "Dẫu cho thất bại, chúng ta cũng không hối tiếc."
+    }
+  }, {
+    "sentence": "归根结底，努力才是成功的关键。",
+    "tags": ["conjunction"],
+    "pinyin1": "guī gēn jié dǐ, nǔ lì cái shì chéng gōng de guān jiàn",
+    "pinyin2": "gui1 ge1n jie2 di3, nu3 li4 ca2i shi4 che2ng go1ng de gua1n jia4n",
+    "translation": {
+      "en": "In the final analysis, hard work is the key to success.",
+      "vi": "Rốt cuộc, chăm chỉ mới là chìa khóa của thành công."
+    }
+  }, {
+    "sentence": "努力学习会进步，反之则会退步。",
+    "tags": ["conjunction"],
+    "pinyin1": "nǔ lì xué xí huì jìn bù, fǎn zhī zé huì tuì bù",
+    "pinyin2": "nu3 li4 xu2e xi2 hui4 ji4n bu4, fa3n zhi1 ze2 hui4 tu4i bu4",
+    "translation": {
+      "en": "Studying hard leads to progress, conversely it leads to regression.",
+      "vi": "Học tập chăm chỉ sẽ tiến bộ, ngược lại sẽ thụt lùi."
+    }
+  }, {
+    "sentence": "他为了学习而放弃了娱乐。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā wèi le xué xí ér fàng qì le yú lè",
+    "pinyin2": "ta1 we4i le xu2e xi2 e2r fa4ng qi4 le yu2 le4",
+    "translation": {
+      "en": "He gave up entertainment in order to study.",
+      "vi": "Anh ấy từ bỏ giải trí để học tập."
+    }
+  }, {
+    "sentence": "既然你来了，我们就开始吧。",
+    "tags": ["conjunction"],
+    "pinyin1": "jì rán nǐ lái le, wǒ men jiù kāi shǐ ba",
+    "pinyin2": "ji4 ra2n ni3 la2i le, wo3 men jiu4 ka1i shi3 ba",
+    "translation": {
+      "en": "Since you've come, let's start.",
+      "vi": "Vì bạn đã đến rồi, chúng ta hãy bắt đầu thôi."
+    }
+  }, {
+    "sentence": "与其抱怨，不如想办法解决。",
+    "tags": ["conjunction"],
+    "pinyin1": "yǔ qí bào yuàn, bù rú xiǎng bàn fǎ jiě jué",
+    "pinyin2": "yu3 qi2 ba4o yua4n, bu4 ru2 xia3ng ba4n fa3 jie3 jue2",
+    "translation": {
+      "en": "Rather than complaining, it's better to think of a solution.",
+      "vi": "Thà phàn nàn, còn hơn là nghĩ cách giải quyết."
+    }
+  }, {
+    "sentence": "这不是问题，而是机会。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhè bù shì wèn tí, ér shì jī huì",
+    "pinyin2": "zhe4 bu4 shi4 we4n ti2, e2r shi4 ji1 hu4i",
+    "translation": {
+      "en": "This is not a problem, but an opportunity.",
+      "vi": "Đây không phải là vấn đề, mà là cơ hội."
+    }
+  }, {
+    "sentence": "他很聪明，况且还很努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā hěn cōng míng, kuàng qiě hái hěn nǔ lì",
+    "pinyin2": "ta1 hen3 co1ng mi2ng, kua4ng qie3 ha2i hen3 nu3 li4",
+    "translation": {
+      "en": "He is very smart, and moreover very hardworking.",
+      "vi": "Anh ấy rất thông minh, hơn nữa còn rất chăm chỉ."
+    }
+  }, {
+    "sentence": "这个问题影响了整个团队，乃至整个公司。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhè gè wèn tí yǐng xiǎng le zhěng gè tuán duì, nǎi zhì zhěng gè gōng sī",
+    "pinyin2": "zhe4 ge4 we4n ti2 yi3ng xia3ng le zhe3ng ge4 tua2n dui4, na3i zhi4 zhe3ng ge4 go1ng si1",
+    "translation": {
+      "en": "This problem affects the entire team, and even the entire company.",
+      "vi": "Vấn đề này ảnh hưởng đến cả đội, thậm chí cả công ty."
+    }
+  }, {
+    "sentence": "他并非不想去，而是没有时间。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bìng fēi bù xiǎng qù, ér shì méi yǒu shí jiān",
+    "pinyin2": "ta1 bi4ng fe1i bu4 xia3ng qu4, e2r shi4 mei2 yo3u shi2 jia1n",
+    "translation": {
+      "en": "It's not that he doesn't want to go, but that he has no time.",
+      "vi": "Anh ấy không phải không muốn đi, mà là không có thời gian."
+    }
+  }, {
+    "sentence": "他思考了很久，于是乎做出了决定。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā sī kǎo le hěn jiǔ, yú shì hū zuò chū le jué dìng",
+    "pinyin2": "ta1 si1 ka3o le hen3 jiu3, yu2 shi4 hu1 zuo4 chu1 le jue2 di4ng",
+    "translation": {
+      "en": "He thought for a long time, and thereupon made a decision.",
+      "vi": "Anh ấy suy nghĩ rất lâu, thế là đã đưa ra quyết định."
+    }
+  }, {
+    "sentence": "他先完成了作业，而后去玩了。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā xiān wán chéng le zuò yè, ér hòu qù wán le",
+    "pinyin2": "ta1 xia1n wa2n che2ng le zuo4 ye4, e2r ho4u qu4 wa2n le",
+    "translation": {
+      "en": "He finished his homework first, and then went to play.",
+      "vi": "Anh ấy hoàn thành bài tập trước, sau đó mới đi chơi."
+    }
+  }, {
+    "sentence": "他不仅聪明，而且还很努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù jǐn cōng míng, ér qiě hái hěn nǔ lì",
+    "pinyin2": "ta1 bu4 ji3n co1ng mi2ng, e2r qie3 ha2i hen3 nu3 li4",
+    "translation": {
+      "en": "He is not only smart, but also very hardworking.",
+      "vi": "Anh ấy không chỉ thông minh, mà còn rất chăm chỉ."
+    }
+  }, {
+    "sentence": "他工作太忙，以致没有时间休息。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā gōng zuò tài máng, yǐ zhì méi yǒu shí jiān xiū xí",
+    "pinyin2": "ta1 go1ng zuo4 ta4i ma2ng, yi3 zhi4 mei2 yo3u shi2 jia1n xiu1 xi2",
+    "translation": {
+      "en": "He is too busy with work, so much so that he has no time to rest.",
+      "vi": "Anh ấy công việc quá bận, đến nỗi không có thời gian nghỉ ngơi."
+    }
+  }, {
+    "sentence": "他太累了，以至于站都站不稳。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā tài lèi le, yǐ zhì yú zhàn dōu zhàn bù wěn",
+    "pinyin2": "ta1 ta4i le4i le, yi3 zhi4 yu2 zha4n dou1 zha4n bu4 we3n",
+    "translation": {
+      "en": "He is so tired that he can't even stand steadily.",
+      "vi": "Anh ấy quá mệt, đến mức đứng cũng không vững."
+    }
+  }, {
+    "sentence": "若是你同意，我们就开始。",
+    "tags": ["conjunction"],
+    "pinyin1": "ruò shì nǐ tóng yì, wǒ men jiù kāi shǐ",
+    "pinyin2": "ruo4 shi4 ni3 to2ng yi4, wo3 men jiu4 ka1i shi3",
+    "translation": {
+      "en": "If you agree, we'll start.",
+      "vi": "Nếu bạn đồng ý, chúng ta sẽ bắt đầu."
+    }
+  }, {
+    "sentence": "比方说，你可以先学习基础。",
+    "tags": ["conjunction"],
+    "pinyin1": "bǐ fāng shuō, nǐ kě yǐ xiān xué xí jī chǔ",
+    "pinyin2": "bi3 fa1ng shuo1, ni3 ke3 yi3 xia1n xu2e xi2 ji1 chu3",
+    "translation": {
+      "en": "For example, you can learn the basics first.",
+      "vi": "Ví dụ, bạn có thể học cơ bản trước."
+    }
+  }, {
+    "sentence": "例如，你可以每天读一本书。",
+    "tags": ["conjunction"],
+    "pinyin1": "lì rú, nǐ kě yǐ měi tiān dú yī běn shū",
+    "pinyin2": "li4 ru2, ni3 ke3 yi3 me3i tia1n du2 yi1 be3n shu1",
+    "translation": {
+      "en": "For example, you can read a book every day.",
+      "vi": "Ví dụ, bạn có thể đọc một cuốn sách mỗi ngày."
+    }
+  }, {
+    "sentence": "他不仅聪明，况而还很努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù jǐn cōng míng, kuàng ér hái hěn nǔ lì",
+    "pinyin2": "ta1 bu4 ji3n co1ng mi2ng, kua4ng e2r ha2i hen3 nu3 li4",
+    "translation": {
+      "en": "He is not only smart, but also very hardworking.",
+      "vi": "Anh ấy không chỉ thông minh, mà còn rất chăm chỉ."
+    }
+  }, {
+    "sentence": "他不仅会英语，甚至于会法语。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù jǐn huì yīng yǔ, shèn zhì yú huì fǎ yǔ",
+    "pinyin2": "ta1 bu4 ji3n hui4 yi1ng yu3, she4n zhi4 yu2 hui4 fa3 yu3",
+    "translation": {
+      "en": "He not only speaks English, but even speaks French.",
+      "vi": "Anh ấy không chỉ biết tiếng Anh, thậm chí còn biết tiếng Pháp."
+    }
+  }, {
+    "sentence": "他并无恶意，只是想帮忙。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bìng wú è yì, zhǐ shì xiǎng bāng máng",
+    "pinyin2": "ta1 bi4ng wu2 e4 yi4, zhi3 shi4 xia3ng ba1ng ma2ng",
+    "translation": {
+      "en": "He has no ill intent, he just wants to help.",
+      "vi": "Anh ấy không có ý xấu, chỉ muốn giúp đỡ thôi."
+    }
+  }, {
+    "sentence": "他不仅聪明，况乃还很努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù jǐn cōng míng, kuàng nǎi hái hěn nǔ lì",
+    "pinyin2": "ta1 bu4 ji3n co1ng mi2ng, kua4ng na3i ha2i hen3 nu3 li4",
+    "translation": {
+      "en": "He is not only smart, but also very hardworking.",
+      "vi": "Anh ấy không chỉ thông minh, mà còn rất chăm chỉ."
+    }
+  }, {
+    "sentence": "等到他来了，我们就开始。",
+    "tags": ["conjunction"],
+    "pinyin1": "děng dào tā lái le, wǒ men jiù kāi shǐ",
+    "pinyin2": "de3ng da4o ta1 la2i le, wo3 men jiu4 ka1i shi3",
+    "translation": {
+      "en": "When he arrives, we'll start.",
+      "vi": "Khi anh ấy đến, chúng ta sẽ bắt đầu."
+    }
+  }, {
+    "sentence": "直至今天，他还在努力。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhí zhì jīn tiān, tā hái zài nǔ lì",
+    "pinyin2": "zhi2 zhi4 ji1n tia1n, ta1 ha2i za4i nu3 li4",
+    "translation": {
+      "en": "Up until today, he is still working hard.",
+      "vi": "Cho đến hôm nay, anh ấy vẫn đang cố gắng."
+    }
+  }, {
+    "sentence": "临到考试，他才开始复习。",
+    "tags": ["conjunction"],
+    "pinyin1": "lín dào kǎo shì, tā cái kāi shǐ fù xí",
+    "pinyin2": "li2n da4o ka3o shi4, ta1 ca2i ka1i shi3 fu4 xi2",
+    "translation": {
+      "en": "Only when the exam approached did he start reviewing.",
+      "vi": "Đến khi thi, anh ấy mới bắt đầu ôn tập."
+    }
+  }, {
+    "sentence": "他独自完成了这个任务。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā dú zì wán chéng le zhè gè rèn wù",
+    "pinyin2": "ta1 du2 zi4 wa2n che2ng le zhe4 ge4 re4n wu4",
+    "translation": {
+      "en": "He completed this task alone.",
+      "vi": "Anh ấy hoàn thành nhiệm vụ này một mình."
+    }
+  }, {
+    "sentence": "他不是在家，就是在办公室。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā bù shì zài jiā, jiù shì zài bàn gōng shì",
+    "pinyin2": "ta1 bu4 shi4 za4i jia1, jiu4 shi4 za4i ba4n go1ng shi4",
+    "translation": {
+      "en": "He is either at home or in the office.",
+      "vi": "Anh ấy hoặc ở nhà, hoặc ở văn phòng."
+    }
+  }, {
+    "sentence": "你要么现在去，要么明天去。",
+    "tags": ["conjunction"],
+    "pinyin1": "nǐ yào me xiàn zài qù, yào me míng tiān qù",
+    "pinyin2": "ni3 ya4o me xia4n za4i qu4, ya4o me mi2ng tia1n qu4",
+    "translation": {
+      "en": "You either go now or go tomorrow.",
+      "vi": "Bạn hoặc đi bây giờ, hoặc đi ngày mai."
+    }
+  }, {
+    "sentence": "他一边听音乐，一边做作业。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā yì biān tīng yīn yuè, yì biān zuò zuò yè",
+    "pinyin2": "ta1 yi4 bia1n ti1ng yi1n yue4, yi4 bia1n zuo4 zuo4 ye4",
+    "translation": {
+      "en": "He listens to music while doing homework.",
+      "vi": "Anh ấy vừa nghe nhạc vừa làm bài tập."
+    }
+  }, {
+    "sentence": "一方面要努力学习，另一方面也要注意休息。",
+    "tags": ["conjunction"],
+    "pinyin1": "yī fāng miàn yào nǔ lì xué xí, lìng yī fāng miàn yě yào zhù yì xiū xí",
+    "pinyin2": "yi1 fa1ng mia4n ya4o nu3 li4 xu2e xi2, li4ng yi1 fa1ng mia4n ye3 ya4o zhu4 yi4 xiu1 xi2",
+    "translation": {
+      "en": "On one hand, we need to study hard, on the other hand, we also need to pay attention to rest.",
+      "vi": "Một mặt cần học tập chăm chỉ, mặt khác cũng cần chú ý nghỉ ngơi."
+    }
+  }, {
+    "sentence": "连他都不知道答案。",
+    "tags": ["conjunction"],
+    "pinyin1": "lián tā dōu bù zhī dào dá àn",
+    "pinyin2": "lia2n ta1 dou1 bu4 zhi1 da4o da2 a4n",
+    "translation": {
+      "en": "Even he doesn't know the answer.",
+      "vi": "Thậm chí anh ấy cũng không biết câu trả lời."
+    }
+  }, {
+    "sentence": "无论多忙，他都会坚持锻炼。",
+    "tags": ["conjunction"],
+    "pinyin1": "wú lùn duō máng, tā dōu huì jiān chí duàn liàn",
+    "pinyin2": "wu2 lu4n duo1 ma2ng, ta1 dou1 hui4 jia1n chi2 dua4n lia4n",
+    "translation": {
+      "en": "No matter how busy, he always persists in exercising.",
+      "vi": "Dù bận đến đâu, anh ấy vẫn kiên trì tập thể dục."
+    }
+  }, {
+    "sentence": "他为了学习而放弃了娱乐。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā wèi le xué xí ér fàng qì le yú lè",
+    "pinyin2": "ta1 we4i le xu2e xi2 e2r fa4ng qi4 le yu2 le4",
+    "translation": {
+      "en": "He gave up entertainment in order to study.",
+      "vi": "Anh ấy từ bỏ giải trí để học tập."
+    }
+  }, {
+    "sentence": "既然你来了，我们就开始吧。",
+    "tags": ["conjunction"],
+    "pinyin1": "jì rán nǐ lái le, wǒ men jiù kāi shǐ ba",
+    "pinyin2": "ji4 ra2n ni3 la2i le, wo3 men jiu4 ka1i shi3 ba",
+    "translation": {
+      "en": "Since you've come, let's start.",
+      "vi": "Vì bạn đã đến rồi, chúng ta hãy bắt đầu thôi."
+    }
+  }, {
+    "sentence": "与其抱怨，不如想办法解决。",
+    "tags": ["conjunction"],
+    "pinyin1": "yǔ qí bào yuàn, bù rú xiǎng bàn fǎ jiě jué",
+    "pinyin2": "yu3 qi2 ba4o yua4n, bu4 ru2 xia3ng ba4n fa3 jie3 jue2",
+    "translation": {
+      "en": "Rather than complaining, it's better to think of a solution.",
+      "vi": "Thà phàn nàn, còn hơn là nghĩ cách giải quyết."
+    }
+  }, {
+    "sentence": "这不是问题，而是机会。",
+    "tags": ["conjunction"],
+    "pinyin1": "zhè bù shì wèn tí, ér shì jī huì",
+    "pinyin2": "zhe4 bu4 shi4 we4n ti2, e2r shi4 ji1 hu4i",
+    "translation": {
+      "en": "This is not a problem, but an opportunity.",
+      "vi": "Đây không phải là vấn đề, mà là cơ hội."
+    }
+  }, {
+    "sentence": "他先说了几句话，以及其后离开了。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā xiān shuō le jǐ jù huà, yǐ jí qí hòu lí kāi le",
+    "pinyin2": "ta1 xia1n shuo1 le ji3 ju4 hua4, yi3 ji2 qi2 ho4u li2 ka1i le",
+    "translation": {
+      "en": "He said a few words first, and afterwards left.",
+      "vi": "Anh ấy nói vài câu trước, và sau đó rời đi."
+    }
+  }, {
+    "sentence": "他从不迟到。",
+    "tags": ["conjunction"],
+    "pinyin1": "tā cóng bù chí dào",
+    "pinyin2": "ta1 co2ng bu4 chi2 da4o",
+    "translation": {
+      "en": "He never arrives late.",
+      "vi": "Anh ấy không bao giờ đến muộn."
+    }
+  }]
+

@@ -1,0 +1,920 @@
+[{
+  "sentence": "他正在学习阿拉伯语。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā zhèng zài xué xí ā lā bó yǔ",
+  "pinyin2": "ta1 zheng4 zai4 xue2 xi2 a1 la1 bo2 yu3",
+  "translation": {
+    "en": "He is learning Arabic.",
+    "vi": "Anh ấy đang học tiếng Ả Rập."
+  }
+}, {
+  "sentence": "哎呀，我忘记带钥匙了！",
+  "tags": ["HSK7-9"],
+  "pinyin1": "āi yā, wǒ wàng jì dài yào shi le",
+  "pinyin2": "a1i ya1, wo3 wang4 ji4 dai4 yao4 shi le",
+  "translation": {
+    "en": "Oh my, I forgot to bring the keys!",
+    "vi": "Ôi, tôi quên mang chìa khóa rồi!"
+  }
+}, {
+  "sentence": "他哀求老师再给他一次机会。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā āi qiú lǎo shī zài gěi tā yī cì jī huì",
+  "pinyin2": "ta1 a1i qiu2 lao3 shi1 zai4 gei3 ta1 yi1 ci4 ji1 hui4",
+  "translation": {
+    "en": "He implored the teacher to give him another chance.",
+    "vi": "Anh ấy cầu xin giáo viên cho anh ấy thêm một cơ hội."
+  }
+}, {
+  "sentence": "志愿者们挨家挨户地分发传单。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhì yuàn zhě men āi jiā āi hù de fēn fā chuán dān",
+  "pinyin2": "zhi4 yuan4 zhe3 men a1i jia1 a1i hu4 de fen1 fa1 chuan2 dan1",
+  "translation": {
+    "en": "Volunteers distributed flyers house to house.",
+    "vi": "Các tình nguyện viên phân phát tờ rơi từng nhà một."
+  }
+}, {
+  "sentence": "早期发现癌症很重要。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zǎo qī fā xiàn ái zhèng hěn zhòng yào",
+  "pinyin2": "zao3 qi1 fa1 xian4 a2i zhe4ng hen3 zhong4 yao4",
+  "translation": {
+    "en": "Early detection of cancer is very important.",
+    "vi": "Phát hiện sớm bệnh ung thư rất quan trọng."
+  }
+}, {
+  "sentence": "我们需要提高对艾滋病的认识。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ men xū yào tí gāo duì ài zī bìng de rèn shi",
+  "pinyin2": "wo3 men xu1 yao4 ti2 gao1 dui4 a4i zi1 bi4ng de ren4 shi",
+  "translation": {
+    "en": "We need to raise awareness about AIDS.",
+    "vi": "Chúng ta cần nâng cao nhận thức về bệnh AIDS."
+  }
+}, {
+  "sentence": "他对这本书爱不释手。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā duì zhè běn shū ài bù shì shǒu",
+  "pinyin2": "ta1 dui4 zhe4 ben3 shu1 a4i bu4 shi4 sho3u",
+  "translation": {
+    "en": "He loves this book too much to part with it.",
+    "vi": "Anh ấy yêu thích cuốn sách này đến mức không thể rời tay."
+  }
+}, {
+  "sentence": "他对我的问题爱理不理。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā duì wǒ de wèn tí ài lǐ bù lǐ",
+  "pinyin2": "ta1 dui4 wo3 de wen4 ti2 a4i li3 bu4 li3",
+  "translation": {
+    "en": "He was cold and indifferent to my question.",
+    "vi": "Anh ấy lạnh nhạt và thờ ơ với câu hỏi của tôi."
+  }
+}, {
+  "sentence": "他太爱面子了，不愿意承认错误。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā tài ài miàn zi le, bù yuàn yì chéng rèn cuò wù",
+  "pinyin2": "ta1 tai4 a4i mia4n zi le, bu4 yuan4 yi4 cheng2 ren4 cuo4 wu4",
+  "translation": {
+    "en": "He cares too much about face and won't admit mistakes.",
+    "vi": "Anh ấy quá coi trọng thể diện, không muốn thừa nhận sai lầm."
+  }
+}, {
+  "sentence": "我们应该爱惜自然资源。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ men yīng gāi ài xī zì rán zī yuán",
+  "pinyin2": "wo3 men ying1 gai1 a4i xi1 zi4 ran2 zi1 yuan2",
+  "translation": {
+    "en": "We should cherish natural resources.",
+    "vi": "Chúng ta nên trân trọng tài nguyên thiên nhiên."
+  }
+}, {
+  "sentence": "这个箱子太碍事了，我们把它搬走吧。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè xiāng zi tài ài shì le, wǒ men bǎ tā bān zǒu ba",
+  "pinyin2": "zhe4 ge4 xiang1 zi tai4 a4i shi4 le, wo3 men ba3 ta1 ban1 zo3u ba",
+  "translation": {
+    "en": "This box is too much in the way, let's move it away.",
+    "vi": "Cái hộp này quá vướng víu, chúng ta hãy chuyển nó đi."
+  }
+}, {
+  "sentence": "社会需要保持安定。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "shè huì xū yào bǎo chí ān dìng",
+  "pinyin2": "she4 hui4 xu1 yao4 bao3 chi2 an1 di4ng",
+  "translation": {
+    "en": "Society needs to maintain stability.",
+    "vi": "Xã hội cần duy trì sự ổn định."
+  }
+}, {
+  "sentence": "医生正在安抚病人的情绪。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "yī shēng zhèng zài ān fǔ bìng rén de qíng xù",
+  "pinyin2": "yi1 sheng1 zheng4 zai4 an1 fu3 bi4ng ren2 de qing2 xu4",
+  "translation": {
+    "en": "The doctor is comforting the patient's emotions.",
+    "vi": "Bác sĩ đang an ủi cảm xúc của bệnh nhân."
+  }
+}, {
+  "sentence": "他需要安眠药才能入睡。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā xū yào ān mián yào cái néng rù shuì",
+  "pinyin2": "ta1 xu1 yao4 an1 mian2 yao4 cai2 neng2 ru4 shui4",
+  "translation": {
+    "en": "He needs sleeping pills to fall asleep.",
+    "vi": "Anh ấy cần thuốc ngủ mới có thể ngủ được."
+  }
+}, {
+  "sentence": "这个小镇非常安宁。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè xiǎo zhèn fēi cháng ān níng",
+  "pinyin2": "zhe4 ge4 xiao3 zhen4 fei1 chang2 an1 ning2",
+  "translation": {
+    "en": "This small town is very peaceful.",
+    "vi": "Thị trấn nhỏ này rất yên bình."
+  }
+}, {
+  "sentence": "飞机飞行得很安稳。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "fēi jī fēi xíng de hěn ān wěn",
+  "pinyin2": "fei1 ji1 fei1 xing2 de hen3 an1 wen3",
+  "translation": {
+    "en": "The plane flew very smoothly.",
+    "vi": "Máy bay bay rất ổn định."
+  }
+}, {
+  "sentence": "听到好消息后，他终于安心了。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tīng dào hǎo xiāo xī hòu, tā zhōng yú ān xīn le",
+  "pinyin2": "ting1 dao4 hao3 xiao1 xi1 hou4, ta1 zhong1 yu2 an1 xi1n le",
+  "translation": {
+    "en": "After hearing the good news, he finally felt at ease.",
+    "vi": "Sau khi nghe tin tốt, cuối cùng anh ấy đã yên tâm."
+  }
+}, {
+  "sentence": "他过着安逸的生活。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā guò zhe ān yì de shēng huó",
+  "pinyin2": "ta1 guo4 zhe an1 yi4 de sheng1 huo2",
+  "translation": {
+    "en": "He lives an easy and comfortable life.",
+    "vi": "Anh ấy sống một cuộc sống thoải mái."
+  }
+}, {
+  "sentence": "请按这个按键来启动机器。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "qǐng àn zhè gè àn jiàn lái qǐ dòng jī qì",
+  "pinyin2": "qing3 a4n zhe4 ge4 a4n jia4n lai2 qi3 do4ng ji1 qi4",
+  "translation": {
+    "en": "Please press this button to start the machine.",
+    "vi": "Vui lòng nhấn phím này để khởi động máy."
+  }
+}, {
+  "sentence": "按理说，他应该已经到了。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "àn lǐ shuō, tā yīng gāi yǐ jīng dào le",
+  "pinyin2": "a4n li3 shuo1, ta1 ying1 gai1 yi3 jing1 dao4 le",
+  "translation": {
+    "en": "It is reasonable to say that he should have arrived by now.",
+    "vi": "Theo lý mà nói, anh ấy lẽ ra đã đến rồi."
+  }
+}, {
+  "sentence": "这个案件正在调查中。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè àn jiàn zhèng zài diào chá zhōng",
+  "pinyin2": "zhe4 ge4 a4n jia4n zheng4 zai4 diao4 cha2 zhong1",
+  "translation": {
+    "en": "This case is under investigation.",
+    "vi": "Vụ án này đang được điều tra."
+  }
+}, {
+  "sentence": "他们暗地里策划了这个计划。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā men àn dì lǐ cè huà le zhè gè jì huà",
+  "pinyin2": "ta1 men a4n di4 li3 ce4 hua4 le zhe4 ge4 ji4 hua4",
+  "translation": {
+    "en": "They secretly planned this scheme.",
+    "vi": "Họ bí mật lên kế hoạch cho dự án này."
+  }
+}, {
+  "sentence": "按说，这个项目应该完成了。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "àn shuō, zhè gè xiàng mù yīng gāi wán chéng le",
+  "pinyin2": "a4n shuo1, zhe4 ge4 xiang4 mu4 ying1 gai1 wan2 cheng2 le",
+  "translation": {
+    "en": "Normally, this project should have been completed.",
+    "vi": "Theo lẽ thường, dự án này lẽ ra đã hoàn thành."
+  }
+}, {
+  "sentence": "历史上有许多政治暗杀事件。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "lì shǐ shàng yǒu xǔ duō zhèng zhì àn shā shì jiàn",
+  "pinyin2": "li4 shi3 sha4ng you3 xu3 duo1 zhe4ng zhi4 a4n sha1 shi4 jia4n",
+  "translation": {
+    "en": "There have been many political assassinations in history.",
+    "vi": "Trong lịch sử đã có nhiều vụ ám sát chính trị."
+  }
+}, {
+  "sentence": "他们暗中观察着对方的一举一动。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā men àn zhōng guān chá zhe duì fāng de yī jǔ yī dòng",
+  "pinyin2": "ta1 men a4n zho1ng guan1 cha2 zhe dui4 fa1ng de yi1 ju3 yi1 do4ng",
+  "translation": {
+    "en": "They secretly observed every move of the other party.",
+    "vi": "Họ bí mật quan sát từng cử động của đối phương."
+  }
+}, {
+  "sentence": "这家餐厅的菜非常昂贵。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè jiā cān tīng de cài fēi cháng áng guì",
+  "pinyin2": "zhe4 jia1 ca1n ti1ng de ca4i fei1 cha2ng a2ng gui4",
+  "translation": {
+    "en": "The dishes at this restaurant are very expensive.",
+    "vi": "Món ăn ở nhà hàng này rất đắt đỏ."
+  }
+}, {
+  "sentence": "地面上有一个凹坑。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "dì miàn shàng yǒu yī gè āo kēng",
+  "pinyin2": "di4 mia4n sha4ng you3 yi1 ge4 a1o ke1ng",
+  "translation": {
+    "en": "There is a concave pit on the ground.",
+    "vi": "Trên mặt đất có một cái hố lõm."
+  }
+}, {
+  "sentence": "他必须熬过这段困难时期。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā bì xū áo guò zhè duàn kùn nán shí qī",
+  "pinyin2": "ta1 bi4 xu1 a2o guo4 zhe4 dua4n ku4n na2n shi2 qi1",
+  "translation": {
+    "en": "He must endure through this difficult period.",
+    "vi": "Anh ấy phải chịu đựng qua giai đoạn khó khăn này."
+  }
+}, {
+  "sentence": "为了准备考试，他经常熬夜。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wèi le zhǔn bèi kǎo shì, tā jīng cháng áo yè",
+  "pinyin2": "wei4 le zhun3 bei4 kao3 shi4, ta1 ji1ng cha2ng a2o ye4",
+  "translation": {
+    "en": "To prepare for the exam, he often stays up late.",
+    "vi": "Để chuẩn bị cho kỳ thi, anh ấy thường xuyên thức khuya."
+  }
+}, {
+  "sentence": "他的态度非常傲慢。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā de tài dù fēi cháng ào màn",
+  "pinyin2": "ta1 de ta4i du4 fei1 cha2ng a4o ma4n",
+  "translation": {
+    "en": "His attitude is very arrogant.",
+    "vi": "Thái độ của anh ấy rất kiêu ngạo."
+  }
+}, {
+  "sentence": "科学家正在探索宇宙的奥秘。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "kē xué jiā zhèng zài tàn suǒ yǔ zhòu de ào mì",
+  "pinyin2": "ke1 xu2e jia1 zheng4 zai4 ta4n suo3 yu3 zho4u de a4o mi4",
+  "translation": {
+    "en": "Scientists are exploring the mysteries of the universe.",
+    "vi": "Các nhà khoa học đang khám phá những bí ẩn của vũ trụ."
+  }
+}, {
+  "sentence": "2024年奥运会将在巴黎举行。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "èr líng èr sì nián ào yùn huì jiāng zài bā lí jǔ xíng",
+  "pinyin2": "er4 li2ng er4 si4 nia2n a4o yu4n hui4 jia1ng zai4 ba1 li2 ju3 xi2ng",
+  "translation": {
+    "en": "The 2024 Olympic Games will be held in Paris.",
+    "vi": "Thế vận hội 2024 sẽ được tổ chức tại Paris."
+  }
+}, {
+  "sentence": "办公室里总是有很多八卦。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "bàn gōng shì lǐ zǒng shì yǒu hěn duō bā guà",
+  "pinyin2": "ba4n go1ng shi4 li3 zo3ng shi4 you3 hen3 duo1 ba1 gua4",
+  "translation": {
+    "en": "There is always a lot of gossip in the office.",
+    "vi": "Trong văn phòng luôn có rất nhiều tin đồn."
+  }
+}, {
+  "sentence": "我巴不得马上见到他。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ bā bu dé mǎ shàng jiàn dào tā",
+  "pinyin2": "wo3 ba1 bu de2 ma3 sha4ng jia4n dao4 ta1",
+  "translation": {
+    "en": "I'm eager to see him right away.",
+    "vi": "Tôi mong muốn gặp anh ấy ngay lập tức."
+  }
+}, {
+  "sentence": "孩子紧紧扒着妈妈的胳膊。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "hái zi jǐn jǐn bā zhe mā ma de gē bo",
+  "pinyin2": "ha2i zi ji3n ji3n ba1 zhe ma1 ma de ge1 bo",
+  "translation": {
+    "en": "The child clung tightly to his mother's arm.",
+    "vi": "Đứa trẻ bám chặt lấy cánh tay của mẹ."
+  }
+}, {
+  "sentence": "她从小学习芭蕾舞。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā cóng xiǎo xué xí bā lěi wǔ",
+  "pinyin2": "ta1 co2ng xia3o xu2e xi2 ba1 le3i wu3",
+  "translation": {
+    "en": "She has been learning ballet since childhood.",
+    "vi": "Cô ấy học múa ba lê từ nhỏ."
+  }
+}, {
+  "sentence": "他抓住了对方的把柄。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā zhuā zhù le duì fāng de bǎ bǐng",
+  "pinyin2": "ta1 zhua1 zhu4 le dui4 fa1ng de ba3 bi3ng",
+  "translation": {
+    "en": "He got evidence against the other party.",
+    "vi": "Anh ấy nắm được bằng chứng chống lại đối phương."
+  }
+}, {
+  "sentence": "质量部门负责把关产品质量。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhì liàng bù mén fù zé bǎ guān chǎn pǐn zhì liàng",
+  "pinyin2": "zhi4 lia4ng bu4 me2n fu4 ze2 ba3 gua1n cha3n pi3n zhi4 lia4ng",
+  "translation": {
+    "en": "The quality department is responsible for checking product quality.",
+    "vi": "Bộ phận chất lượng chịu trách nhiệm kiểm tra chất lượng sản phẩm."
+  }
+}, {
+  "sentence": "请抓住门把手。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "qǐng zhuā zhù mén bǎ shou",
+  "pinyin2": "qing3 zhua1 zhu4 me2n ba3 shou",
+  "translation": {
+    "en": "Please hold the door handle.",
+    "vi": "Vui lòng nắm lấy tay cầm cửa."
+  }
+}, {
+  "sentence": "他瞄准了靶子。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā miáo zhǔn le bǎ zi",
+  "pinyin2": "ta1 mia2o zhun3 le ba3 zi",
+  "translation": {
+    "en": "He aimed at the target.",
+    "vi": "Anh ấy nhắm vào bia."
+  }
+}, {
+  "sentence": "这座大坝为城市提供了电力。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè zuò dà bà wèi chéng shì tí gōng le diàn lì",
+  "pinyin2": "zhe4 zuo4 da4 ba4 wei4 cheng2 shi4 ti2 go1ng le dia4n li4",
+  "translation": {
+    "en": "This dam provides electricity for the city.",
+    "vi": "Con đập lớn này cung cấp điện cho thành phố."
+  }
+}, {
+  "sentence": "他被罢免了职务。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā bèi bà miǎn le zhí wù",
+  "pinyin2": "ta1 bei4 ba4 mia3n le zhi2 wu4",
+  "translation": {
+    "en": "He was dismissed from his position.",
+    "vi": "Anh ấy bị bãi miễn chức vụ."
+  }
+}, {
+  "sentence": "他决定不罢休，要继续调查。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā jué dìng bù bà xiū, yào jì xù diào chá",
+  "pinyin2": "ta1 ju2e di4ng bu4 ba4 xiu1, ya4o ji4 xu4 diao4 cha2",
+  "translation": {
+    "en": "He decided not to give up and to continue the investigation.",
+    "vi": "Anh ấy quyết định không thôi, sẽ tiếp tục điều tra."
+  }
+}, {
+  "sentence": "他们霸占了别人的土地。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā men bà zhàn le bié rén de tǔ dì",
+  "pinyin2": "ta1 men ba4 zha4n le bie2 ren2 de tu3 di4",
+  "translation": {
+    "en": "They forcibly occupied other people's land.",
+    "vi": "Họ cưỡng chiếm đất đai của người khác."
+  }
+}, {
+  "sentence": "他掰开了一个苹果。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā bāi kāi le yī gè píng guǒ",
+  "pinyin2": "ta1 ba1i ka1i le yi1 ge4 pi2ng guo3",
+  "translation": {
+    "en": "He broke an apple in half with his hands.",
+    "vi": "Anh ấy bẻ đôi một quả táo."
+  }
+}, {
+  "sentence": "他的努力都白白了。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā de nǔ lì dōu bái bái le",
+  "pinyin2": "ta1 de nu3 li4 do1u ba2i ba2i le",
+  "translation": {
+    "en": "All his efforts were in vain.",
+    "vi": "Tất cả nỗ lực của anh ấy đều vô ích."
+  }
+}, {
+  "sentence": "这个百分比显示了增长趋势。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè bǎi fēn bǐ xiǎn shì le zēng zhǎng qū shì",
+  "pinyin2": "zhe4 ge4 ba3i fe1n bi3 xia3n shi4 le ze1ng zha3ng qu1 shi4",
+  "translation": {
+    "en": "This percentage shows a growth trend.",
+    "vi": "Tỷ lệ phần trăm này cho thấy xu hướng tăng trưởng."
+  }
+}, {
+  "sentence": "她收到了一束美丽的百合花。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā shōu dào le yī shù měi lì de bǎi hé huā",
+  "pinyin2": "ta1 sho1u dao4 le yi1 shu4 me3i li4 de ba3i he2 hua1",
+  "translation": {
+    "en": "She received a beautiful bouquet of lilies.",
+    "vi": "Cô ấy nhận được một bó hoa loa kèn đẹp."
+  }
+}, {
+  "sentence": "这本百科全书包含了丰富的知识。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè běn bǎi kē quán shū bāo hán le fēng fù de zhī shi",
+  "pinyin2": "zhe4 ben3 ba3i ke1 qua2n shu1 bao1 ha2n le fe1ng fu4 de zhi1 shi",
+  "translation": {
+    "en": "This encyclopedia contains rich knowledge.",
+    "vi": "Cuốn bách khoa toàn thư này chứa đựng kiến thức phong phú."
+  }
+}, {
+  "sentence": "唉，这件事真让人头疼。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "āi, zhè jiàn shì zhēn ràng rén tóu téng",
+  "pinyin2": "a1i, zhe4 jia4n shi4 zhen1 ra4ng ren2 to2u te2ng",
+  "translation": {
+    "en": "Sigh, this matter is really a headache.",
+    "vi": "Ồi, việc này thật đau đầu."
+  }
+}, {
+  "sentence": "公园里种了很多柏树。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "gōng yuán lǐ zhòng le hěn duō bǎi shù",
+  "pinyin2": "go1ng yua2n li3 zho4ng le hen3 duo1 ba3i shu4",
+  "translation": {
+    "en": "Many cypress trees were planted in the park.",
+    "vi": "Trong công viên trồng rất nhiều cây bách."
+  }
+}, {
+  "sentence": "请把书整齐地摆放在书架上。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "qǐng bǎ shū zhěng qí de bǎi fàng zài shū jià shàng",
+  "pinyin2": "qing3 ba3 shu1 zhe3ng qi2 de ba3i fa4ng zai4 shu1 jia4 sha4ng",
+  "translation": {
+    "en": "Please arrange the books neatly on the bookshelf.",
+    "vi": "Vui lòng đặt sách ngay ngắn trên giá sách."
+  }
+}, {
+  "sentence": "他成功摆平了这场纠纷。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā chéng gōng bǎi píng le zhè chǎng jiū fēn",
+  "pinyin2": "ta1 cheng2 go1ng ba3i pi2ng le zhe4 cha3ng jiu1 fe1n",
+  "translation": {
+    "en": "He successfully settled this dispute.",
+    "vi": "Anh ấy đã thành công giải quyết cuộc tranh chấp này."
+  }
+}, {
+  "sentence": "这些摆设让房间更加温馨。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè xiē bǎi shè ràng fáng jiān gèng jiā wēn xīn",
+  "pinyin2": "zhe4 xie1 ba3i she4 ra4ng fa2ng jia1n ge4ng jia1 we1n xi1n",
+  "translation": {
+    "en": "These decorations make the room more cozy.",
+    "vi": "Những đồ trang trí này làm căn phòng thêm ấm cúng."
+  }
+}, {
+  "sentence": "他专程去拜会了那位老教授。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā zhuān chéng qù bài huì le nà wèi lǎo jiào shòu",
+  "pinyin2": "ta1 zhuan1 cheng2 qu4 ba4i hui4 le na4 wei4 lao3 jia4o sho4u",
+  "translation": {
+    "en": "He made a special trip to visit that old professor.",
+    "vi": "Anh ấy đã đi đặc biệt để viếng thăm vị giáo sư già đó."
+  }
+}, {
+  "sentence": "学生们拜见了校长。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "xué sheng men bài jiàn le xiào zhǎng",
+  "pinyin2": "xu2e sheng men ba4i jia4n le xia4o zha3ng",
+  "translation": {
+    "en": "The students paid a formal visit to the principal.",
+    "vi": "Các học sinh đã bái kiến hiệu trưởng."
+  }
+}, {
+  "sentence": "春节期间，人们会互相拜年。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "chūn jié qī jiān, rén men huì hù xiāng bài nián",
+  "pinyin2": "chu1n jie2 qi1 jia1n, ren2 men hui4 hu4 xia1ng ba4i nia2n",
+  "translation": {
+    "en": "During the Spring Festival, people visit each other to pay New Year greetings.",
+    "vi": "Trong dịp Tết Nguyên Đán, mọi người sẽ chúc Tết lẫn nhau."
+  }
+}, {
+  "sentence": "拜托你帮我照看一下孩子。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "bài tuō nǐ bāng wǒ zhào kàn yī xià hái zi",
+  "pinyin2": "ba4i tuo1 ni3 ba1ng wo3 zha4o ka4n yi1 xia4 ha2i zi",
+  "translation": {
+    "en": "Please help me look after the child.",
+    "vi": "Xin bạn giúp tôi trông nom đứa trẻ một chút."
+  }
+}, {
+  "sentence": "他扳动了开关。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā bān dòng le kāi guān",
+  "pinyin2": "ta1 ba1n do4ng le ka1i gua1n",
+  "translation": {
+    "en": "He turned the switch.",
+    "vi": "Anh ấy đã vặn công tắc."
+  }
+}, {
+  "sentence": "政府颁布了新的法律。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhèng fǔ bān bù le xīn de fǎ lǜ",
+  "pinyin2": "zhe4ng fu3 ba1n bu4 le xi1n de fa3 lü4",
+  "translation": {
+    "en": "The government promulgated a new law.",
+    "vi": "Chính phủ đã ban hành luật mới."
+  }
+}, {
+  "sentence": "学校颁发了毕业证书。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "xué xiào bān fā le bì yè zhèng shū",
+  "pinyin2": "xu2e xia4o ba1n fa1 le bi4 ye4 zhe4ng shu1",
+  "translation": {
+    "en": "The school issued graduation certificates.",
+    "vi": "Trường học đã cấp bằng tốt nghiệp."
+  }
+}, {
+  "sentence": "颁奖典礼将在下个月举行。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "bān jiǎng diǎn lǐ jiāng zài xià gè yuè jǔ xíng",
+  "pinyin2": "ba1n jia3ng dia3n li3 jia1ng zai4 xia4 ge4 yue4 ju3 xi2ng",
+  "translation": {
+    "en": "The award ceremony will be held next month.",
+    "vi": "Lễ trao giải sẽ được tổ chức vào tháng sau."
+  }
+}, {
+  "sentence": "衣服上有一个小斑点。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "yī fu shàng yǒu yī gè xiǎo bān diǎn",
+  "pinyin2": "yi1 fu sha4ng you3 yi1 ge4 xia3o ba1n dia3n",
+  "translation": {
+    "en": "There is a small spot on the clothes.",
+    "vi": "Trên quần áo có một đốm nhỏ."
+  }
+}, {
+  "sentence": "他们准备搬迁到新城市。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā men zhǔn bèi bān qiān dào xīn chéng shì",
+  "pinyin2": "ta1 men zhun3 bei4 ba1n qia1n dao4 xi1n cheng2 shi4",
+  "translation": {
+    "en": "They are preparing to relocate to a new city.",
+    "vi": "Họ đang chuẩn bị chuyển đến thành phố mới."
+  }
+}, {
+  "sentence": "这个板块专门讨论科技话题。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè bǎn kuài zhuān mén tǎo lùn kē jì huà tí",
+  "pinyin2": "zhe4 ge4 ba3n kua4i zhuan1 me2n tao3 lun4 ke1 ji4 hua4 ti2",
+  "translation": {
+    "en": "This section is dedicated to discussing technology topics.",
+    "vi": "Phần này chuyên thảo luận các chủ đề công nghệ."
+  }
+}, {
+  "sentence": "这件事我办不到。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè jiàn shì wǒ bàn bu dào",
+  "pinyin2": "zhe4 jia4n shi4 wo3 ba4n bu dao4",
+  "translation": {
+    "en": "I cannot do this.",
+    "vi": "Việc này tôi không làm được."
+  }
+}, {
+  "sentence": "妇女能顶半边天。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "fù nǚ néng dǐng bàn biān tiān",
+  "pinyin2": "fu4 nü3 ne2ng di3ng ba4n bia1n tia1n",
+  "translation": {
+    "en": "Women can hold up half the sky.",
+    "vi": "Phụ nữ có thể chống đỡ nửa bầu trời."
+  }
+}, {
+  "sentence": "比赛进行到半场休息。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "bǐ sài jìn xíng dào bàn chǎng xiū xí",
+  "pinyin2": "bi3 sa4i ji4n xi2ng dao4 ba4n cha3ng xiu1 xi2",
+  "translation": {
+    "en": "The game reached halftime for a break.",
+    "vi": "Trận đấu đã đến hiệp giữa để nghỉ."
+  }
+}, {
+  "sentence": "韩国是一个半岛国家。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "hán guó shì yī gè bàn dǎo guó jiā",
+  "pinyin2": "ha2n guo2 shi4 yi1 ge4 ba4n da3o guo2 jia1",
+  "translation": {
+    "en": "South Korea is a peninsula country.",
+    "vi": "Hàn Quốc là một quốc gia bán đảo."
+  }
+}, {
+  "sentence": "他在半路遇到了朋友。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā zài bàn lù yù dào le péng you",
+  "pinyin2": "ta1 zai4 ba4n lu4 yu4 dao4 le pe2ng you",
+  "translation": {
+    "en": "He met a friend halfway.",
+    "vi": "Anh ấy gặp bạn ở giữa đường."
+  }
+}, {
+  "sentence": "半数学生通过了考试。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "bàn shù xué sheng tōng guò le kǎo shì",
+  "pinyin2": "ba4n shu4 xu2e sheng to1ng guo4 le kao3 shi4",
+  "translation": {
+    "en": "Half of the students passed the exam.",
+    "vi": "Một nửa số học sinh đã vượt qua kỳ thi."
+  }
+}, {
+  "sentence": "我们不能半途而废。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ men bù néng bàn tú ér fèi",
+  "pinyin2": "wo3 men bu4 ne2ng ba4n tu2 er2 fe4i",
+  "translation": {
+    "en": "We cannot give up halfway.",
+    "vi": "Chúng ta không thể bỏ dở giữa chừng."
+  }
+}, {
+  "sentence": "他对这个消息半信半疑。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā duì zhè gè xiāo xī bàn xìn bàn yí",
+  "pinyin2": "ta1 dui4 zhe4 ge4 xia1o xi1 ba4n xi4n ba4n yi2",
+  "translation": {
+    "en": "He is half-believing and half-doubting about this news.",
+    "vi": "Anh ấy nửa tin nửa ngờ về tin tức này."
+  }
+}, {
+  "sentence": "他的话半真半假。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā de huà bàn zhēn bàn jiǎ",
+  "pinyin2": "ta1 de hua4 ba4n zhen1 ba4n jia3",
+  "translation": {
+    "en": "His words are half true and half false.",
+    "vi": "Lời nói của anh ấy nửa thật nửa giả."
+  }
+}, {
+  "sentence": "他在剧中扮了一个角色。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā zài jù zhōng bàn le yī gè jué sè",
+  "pinyin2": "ta1 zai4 ju4 zho1ng ba4n le yi1 ge4 ju2e se4",
+  "translation": {
+    "en": "He played a role in the play.",
+    "vi": "Anh ấy đóng một vai trong vở kịch."
+  }
+}, {
+  "sentence": "他是我的好伙伴。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā shì wǒ de hǎo huǒ bàn",
+  "pinyin2": "ta1 shi4 wo3 de hao3 huo3 ba4n",
+  "translation": {
+    "en": "He is my good companion.",
+    "vi": "Anh ấy là bạn đồng hành tốt của tôi."
+  }
+}, {
+  "sentence": "她找到了人生伴侣。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā zhǎo dào le rén shēng bàn lǚ",
+  "pinyin2": "ta1 zha3o dao4 le ren2 sheng1 ba4n lü3",
+  "translation": {
+    "en": "She found her life partner.",
+    "vi": "Cô ấy đã tìm thấy người bạn đời."
+  }
+}, {
+  "sentence": "成功往往伴随着努力。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "chéng gōng wǎng wǎng bàn suí zhe nǔ lì",
+  "pinyin2": "cheng2 go1ng wa3ng wa3ng ba4n sui2 zhe nu3 li4",
+  "translation": {
+    "en": "Success often accompanies hard work.",
+    "vi": "Thành công thường đi kèm với nỗ lực."
+  }
+}, {
+  "sentence": "钢琴为歌曲伴奏。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "gāng qín wèi gē qǔ bàn zòu",
+  "pinyin2": "ga1ng qi2n wei4 ge1 qu3 ba4n zo4u",
+  "translation": {
+    "en": "The piano accompanies the song.",
+    "vi": "Piano đệm cho bài hát."
+  }
+}, {
+  "sentence": "请把调料拌均匀。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "qǐng bǎ tiáo liào bàn jūn yún",
+  "pinyin2": "qing3 ba3 tia2o lia4o ba4n ju1n yu2n",
+  "translation": {
+    "en": "Please mix the seasonings evenly.",
+    "vi": "Vui lòng trộn đều gia vị."
+  }
+}, {
+  "sentence": "我需要一个帮手来完成这项工作。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ xū yào yī gè bāng shou lái wán chéng zhè xiàng gōng zuò",
+  "pinyin2": "wo3 xu1 yao4 yi1 ge4 ba1ng shou lai2 wa2n cheng2 zhe4 xia4ng go1ng zuo4",
+  "translation": {
+    "en": "I need a helper to complete this work.",
+    "vi": "Tôi cần một người giúp đỡ để hoàn thành công việc này."
+  }
+}, {
+  "sentence": "他用绳子绑住了包裹。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā yòng shéng zi bǎng zhù le bāo guǒ",
+  "pinyin2": "ta1 yo4ng she2ng zi ba3ng zhu4 le bao1 guo3",
+  "translation": {
+    "en": "He tied up the package with a rope.",
+    "vi": "Anh ấy đã buộc gói hàng bằng dây thừng."
+  }
+}, {
+  "sentence": "警方正在调查这起绑架案。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "jǐng fāng zhèng zài diào chá zhè qǐ bǎng jià àn",
+  "pinyin2": "ji3ng fa1ng zheng4 zai4 diao4 cha2 zhe4 qi3 ba3ng jia4 a4n",
+  "translation": {
+    "en": "The police are investigating this kidnapping case.",
+    "vi": "Cảnh sát đang điều tra vụ bắt cóc này."
+  }
+}, {
+  "sentence": "他是我们学习的榜样。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā shì wǒ men xué xí de bǎng yàng",
+  "pinyin2": "ta1 shi4 wo3 men xu2e xi2 de ba3ng ya4ng",
+  "translation": {
+    "en": "He is a role model for us to learn from.",
+    "vi": "Anh ấy là tấm gương để chúng ta học tập."
+  }
+}, {
+  "sentence": "他喜欢打棒球。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā xǐ huān dǎ bàng qiú",
+  "pinyin2": "ta1 xi3 huan1 da3 ba4ng qiu2",
+  "translation": {
+    "en": "He likes to play baseball.",
+    "vi": "Anh ấy thích chơi bóng chày."
+  }
+}, {
+  "sentence": "这个包裹重五磅。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè gè bāo guǒ zhòng wǔ bàng",
+  "pinyin2": "zhe4 ge4 bao1 guo3 zho4ng wu3 ba4ng",
+  "translation": {
+    "en": "This package weighs five pounds.",
+    "vi": "Gói hàng này nặng năm pao."
+  }
+}, {
+  "sentence": "他放下了心理包袱。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā fàng xià le xīn lǐ bāo fu",
+  "pinyin2": "ta1 fa4ng xia4 le xi1n li3 ba1o fu",
+  "translation": {
+    "en": "He put down his psychological burden.",
+    "vi": "Anh ấy đã gỡ bỏ gánh nặng tâm lý."
+  }
+}, {
+  "sentence": "我们应该学会包容他人的缺点。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ men yīng gāi xué huì bāo róng tā rén de quē diǎn",
+  "pinyin2": "wo3 men ying1 gai1 xu2e hui4 ba1o ro2ng ta1 ren2 de que1 dia3n",
+  "translation": {
+    "en": "We should learn to tolerate others' shortcomings.",
+    "vi": "Chúng ta nên học cách bao dung những thiếu sót của người khác."
+  }
+}, {
+  "sentence": "护士正在为病人包扎伤口。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "hù shi zhèng zài wèi bìng rén bāo zā shāng kǒu",
+  "pinyin2": "hu4 shi zheng4 zai4 wei4 bi4ng ren2 ba1o za1 sha1ng ko3u",
+  "translation": {
+    "en": "The nurse is bandaging the patient's wound.",
+    "vi": "Y tá đang băng bó vết thương cho bệnh nhân."
+  }
+}, {
+  "sentence": "请帮我剥一个橘子。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "qǐng bāng wǒ bāo yī gè jú zi",
+  "pinyin2": "qing3 ba1ng wo3 ba1o yi1 ge4 ju2 zi",
+  "translation": {
+    "en": "Please help me peel an orange.",
+    "vi": "Vui lòng giúp tôi bóc một quả cam."
+  }
+}, {
+  "sentence": "她用砂锅煲了一锅汤。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā yòng shā guō bāo le yī guō tāng",
+  "pinyin2": "ta1 yo4ng sha1 guo1 ba1o le yi1 guo1 ta1ng",
+  "translation": {
+    "en": "She cooked a pot of soup in a clay pot.",
+    "vi": "Cô ấy đã nấu một nồi canh bằng nồi đất."
+  }
+}, {
+  "sentence": "市场已经饱和了。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "shì chǎng yǐ jīng bǎo hé le",
+  "pinyin2": "shi4 cha3ng yi3 jing1 ba3o he2 le",
+  "translation": {
+    "en": "The market is already saturated.",
+    "vi": "Thị trường đã bão hòa rồi."
+  }
+}, {
+  "sentence": "这些谷粒非常饱满。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "zhè xiē gǔ lì fēi cháng bǎo mǎn",
+  "pinyin2": "zhe4 xie1 gu3 li4 fei1 cha2ng ba3o ma3n",
+  "translation": {
+    "en": "These grains are very plump.",
+    "vi": "Những hạt lúa này rất căng đầy."
+  }
+}, {
+  "sentence": "图书馆是知识的宝库。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tú shū guǎn shì zhī shi de bǎo kù",
+  "pinyin2": "tu2 shu1 gua3n shi4 zhi1 shi de ba3o ku4",
+  "translation": {
+    "en": "The library is a treasure house of knowledge.",
+    "vi": "Thư viện là kho báu của tri thức."
+  }
+}, {
+  "sentence": "他们发现了古代宝藏。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā men fā xiàn le gǔ dài bǎo zàng",
+  "pinyin2": "ta1 men fa1 xian4 le gu3 da4i ba3o za4ng",
+  "translation": {
+    "en": "They discovered ancient treasure.",
+    "vi": "Họ đã phát hiện kho báu cổ đại."
+  }
+}, {
+  "sentence": "请帮我保管这些文件。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "qǐng bāng wǒ bǎo guǎn zhè xiē wén jiàn",
+  "pinyin2": "qing3 ba1ng wo3 ba3o gua3n zhe4 xie1 we2n jia4n",
+  "translation": {
+    "en": "Please help me keep these documents safe.",
+    "vi": "Vui lòng giúp tôi bảo quản những tài liệu này."
+  }
+}, {
+  "sentence": "她请了一位保姆来照顾孩子。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā qǐng le yī wèi bǎo mǔ lái zhào gù hái zi",
+  "pinyin2": "ta1 qi3ng le yi1 wei4 ba3o mu3 lai2 zha4o gu4 ha2i zi",
+  "translation": {
+    "en": "She hired a nanny to take care of the children.",
+    "vi": "Cô ấy đã thuê một bảo mẫu để chăm sóc trẻ em."
+  }
+}, {
+  "sentence": "他并非不想去，而是没有时间。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā bìng fēi bù xiǎng qù, ér shì méi yǒu shí jiān",
+  "pinyin2": "ta1 bi4ng fe1i bu4 xia3ng qu4, e2r shi4 mei2 yo3u shi2 jia1n",
+  "translation": {
+    "en": "It's not that he doesn't want to go, but that he has no time.",
+    "vi": "Anh ấy không phải không muốn đi, mà là không có thời gian."
+  }
+}, {
+  "sentence": "我早餐喝豆浆。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "wǒ zǎo cān hē dòu jiāng",
+  "pinyin2": "wo3 za3o ca1n he1 do4u jia1ng",
+  "translation": {
+    "en": "I drink soy milk for breakfast.",
+    "vi": "Tôi uống sữa đậu nành cho bữa sáng."
+  }
+}, {
+  "sentence": "董事会决定扩大公司的业务范围。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "dǒng shì huì jué dìng kuò dà gōng sī de yè wù fàn wéi",
+  "pinyin2": "dong3 shi4 hui4 jue2 ding4 kuo4 da4 gong1 si1 de ye4 wu4 fan4 wei2",
+  "translation": {
+    "en": "The board of directors decided to expand the company's business scope.",
+    "vi": "Hội đồng quản trị quyết định mở rộng phạm vi kinh doanh của công ty."
+  }
+}, {
+  "sentence": "他用房产作为抵押申请贷款。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "tā yòng fáng chǎn zuò wéi dǐ yā shēn qǐng dài kuǎn",
+  "pinyin2": "ta1 yong4 fang2 chan3 zuo4 wei2 di3 ya1 shen1 qing3 dai4 kuan3",
+  "translation": {
+    "en": "He used his property as collateral to apply for a loan.",
+    "vi": "Anh ấy dùng bất động sản làm thế chấp để xin vay."
+  }
+}, {
+  "sentence": "水资源短缺是一个严重的问题。",
+  "tags": ["HSK7-9"],
+  "pinyin1": "shuǐ zī yuán duǎn quē shì yī gè yán zhòng de wèn tí",
+  "pinyin2": "shui3 zi1 yuan2 duan3 que1 shi4 yi1 ge4 yan2 zhong4 de wen4 ti2",
+  "translation": {
+    "en": "Water resource shortage is a serious problem.",
+    "vi": "Thiếu hụt tài nguyên nước là một vấn đề nghiêm trọng."
+  }
+}]
+
