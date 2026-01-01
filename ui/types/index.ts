@@ -56,6 +56,21 @@ export interface TagGroup {
   tags: Tag[];
 }
 
+// Paragraph example with audio support
+export interface ParagraphExample {
+  word: string; // Chinese word/character
+  pinyin?: string; // Pinyin transcription (e.g., "cì", "cǎo")
+  translation?: {
+    en?: string;
+    vi?: string;
+    zh?: string;
+  };
+  audio?: {
+    path: string; // Audio file path (e.g., "/audio/examples/pronunciation-c/ci.mp3")
+    duration?: number; // Duration in seconds (optional)
+  };
+}
+
 // Grammar/Paragraph entry type
 export interface GrammarEntry {
   id: string;

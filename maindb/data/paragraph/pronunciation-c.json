@@ -26,7 +26,45 @@
         "word1": "刺",
         "word2": "草",
         "word3": "从"
-      }]
+      }],
+      "examples": [
+        {
+          "word": "刺",
+          "pinyin": "cì",
+          "translation": {
+            "en": "thorn/stab",
+            "vi": "gai/đâm",
+            "zh": "刺"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-c/ci4.mp3"
+          }
+        },
+        {
+          "word": "草",
+          "pinyin": "cǎo",
+          "translation": {
+            "en": "grass",
+            "vi": "cỏ",
+            "zh": "草"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-c/cao3.mp3"
+          }
+        },
+        {
+          "word": "从",
+          "pinyin": "cóng",
+          "translation": {
+            "en": "from",
+            "vi": "từ",
+            "zh": "从"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-c/cong2.mp3"
+          }
+        }
+      ]
     },
     {
       "title": {

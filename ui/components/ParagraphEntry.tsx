@@ -4,9 +4,10 @@ import { useState, useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 import { getLocaleFromPath } from '@/lib/i18n';
 import { getUiText } from '@/lib/ui-text';
-import type { GrammarEntry } from '@/types';
+import type { GrammarEntry, ParagraphExample } from '@/types';
 import ReactMarkdown from 'react-markdown';
 import VocabularyTooltip from './VocabularyTooltip';
+import ParagraphExampleAudio from './ParagraphExampleAudio';
 
 interface ParagraphEntryProps {
   entry: GrammarEntry;
@@ -243,6 +244,30 @@ export default function ParagraphEntry({ entry }: ParagraphEntryProps) {
                   <ReactMarkdown components={markdownComponents}>
                     {processedBody}
                   </ReactMarkdown>
+                </div>
+              )}
+              
+              {/* Render examples with audio if available */}
+              {item.examples && Array.isArray(item.examples) && item.examples.length > 0 && (
+                <div className="mt-6">
+                  <h4 className="text-lg font-semibold text-gray-900 mb-3">
+                    {(() => {
+                      const text = getUiText(locale);
+                      const fallbackText = getUiText('en');
+                      return text.grammar?.examples || text.pronunciation?.examples || fallbackText.grammar?.examples || 'Example Words';
+                    })()}
+                  </h4>
+                  <div className="space-y-2">
+                    {item.examples.map((example: ParagraphExample, exIndex: number) => (
+                      <ParagraphExampleAudio
+                        key={exIndex}
+                        example={example}
+                        locale={locale as 'en' | 'vi' | 'zh'}
+                        size="md"
+                        showText={true}
+                      />
+                    ))}
+                  </div>
                 </div>
               )}
             </div>
