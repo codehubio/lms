@@ -65,9 +65,9 @@ function syllableToFileName(syllable: string): string {
 }
 
 // Generate audio paths for all syllables
-// Files are stored in public/audio/pinyin/{syllable}{tone}.mp3
+// Files are stored in public/audio/pinyin-chart/{syllable}{tone}.mp3
 // Note: syllables with ü are stored with 'v' instead (e.g., nü → nv)
-// In Next.js, these should be accessible at /audio/pinyin/{syllable}{tone}.mp3
+// In Next.js, these should be accessible at /audio/pinyin-chart/{syllable}{tone}.mp3
 function generateToneAudioData(): Record<string, { 1: string | null; 2: string | null; 3: string | null; 4: string | null }> {
   const syllables = getAllSyllables();
   const audioData: Record<string, { 1: string | null; 2: string | null; 3: string | null; 4: string | null }> = {};
@@ -76,10 +76,10 @@ function generateToneAudioData(): Record<string, { 1: string | null; 2: string |
     // Convert ü to v for file paths
     const fileName = syllableToFileName(syllable);
     audioData[syllable] = {
-      1: `/audio/pinyin/${fileName}1.mp3`,
-      2: `/audio/pinyin/${fileName}2.mp3`,
-      3: `/audio/pinyin/${fileName}3.mp3`,
-      4: `/audio/pinyin/${fileName}4.mp3`,
+      1: `/audio/pinyin-chart/${fileName}1.mp3`,
+      2: `/audio/pinyin-chart/${fileName}2.mp3`,
+      3: `/audio/pinyin-chart/${fileName}3.mp3`,
+      4: `/audio/pinyin-chart/${fileName}4.mp3`,
     };
   }
   
