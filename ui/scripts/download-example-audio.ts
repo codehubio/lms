@@ -80,6 +80,14 @@ const examples = [
       { fileName: 'song4.mp3', word: '送 (sòng)' },
     ],
   },
+  {
+    paragraphId: 'pronunciation-u',
+    files: [
+      { fileName: 'wu3.mp3', word: '五 (wǔ)' },
+      { fileName: 'shu1.mp3', word: '书 (shū)' },
+      { fileName: 'lu4.mp3', word: '路 (lù)' },
+    ],
+  },
 ];
 
 // Helper function to download a file

@@ -1,0 +1,216 @@
+{
+  "id": "pronunciation-uv",
+  "title": "How to Pronounce Ü in Chinese",
+  "tags": ["pronunciation"],
+  "translation": {
+    "en": "How to Pronounce Ü in Chinese",
+    "vi": "Cách phát âm Ü trong tiếng Trung",
+    "zh": "如何发音中文的Ü"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Introduction to the Ü Sound (Ü音介绍)",
+          "vi": "Giới thiệu về âm Ü (Ü音介绍)",
+          "zh": "Ü音介绍"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The Chinese **ü** sound (written as **ü** in pinyin, or **u** after j, q, x, y) is a **high front rounded** vowel that is very challenging for English speakers. It combines the **front tongue position** of \"i\" with the **tight lip rounding** of \"u\".\n\n**Key characteristics:**\n- The Chinese **ü** is a **rounded** vowel (lips are tightly rounded)\n- It is a **high front** vowel (tongue is high and front in the mouth)\n- The lips must be **tightly rounded** (like \"u\")\n- The tongue position is **front** (like \"i\")\n- It sounds like saying \"ee\" in \"see\" but with rounded lips\n\n**Common mistake:** Many learners pronounce it like English \"u\" or confuse it with \"u\" (back tongue) or \"i\" (unrounded). The Chinese **ü** requires BOTH tight lip rounding AND front tongue position.\n\n**Example words:**\n- **{{word1}}** (nǚ - woman)\n- **{{word2}}** (lǜ - green)\n- **{{word3}}** (yǔ - rain)",
+          "vi": "Âm **ü** trong tiếng Trung (viết là **ü** trong pinyin, hoặc **u** sau j, q, x, y) là một nguyên âm **cao trước tròn** rất khó đối với người nói tiếng Anh. Nó kết hợp **vị trí lưỡi trước** của \"i\" với **môi tròn chặt** của \"u\".\n\n**Đặc điểm chính:**\n- Âm **ü** trong tiếng Trung là nguyên âm **tròn** (môi được làm tròn chặt)\n- Đây là nguyên âm **cao trước** (lưỡi cao và ở phía trước trong miệng)\n- Môi phải **tròn chặt** (như \"u\")\n- Vị trí lưỡi là **trước** (như \"i\")\n- Nghe giống nói \"ee\" trong \"see\" nhưng với môi tròn\n\n**Lỗi thường gặp:** Nhiều người học phát âm nó giống \"u\" tiếng Anh hoặc nhầm lẫn với \"u\" (lưỡi sau) hoặc \"i\" (không tròn). Âm **ü** tiếng Trung yêu cầu CẢ môi tròn chặt VÀ vị trí lưỡi trước.\n\n**Ví dụ:**\n- **{{word1}}** (nǚ - phụ nữ)\n- **{{word2}}** (lǜ - xanh lá)\n- **{{word3}}** (yǔ - mưa)",
+          "zh": "中文的**ü**音（拼音中写作**ü**，或在j、q、x、y后写作**u**）是前高圆唇元音，对英语母语者来说非常有挑战性。它结合了\"i\"的**前舌位置**和\"u\"的**紧圆嘴唇**。\n\n**主要特点：**\n- 中文的**ü**是**圆唇**元音（嘴唇紧圆）\n- 它是**前高**元音（舌头在口腔中高且靠前）\n- 嘴唇必须**紧圆**（像\"u\"）\n- 舌头位置是**前**（像\"i\"）\n- 听起来像说\"see\"中的\"ee\"但嘴唇圆\n\n**常见错误：**许多学习者把它发成英语\"u\"或与\"u\"（后舌）或\"i\"（不圆唇）混淆。中文的**ü**需要紧圆嘴唇和前舌位置。\n\n**例词：**\n- **{{word1}}**（女）\n- **{{word2}}**（绿）\n- **{{word3}}**（雨）"
+        }
+      },
+      "placeholders": [{
+        "word1": "女",
+        "word2": "绿",
+        "word3": "雨"
+      }],
+      "examples": [
+        {
+          "word": "女",
+          "pinyin": "nǚ",
+          "translation": {
+            "en": "woman",
+            "vi": "phụ nữ",
+            "zh": "女"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-uv/nü3.mp3"
+          }
+        },
+        {
+          "word": "绿",
+          "pinyin": "lǜ",
+          "translation": {
+            "en": "green",
+            "vi": "xanh lá",
+            "zh": "绿"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-uv/lü4.mp3"
+          }
+        },
+        {
+          "word": "雨",
+          "pinyin": "yǔ",
+          "translation": {
+            "en": "rain",
+            "vi": "mưa",
+            "zh": "雨"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-uv/yu3.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Lip Rounding and Tongue Position (嘴唇圆度和舌头位置)",
+          "vi": "Độ tròn môi và vị trí lưỡi (嘴唇圆度和舌头位置)",
+          "zh": "嘴唇圆度和舌头位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The correct **lip rounding** and **tongue position** are both essential for pronouncing **ü** correctly:\n\n**Step-by-step guide:**\n1. **Round your lips tightly** - same as \"u\" (tight circle)\n2. Push your lips forward slightly while keeping them rounded\n3. Raise the **front of your tongue** toward the hard palate (front position, like \"i\")\n4. The tongue should be **high and front** in your mouth (NOT back like \"u\")\n5. Keep your jaw relatively closed\n6. The sound should be clear, rounded, and front\n\n**Visual reference:**\n- Think of it as saying \"ee\" in \"see\" but with tight lip rounding\n- Your lips should form a tight circle (like \"u\")\n- But your tongue should be front (like \"i\"), not back\n- This combination is unique to **ü**\n\n**Practice words:**\n- **{{word1}}** (nǚ - woman)\n- **{{word2}}** (lǜ - green)\n- **{{word3}}** (yǔ - rain)",
+          "vi": "Độ **tròn môi** đúng và **vị trí lưỡi** đều cần thiết để phát âm **ü** chính xác:\n\n**Hướng dẫn từng bước:**\n1. **Làm tròn môi chặt** - giống \"u\" (vòng tròn chặt)\n2. Đẩy môi về phía trước một chút trong khi giữ chúng tròn\n3. Nâng **phần trước của lưỡi** về phía vòm cứng (vị trí trước, như \"i\")\n4. Lưỡi nên **cao và ở phía trước** trong miệng (KHÔNG phải sau như \"u\")\n5. Giữ hàm tương đối đóng\n6. Âm thanh nên rõ ràng, tròn và ở phía trước\n\n**Tham khảo trực quan:**\n- Nghĩ về nó như nói \"ee\" trong \"see\" nhưng với môi tròn chặt\n- Môi của bạn nên tạo thành vòng tròn chặt (như \"u\")\n- Nhưng lưỡi của bạn nên ở phía trước (như \"i\"), không phải sau\n- Sự kết hợp này là duy nhất đối với **ü**\n\n**Từ luyện tập:**\n- **{{word1}}** (nǚ - phụ nữ)\n- **{{word2}}** (lǜ - xanh lá)\n- **{{word3}}** (yǔ - mưa)",
+          "zh": "正确的**嘴唇圆度**和**舌头位置**对于正确发音**ü**都至关重要：\n\n**分步指南：**\n1. **紧圆嘴唇** - 与\"u\"相同（紧的圆圈）\n2. 在保持圆唇的同时稍微向前推嘴唇\n3. 将**舌头前部**向硬腭抬起（前位置，像\"i\"）\n4. 舌头应该在口腔中**高且靠前**（不像\"u\"那样靠后）\n5. 保持下巴相对闭合\n6. 声音应该清晰、圆润且靠前\n\n**视觉参考：**\n- 想象说\"see\"中的\"ee\"但嘴唇紧圆\n- 你的嘴唇应该形成紧的圆圈（像\"u\"）\n- 但你的舌头应该靠前（像\"i\"），不靠后\n- 这种组合是**ü**独有的\n\n**练习词：**\n- **{{word1}}**（女）\n- **{{word2}}**（绿）\n- **{{word3}}**（雨）"
+        }
+      },
+      "placeholders": [{
+        "word1": "女",
+        "word2": "绿",
+        "word3": "雨"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Ü vs U vs I (ü vs u vs i)",
+          "vi": "Ü vs U vs I (ü vs u vs i)",
+          "zh": "Ü vs U vs I (ü vs u vs i)"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding the difference between **ü**, **u**, and **i** is crucial for mastering Chinese vowels:\n\n**Ü (前高圆唇元音) - High Front Rounded:**\n- **Tight lip rounding** - lips form a tight circle\n- **Front tongue position** - tongue is high and front\n- Combination of \"i\" tongue + \"u\" lips\n- Example: **{{word1}}** (nǚ - woman)\n\n**U (后高圆唇元音) - High Back Rounded:**\n- **Tight lip rounding** - lips form a tight circle\n- **Back tongue position** - tongue is high and back\n- Similar to \"oo\" in \"food\" but tighter\n- Example: **{{word2}}** (wǔ - five)\n\n**I (前高不圆唇元音) - High Front Unrounded:**\n- **No lip rounding** - lips are spread\n- **Front tongue position** - tongue is high and front\n- Similar to \"ee\" in \"see\"\n- Example: **{{word3}}** (yī - one)\n\n**Key differences:**\n- **Ü** = Front tongue + Rounded lips\n- **U** = Back tongue + Rounded lips\n- **I** = Front tongue + Unrounded lips\n\n**Test yourself:**\n1. Say **{{word4}}** (nǚ - woman) - feel tongue front, lips tight\n2. Now say **{{word5}}** (wǔ - five) - feel tongue back, lips tight\n3. Now say **{{word6}}** (yī - one) - feel tongue front, lips spread\n4. Notice the different combinations\n\n**Practice:**\n- **{{word1}}** (nǚ) - front tongue, rounded lips\n- **{{word2}}** (wǔ) - back tongue, rounded lips\n- **{{word3}}** (yī) - front tongue, unrounded lips",
+          "vi": "Hiểu sự khác biệt giữa **ü**, **u** và **i** là rất quan trọng để thành thạo nguyên âm tiếng Trung:\n\n**Ü (前高圆唇元音) - Cao trước tròn:**\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt\n- **Vị trí lưỡi trước** - lưỡi cao và ở phía trước\n- Sự kết hợp của lưỡi \"i\" + môi \"u\"\n- Ví dụ: **{{word1}}** (nǚ - phụ nữ)\n\n**U (后高圆唇元音) - Cao sau tròn:**\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt\n- **Vị trí lưỡi sau** - lưỡi cao và ở phía sau\n- Giống \"oo\" trong \"food\" nhưng chặt hơn\n- Ví dụ: **{{word2}}** (wǔ - năm)\n\n**I (前高不圆唇元音) - Cao trước không tròn:**\n- **Không tròn môi** - môi được mở rộng\n- **Vị trí lưỡi trước** - lưỡi cao và ở phía trước\n- Giống \"ee\" trong \"see\"\n- Ví dụ: **{{word3}}** (yī - một)\n\n**Khác biệt chính:**\n- **Ü** = Lưỡi trước + Môi tròn\n- **U** = Lưỡi sau + Môi tròn\n- **I** = Lưỡi trước + Môi không tròn\n\n**Tự kiểm tra:**\n1. Nói **{{word4}}** (nǚ - phụ nữ) - cảm nhận lưỡi trước, môi chặt\n2. Bây giờ nói **{{word5}}** (wǔ - năm) - cảm nhận lưỡi sau, môi chặt\n3. Bây giờ nói **{{word6}}** (yī - một) - cảm nhận lưỡi trước, môi mở rộng\n4. Chú ý các sự kết hợp khác nhau\n\n**Luyện tập:**\n- **{{word1}}** (nǚ) - lưỡi trước, môi tròn\n- **{{word2}}** (wǔ) - lưỡi sau, môi tròn\n- **{{word3}}** (yī) - lưỡi trước, môi không tròn",
+          "zh": "理解**ü**、**u**和**i**之间的区别对于掌握中文元音至关重要：\n\n**Ü (前高圆唇元音) - 前高圆唇：**\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈\n- **前舌位置** - 舌头高且靠前\n- \"i\"舌头 + \"u\"嘴唇的组合\n- 例子：**{{word1}}**（女）\n\n**U (后高圆唇元音) - 后高圆唇：**\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈\n- **后舌位置** - 舌头高且靠后\n- 类似于\"food\"中的\"oo\"但更紧\n- 例子：**{{word2}}**（五）\n\n**I (前高不圆唇元音) - 前高不圆唇：**\n- **不圆唇** - 嘴唇展开\n- **前舌位置** - 舌头高且靠前\n- 类似于\"see\"中的\"ee\"\n- 例子：**{{word3}}**（一）\n\n**主要区别：**\n- **Ü** = 前舌 + 圆唇\n- **U** = 后舌 + 圆唇\n- **I** = 前舌 + 不圆唇\n\n**自我测试：**\n1. 说**{{word4}}**（女） - 感受舌头靠前，嘴唇紧\n2. 现在说**{{word5}}**（五） - 感受舌头靠后，嘴唇紧\n3. 现在说**{{word6}}**（一） - 感受舌头靠前，嘴唇展开\n4. 注意不同的组合\n\n**练习：**\n- **{{word1}}**（女） - 前舌，圆唇\n- **{{word2}}**（五） - 后舌，圆唇\n- **{{word3}}**（一） - 前舌，不圆唇"
+        }
+      },
+      "placeholders": [{
+        "word1": "女",
+        "word2": "五",
+        "word3": "一",
+        "word4": "女",
+        "word5": "五",
+        "word6": "一"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes (常见错误)",
+          "vi": "Lỗi thường gặp (常见错误)",
+          "zh": "常见错误"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are the most common mistakes when pronouncing Chinese **ü**:\n\n**Mistake 1: Using English \"u\" sound**\n- ❌ Pronouncing it like \"u\" in \"cup\" or \"put\" (wrong tongue position)\n- ✅ Should have tight lip rounding AND front tongue position\n- **Fix:** Round lips tightly, raise front of tongue\n\n**Mistake 2: Not rounding lips enough**\n- ❌ Lips are not rounded or only slightly rounded\n- ✅ Lips must be tightly rounded (like \"u\")\n- **Fix:** Practice making a tight circle with your lips\n\n**Mistake 3: Using back tongue position (confusing with \"u\")**\n- ❌ Tongue is back (like \"u\")\n- ✅ Tongue should be front (like \"i\")\n- **Fix:** Raise the front of your tongue toward the hard palate\n\n**Mistake 4: Not rounding lips (confusing with \"i\")**\n- ❌ Lips are spread (like \"i\")\n- ✅ Lips must be rounded (like \"u\")\n- **Fix:** Remember Ü = I tongue + U lips\n\n**Mistake 5: Making it too relaxed**\n- ❌ Sound is too relaxed or unclear\n- ✅ Should be clear, rounded, and front with tension\n- **Fix:** Maintain tight lip rounding AND high front tongue position\n\n**Practice words to avoid mistakes:**\n- **{{word1}}** (nǚ - woman) - front tongue, tight lips\n- **{{word2}}** (lǜ - green) - NOT like \"u\" or \"i\"\n- **{{word3}}** (yǔ - rain) - combination of both",
+          "vi": "Dưới đây là những lỗi phổ biến nhất khi phát âm **ü** tiếng Trung:\n\n**Lỗi 1: Dùng âm \"u\" tiếng Anh**\n- ❌ Phát âm giống \"u\" trong \"cup\" hoặc \"put\" (vị trí lưỡi sai)\n- ✅ Nên có môi tròn chặt VÀ vị trí lưỡi trước\n- **Sửa:** Làm tròn môi chặt, nâng phần trước của lưỡi\n\n**Lỗi 2: Không làm tròn môi đủ**\n- ❌ Môi không tròn hoặc chỉ hơi tròn\n- ✅ Môi phải tròn chặt (như \"u\")\n- **Sửa:** Luyện tập tạo vòng tròn chặt với môi của bạn\n\n**Lỗi 3: Dùng vị trí lưỡi sau (nhầm lẫn với \"u\")**\n- ❌ Lưỡi ở phía sau (như \"u\")\n- ✅ Lưỡi nên ở phía trước (như \"i\")\n- **Sửa:** Nâng phần trước của lưỡi về phía vòm cứng\n\n**Lỗi 4: Không tròn môi (nhầm lẫn với \"i\")**\n- ❌ Môi được mở rộng (như \"i\")\n- ✅ Môi phải tròn (như \"u\")\n- **Sửa:** Nhớ Ü = Lưỡi I + Môi U\n\n**Lỗi 5: Làm cho nó quá thư giãn**\n- ❌ Âm thanh quá thư giãn hoặc không rõ ràng\n- ✅ Nên rõ ràng, tròn và ở phía trước với độ căng\n- **Sửa:** Duy trì môi tròn chặt VÀ vị trí lưỡi cao trước\n\n**Từ luyện tập để tránh lỗi:**\n- **{{word1}}** (nǚ - phụ nữ) - lưỡi trước, môi chặt\n- **{{word2}}** (lǜ - xanh lá) - KHÔNG giống \"u\" hoặc \"i\"\n- **{{word3}}** (yǔ - mưa) - sự kết hợp của cả hai",
+          "zh": "以下是发音中文**ü**时最常见的错误：\n\n**错误1：使用英语\"u\"音**\n- ❌ 发成像\"cup\"或\"put\"中的\"u\"（舌头位置错误）\n- ✅ 应该有紧圆嘴唇和前舌位置\n- **修正：**紧圆嘴唇，抬起舌头前部\n\n**错误2：嘴唇不够圆**\n- ❌ 嘴唇不圆或只是稍微圆\n- ✅ 嘴唇必须紧圆（像\"u\"）\n- **修正：**练习用嘴唇形成紧的圆圈\n\n**错误3：使用后舌位置（与\"u\"混淆）**\n- ❌ 舌头靠后（像\"u\"）\n- ✅ 舌头应该靠前（像\"i\"）\n- **修正：**将舌头前部向硬腭抬起\n\n**错误4：不圆唇（与\"i\"混淆）**\n- ❌ 嘴唇展开（像\"i\"）\n- ✅ 嘴唇必须圆（像\"u\"）\n- **修正：**记住Ü = I舌头 + U嘴唇\n\n**错误5：发得太放松**\n- ❌ 声音太放松或不清晰\n- ✅ 应该清晰、圆润且靠前，有紧张感\n- **修正：**保持紧圆嘴唇和前高舌头位置\n\n**避免错误的练习词：**\n- **{{word1}}**（女） - 前舌，紧唇\n- **{{word2}}**（绿） - 不像\"u\"或\"i\"\n- **{{word3}}**（雨） - 两者的组合"
+        }
+      },
+      "placeholders": [{
+        "word1": "女",
+        "word2": "绿",
+        "word3": "雨"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Practice Exercises (练习)",
+          "vi": "Bài tập luyện tập (练习)",
+          "zh": "练习"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are effective practice exercises to master the **ü** sound:\n\n**Exercise 1: Minimal pairs**\nPractice distinguishing **ü** from similar sounds:\n- **{{pair1}}** (nǚ - woman) vs **{{pair2}}** (wǔ - five)\n- **{{pair3}}** (lǜ - green) vs **{{pair4}}** (lù - road)\n- **{{pair5}}** (yǔ - rain) vs **{{pair6}}** (yī - one)\n\n**Exercise 2: Two-step approach**\n1. First, say \"i\" (yī - one) - feel front tongue, spread lips\n2. Keep the front tongue position\n3. Now round your lips tightly (like \"u\")\n4. This gives you **ü** - front tongue + rounded lips\n5. Repeat 10 times: i→ü, i→ü, i→ü\n6. Now add consonants: nü-lü-yü-jü-qü-xü\n\n**Exercise 3: Word practice**\nPractice these common words:\n- **{{word1}}** (nǚ - woman)\n- **{{word2}}** (lǜ - green)\n- **{{word3}}** (yǔ - rain)\n- **{{word4}}** (nǚrén - woman/person)\n- **{{word5}}** (lǜsè - green color)\n\n**Exercise 4: Sentence practice**\n- 这是**{{word1}}**。 (This is a woman.)\n- 我喜欢**{{word2}}**。 (I like green.)",
+          "vi": "Dưới đây là các bài tập luyện tập hiệu quả để thành thạo âm **ü**:\n\n**Bài tập 1: Cặp tối thiểu**\nLuyện tập phân biệt **ü** với các âm tương tự:\n- **{{pair1}}** (nǚ - phụ nữ) vs **{{pair2}}** (wǔ - năm)\n- **{{pair3}}** (lǜ - xanh lá) vs **{{pair4}}** (lù - đường)\n- **{{pair5}}** (yǔ - mưa) vs **{{pair6}}** (yī - một)\n\n**Bài tập 2: Cách tiếp cận hai bước**\n1. Đầu tiên, nói \"i\" (yī - một) - cảm nhận lưỡi trước, môi mở rộng\n2. Giữ vị trí lưỡi trước\n3. Bây giờ làm tròn môi chặt (như \"u\")\n4. Điều này cho bạn **ü** - lưỡi trước + môi tròn\n5. Lặp lại 10 lần: i→ü, i→ü, i→ü\n6. Bây giờ thêm phụ âm: nü-lü-yü-jü-qü-xü\n\n**Bài tập 3: Luyện từ**\nLuyện tập các từ phổ biến:\n- **{{word1}}** (nǚ - phụ nữ)\n- **{{word2}}** (lǜ - xanh lá)\n- **{{word3}}** (yǔ - mưa)\n- **{{word4}}** (nǚrén - phụ nữ/người)\n- **{{word5}}** (lǜsè - màu xanh lá)\n\n**Bài tập 4: Luyện câu**\n- 这是**{{word1}}**。 (Đây là phụ nữ.)\n- 我喜欢**{{word2}}**。 (Tôi thích màu xanh lá.)",
+          "zh": "以下是一些有效的练习来掌握**ü**音：\n\n**练习1：最小对立体**\n练习区分**ü**和相似音：\n- **{{pair1}}**（女） vs **{{pair2}}**（五）\n- **{{pair3}}**（绿） vs **{{pair4}}**（路）\n- **{{pair5}}**（雨） vs **{{pair6}}**（一）\n\n**练习2：两步方法**\n1. 首先，说\"i\"（一） - 感受前舌，展开嘴唇\n2. 保持前舌位置\n3. 现在紧圆嘴唇（像\"u\"）\n4. 这给你**ü** - 前舌 + 圆唇\n5. 重复10次：i→ü, i→ü, i→ü\n6. 现在添加辅音：nü-lü-yü-jü-qü-xü\n\n**练习3：单词练习**\n练习这些常用词：\n- **{{word1}}**（女）\n- **{{word2}}**（绿）\n- **{{word3}}**（雨）\n- **{{word4}}**（女人）\n- **{{word5}}**（绿色）\n\n**练习4：句子练习**\n- 这是**{{word1}}**。\n- 我喜欢**{{word2}}**。"
+        }
+      },
+      "placeholders": [{
+        "pair1": "女",
+        "pair2": "五",
+        "pair3": "绿",
+        "pair4": "路",
+        "pair5": "雨",
+        "pair6": "一",
+        "word1": "女",
+        "word2": "绿",
+        "word3": "雨",
+        "word4": "女人",
+        "word5": "绿色"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Comparison with Similar Sounds (与相似音的比较)",
+          "vi": "So sánh với các âm tương tự (与相似音的比较)",
+          "zh": "与相似音的比较"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding how **ü** differs from similar sounds helps avoid confusion:\n\n**Ü vs U (ü vs u):**\n- **Ü** ({{word1}} - nǚ): Front tongue position (tongue high and front)\n- **U** ({{word2}} - wǔ): Back tongue position (tongue high and back)\n- **Key difference:** Ü is front, U is back (both have tight lip rounding)\n\n**Ü vs I (ü vs i):**\n- **Ü** ({{word3}} - lǜ): Rounded lips (lips form tight circle)\n- **I** ({{word4}} - lì): Unrounded lips (lips are spread)\n- **Key difference:** Ü has rounded lips, I has unrounded lips (both have front tongue)\n\n**Ü vs English \"u\" (ü vs u):**\n- **Ü** ({{word5}} - yǔ): Front tongue, tight lip rounding\n- **English \"u\"** (put): Back tongue, less tight lip rounding\n- **Key difference:** Ü requires front tongue position (like \"i\") with tight lip rounding\n\n**Practice distinguishing:**\n- **{{word1}}** (nǚ) vs **{{word2}}** (wǔ) vs **{{word4}}** (lì) vs English \"put\"",
+          "vi": "Hiểu cách **ü** khác với các âm tương tự giúp tránh nhầm lẫn:\n\n**Ü vs U (ü vs u):**\n- **Ü** ({{word1}} - nǚ): Vị trí lưỡi trước (lưỡi cao và ở phía trước)\n- **U** ({{word2}} - wǔ): Vị trí lưỡi sau (lưỡi cao và ở phía sau)\n- **Khác biệt chính:** Ü là trước, U là sau (cả hai đều có môi tròn chặt)\n\n**Ü vs I (ü vs i):**\n- **Ü** ({{word3}} - lǜ): Môi tròn (môi tạo thành vòng tròn chặt)\n- **I** ({{word4}} - lì): Môi không tròn (môi được mở rộng)\n- **Khác biệt chính:** Ü có môi tròn, I có môi không tròn (cả hai đều có lưỡi trước)\n\n**Ü vs \"u\" tiếng Anh (ü vs u):**\n- **Ü** ({{word5}} - yǔ): Lưỡi trước, môi tròn chặt\n- **\"u\" tiếng Anh** (put): Lưỡi sau, môi tròn ít chặt hơn\n- **Khác biệt chính:** Ü yêu cầu vị trí lưỡi trước (như \"i\") với môi tròn chặt\n\n**Luyện tập phân biệt:**\n- **{{word1}}** (nǚ) vs **{{word2}}** (wǔ) vs **{{word4}}** (lì) vs \"put\" tiếng Anh",
+          "zh": "理解**ü**与相似音的区别有助于避免混淆：\n\n**Ü vs U (ü vs u)：**\n- **Ü**（{{word1}} - 女）：前舌位置（舌头高且靠前）\n- **U**（{{word2}} - 五）：后舌位置（舌头高且靠后）\n- **主要区别：**Ü是前，U是后（两者都有紧圆嘴唇）\n\n**Ü vs I (ü vs i)：**\n- **Ü**（{{word3}} - 绿）：圆唇（嘴唇形成紧的圆圈）\n- **I**（{{word4}} - 力）：不圆唇（嘴唇展开）\n- **主要区别：**Ü有圆唇，I有不圆唇（两者都有前舌）\n\n**Ü vs 英语\"u\" (ü vs u)：**\n- **Ü**（{{word5}} - 雨）：前舌，紧圆嘴唇\n- **英语\"u\"**（put）：后舌，较不紧的圆唇\n- **主要区别：**Ü需要前舌位置（像\"i\"）带紧圆嘴唇\n\n**练习区分：**\n- **{{word1}}**（女） vs **{{word2}}**（五） vs **{{word4}}**（力） vs 英语\"put\""
+        }
+      },
+      "placeholders": [{
+        "word1": "女",
+        "word2": "五",
+        "word3": "绿",
+        "word4": "力",
+        "word5": "雨"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tips for Mastery (掌握技巧)",
+          "vi": "Mẹo để thành thạo (掌握技巧)",
+          "zh": "掌握技巧"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are expert tips to master the **ü** sound:\n\n**Tip 1: Two-step approach**\n- Start by saying \"i\" (yī - one) - feel the front tongue position\n- Keep the front tongue position\n- Now round your lips tightly (like \"u\")\n- This combination gives you **ü**\n- Practice: i→ü, i→ü, i→ü\n\n**Tip 2: Use a mirror**\n- Watch your lip shape in a mirror\n- Ensure lips form a tight circle (like \"u\")\n- But feel your tongue at the front (like \"i\")\n- This visual and physical feedback helps\n\n**Tip 3: Compare with \"i\" and \"u\"**\n- Say **{{word1}}** (yī - one) - front tongue, spread lips\n- Now say **{{word2}}** (wǔ - five) - back tongue, rounded lips\n- Now combine: front tongue + rounded lips = **{{word3}}** (nǚ - woman)\n- This contrast helps you feel the difference\n\n**Tip 4: Practice daily**\n- Spend 5-10 minutes daily on **ü** sound practice\n- Focus on BOTH lip rounding AND front tongue position\n- Use words like **{{word4}}** (nǚ), **{{word5}}** (lǜ), **{{word6}}** (yǔ)\n\n**Tip 5: Start slow, then speed up**\n- Begin with slow, exaggerated lip rounding and front tongue position\n- Gradually increase speed while maintaining both components\n- Practice with **{{word7}}** (nǚrén), **{{word8}}** (lǜsè), **{{word9}}** (yǔtiān)\n\n**Remember:** Ü = I tongue position + U lip rounding. Master both components separately, then combine them!",
+          "vi": "Dưới đây là các mẹo chuyên gia để thành thạo âm **ü**:\n\n**Mẹo 1: Cách tiếp cận hai bước**\n- Bắt đầu bằng cách nói \"i\" (yī - một) - cảm nhận vị trí lưỡi trước\n- Giữ vị trí lưỡi trước\n- Bây giờ làm tròn môi chặt (như \"u\")\n- Sự kết hợp này cho bạn **ü**\n- Luyện tập: i→ü, i→ü, i→ü\n\n**Mẹo 2: Sử dụng gương**\n- Xem hình dạng môi của bạn trong gương\n- Đảm bảo môi tạo thành vòng tròn chặt (như \"u\")\n- Nhưng cảm nhận lưỡi của bạn ở phía trước (như \"i\")\n- Phản hồi trực quan và vật lý này giúp ích\n\n**Mẹo 3: So sánh với \"i\" và \"u\"**\n- Nói **{{word1}}** (yī - một) - lưỡi trước, môi mở rộng\n- Bây giờ nói **{{word2}}** (wǔ - năm) - lưỡi sau, môi tròn\n- Bây giờ kết hợp: lưỡi trước + môi tròn = **{{word3}}** (nǚ - phụ nữ)\n- Sự tương phản này giúp bạn cảm nhận sự khác biệt\n\n**Mẹo 4: Luyện tập hàng ngày**\n- Dành 5-10 phút mỗi ngày để luyện âm **ü**\n- Tập trung vào CẢ môi tròn VÀ vị trí lưỡi trước\n- Sử dụng các từ như **{{word4}}** (nǚ), **{{word5}}** (lǜ), **{{word6}}** (yǔ)\n\n**Mẹo 5: Bắt đầu chậm, sau đó tăng tốc**\n- Bắt đầu với môi tròn và vị trí lưỡi trước chậm, phóng đại\n- Dần dần tăng tốc độ trong khi duy trì cả hai thành phần\n- Luyện tập với **{{word7}}** (nǚrén), **{{word8}}** (lǜsè), **{{word9}}** (yǔtiān)\n\n**Nhớ:** Ü = Vị trí lưỡi I + Môi tròn U. Thành thạo cả hai thành phần riêng biệt, sau đó kết hợp chúng!",
+          "zh": "以下是一些掌握**ü**音的专家技巧：\n\n**技巧1：两步方法**\n- 首先说\"i\"（一） - 感受前舌位置\n- 保持前舌位置\n- 现在紧圆嘴唇（像\"u\"）\n- 这种组合给你**ü**\n- 练习：i→ü, i→ü, i→ü\n\n**技巧2：使用镜子**\n- 在镜子中观察你的嘴唇形状\n- 确保嘴唇形成紧的圆圈（像\"u\"）\n- 但感受你的舌头在前（像\"i\"）\n- 这种视觉和身体反馈有帮助\n\n**技巧3：与\"i\"和\"u\"比较**\n- 说**{{word1}}**（一） - 前舌，展开嘴唇\n- 现在说**{{word2}}**（五） - 后舌，圆唇\n- 现在组合：前舌 + 圆唇 = **{{word3}}**（女）\n- 这种对比帮助你感受差异\n\n**技巧4：每天练习**\n- 每天花5-10分钟练习**ü**音\n- 专注于圆唇和前舌位置\n- 使用像**{{word4}}**（女）、**{{word5}}**（绿）、**{{word6}}**（雨）这样的词\n\n**技巧5：从慢开始，然后加速**\n- 从缓慢、夸张的圆唇和前舌位置开始\n- 在保持两个组成部分的同时逐渐提高速度\n- 用**{{word7}}**（女人）、**{{word8}}**（绿色）、**{{word9}}**（雨天）练习\n\n**记住：**Ü = I舌头位置 + U圆唇。分别掌握两个组成部分，然后组合它们！"
+        }
+      },
+      "placeholders": [{
+        "word1": "一",
+        "word2": "五",
+        "word3": "女",
+        "word4": "女",
+        "word5": "绿",
+        "word6": "雨",
+        "word7": "女人",
+        "word8": "绿色",
+        "word9": "雨天"
+      }]
+    }
+  ]
+}
+
