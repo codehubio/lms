@@ -1,11 +1,11 @@
 {
   "id": "pronunciation-u",
-  "title": "How to Pronounce U in Chinese",
+  "title": "How to Pronounce U and Ü in Chinese",
   "tags": ["pronunciation"],
   "translation": {
-    "en": "How to Pronounce U in Chinese",
-    "vi": "Cách phát âm U trong tiếng Trung",
-    "zh": "如何发音中文的U"
+    "en": "How to Pronounce U and Ü in Chinese",
+    "vi": "Cách phát âm U và Ü trong tiếng Trung",
+    "zh": "如何发音中文的U和Ü"
   },
   "data": [{
       "title": {
@@ -63,6 +63,42 @@
           "audio": {
             "path": "/audio/examples/pronunciation-u/lu4.mp3"
           }
+        },
+        {
+          "word": "女",
+          "pinyin": "nǚ",
+          "translation": {
+            "en": "woman",
+            "vi": "phụ nữ",
+            "zh": "女"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-u/nv3.mp3"
+          }
+        },
+        {
+          "word": "绿",
+          "pinyin": "lǜ",
+          "translation": {
+            "en": "green",
+            "vi": "xanh lá",
+            "zh": "绿"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-u/lv4.mp3"
+          }
+        },
+        {
+          "word": "雨",
+          "pinyin": "yǔ",
+          "translation": {
+            "en": "rain",
+            "vi": "mưa",
+            "zh": "雨"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-u/yu3.mp3"
+          }
         }
       ]
     },
@@ -90,25 +126,73 @@
     {
       "title": {
         "translation": {
-          "en": "U vs Ü (u vs ü)",
-          "vi": "U vs Ü (u vs ü)",
-          "zh": "U vs Ü (u vs ü)"
+          "en": "U and Ü with Different Consonants (U和Ü与不同声母的组合)",
+          "vi": "U và Ü với các phụ âm khác nhau (U和Ü与不同声母的组合)",
+          "zh": "U和Ü与不同声母的组合"
         }
       },
       "body": {
         "translation": {
-          "en": "Understanding the difference between **u** and **ü** is crucial for mastering Chinese vowels:\n\n**U (后高圆唇元音) - High Back Rounded:**\n- **Tight lip rounding** - lips form a tight circle\n- **Back tongue position** - tongue is high and back\n- Similar to \"oo\" in English \"food\" but tighter\n- Example: **{{word1}}** (wǔ - five)\n\n**Ü (前高圆唇元音) - High Front Rounded:**\n- **Tight lip rounding** - lips also form a tight circle\n- **Front tongue position** - tongue is high and front\n- Similar to \"ee\" in \"see\" but with rounded lips\n- Example: **{{word2}}** (nǚ - woman)\n\n**Key difference:** U has back tongue position, Ü has front tongue position (both have tight lip rounding)\n\n**Test yourself:**\n1. Say **{{word3}}** (wǔ - five) - feel tongue back, lips tight\n2. Now say **{{word4}}** (nǚ - woman) - feel tongue front, lips tight\n3. Notice the different tongue positions\n\n**Practice:**\n- **{{word5}}** (shū - book) - back tongue, tight lips\n- **{{word6}}** (lǜ - green) - front tongue, tight lips",
-          "vi": "Hiểu sự khác biệt giữa **u** và **ü** là rất quan trọng để thành thạo nguyên âm tiếng Trung:\n\n**U (后高圆唇元音) - Cao sau tròn:**\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt\n- **Vị trí lưỡi sau** - lưỡi cao và ở phía sau\n- Giống \"oo\" trong tiếng Anh \"food\" nhưng chặt hơn\n- Ví dụ: **{{word1}}** (wǔ - năm)\n\n**Ü (前高圆唇元音) - Cao trước tròn:**\n- **Môi tròn chặt** - môi cũng tạo thành vòng tròn chặt\n- **Vị trí lưỡi trước** - lưỡi cao và ở phía trước\n- Giống \"ee\" trong \"see\" nhưng với môi tròn\n- Ví dụ: **{{word2}}** (nǚ - phụ nữ)\n\n**Khác biệt chính:** U có vị trí lưỡi sau, Ü có vị trí lưỡi trước (cả hai đều có môi tròn chặt)\n\n**Tự kiểm tra:**\n1. Nói **{{word3}}** (wǔ - năm) - cảm nhận lưỡi sau, môi chặt\n2. Bây giờ nói **{{word4}}** (nǚ - phụ nữ) - cảm nhận lưỡi trước, môi chặt\n3. Chú ý các vị trí lưỡi khác nhau\n\n**Luyện tập:**\n- **{{word5}}** (shū - sách) - lưỡi sau, môi chặt\n- **{{word6}}** (lǜ - xanh lá) - lưỡi trước, môi chặt",
-          "zh": "理解**u**和**ü**之间的区别对于掌握中文元音至关重要：\n\n**U (后高圆唇元音) - 后高圆唇：**\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈\n- **后舌位置** - 舌头高且靠后\n- 类似于英语\"food\"中的\"oo\"但更紧\n- 例子：**{{word1}}**（五）\n\n**Ü (前高圆唇元音) - 前高圆唇：**\n- **紧圆嘴唇** - 嘴唇也形成紧的圆圈\n- **前舌位置** - 舌头高且靠前\n- 类似于\"see\"中的\"ee\"但嘴唇圆\n- 例子：**{{word2}}**（女）\n\n**主要区别：**U是后舌位置，Ü是前舌位置（两者都有紧圆嘴唇）\n\n**自我测试：**\n1. 说**{{word3}}**（五） - 感受舌头靠后，嘴唇紧\n2. 现在说**{{word4}}**（女） - 感受舌头靠前，嘴唇紧\n3. 注意不同的舌头位置\n\n**练习：**\n- **{{word5}}**（书） - 后舌，紧唇\n- **{{word6}}**（绿） - 前舌，紧唇"
+          "en": "The pronunciation of **u** and **ü** depends on the preceding consonant. Understanding these patterns is crucial:\n\n**U (后高圆唇元音) - High Back Rounded after Most Consonants:**\n- When **u** follows most consonants (w, sh, l, d, t, n, m, b, p, f, g, k, h, zh, ch, r, z, c, s), it is pronounced as **high back rounded** vowel.\n- **Tight lip rounding** - lips form a tight circle\n- **Back tongue position** - tongue is high and back\n- Similar to \"oo\" in English \"food\" but tighter\n- **Examples:**\n  - **{{word1}}** (wǔ - five): After 'w', back tongue, tight lips\n  - **{{word2}}** (shū - book): After 'sh', back tongue, tight lips\n  - **{{word3}}** (lù - road): After 'l', back tongue, tight lips\n\n**Ü (前高圆唇元音) - High Front Rounded after j, q, x, y, n, l:**\n- When **u** (written as **ü** in pinyin, or **u** after j, q, x, y) follows **j, q, x, y, n, or l**, it is pronounced as **high front rounded** vowel.\n- **Tight lip rounding** - lips form a tight circle (same as \"u\")\n- **Front tongue position** - tongue is high and front (different from \"u\")\n- Similar to \"ee\" in \"see\" but with rounded lips\n- **Examples:**\n  - **{{word4}}** (nǚ - woman): After 'n', front tongue, tight lips\n  - **{{word5}}** (lǜ - green): After 'l', front tongue, tight lips\n  - **{{word6}}** (yǔ - rain): After 'y', front tongue, tight lips\n  - **{{word7}}** (jū - residence): After 'j', front tongue, tight lips (written as 'ju' in pinyin)\n  - **{{word8}}** (qù - to go): After 'q', front tongue, tight lips (written as 'qu' in pinyin)\n  - **{{word9}}** (xū - need): After 'x', front tongue, tight lips (written as 'xu' in pinyin)\n\n**Key Rule Summary:**\n- **Most consonants + u**: High back rounded (back tongue, tight lips) - like \"oo\" in \"food\"\n- **j, q, x, y, n, l + u/ü**: High front rounded (front tongue, tight lips) - like \"ee\" in \"see\" with rounded lips\n\n**Important Note:** After j, q, x, y, the \"ü\" is written as \"u\" in pinyin (e.g., ju, qu, xu, yu), but it's still pronounced as \"ü\" (front tongue + rounded lips).\n\n**Practice distinguishing these different 'u' sounds!**",
+          "vi": "Cách phát âm **u** và **ü** phụ thuộc vào phụ âm đứng trước. Hiểu các mẫu này là rất quan trọng:\n\n**U (后高圆唇元音) - Cao sau tròn sau hầu hết các phụ âm:**\n- Khi **u** theo sau hầu hết các phụ âm (w, sh, l, d, t, n, m, b, p, f, g, k, h, zh, ch, r, z, c, s), nó được phát âm như nguyên âm **cao sau tròn**.\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt\n- **Vị trí lưỡi sau** - lưỡi cao và ở phía sau\n- Giống \"oo\" trong tiếng Anh \"food\" nhưng chặt hơn\n- **Ví dụ:**\n  - **{{word1}}** (wǔ - năm): Sau 'w', lưỡi sau, môi chặt\n  - **{{word2}}** (shū - sách): Sau 'sh', lưỡi sau, môi chặt\n  - **{{word3}}** (lù - đường): Sau 'l', lưỡi sau, môi chặt\n\n**Ü (前高圆唇元音) - Cao trước tròn sau j, q, x, y, n, l:**\n- Khi **u** (viết là **ü** trong pinyin, hoặc **u** sau j, q, x, y) theo sau **j, q, x, y, n, hoặc l**, nó được phát âm như nguyên âm **cao trước tròn**.\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt (giống \"u\")\n- **Vị trí lưỡi trước** - lưỡi cao và ở phía trước (khác với \"u\")\n- Giống \"ee\" trong \"see\" nhưng với môi tròn\n- **Ví dụ:**\n  - **{{word4}}** (nǚ - phụ nữ): Sau 'n', lưỡi trước, môi chặt\n  - **{{word5}}** (lǜ - xanh lá): Sau 'l', lưỡi trước, môi chặt\n  - **{{word6}}** (yǔ - mưa): Sau 'y', lưỡi trước, môi chặt\n  - **{{word7}}** (jū - nơi ở): Sau 'j', lưỡi trước, môi chặt (viết là 'ju' trong pinyin)\n  - **{{word8}}** (qù - đi): Sau 'q', lưỡi trước, môi chặt (viết là 'qu' trong pinyin)\n  - **{{word9}}** (xū - cần): Sau 'x', lưỡi trước, môi chặt (viết là 'xu' trong pinyin)\n\n**Tóm tắt quy tắc chính:**\n- **Hầu hết các phụ âm + u**: Cao sau tròn (lưỡi sau, môi chặt) - như \"oo\" trong \"food\"\n- **j, q, x, y, n, l + u/ü**: Cao trước tròn (lưỡi trước, môi chặt) - như \"ee\" trong \"see\" với môi tròn\n\n**Lưu ý quan trọng:** Sau j, q, x, y, \"ü\" được viết là \"u\" trong pinyin (ví dụ: ju, qu, xu, yu), nhưng vẫn được phát âm như \"ü\" (lưỡi trước + môi tròn).\n\n**Luyện tập phân biệt các âm 'u' khác nhau này!**",
+          "zh": "**u**和**ü**的发音取决于前面的声母。理解这些模式至关重要：\n\n**U (后高圆唇元音) - 在大多数声母后：**\n- 当**u**跟在大多数声母后（w, sh, l, d, t, n, m, b, p, f, g, k, h, zh, ch, r, z, c, s）时，它发音为**后高圆唇**元音。\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈\n- **后舌位置** - 舌头高且靠后\n- 类似于英语\"food\"中的\"oo\"但更紧\n- **例词：**\n  - **{{word1}}**（五）：在'w'后，后舌，紧唇\n  - **{{word2}}**（书）：在'sh'后，后舌，紧唇\n  - **{{word3}}**（路）：在'l'后，后舌，紧唇\n\n**Ü (前高圆唇元音) - 在j, q, x, y, n, l后：**\n- 当**u**（在拼音中写作**ü**，或在j, q, x, y后写作**u**）跟在**j, q, x, y, n, 或 l**后时，它发音为**前高圆唇**元音。\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈（与\"u\"相同）\n- **前舌位置** - 舌头高且靠前（与\"u\"不同）\n- 类似于\"see\"中的\"ee\"但嘴唇圆\n- **例词：**\n  - **{{word4}}**（女）：在'n'后，前舌，紧唇\n  - **{{word5}}**（绿）：在'l'后，前舌，紧唇\n  - **{{word6}}**（雨）：在'y'后，前舌，紧唇\n  - **{{word7}}**（居）：在'j'后，前舌，紧唇（拼音中写作'ju'）\n  - **{{word8}}**（去）：在'q'后，前舌，紧唇（拼音中写作'qu'）\n  - **{{word9}}**（需）：在'x'后，前舌，紧唇（拼音中写作'xu'）\n\n**关键规则总结：**\n- **大多数声母 + u**：后高圆唇（后舌，紧唇） - 像\"food\"中的\"oo\"\n- **j, q, x, y, n, l + u/ü**：前高圆唇（前舌，紧唇） - 像\"see\"中的\"ee\"但嘴唇圆\n\n**重要提示：**在j, q, x, y后，\"ü\"在拼音中写作\"u\"（例如：ju, qu, xu, yu），但仍发音为\"ü\"（前舌 + 圆唇）。\n\n**练习区分这些不同的'u'音！**"
+        }
+      },
+      "placeholders": [{
+        "word1": "五",
+        "word2": "书",
+        "word3": "路",
+        "word4": "女",
+        "word5": "绿",
+        "word6": "雨",
+        "word7": "居",
+        "word8": "去",
+        "word9": "需"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Ü Lip Rounding and Tongue Position (Ü的嘴唇圆度和舌头位置)",
+          "vi": "Độ tròn môi và vị trí lưỡi của Ü (Ü的嘴唇圆度和舌头位置)",
+          "zh": "Ü的嘴唇圆度和舌头位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The correct **lip rounding** and **tongue position** for **ü** are different from **u**. Both components are essential:\n\n**Step-by-step guide for Ü:**\n1. **Round your lips tightly** - same as \"u\" (tight circle)\n2. Push your lips forward slightly while keeping them rounded\n3. Raise the **front of your tongue** toward the hard palate (front position, like \"i\")\n4. The tongue should be **high and front** in your mouth (NOT back like \"u\")\n5. Keep your jaw relatively closed\n6. The sound should be clear, rounded, and front\n\n**Visual reference:**\n- Think of it as saying \"ee\" in \"see\" but with tight lip rounding\n- Your lips should form a tight circle (like \"u\")\n- But your tongue should be front (like \"i\"), not back\n- This combination is unique to **ü**\n\n**Key difference from U:**\n- **U**: Back tongue + Rounded lips\n- **Ü**: Front tongue + Rounded lips\n\n**Practice words:**\n- **{{word1}}** (nǚ - woman)\n- **{{word2}}** (lǜ - green)\n- **{{word3}}** (yǔ - rain)",
+          "vi": "Độ **tròn môi** đúng và **vị trí lưỡi** cho **ü** khác với **u**. Cả hai thành phần đều cần thiết:\n\n**Hướng dẫn từng bước cho Ü:**\n1. **Làm tròn môi chặt** - giống \"u\" (vòng tròn chặt)\n2. Đẩy môi về phía trước một chút trong khi giữ chúng tròn\n3. Nâng **phần trước của lưỡi** về phía vòm cứng (vị trí trước, như \"i\")\n4. Lưỡi nên **cao và ở phía trước** trong miệng (KHÔNG phải sau như \"u\")\n5. Giữ hàm tương đối đóng\n6. Âm thanh nên rõ ràng, tròn và ở phía trước\n\n**Tham khảo trực quan:**\n- Nghĩ về nó như nói \"ee\" trong \"see\" nhưng với môi tròn chặt\n- Môi của bạn nên tạo thành vòng tròn chặt (như \"u\")\n- Nhưng lưỡi của bạn nên ở phía trước (như \"i\"), không phải sau\n- Sự kết hợp này là duy nhất đối với **ü**\n\n**Khác biệt chính với U:**\n- **U**: Lưỡi sau + Môi tròn\n- **Ü**: Lưỡi trước + Môi tròn\n\n**Từ luyện tập:**\n- **{{word1}}** (nǚ - phụ nữ)\n- **{{word2}}** (lǜ - xanh lá)\n- **{{word3}}** (yǔ - mưa)",
+          "zh": "**ü**的正确**嘴唇圆度**和**舌头位置**与**u**不同。两个组成部分都至关重要：\n\n**Ü的分步指南：**\n1. **紧圆嘴唇** - 与\"u\"相同（紧的圆圈）\n2. 在保持圆唇的同时稍微向前推嘴唇\n3. 将**舌头前部**向硬腭抬起（前位置，像\"i\"）\n4. 舌头应该在口腔中**高且靠前**（不像\"u\"那样靠后）\n5. 保持下巴相对闭合\n6. 声音应该清晰、圆润且靠前\n\n**视觉参考：**\n- 想象说\"see\"中的\"ee\"但嘴唇紧圆\n- 你的嘴唇应该形成紧的圆圈（像\"u\"）\n- 但你的舌头应该靠前（像\"i\"），不靠后\n- 这种组合是**ü**独有的\n\n**与U的主要区别：**\n- **U**：后舌 + 圆唇\n- **Ü**：前舌 + 圆唇\n\n**练习词：**\n- **{{word1}}**（女）\n- **{{word2}}**（绿）\n- **{{word3}}**（雨）"
+        }
+      },
+      "placeholders": [{
+        "word1": "女",
+        "word2": "绿",
+        "word3": "雨"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "U vs Ü vs I (u vs ü vs i)",
+          "vi": "U vs Ü vs I (u vs ü vs i)",
+          "zh": "U vs Ü vs I (u vs ü vs i)"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding the difference between **u**, **ü**, and **i** is crucial for mastering Chinese vowels:\n\n**U (后高圆唇元音) - High Back Rounded:**\n- **Tight lip rounding** - lips form a tight circle\n- **Back tongue position** - tongue is high and back\n- Similar to \"oo\" in \"food\" but tighter\n- Example: **{{word1}}** (wǔ - five)\n\n**Ü (前高圆唇元音) - High Front Rounded:**\n- **Tight lip rounding** - lips form a tight circle\n- **Front tongue position** - tongue is high and front (same as \"i\")\n- Similar to \"ee\" but with rounded lips\n- Example: **{{word2}}** (nǚ - woman)\n\n**I (前高不圆唇元音) - High Front Unrounded:**\n- **No lip rounding** - lips are spread\n- **Front tongue position** - tongue is high and front\n- Similar to \"ee\" in \"see\"\n- Example: **{{word3}}** (yī - one)\n\n**Key differences:**\n- **U** = Back tongue + Rounded lips\n- **Ü** = Front tongue + Rounded lips\n- **I** = Front tongue + Unrounded lips\n\n**Test yourself:**\n1. Say **{{word4}}** (wǔ - five) - feel tongue back, lips tight\n2. Now say **{{word5}}** (nǚ - woman) - feel tongue front, lips tight\n3. Now say **{{word6}}** (yī - one) - feel tongue front, lips spread\n4. Notice the different combinations\n\n**Practice:**\n- **{{word1}}** (wǔ) - back tongue, rounded lips\n- **{{word2}}** (nǚ) - front tongue, rounded lips\n- **{{word3}}** (yī) - front tongue, unrounded lips",
+          "vi": "Hiểu sự khác biệt giữa **u**, **ü** và **i** là rất quan trọng để thành thạo nguyên âm tiếng Trung:\n\n**U (后高圆唇元音) - Cao sau tròn:**\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt\n- **Vị trí lưỡi sau** - lưỡi cao và ở phía sau\n- Giống \"oo\" trong \"food\" nhưng chặt hơn\n- Ví dụ: **{{word1}}** (wǔ - năm)\n\n**Ü (前高圆唇元音) - Cao trước tròn:**\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt\n- **Vị trí lưỡi trước** - lưỡi cao và ở phía trước (giống \"i\")\n- Giống \"ee\" nhưng với môi tròn\n- Ví dụ: **{{word2}}** (nǚ - phụ nữ)\n\n**I (前高不圆唇元音) - Cao trước không tròn:**\n- **Không tròn môi** - môi được mở rộng\n- **Vị trí lưỡi trước** - lưỡi cao và ở phía trước\n- Giống \"ee\" trong \"see\"\n- Ví dụ: **{{word3}}** (yī - một)\n\n**Khác biệt chính:**\n- **U** = Lưỡi sau + Môi tròn\n- **Ü** = Lưỡi trước + Môi tròn\n- **I** = Lưỡi trước + Môi không tròn\n\n**Tự kiểm tra:**\n1. Nói **{{word4}}** (wǔ - năm) - cảm nhận lưỡi sau, môi chặt\n2. Bây giờ nói **{{word5}}** (nǚ - phụ nữ) - cảm nhận lưỡi trước, môi chặt\n3. Bây giờ nói **{{word6}}** (yī - một) - cảm nhận lưỡi trước, môi mở rộng\n4. Chú ý các sự kết hợp khác nhau\n\n**Luyện tập:**\n- **{{word1}}** (wǔ) - lưỡi sau, môi tròn\n- **{{word2}}** (nǚ) - lưỡi trước, môi tròn\n- **{{word3}}** (yī) - lưỡi trước, môi không tròn",
+          "zh": "理解**u**、**ü**和**i**之间的区别对于掌握中文元音至关重要：\n\n**U (后高圆唇元音) - 后高圆唇：**\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈\n- **后舌位置** - 舌头高且靠后\n- 类似于\"food\"中的\"oo\"但更紧\n- 例子：**{{word1}}**（五）\n\n**Ü (前高圆唇元音) - 前高圆唇：**\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈\n- **前舌位置** - 舌头高且靠前（与\"i\"相同）\n- 类似于\"ee\"但嘴唇圆\n- 例子：**{{word2}}**（女）\n\n**I (前高不圆唇元音) - 前高不圆唇：**\n- **不圆唇** - 嘴唇展开\n- **前舌位置** - 舌头高且靠前\n- 类似于\"see\"中的\"ee\"\n- 例子：**{{word3}}**（一）\n\n**主要区别：**\n- **U** = 后舌 + 圆唇\n- **Ü** = 前舌 + 圆唇\n- **I** = 前舌 + 不圆唇\n\n**自我测试：**\n1. 说**{{word4}}**（五） - 感受舌头靠后，嘴唇紧\n2. 现在说**{{word5}}**（女） - 感受舌头靠前，嘴唇紧\n3. 现在说**{{word6}}**（一） - 感受舌头靠前，嘴唇展开\n4. 注意不同的组合\n\n**练习：**\n- **{{word1}}**（五） - 后舌，圆唇\n- **{{word2}}**（女） - 前舌，圆唇\n- **{{word3}}**（一） - 前舌，不圆唇"
         }
       },
       "placeholders": [{
         "word1": "五",
         "word2": "女",
-        "word3": "五",
-        "word4": "女",
-        "word5": "书",
-        "word6": "绿"
+        "word3": "一",
+        "word4": "五",
+        "word5": "女",
+        "word6": "一"
       }]
     },
     {

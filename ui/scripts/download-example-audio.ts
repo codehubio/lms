@@ -86,11 +86,6 @@ const examples = [
       { fileName: 'wu3.mp3', word: '五 (wǔ)' },
       { fileName: 'shu1.mp3', word: '书 (shū)' },
       { fileName: 'lu4.mp3', word: '路 (lù)' },
-    ],
-  },
-  {
-    paragraphId: 'pronunciation-uv',
-    files: [
       { fileName: 'nv3.mp3', word: '女 (nǚ)' },
       { fileName: 'lv4.mp3', word: '绿 (lǜ)' },
       { fileName: 'yu3.mp3', word: '雨 (yǔ)' },
