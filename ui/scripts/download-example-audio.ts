@@ -48,6 +48,30 @@ const examples = [
       { fileName: 'xue2.mp3', word: '学 (xué)' },
     ],
   },
+  {
+    paragraphId: 'pronunciation-q',
+    files: [
+      { fileName: 'qi1.mp3', word: '七 (qī)' },
+      { fileName: 'qing3.mp3', word: '请 (qǐng)' },
+      { fileName: 'qu4.mp3', word: '去 (qù)' },
+    ],
+  },
+  {
+    paragraphId: 'pronunciation-sh',
+    files: [
+      { fileName: 'shi1.mp3', word: '师 (shī)' },
+      { fileName: 'shao3.mp3', word: '少 (shǎo)' },
+      { fileName: 'shuo1.mp3', word: '说 (shuō)' },
+    ],
+  },
+  {
+    paragraphId: 'pronunciation-z',
+    files: [
+      { fileName: 'zi4.mp3', word: '字 (zì)' },
+      { fileName: 'zao3.mp3', word: '早 (zǎo)' },
+      { fileName: 'zuo4.mp3', word: '做 (zuò)' },
+    ],
+  },
 ];
 
 // Helper function to download a file

@@ -26,7 +26,45 @@
         "word1": "字",
         "word2": "早",
         "word3": "做"
-      }]
+      }],
+      "examples": [
+        {
+          "word": "字",
+          "pinyin": "zì",
+          "translation": {
+            "en": "character/word",
+            "vi": "chữ/từ",
+            "zh": "字"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-z/zi4.mp3"
+          }
+        },
+        {
+          "word": "早",
+          "pinyin": "zǎo",
+          "translation": {
+            "en": "early/morning",
+            "vi": "sớm/buổi sáng",
+            "zh": "早"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-z/zao3.mp3"
+          }
+        },
+        {
+          "word": "做",
+          "pinyin": "zuò",
+          "translation": {
+            "en": "to do/to sit",
+            "vi": "làm/ngồi",
+            "zh": "做"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-z/zuo4.mp3"
+          }
+        }
+      ]
     },
     {
       "title": {

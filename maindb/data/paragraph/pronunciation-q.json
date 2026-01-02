@@ -26,7 +26,45 @@
         "word1": "七",
         "word2": "请",
         "word3": "去"
-      }]
+      }],
+      "examples": [
+        {
+          "word": "七",
+          "pinyin": "qī",
+          "translation": {
+            "en": "seven",
+            "vi": "bảy",
+            "zh": "七"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-q/qi1.mp3"
+          }
+        },
+        {
+          "word": "请",
+          "pinyin": "qǐng",
+          "translation": {
+            "en": "please",
+            "vi": "xin mời",
+            "zh": "请"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-q/qing3.mp3"
+          }
+        },
+        {
+          "word": "去",
+          "pinyin": "qù",
+          "translation": {
+            "en": "to go",
+            "vi": "đi",
+            "zh": "去"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-q/qu4.mp3"
+          }
+        }
+      ]
     },
     {
       "title": {

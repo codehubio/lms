@@ -26,7 +26,45 @@
         "word1": "师",
         "word2": "少",
         "word3": "说"
-      }]
+      }],
+      "examples": [
+        {
+          "word": "师",
+          "pinyin": "shī",
+          "translation": {
+            "en": "teacher/master",
+            "vi": "thầy giáo/thầy",
+            "zh": "师"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-sh/shi1.mp3"
+          }
+        },
+        {
+          "word": "少",
+          "pinyin": "shǎo",
+          "translation": {
+            "en": "few/little",
+            "vi": "ít",
+            "zh": "少"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-sh/shao3.mp3"
+          }
+        },
+        {
+          "word": "说",
+          "pinyin": "shuō",
+          "translation": {
+            "en": "to speak",
+            "vi": "nói",
+            "zh": "说"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-sh/shuo1.mp3"
+          }
+        }
+      ]
     },
     {
       "title": {
