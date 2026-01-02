@@ -26,7 +26,45 @@
         "word1": "西",
         "word2": "小",
         "word3": "学"
-      }]
+      }],
+      "examples": [
+        {
+          "word": "西",
+          "pinyin": "xī",
+          "translation": {
+            "en": "west",
+            "vi": "phía tây",
+            "zh": "西"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-x/xi1.mp3"
+          }
+        },
+        {
+          "word": "小",
+          "pinyin": "xiǎo",
+          "translation": {
+            "en": "small",
+            "vi": "nhỏ",
+            "zh": "小"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-x/xiao3.mp3"
+          }
+        },
+        {
+          "word": "学",
+          "pinyin": "xué",
+          "translation": {
+            "en": "to study",
+            "vi": "học",
+            "zh": "学"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-x/xue2.mp3"
+          }
+        }
+      ]
     },
     {
       "title": {

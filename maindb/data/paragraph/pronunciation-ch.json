@@ -26,7 +26,45 @@
         "word1": "吃",
         "word2": "车",
         "word3": "长"
-      }]
+      }],
+      "examples": [
+        {
+          "word": "吃",
+          "pinyin": "chī",
+          "translation": {
+            "en": "to eat",
+            "vi": "ăn",
+            "zh": "吃"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-ch/chi1.mp3"
+          }
+        },
+        {
+          "word": "车",
+          "pinyin": "chē",
+          "translation": {
+            "en": "car/vehicle",
+            "vi": "xe",
+            "zh": "车"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-ch/che1.mp3"
+          }
+        },
+        {
+          "word": "长",
+          "pinyin": "cháng",
+          "translation": {
+            "en": "long/often",
+            "vi": "dài/thường",
+            "zh": "长"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-ch/chang2.mp3"
+          }
+        }
+      ]
     },
     {
       "title": {
