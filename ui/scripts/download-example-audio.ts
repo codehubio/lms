@@ -72,6 +72,14 @@ const examples = [
       { fileName: 'zuo4.mp3', word: '做 (zuò)' },
     ],
   },
+  {
+    paragraphId: 'pronunciation-s',
+    files: [
+      { fileName: 'si4.mp3', word: '四 (sì)' },
+      { fileName: 'san1.mp3', word: '三 (sān)' },
+      { fileName: 'song4.mp3', word: '送 (sòng)' },
+    ],
+  },
 ];
 
 // Helper function to download a file

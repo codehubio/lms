@@ -1,0 +1,214 @@
+{
+  "id": "pronunciation-s",
+  "title": "How to Pronounce S in Chinese",
+  "tags": ["pronunciation"],
+  "translation": {
+    "en": "How to Pronounce S in Chinese",
+    "vi": "Cách phát âm S trong tiếng Trung",
+    "zh": "如何发音中文的S"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Introduction to the S Sound (S音介绍)",
+          "vi": "Giới thiệu về âm S (S音介绍)",
+          "zh": "S音介绍"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The Chinese **s** sound (written as **s** in pinyin) is a **voiceless alveolar** fricative that is relatively easier for English speakers compared to other Chinese sounds. However, it still has some important differences from the English \"s\" sound.\n\n**Key characteristics:**\n- The Chinese **s** is a **voiceless** sound (no vibration in the vocal cords)\n- It is a **fricative** (continuous airflow, no stop)\n- The tongue tip approaches the **back of upper front teeth** (alveolar ridge, same as \"z\" and \"c\")\n- It sounds similar to English \"s\" but may be slightly sharper\n\n**Common mistake:** Many learners pronounce it exactly like English \"s\", which is usually acceptable, but the tongue position should be precise for better clarity.\n\n**Example words:**\n- **{{word1}}** (sì - four)\n- **{{word2}}** (sān - three)\n- **{{word3}}** (sòng - to send)",
+          "vi": "Âm **s** trong tiếng Trung (viết là **s** trong pinyin) là một âm xát chân răng vô thanh tương đối dễ đối với người nói tiếng Anh so với các âm tiếng Trung khác. Tuy nhiên, nó vẫn có một số khác biệt quan trọng so với âm \"s\" trong tiếng Anh.\n\n**Đặc điểm chính:**\n- Âm **s** trong tiếng Trung là âm **vô thanh** (không có rung động ở dây thanh)\n- Đây là âm **xát** (luồng khí liên tục, không có điểm dừng)\n- Đầu lưỡi tiếp cận **sau răng cửa trên** (gờ chân răng, giống \"z\" và \"c\")\n- Nghe giống \"s\" tiếng Anh nhưng có thể hơi sắc hơn\n\n**Lỗi thường gặp:** Nhiều người học phát âm nó giống hệt \"s\" tiếng Anh, điều này thường chấp nhận được, nhưng vị trí lưỡi nên chính xác để rõ ràng hơn.\n\n**Ví dụ:**\n- **{{word1}}** (sì - bốn)\n- **{{word2}}** (sān - ba)\n- **{{word3}}** (sòng - gửi)",
+          "zh": "中文的**s**音（拼音中写作**s**）是清齿龈擦音，对英语母语者来说相对容易，与其他中文音相比。然而，它与英语\"s\"音仍有一些重要区别。\n\n**主要特点：**\n- 中文的**s**是**清音**（声带不振动）\n- 它是**擦音**（连续气流，没有阻塞）\n- 舌尖接近**上齿背**（齿龈脊，与\"z\"和\"c\"相同）\n- 听起来像英语\"s\"但可能稍微更尖锐\n\n**常见错误：**许多学习者把它发成完全像英语\"s\"，这通常是可以接受的，但舌头位置应该精确以获得更好的清晰度。\n\n**例词：**\n- **{{word1}}**（四）\n- **{{word2}}**（三）\n- **{{word3}}**（送）"
+        }
+      },
+      "placeholders": [{
+        "word1": "四",
+        "word2": "三",
+        "word3": "送"
+      }],
+      "examples": [
+        {
+          "word": "四",
+          "pinyin": "sì",
+          "translation": {
+            "en": "four",
+            "vi": "bốn",
+            "zh": "四"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-s/si4.mp3"
+          }
+        },
+        {
+          "word": "三",
+          "pinyin": "sān",
+          "translation": {
+            "en": "three",
+            "vi": "ba",
+            "zh": "三"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-s/san1.mp3"
+          }
+        },
+        {
+          "word": "送",
+          "pinyin": "sòng",
+          "translation": {
+            "en": "to send",
+            "vi": "gửi",
+            "zh": "送"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-s/song4.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tongue Position (舌头位置)",
+          "vi": "Vị trí lưỡi (舌头位置)",
+          "zh": "舌头位置"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The correct tongue position is important for pronouncing **s** clearly:\n\n**Step-by-step guide:**\n1. Place the **tip of your tongue** near the **back of your upper front teeth** (alveolar ridge, same as \"z\" and \"c\")\n2. The tongue should be **flat** and **tense**, not curled\n3. Create a narrow gap between the tongue and teeth (don't touch)\n4. Blow air continuously through this gap to create the fricative sound\n5. **Do NOT** vibrate your vocal cords (this is voiceless)\n6. The sound should be continuous and smooth\n\n**Visual reference:**\n- Think of it as saying \"s\" in English \"see\" but with precise tongue position\n- The tongue should be close to the teeth but not touching\n- The sound should be continuous, not interrupted\n\n**Practice words:**\n- **{{word1}}** (sān - three)\n- **{{word2}}** (sòng - to send)\n- **{{word3}}** (sìjì - four seasons)",
+          "vi": "Vị trí lưỡi đúng là quan trọng để phát âm **s** rõ ràng:\n\n**Hướng dẫn từng bước:**\n1. Đặt **đầu lưỡi** gần **sau răng cửa trên** (gờ chân răng, giống \"z\" và \"c\")\n2. Lưỡi nên **phẳng** và **căng**, không cuộn\n3. Tạo một khoảng trống hẹp giữa lưỡi và răng (không chạm)\n4. Thổi không khí liên tục qua khoảng trống này để tạo ra âm xát\n5. **KHÔNG** rung dây thanh (đây là âm vô thanh)\n6. Âm thanh nên liên tục và mượt mà\n\n**Tham khảo trực quan:**\n- Nghĩ về nó như nói \"s\" trong tiếng Anh \"see\" nhưng với vị trí lưỡi chính xác\n- Lưỡi nên gần răng nhưng không chạm\n- Âm thanh nên liên tục, không bị gián đoạn\n\n**Từ luyện tập:**\n- **{{word1}}** (sān - ba)\n- **{{word2}}** (sòng - gửi)\n- **{{word3}}** (sìjì - bốn mùa)",
+          "zh": "正确的舌头位置对于清晰发音**s**很重要：\n\n**分步指南：**\n1. 将**舌尖**靠近**上齿背**（齿龈脊，与\"z\"和\"c\"相同）\n2. 舌头应该**平**且**紧张**，不要卷起\n3. 在舌头和牙齿之间创建一个狭窄的间隙（不接触）\n4. 连续通过这个间隙吹气以产生擦音\n5. **不要**振动声带（这是清音）\n6. 声音应该连续流畅\n\n**视觉参考：**\n- 想象说英语\"see\"中的\"s\"但舌头位置精确\n- 舌头应该靠近牙齿但不接触\n- 声音应该连续，不中断\n\n**练习词：**\n- **{{word1}}**（三）\n- **{{word2}}**（送）\n- **{{word3}}**（四季）"
+        }
+      },
+      "placeholders": [{
+        "word1": "三",
+        "word2": "送",
+        "word3": "四季"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Fricative vs Affricate (擦音 vs 塞擦音)",
+          "vi": "Xát vs Tắc xát (擦音 vs 塞擦音)",
+          "zh": "擦音 vs 塞擦音"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding the difference between **fricative** and **affricate** sounds is crucial for mastering **s**:\n\n**Fricative (擦音) - Chinese S:**\n- **Continuous airflow** - no stop or block\n- Tongue approaches teeth but **does not touch**\n- Sound is smooth and continuous\n- Similar to \"s\" in English \"see\"\n\n**Affricate (塞擦音) - Chinese Z and C:**\n- **Stop then release** - tongue touches then releases\n- Tongue **touches** the teeth, then releases\n- Sound has a clear stop and release\n- Similar to \"ts\" in \"cats\" or \"ds\" in \"beds\"\n\n**Key difference:** S is continuous (no stop), Z and C have a stop (tongue touches)\n\n**Test yourself:**\n1. Say **{{word1}}** (sì - four) - continuous, no stop\n2. Now say **{{word2}}** (zì - character) - stop then release\n3. Notice the difference: S is smooth, Z has a stop\n\n**Practice:**\n- **{{word3}}** (sòng - to send) - continuous fricative\n- **{{word4}}** (cì - thorn) - affricate with stop",
+          "vi": "Hiểu sự khác biệt giữa âm **xát** và **tắc xát** là rất quan trọng để thành thạo **s**:\n\n**Xát (擦音) - S tiếng Trung:**\n- **Luồng khí liên tục** - không có điểm dừng hoặc chặn\n- Lưỡi tiếp cận răng nhưng **không chạm**\n- Âm thanh mượt mà và liên tục\n- Giống \"s\" trong tiếng Anh \"see\"\n\n**Tắc xát (塞擦音) - Z và C tiếng Trung:**\n- **Dừng rồi giải phóng** - lưỡi chạm rồi giải phóng\n- Lưỡi **chạm** vào răng, rồi giải phóng\n- Âm thanh có điểm dừng và giải phóng rõ ràng\n- Giống \"ts\" trong \"cats\" hoặc \"ds\" trong \"beds\"\n\n**Khác biệt chính:** S liên tục (không có điểm dừng), Z và C có điểm dừng (lưỡi chạm)\n\n**Tự kiểm tra:**\n1. Nói **{{word1}}** (sì - bốn) - liên tục, không có điểm dừng\n2. Bây giờ nói **{{word2}}** (zì - chữ) - dừng rồi giải phóng\n3. Chú ý sự khác biệt: S mượt mà, Z có điểm dừng\n\n**Luyện tập:**\n- **{{word3}}** (sòng - gửi) - xát liên tục\n- **{{word4}}** (cì - gai) - tắc xát có điểm dừng",
+          "zh": "理解**擦音**和**塞擦音**之间的区别对于掌握**s**至关重要：\n\n**擦音 - 中文S：**\n- **连续气流** - 没有阻塞或阻挡\n- 舌头接近牙齿但**不接触**\n- 声音流畅连续\n- 类似于英语\"see\"中的\"s\"\n\n**塞擦音 - 中文Z和C：**\n- **阻塞然后释放** - 舌头接触然后释放\n- 舌头**接触**牙齿，然后释放\n- 声音有明显的阻塞和释放\n- 类似于\"cats\"中的\"ts\"或\"beds\"中的\"ds\"\n\n**主要区别：**S是连续的（没有阻塞），Z和C有阻塞（舌头接触）\n\n**自我测试：**\n1. 说**{{word1}}**（四） - 连续，没有阻塞\n2. 现在说**{{word2}}**（字） - 阻塞然后释放\n3. 注意差异：S流畅，Z有阻塞\n\n**练习：**\n- **{{word3}}**（送） - 连续擦音\n- **{{word4}}**（刺） - 有阻塞的塞擦音"
+        }
+      },
+      "placeholders": [{
+        "word1": "四",
+        "word2": "字",
+        "word3": "送",
+        "word4": "刺"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes (常见错误)",
+          "vi": "Lỗi thường gặp (常见错误)",
+          "zh": "常见错误"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are the most common mistakes when pronouncing Chinese **s**:\n\n**Mistake 1: Adding a stop (making it like \"z\" or \"c\")**\n- ❌ Pronouncing it with tongue touching teeth (affricate)\n- ✅ Should be continuous fricative (tongue doesn't touch)\n- **Fix:** Keep tongue close but not touching, maintain continuous airflow\n\n**Mistake 2: Making it too soft or weak**\n- ❌ Sound is too weak or unclear\n- ✅ Should be clear and sharp\n- **Fix:** Ensure proper tongue position and steady airflow\n\n**Mistake 3: Confusing with \"sh\" (retroflex)**\n- ❌ Using retroflex position (tongue curls back)\n- ✅ Should be alveolar (tongue near front teeth)\n- **Fix:** Keep tongue flat and near front teeth, not curled back\n\n**Mistake 4: Wrong tongue position**\n- ❌ Tongue too far back or curled\n- ✅ Tip of tongue should be near the back of upper front teeth (alveolar)\n- **Fix:** Practice with mirror to see tongue position\n\n**Mistake 5: Making it voiced**\n- ❌ Adding vibration (like English \"z\" in \"zoo\")\n- ✅ Should be voiceless (no vibration)\n- **Fix:** Place hand on throat - should feel no vibration\n\n**Practice words to avoid mistakes:**\n- **{{word1}}** (sì - four) - continuous, no stop\n- **{{word2}}** (sān - three) - NOT like \"z\" or \"c\"\n- **{{word3}}** (sòng - to send) - NOT like \"sh\"",
+          "vi": "Dưới đây là những lỗi phổ biến nhất khi phát âm **s** tiếng Trung:\n\n**Lỗi 1: Thêm điểm dừng (làm cho nó giống \"z\" hoặc \"c\")**\n- ❌ Phát âm với lưỡi chạm vào răng (tắc xát)\n- ✅ Nên là xát liên tục (lưỡi không chạm)\n- **Sửa:** Giữ lưỡi gần nhưng không chạm, duy trì luồng khí liên tục\n\n**Lỗi 2: Làm cho nó quá mềm hoặc yếu**\n- ❌ Âm thanh quá yếu hoặc không rõ ràng\n- ✅ Nên rõ ràng và sắc\n- **Sửa:** Đảm bảo vị trí lưỡi đúng và luồng khí ổn định\n\n**Lỗi 3: Nhầm lẫn với \"sh\" (quặt lưỡi)**\n- ❌ Dùng vị trí quặt lưỡi (lưỡi cuộn lại)\n- ✅ Nên là chân răng (lưỡi gần răng cửa)\n- **Sửa:** Giữ lưỡi phẳng và gần răng cửa, không cuộn lại\n\n**Lỗi 4: Vị trí lưỡi sai**\n- ❌ Lưỡi quá xa về phía sau hoặc cuộn\n- ✅ Đầu lưỡi nên gần sau răng cửa trên (chân răng)\n- **Sửa:** Luyện tập với gương để xem vị trí lưỡi\n\n**Lỗi 5: Làm cho nó hữu thanh**\n- ❌ Thêm rung động (như \"z\" trong tiếng Anh \"zoo\")\n- ✅ Nên là vô thanh (không rung động)\n- **Sửa:** Đặt tay lên cổ họng - không nên cảm thấy rung động\n\n**Từ luyện tập để tránh lỗi:**\n- **{{word1}}** (sì - bốn) - liên tục, không có điểm dừng\n- **{{word2}}** (sān - ba) - KHÔNG giống \"z\" hoặc \"c\"\n- **{{word3}}** (sòng - gửi) - KHÔNG giống \"sh\"",
+          "zh": "以下是发音中文**s**时最常见的错误：\n\n**错误1：添加阻塞（发成像\"z\"或\"c\"）**\n- ❌ 舌头接触牙齿发音（塞擦音）\n- ✅ 应该是连续擦音（舌头不接触）\n- **修正：**保持舌头靠近但不接触，维持连续气流\n\n**错误2：发得太软或太弱**\n- ❌ 声音太弱或不清晰\n- ✅ 应该清晰尖锐\n- **修正：**确保正确的舌头位置和稳定的气流\n\n**错误3：与\"sh\"（卷舌）混淆**\n- ❌ 使用卷舌位置（舌头卷起）\n- ✅ 应该是齿龈音（舌头靠近前齿）\n- **修正：**保持舌头平且靠近前齿，不要卷起\n\n**错误4：舌头位置错误**\n- ❌ 舌头太靠后或卷起\n- ✅ 舌尖应该靠近上齿背（齿龈）\n- **修正：**用镜子练习以查看舌头位置\n\n**错误5：发成浊音**\n- ❌ 添加振动（像英语\"zoo\"中的\"z\"）\n- ✅ 应该是清音（无振动）\n- **修正：**将手放在喉咙上 - 应该感觉不到振动\n\n**避免错误的练习词：**\n- **{{word1}}**（四） - 连续，没有阻塞\n- **{{word2}}**（三） - 不像\"z\"或\"c\"\n- **{{word3}}**（送） - 不像\"sh\""
+        }
+      },
+      "placeholders": [{
+        "word1": "四",
+        "word2": "三",
+        "word3": "送"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Practice Exercises (练习)",
+          "vi": "Bài tập luyện tập (练习)",
+          "zh": "练习"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are effective practice exercises to master the **s** sound:\n\n**Exercise 1: Minimal pairs**\nPractice distinguishing **s** from similar sounds:\n- **{{pair1}}** (sì - four) vs **{{pair2}}** (zì - character)\n- **{{pair3}}** (sān - three) vs **{{pair4}}** (cān - to participate)\n- **{{pair5}}** (sòng - to send) vs **{{pair6}}** (shòng - to plant)\n\n**Exercise 2: Continuous airflow drill**\n1. Place tongue near upper teeth (don't touch)\n2. Create narrow gap\n3. Blow continuous air: \"s\" sound\n4. Keep it smooth and continuous\n5. Repeat 10 times: s-s-s-s (continuous)\n6. Now add vowel: sa-se-si-su-so\n\n**Exercise 3: Word practice**\nPractice these common words:\n- **{{word1}}** (sì - four)\n- **{{word2}}** (sān - three)\n- **{{word3}}** (sòng - to send)\n- **{{word4}}** (sìjì - four seasons)\n- **{{word5}}** (sānnián - three years)\n\n**Exercise 4: Sentence practice**\n- 这是**{{word1}}**。 (This is four.)\n- 我**{{word3}}**你。 (I send you.)",
+          "vi": "Dưới đây là các bài tập luyện tập hiệu quả để thành thạo âm **s**:\n\n**Bài tập 1: Cặp tối thiểu**\nLuyện tập phân biệt **s** với các âm tương tự:\n- **{{pair1}}** (sì - bốn) vs **{{pair2}}** (zì - chữ)\n- **{{pair3}}** (sān - ba) vs **{{pair4}}** (cān - tham gia)\n- **{{pair5}}** (sòng - gửi) vs **{{pair6}}** (shòng - trồng)\n\n**Bài tập 2: Luyện luồng khí liên tục**\n1. Đặt lưỡi gần răng trên (không chạm)\n2. Tạo khoảng trống hẹp\n3. Thổi không khí liên tục: âm \"s\"\n4. Giữ nó mượt mà và liên tục\n5. Lặp lại 10 lần: s-s-s-s (liên tục)\n6. Bây giờ thêm nguyên âm: sa-se-si-su-so\n\n**Bài tập 3: Luyện từ**\nLuyện tập các từ phổ biến:\n- **{{word1}}** (sì - bốn)\n- **{{word2}}** (sān - ba)\n- **{{word3}}** (sòng - gửi)\n- **{{word4}}** (sìjì - bốn mùa)\n- **{{word5}}** (sānnián - ba năm)\n\n**Bài tập 4: Luyện câu**\n- 这是**{{word1}}**。 (Đây là bốn.)\n- 我**{{word3}}**你。 (Tôi gửi bạn.)",
+          "zh": "以下是一些有效的练习来掌握**s**音：\n\n**练习1：最小对立体**\n练习区分**s**和相似音：\n- **{{pair1}}**（四） vs **{{pair2}}**（字）\n- **{{pair3}}**（三） vs **{{pair4}}**（参）\n- **{{pair5}}**（送） vs **{{pair6}}**（种）\n\n**练习2：连续气流训练**\n1. 将舌头靠近上齿（不接触）\n2. 创建狭窄的间隙\n3. 连续吹气：\"s\"音\n4. 保持流畅连续\n5. 重复10次：s-s-s-s（连续）\n6. 现在添加元音：sa-se-si-su-so\n\n**练习3：单词练习**\n练习这些常用词：\n- **{{word1}}**（四）\n- **{{word2}}**（三）\n- **{{word3}}**（送）\n- **{{word4}}**（四季）\n- **{{word5}}**（三年）\n\n**练习4：句子练习**\n- 这是**{{word1}}**。\n- 我**{{word3}}**你。"
+        }
+      },
+      "placeholders": [{
+        "pair1": "四",
+        "pair2": "字",
+        "pair3": "三",
+        "pair4": "参",
+        "pair5": "送",
+        "pair6": "种",
+        "word1": "四",
+        "word2": "三",
+        "word3": "送",
+        "word4": "四季",
+        "word5": "三年"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Comparison with Similar Sounds (与相似音的比较)",
+          "vi": "So sánh với các âm tương tự (与相似音的比较)",
+          "zh": "与相似音的比较"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding how **s** differs from similar sounds helps avoid confusion:\n\n**S vs Z (s vs z):**\n- **S** ({{word1}} - sì): Fricative (continuous, tongue doesn't touch)\n- **Z** ({{word2}} - zì): Affricate (stop + release, tongue touches)\n- **Key difference:** S is continuous, Z has a stop (tongue touches)\n\n**S vs C (s vs c):**\n- **S** ({{word3}} - sān): Fricative (continuous, no aspiration)\n- **C** ({{word4}} - cān): Affricate (stop + release, with aspiration)\n- **Key difference:** S is continuous, C has a stop and aspiration\n\n**S vs SH (s vs sh):**\n- **S** ({{word5}} - sòng): Alveolar (tongue near front teeth)\n- **SH** ({{word6}} - shuō): Retroflex (tongue curls back)\n- **Key difference:** S is alveolar, SH is retroflex (different tongue position)\n\n**Practice distinguishing:**\n- **{{word1}}** (sì) vs **{{word2}}** (zì) vs **{{word4}}** (cān) vs **{{word6}}** (shuō)",
+          "vi": "Hiểu cách **s** khác với các âm tương tự giúp tránh nhầm lẫn:\n\n**S vs Z (s vs z):**\n- **S** ({{word1}} - sì): Xát (liên tục, lưỡi không chạm)\n- **Z** ({{word2}} - zì): Tắc xát (dừng + giải phóng, lưỡi chạm)\n- **Khác biệt chính:** S liên tục, Z có điểm dừng (lưỡi chạm)\n\n**S vs C (s vs c):**\n- **S** ({{word3}} - sān): Xát (liên tục, không bật hơi)\n- **C** ({{word4}} - cān): Tắc xát (dừng + giải phóng, có bật hơi)\n- **Khác biệt chính:** S liên tục, C có điểm dừng và bật hơi\n\n**S vs SH (s vs sh):**\n- **S** ({{word5}} - sòng): Chân răng (lưỡi gần răng cửa)\n- **SH** ({{word6}} - shuō): Quặt lưỡi (lưỡi cuộn lại)\n- **Khác biệt chính:** S là chân răng, SH là quặt lưỡi (vị trí lưỡi khác nhau)\n\n**Luyện tập phân biệt:**\n- **{{word1}}** (sì) vs **{{word2}}** (zì) vs **{{word4}}** (cān) vs **{{word6}}** (shuō)",
+          "zh": "理解**s**与相似音的区别有助于避免混淆：\n\n**S vs Z (s vs z)：**\n- **S**（{{word1}} - 四）：擦音（连续，舌头不接触）\n- **Z**（{{word2}} - 字）：塞擦音（阻塞 + 释放，舌头接触）\n- **主要区别：**S是连续的，Z有阻塞（舌头接触）\n\n**S vs C (s vs c)：**\n- **S**（{{word3}} - 三）：擦音（连续，不送气）\n- **C**（{{word4}} - 参）：塞擦音（阻塞 + 释放，有送气）\n- **主要区别：**S是连续的，C有阻塞和送气\n\n**S vs SH (s vs sh)：**\n- **S**（{{word5}} - 送）：齿龈（舌头靠近前齿）\n- **SH**（{{word6}} - 说）：卷舌（舌头卷起）\n- **主要区别：**S是齿龈音，SH是卷舌音（不同的舌头位置）\n\n**练习区分：**\n- **{{word1}}**（四） vs **{{word2}}**（字） vs **{{word4}}**（参） vs **{{word6}}**（说）"
+        }
+      },
+      "placeholders": [{
+        "word1": "四",
+        "word2": "字",
+        "word3": "三",
+        "word4": "参",
+        "word5": "送",
+        "word6": "说"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tips for Mastery (掌握技巧)",
+          "vi": "Mẹo để thành thạo (掌握技巧)",
+          "zh": "掌握技巧"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are expert tips to master the **s** sound:\n\n**Tip 1: Maintain continuous airflow**\n- Keep tongue close to teeth but not touching\n- Ensure smooth, continuous airflow\n- Practice saying \"s\" for 5 seconds continuously\n- Use a mirror to check tongue position\n\n**Tip 2: Compare with \"z\" and \"c\"**\n- Say **{{word1}}** (zì - character) - feel tongue touch\n- Now say **{{word2}}** (sì - four) - tongue doesn't touch\n- This contrast helps you feel the difference\n\n**Tip 3: Practice daily**\n- Spend 5-10 minutes daily on **s** sound practice\n- Focus on maintaining continuous airflow\n- Use words like **{{word3}}** (sì), **{{word4}}** (sān), **{{word5}}** (sòng)\n\n**Tip 4: Start slow, then speed up**\n- Begin with slow, exaggerated pronunciation\n- Gradually increase speed while maintaining continuity\n- Practice with **{{word6}}** (sìjì), **{{word7}}** (sānnián), **{{word8}}** (sònggěi)\n\n**Tip 5: Record yourself**\n- Record your pronunciation and compare with native speakers\n- Listen for the continuous, smooth quality\n- Adjust based on what you hear\n\n**Remember:** S is the easiest of the alveolar sounds (s, z, c). Master it first, then use it as a reference for z and c!",
+          "vi": "Dưới đây là các mẹo chuyên gia để thành thạo âm **s**:\n\n**Mẹo 1: Duy trì luồng khí liên tục**\n- Giữ lưỡi gần răng nhưng không chạm\n- Đảm bảo luồng khí mượt mà, liên tục\n- Luyện tập nói \"s\" liên tục trong 5 giây\n- Sử dụng gương để kiểm tra vị trí lưỡi\n\n**Mẹo 2: So sánh với \"z\" và \"c\"**\n- Nói **{{word1}}** (zì - chữ) - cảm nhận lưỡi chạm\n- Bây giờ nói **{{word2}}** (sì - bốn) - lưỡi không chạm\n- Sự tương phản này giúp bạn cảm nhận sự khác biệt\n\n**Mẹo 3: Luyện tập hàng ngày**\n- Dành 5-10 phút mỗi ngày để luyện âm **s**\n- Tập trung vào việc duy trì luồng khí liên tục\n- Sử dụng các từ như **{{word3}}** (sì), **{{word4}}** (sān), **{{word5}}** (sòng)\n\n**Mẹo 4: Bắt đầu chậm, sau đó tăng tốc**\n- Bắt đầu với phát âm chậm, phóng đại\n- Dần dần tăng tốc độ trong khi duy trì tính liên tục\n- Luyện tập với **{{word6}}** (sìjì), **{{word7}}** (sānnián), **{{word8}}** (sònggěi)\n\n**Mẹo 5: Ghi âm bản thân**\n- Ghi âm phát âm của bạn và so sánh với người bản ngữ\n- Lắng nghe chất lượng liên tục, mượt mà\n- Điều chỉnh dựa trên những gì bạn nghe\n\n**Nhớ:** S là dễ nhất trong các âm chân răng (s, z, c). Thành thạo nó trước, sau đó sử dụng nó làm tham chiếu cho z và c!",
+          "zh": "以下是一些掌握**s**音的专家技巧：\n\n**技巧1：维持连续气流**\n- 保持舌头靠近牙齿但不接触\n- 确保流畅、连续的气流\n- 练习连续说\"s\"5秒\n- 使用镜子检查舌头位置\n\n**技巧2：与\"z\"和\"c\"比较**\n- 说**{{word1}}**（字） - 感受舌头接触\n- 现在说**{{word2}}**（四） - 舌头不接触\n- 这种对比帮助你感受差异\n\n**技巧3：每天练习**\n- 每天花5-10分钟练习**s**音\n- 专注于维持连续气流\n- 使用像**{{word3}}**（四）、**{{word4}}**（三）、**{{word5}}**（送）这样的词\n\n**技巧4：从慢开始，然后加速**\n- 从缓慢、夸张的发音开始\n- 在保持连续性的同时逐渐提高速度\n- 用**{{word6}}**（四季）、**{{word7}}**（三年）、**{{word8}}**（送给）练习\n\n**技巧5：录音**\n- 录制你的发音并与母语者比较\n- 倾听连续、流畅的音质\n- 根据听到的内容进行调整\n\n**记住：**S是齿龈音中最容易的（s, z, c）。先掌握它，然后将其作为z和c的参考！"
+        }
+      },
+      "placeholders": [{
+        "word1": "字",
+        "word2": "四",
+        "word3": "四",
+        "word4": "三",
+        "word5": "送",
+        "word6": "四季",
+        "word7": "三年",
+        "word8": "送给"
+      }]
+    }
+  ]
+}
+
