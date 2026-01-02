@@ -1,2 +1,2 @@
-Add audio support for maindb/data/paragraph/pronunciation-c.json to display in the html file. Generate some mp3 audio files as example of pronunciation of the example words in the paragraph
-The example mp3 files in ui/public/audio/examples. Be aware to put the correct url of the mp3 in the json file
+Add audio support for maindb/data/paragraph/pronunciation-zh.json to display in the html file. Generate some mp3 audio files as example of pronunciation of the example words in the paragraph
+The example mp3 files in ui/public/audio/examples. Be aware to put the correct url of the mp3 in the json file. Refer to maindb/data/paragraph/pronunciation-c.json to know how to do that

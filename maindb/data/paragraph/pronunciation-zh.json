@@ -26,7 +26,45 @@
         "word1": "知",
         "word2": "这",
         "word3": "中"
-      }]
+      }],
+      "examples": [
+        {
+          "word": "知",
+          "pinyin": "zhī",
+          "translation": {
+            "en": "to know",
+            "vi": "biết",
+            "zh": "知"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-zh/zhi1.mp3"
+          }
+        },
+        {
+          "word": "这",
+          "pinyin": "zhè",
+          "translation": {
+            "en": "this",
+            "vi": "này",
+            "zh": "这"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-zh/zhe4.mp3"
+          }
+        },
+        {
+          "word": "中",
+          "pinyin": "zhōng",
+          "translation": {
+            "en": "middle/China",
+            "vi": "giữa/Trung Quốc",
+            "zh": "中"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-zh/zhong1.mp3"
+          }
+        }
+      ]
     },
     {
       "title": {
