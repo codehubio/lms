@@ -88,6 +88,22 @@ const examples = [
       { fileName: 'lu4.mp3', word: '路 (lù)' },
     ],
   },
+  {
+    paragraphId: 'pronunciation-uv',
+    files: [
+      { fileName: 'nv3.mp3', word: '女 (nǚ)' },
+      { fileName: 'lv4.mp3', word: '绿 (lǜ)' },
+      { fileName: 'yu3.mp3', word: '雨 (yǔ)' },
+    ],
+  },
+  {
+    paragraphId: 'pronunciation-i',
+    files: [
+      { fileName: 'yi1.mp3', word: '一 (yī)' },
+      { fileName: 'li4.mp3', word: '力 (lì)' },
+      { fileName: 'qi2.mp3', word: '棋 (qí)' },
+    ],
+  },
 ];
 
 // Helper function to download a file

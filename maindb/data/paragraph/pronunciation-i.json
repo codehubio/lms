@@ -1,0 +1,217 @@
+{
+  "id": "pronunciation-i",
+  "title": "How to Pronounce I in Chinese",
+  "tags": ["pronunciation"],
+  "translation": {
+    "en": "How to Pronounce I in Chinese",
+    "vi": "Cách phát âm I trong tiếng Trung",
+    "zh": "如何发音中文的I"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Introduction to the I Sound (I音介绍)",
+          "vi": "Giới thiệu về âm I (I音介绍)",
+          "zh": "I音介绍"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The Chinese **i** sound (written as **i** in pinyin) is a **high front unrounded** vowel that is relatively easier for English speakers compared to other Chinese vowels. It is similar to the \"ee\" sound in English \"see\" or \"me\".\n\n**Key characteristics:**\n- The Chinese **i** is an **unrounded** vowel (lips are spread, not rounded)\n- It is a **high front** vowel (tongue is high and front in the mouth)\n- The lips should be **spread** (like a smile)\n- The tongue position is **front** (like \"ee\" in English)\n- It sounds similar to \"ee\" in English \"see\"\n\n**Common mistake:** Many learners pronounce it correctly, but some may confuse it with \"ü\" (rounded) or make it too tense. The Chinese **i** requires spread lips and high front tongue position.\n\n**Example words:**\n- **{{word1}}** (yī - one)\n- **{{word2}}** (lì - strength)\n- **{{word3}}** (qí - chess)",
+          "vi": "Âm **i** trong tiếng Trung (viết là **i** trong pinyin) là một nguyên âm **cao trước không tròn** tương đối dễ đối với người nói tiếng Anh so với các nguyên âm tiếng Trung khác. Nó tương tự như âm \"ee\" trong tiếng Anh \"see\" hoặc \"me\".\n\n**Đặc điểm chính:**\n- Âm **i** trong tiếng Trung là nguyên âm **không tròn** (môi được mở rộng, không tròn)\n- Đây là nguyên âm **cao trước** (lưỡi cao và ở phía trước trong miệng)\n- Môi nên được **mở rộng** (như một nụ cười)\n- Vị trí lưỡi là **trước** (như \"ee\" trong tiếng Anh)\n- Nghe giống \"ee\" trong tiếng Anh \"see\"\n\n**Lỗi thường gặp:** Nhiều người học phát âm nó đúng, nhưng một số có thể nhầm lẫn với \"ü\" (tròn) hoặc làm cho nó quá căng. Âm **i** tiếng Trung yêu cầu môi mở rộng và vị trí lưỡi cao trước.\n\n**Ví dụ:**\n- **{{word1}}** (yī - một)\n- **{{word2}}** (lì - sức mạnh)\n- **{{word3}}** (qí - cờ)",
+          "zh": "中文的**i**音（拼音中写作**i**）是前高不圆唇元音，对英语母语者来说相对容易，与其他中文元音相比。它类似于英语\"see\"或\"me\"中的\"ee\"音。\n\n**主要特点：**\n- 中文的**i**是**不圆唇**元音（嘴唇展开，不圆）\n- 它是**前高**元音（舌头在口腔中高且靠前）\n- 嘴唇应该**展开**（像微笑）\n- 舌头位置是**前**（像英语中的\"ee\"）\n- 听起来像英语\"see\"中的\"ee\"\n\n**常见错误：**许多学习者能正确发音，但有些人可能将其与\"ü\"（圆唇）混淆或发得太紧张。中文的**i**需要展开嘴唇和前高舌头位置。\n\n**例词：**\n- **{{word1}}**（一）\n- **{{word2}}**（力）\n- **{{word3}}**（棋）"
+        }
+      },
+      "placeholders": [{
+        "word1": "一",
+        "word2": "力",
+        "word3": "棋"
+      }],
+      "examples": [
+        {
+          "word": "一",
+          "pinyin": "yī",
+          "translation": {
+            "en": "one",
+            "vi": "một",
+            "zh": "一"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/yi1.mp3"
+          }
+        },
+        {
+          "word": "力",
+          "pinyin": "lì",
+          "translation": {
+            "en": "strength",
+            "vi": "sức mạnh",
+            "zh": "力"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/li4.mp3"
+          }
+        },
+        {
+          "word": "棋",
+          "pinyin": "qí",
+          "translation": {
+            "en": "chess",
+            "vi": "cờ",
+            "zh": "棋"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/qi2.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tongue Position and Lip Shape (舌头位置和嘴唇形状)",
+          "vi": "Vị trí lưỡi và hình dạng môi (舌头位置和嘴唇形状)",
+          "zh": "舌头位置和嘴唇形状"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The correct **tongue position** and **lip shape** are both essential for pronouncing **i** correctly:\n\n**Step-by-step guide:**\n1. **Spread your lips** - like a smile (NOT rounded)\n2. The lips should be **relaxed** and **spread**, not tight\n3. Raise the **front of your tongue** toward the hard palate (front position)\n4. The tongue should be **high and front** in your mouth\n5. Keep your jaw relatively closed\n6. The sound should be clear and bright\n\n**Visual reference:**\n- Think of it as saying \"ee\" in English \"see\"\n- Your lips should form a smile (spread), not a circle (rounded)\n- The tongue position is similar to \"ee\" in English\n- This is the easiest Chinese vowel for English speakers\n\n**Practice words:**\n- **{{word1}}** (yī - one)\n- **{{word2}}** (lì - strength)\n- **{{word3}}** (qí - chess)",
+          "vi": "Vị trí **lưỡi** đúng và **hình dạng môi** đều cần thiết để phát âm **i** chính xác:\n\n**Hướng dẫn từng bước:**\n1. **Mở rộng môi** - như một nụ cười (KHÔNG tròn)\n2. Môi nên **thư giãn** và **mở rộng**, không chặt\n3. Nâng **phần trước của lưỡi** về phía vòm cứng (vị trí trước)\n4. Lưỡi nên **cao và ở phía trước** trong miệng\n5. Giữ hàm tương đối đóng\n6. Âm thanh nên rõ ràng và sáng\n\n**Tham khảo trực quan:**\n- Nghĩ về nó như nói \"ee\" trong tiếng Anh \"see\"\n- Môi của bạn nên tạo thành nụ cười (mở rộng), không phải vòng tròn (tròn)\n- Vị trí lưỡi tương tự \"ee\" trong tiếng Anh\n- Đây là nguyên âm tiếng Trung dễ nhất đối với người nói tiếng Anh\n\n**Từ luyện tập:**\n- **{{word1}}** (yī - một)\n- **{{word2}}** (lì - sức mạnh)\n- **{{word3}}** (qí - cờ)",
+          "zh": "正确的**舌头位置**和**嘴唇形状**对于正确发音**i**都至关重要：\n\n**分步指南：**\n1. **展开嘴唇** - 像微笑（不圆）\n2. 嘴唇应该**放松**且**展开**，不要紧\n3. 将**舌头前部**向硬腭抬起（前位置）\n4. 舌头应该在口腔中**高且靠前**\n5. 保持下巴相对闭合\n6. 声音应该清晰明亮\n\n**视觉参考：**\n- 想象说英语\"see\"中的\"ee\"\n- 你的嘴唇应该形成微笑（展开），不是圆圈（圆）\n- 舌头位置类似于英语中的\"ee\"\n- 这是对英语母语者来说最容易的中文元音\n\n**练习词：**\n- **{{word1}}**（一）\n- **{{word2}}**（力）\n- **{{word3}}**（棋）"
+        }
+      },
+      "placeholders": [{
+        "word1": "一",
+        "word2": "力",
+        "word3": "棋"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "I vs Ü vs U (i vs ü vs u)",
+          "vi": "I vs Ü vs U (i vs ü vs u)",
+          "zh": "I vs Ü vs U (i vs ü vs u)"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding the difference between **i**, **ü**, and **u** is crucial for mastering Chinese vowels:\n\n**I (前高不圆唇元音) - High Front Unrounded:**\n- **No lip rounding** - lips are spread (like a smile)\n- **Front tongue position** - tongue is high and front\n- Similar to \"ee\" in English \"see\"\n- Example: **{{word1}}** (yī - one)\n\n**Ü (前高圆唇元音) - High Front Rounded:**\n- **Tight lip rounding** - lips form a tight circle\n- **Front tongue position** - tongue is high and front (same as \"i\")\n- Similar to \"ee\" but with rounded lips\n- Example: **{{word2}}** (nǚ - woman)\n\n**U (后高圆唇元音) - High Back Rounded:**\n- **Tight lip rounding** - lips form a tight circle\n- **Back tongue position** - tongue is high and back\n- Similar to \"oo\" in \"food\" but tighter\n- Example: **{{word3}}** (wǔ - five)\n\n**Key differences:**\n- **I** = Front tongue + Unrounded lips (spread)\n- **Ü** = Front tongue + Rounded lips\n- **U** = Back tongue + Rounded lips\n\n**Test yourself:**\n1. Say **{{word4}}** (yī - one) - feel tongue front, lips spread\n2. Now say **{{word5}}** (nǚ - woman) - feel tongue front, lips rounded\n3. Now say **{{word6}}** (wǔ - five) - feel tongue back, lips rounded\n4. Notice the different combinations\n\n**Practice:**\n- **{{word1}}** (yī) - front tongue, unrounded lips\n- **{{word2}}** (nǚ) - front tongue, rounded lips\n- **{{word3}}** (wǔ) - back tongue, rounded lips",
+          "vi": "Hiểu sự khác biệt giữa **i**, **ü** và **u** là rất quan trọng để thành thạo nguyên âm tiếng Trung:\n\n**I (前高不圆唇元音) - Cao trước không tròn:**\n- **Không tròn môi** - môi được mở rộng (như một nụ cười)\n- **Vị trí lưỡi trước** - lưỡi cao và ở phía trước\n- Giống \"ee\" trong tiếng Anh \"see\"\n- Ví dụ: **{{word1}}** (yī - một)\n\n**Ü (前高圆唇元音) - Cao trước tròn:**\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt\n- **Vị trí lưỡi trước** - lưỡi cao và ở phía trước (giống \"i\")\n- Giống \"ee\" nhưng với môi tròn\n- Ví dụ: **{{word2}}** (nǚ - phụ nữ)\n\n**U (后高圆唇元音) - Cao sau tròn:**\n- **Môi tròn chặt** - môi tạo thành vòng tròn chặt\n- **Vị trí lưỡi sau** - lưỡi cao và ở phía sau\n- Giống \"oo\" trong \"food\" nhưng chặt hơn\n- Ví dụ: **{{word3}}** (wǔ - năm)\n\n**Khác biệt chính:**\n- **I** = Lưỡi trước + Môi không tròn (mở rộng)\n- **Ü** = Lưỡi trước + Môi tròn\n- **U** = Lưỡi sau + Môi tròn\n\n**Tự kiểm tra:**\n1. Nói **{{word4}}** (yī - một) - cảm nhận lưỡi trước, môi mở rộng\n2. Bây giờ nói **{{word5}}** (nǚ - phụ nữ) - cảm nhận lưỡi trước, môi tròn\n3. Bây giờ nói **{{word6}}** (wǔ - năm) - cảm nhận lưỡi sau, môi tròn\n4. Chú ý các sự kết hợp khác nhau\n\n**Luyện tập:**\n- **{{word1}}** (yī) - lưỡi trước, môi không tròn\n- **{{word2}}** (nǚ) - lưỡi trước, môi tròn\n- **{{word3}}** (wǔ) - lưỡi sau, môi tròn",
+          "zh": "理解**i**、**ü**和**u**之间的区别对于掌握中文元音至关重要：\n\n**I (前高不圆唇元音) - 前高不圆唇：**\n- **不圆唇** - 嘴唇展开（像微笑）\n- **前舌位置** - 舌头高且靠前\n- 类似于英语\"see\"中的\"ee\"\n- 例子：**{{word1}}**（一）\n\n**Ü (前高圆唇元音) - 前高圆唇：**\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈\n- **前舌位置** - 舌头高且靠前（与\"i\"相同）\n- 类似于\"ee\"但嘴唇圆\n- 例子：**{{word2}}**（女）\n\n**U (后高圆唇元音) - 后高圆唇：**\n- **紧圆嘴唇** - 嘴唇形成紧的圆圈\n- **后舌位置** - 舌头高且靠后\n- 类似于\"food\"中的\"oo\"但更紧\n- 例子：**{{word3}}**（五）\n\n**主要区别：**\n- **I** = 前舌 + 不圆唇（展开）\n- **Ü** = 前舌 + 圆唇\n- **U** = 后舌 + 圆唇\n\n**自我测试：**\n1. 说**{{word4}}**（一） - 感受舌头靠前，嘴唇展开\n2. 现在说**{{word5}}**（女） - 感受舌头靠前，嘴唇圆\n3. 现在说**{{word6}}**（五） - 感受舌头靠后，嘴唇圆\n4. 注意不同的组合\n\n**练习：**\n- **{{word1}}**（一） - 前舌，不圆唇\n- **{{word2}}**（女） - 前舌，圆唇\n- **{{word3}}**（五） - 后舌，圆唇"
+        }
+      },
+      "placeholders": [{
+        "word1": "一",
+        "word2": "女",
+        "word3": "五",
+        "word4": "一",
+        "word5": "女",
+        "word6": "五"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Common Mistakes (常见错误)",
+          "vi": "Lỗi thường gặp (常见错误)",
+          "zh": "常见错误"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are the most common mistakes when pronouncing Chinese **i**:\n\n**Mistake 1: Rounding the lips (confusing with \"ü\")**\n- ❌ Lips are rounded (like \"ü\")\n- ✅ Lips should be spread (like a smile)\n- **Fix:** Keep lips spread, not rounded\n\n**Mistake 2: Making it too tense**\n- ❌ Sound is too tense or strained\n- ✅ Should be relaxed and clear\n- **Fix:** Relax your lips and tongue, keep it natural\n\n**Mistake 3: Using back tongue position (confusing with \"u\")**\n- ❌ Tongue is back (like \"u\")\n- ✅ Tongue should be front (like \"ee\" in \"see\")\n- **Fix:** Raise the front of your tongue toward the hard palate\n\n**Mistake 4: Making it too short or unclear**\n- ❌ Sound is too short or unclear\n- ✅ Should be clear and sustained\n- **Fix:** Hold the sound longer, ensure clear pronunciation\n\n**Mistake 5: Not spreading lips enough**\n- ❌ Lips are neutral or slightly rounded\n- ✅ Lips must be clearly spread (like a smile)\n- **Fix:** Practice making a clear smile shape with your lips\n\n**Practice words to avoid mistakes:**\n- **{{word1}}** (yī - one) - spread lips, front tongue\n- **{{word2}}** (lì - strength) - NOT like \"ü\" or \"u\"\n- **{{word3}}** (qí - chess) - clear and bright",
+          "vi": "Dưới đây là những lỗi phổ biến nhất khi phát âm **i** tiếng Trung:\n\n**Lỗi 1: Làm tròn môi (nhầm lẫn với \"ü\")**\n- ❌ Môi được làm tròn (như \"ü\")\n- ✅ Môi nên được mở rộng (như một nụ cười)\n- **Sửa:** Giữ môi mở rộng, không tròn\n\n**Lỗi 2: Làm cho nó quá căng**\n- ❌ Âm thanh quá căng hoặc căng thẳng\n- ✅ Nên thư giãn và rõ ràng\n- **Sửa:** Thư giãn môi và lưỡi của bạn, giữ nó tự nhiên\n\n**Lỗi 3: Dùng vị trí lưỡi sau (nhầm lẫn với \"u\")**\n- ❌ Lưỡi ở phía sau (như \"u\")\n- ✅ Lưỡi nên ở phía trước (như \"ee\" trong \"see\")\n- **Sửa:** Nâng phần trước của lưỡi về phía vòm cứng\n\n**Lỗi 4: Làm cho nó quá ngắn hoặc không rõ ràng**\n- ❌ Âm thanh quá ngắn hoặc không rõ ràng\n- ✅ Nên rõ ràng và kéo dài\n- **Sửa:** Giữ âm thanh lâu hơn, đảm bảo phát âm rõ ràng\n\n**Lỗi 5: Không mở rộng môi đủ**\n- ❌ Môi trung tính hoặc hơi tròn\n- ✅ Môi phải được mở rộng rõ ràng (như một nụ cười)\n- **Sửa:** Luyện tập tạo hình dạng nụ cười rõ ràng với môi của bạn\n\n**Từ luyện tập để tránh lỗi:**\n- **{{word1}}** (yī - một) - môi mở rộng, lưỡi trước\n- **{{word2}}** (lì - sức mạnh) - KHÔNG giống \"ü\" hoặc \"u\"\n- **{{word3}}** (qí - cờ) - rõ ràng và sáng",
+          "zh": "以下是发音中文**i**时最常见的错误：\n\n**错误1：圆唇（与\"ü\"混淆）**\n- ❌ 嘴唇圆（像\"ü\"）\n- ✅ 嘴唇应该展开（像微笑）\n- **修正：**保持嘴唇展开，不圆\n\n**错误2：发得太紧张**\n- ❌ 声音太紧张或紧绷\n- ✅ 应该放松清晰\n- **修正：**放松你的嘴唇和舌头，保持自然\n\n**错误3：使用后舌位置（与\"u\"混淆）**\n- ❌ 舌头靠后（像\"u\"）\n- ✅ 舌头应该靠前（像\"see\"中的\"ee\"）\n- **修正：**将舌头前部向硬腭抬起\n\n**错误4：发得太短或不清晰**\n- ❌ 声音太短或不清晰\n- ✅ 应该清晰且持续\n- **修正：**保持声音更长，确保清晰发音\n\n**错误5：嘴唇展开不够**\n- ❌ 嘴唇中性或稍微圆\n- ✅ 嘴唇必须明显展开（像微笑）\n- **修正：**练习用嘴唇形成清晰的微笑形状\n\n**避免错误的练习词：**\n- **{{word1}}**（一） - 展开嘴唇，前舌\n- **{{word2}}**（力） - 不像\"ü\"或\"u\"\n- **{{word3}}**（棋） - 清晰明亮"
+        }
+      },
+      "placeholders": [{
+        "word1": "一",
+        "word2": "力",
+        "word3": "棋"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Practice Exercises (练习)",
+          "vi": "Bài tập luyện tập (练习)",
+          "zh": "练习"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are effective practice exercises to master the **i** sound:\n\n**Exercise 1: Minimal pairs**\nPractice distinguishing **i** from similar sounds:\n- **{{pair1}}** (yī - one) vs **{{pair2}}** (nǚ - woman)\n- **{{pair3}}** (lì - strength) vs **{{pair4}}** (lǜ - green)\n- **{{pair5}}** (qí - chess) vs **{{pair6}}** (qú - to go)\n\n**Exercise 2: Lip spreading drill**\n1. Spread your lips (like a smile)\n2. Raise front of tongue toward hard palate\n3. Say \"i\" sound - clear and bright\n4. Keep lips spread (NOT rounded)\n5. Repeat 10 times: i-i-i-i (with spread lips)\n6. Now add consonants: bi-di-ji-qi-xi-yi\n\n**Exercise 3: Word practice**\nPractice these common words:\n- **{{word1}}** (yī - one)\n- **{{word2}}** (lì - strength)\n- **{{word3}}** (qí - chess)\n- **{{word4}}** (yīfu - clothes)\n- **{{word5}}** (lìliàng - power)\n\n**Exercise 4: Sentence practice**\n- 这是**{{word1}}**。 (This is one.)\n- 我有**{{word2}}**。 (I have strength.)",
+          "vi": "Dưới đây là các bài tập luyện tập hiệu quả để thành thạo âm **i**:\n\n**Bài tập 1: Cặp tối thiểu**\nLuyện tập phân biệt **i** với các âm tương tự:\n- **{{pair1}}** (yī - một) vs **{{pair2}}** (nǚ - phụ nữ)\n- **{{pair3}}** (lì - sức mạnh) vs **{{pair4}}** (lǜ - xanh lá)\n- **{{pair5}}** (qí - cờ) vs **{{pair6}}** (qú - đi)\n\n**Bài tập 2: Luyện mở rộng môi**\n1. Mở rộng môi (như một nụ cười)\n2. Nâng phần trước của lưỡi về phía vòm cứng\n3. Nói âm \"i\" - rõ ràng và sáng\n4. Giữ môi mở rộng (KHÔNG tròn)\n5. Lặp lại 10 lần: i-i-i-i (với môi mở rộng)\n6. Bây giờ thêm phụ âm: bi-di-ji-qi-xi-yi\n\n**Bài tập 3: Luyện từ**\nLuyện tập các từ phổ biến:\n- **{{word1}}** (yī - một)\n- **{{word2}}** (lì - sức mạnh)\n- **{{word3}}** (qí - cờ)\n- **{{word4}}** (yīfu - quần áo)\n- **{{word5}}** (lìliàng - sức mạnh)\n\n**Bài tập 4: Luyện câu**\n- 这是**{{word1}}**。 (Đây là một.)\n- 我有**{{word2}}**。 (Tôi có sức mạnh.)",
+          "zh": "以下是一些有效的练习来掌握**i**音：\n\n**练习1：最小对立体**\n练习区分**i**和相似音：\n- **{{pair1}}**（一） vs **{{pair2}}**（女）\n- **{{pair3}}**（力） vs **{{pair4}}**（绿）\n- **{{pair5}}**（棋） vs **{{pair6}}**（去）\n\n**练习2：展开嘴唇训练**\n1. 展开嘴唇（像微笑）\n2. 将舌头前部向硬腭抬起\n3. 说\"i\"音 - 清晰明亮\n4. 保持嘴唇展开（不圆）\n5. 重复10次：i-i-i-i（展开嘴唇）\n6. 现在添加辅音：bi-di-ji-qi-xi-yi\n\n**练习3：单词练习**\n练习这些常用词：\n- **{{word1}}**（一）\n- **{{word2}}**（力）\n- **{{word3}}**（棋）\n- **{{word4}}**（衣服）\n- **{{word5}}**（力量）\n\n**练习4：句子练习**\n- 这是**{{word1}}**。\n- 我有**{{word2}}**。"
+        }
+      },
+      "placeholders": [{
+        "pair1": "一",
+        "pair2": "女",
+        "pair3": "力",
+        "pair4": "绿",
+        "pair5": "棋",
+        "pair6": "去",
+        "word1": "一",
+        "word2": "力",
+        "word3": "棋",
+        "word4": "衣服",
+        "word5": "力量"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Comparison with Similar Sounds (与相似音的比较)",
+          "vi": "So sánh với các âm tương tự (与相似音的比较)",
+          "zh": "与相似音的比较"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Understanding how **i** differs from similar sounds helps avoid confusion:\n\n**I vs Ü (i vs ü):**\n- **I** ({{word1}} - yī): Unrounded lips (lips are spread)\n- **Ü** ({{word2}} - nǚ): Rounded lips (lips form tight circle)\n- **Key difference:** I has unrounded lips, Ü has rounded lips (both have front tongue)\n\n**I vs U (i vs u):**\n- **I** ({{word3}} - lì): Front tongue position (tongue high and front)\n- **U** ({{word4}} - lù): Back tongue position (tongue high and back)\n- **Key difference:** I is front, U is back (different tongue positions)\n\n**I vs English \"i\" (i vs i):**\n- **Chinese I** ({{word5}} - yī): High front, unrounded, clear\n- **English \"i\"** (bit): Lower, more relaxed\n- **Key difference:** Chinese I is higher and clearer than English \"i\" in \"bit\"\n\n**Practice distinguishing:**\n- **{{word1}}** (yī) vs **{{word2}}** (nǚ) vs **{{word4}}** (lù) vs English \"bit\"",
+          "vi": "Hiểu cách **i** khác với các âm tương tự giúp tránh nhầm lẫn:\n\n**I vs Ü (i vs ü):**\n- **I** ({{word1}} - yī): Môi không tròn (môi được mở rộng)\n- **Ü** ({{word2}} - nǚ): Môi tròn (môi tạo thành vòng tròn chặt)\n- **Khác biệt chính:** I có môi không tròn, Ü có môi tròn (cả hai đều có lưỡi trước)\n\n**I vs U (i vs u):**\n- **I** ({{word3}} - lì): Vị trí lưỡi trước (lưỡi cao và ở phía trước)\n- **U** ({{word4}} - lù): Vị trí lưỡi sau (lưỡi cao và ở phía sau)\n- **Khác biệt chính:** I là trước, U là sau (vị trí lưỡi khác nhau)\n\n**I vs \"i\" tiếng Anh (i vs i):**\n- **I tiếng Trung** ({{word5}} - yī): Cao trước, không tròn, rõ ràng\n- **\"i\" tiếng Anh** (bit): Thấp hơn, thư giãn hơn\n- **Khác biệt chính:** I tiếng Trung cao hơn và rõ ràng hơn \"i\" trong \"bit\" tiếng Anh\n\n**Luyện tập phân biệt:**\n- **{{word1}}** (yī) vs **{{word2}}** (nǚ) vs **{{word4}}** (lù) vs \"bit\" tiếng Anh",
+          "zh": "理解**i**与相似音的区别有助于避免混淆：\n\n**I vs Ü (i vs ü)：**\n- **I**（{{word1}} - 一）：不圆唇（嘴唇展开）\n- **Ü**（{{word2}} - 女）：圆唇（嘴唇形成紧的圆圈）\n- **主要区别：**I有不圆唇，Ü有圆唇（两者都有前舌）\n\n**I vs U (i vs u)：**\n- **I**（{{word3}} - 力）：前舌位置（舌头高且靠前）\n- **U**（{{word4}} - 路）：后舌位置（舌头高且靠后）\n- **主要区别：**I是前，U是后（不同的舌头位置）\n\n**I vs 英语\"i\" (i vs i)：**\n- **中文I**（{{word5}} - 一）：前高，不圆唇，清晰\n- **英语\"i\"**（bit）：较低，更放松\n- **主要区别：**中文I比英语\"bit\"中的\"i\"更高更清晰\n\n**练习区分：**\n- **{{word1}}**（一） vs **{{word2}}**（女） vs **{{word4}}**（路） vs 英语\"bit\""
+        }
+      },
+      "placeholders": [{
+        "word1": "一",
+        "word2": "女",
+        "word3": "力",
+        "word4": "路",
+        "word5": "一"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Tips for Mastery (掌握技巧)",
+          "vi": "Mẹo để thành thạo (掌握技巧)",
+          "zh": "掌握技巧"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here are expert tips to master the **i** sound:\n\n**Tip 1: Use English \"ee\" as reference**\n- Start by saying \"ee\" in English \"see\"\n- This is very close to Chinese **i**\n- The main difference is that Chinese **i** may be slightly higher\n- Practice: say \"see\" then say **{{word1}}** (yī - one)\n\n**Tip 2: Keep lips spread**\n- Always keep your lips spread (like a smile)\n- Do NOT round your lips (that would be \"ü\")\n- Use a mirror to check your lip shape\n- Practice: smile and say **{{word2}}** (lì - strength)\n\n**Tip 3: Compare with \"ü\"**\n- Say **{{word3}}** (yī - one) - spread lips\n- Now say **{{word4}}** (nǚ - woman) - rounded lips\n- Notice the difference: same tongue position, different lip shape\n- This contrast helps you feel the difference\n\n**Tip 4: Practice daily**\n- Spend 5-10 minutes daily on **i** sound practice\n- Focus on maintaining spread lips and front tongue position\n- Use words like **{{word5}}** (yī), **{{word6}}** (lì), **{{word7}}** (qí)\n\n**Tip 5: Start slow, then speed up**\n- Begin with slow, clear pronunciation\n- Gradually increase speed while maintaining spread lips and front tongue\n- Practice with **{{word8}}** (yīfu), **{{word9}}** (lìliàng), **{{word10}}** (qípán)\n\n**Remember:** I is the easiest Chinese vowel for English speakers. Use it as a reference point for learning other vowels!",
+          "vi": "Dưới đây là các mẹo chuyên gia để thành thạo âm **i**:\n\n**Mẹo 1: Sử dụng \"ee\" tiếng Anh làm tham chiếu**\n- Bắt đầu bằng cách nói \"ee\" trong tiếng Anh \"see\"\n- Điều này rất gần với **i** tiếng Trung\n- Sự khác biệt chính là **i** tiếng Trung có thể hơi cao hơn\n- Luyện tập: nói \"see\" rồi nói **{{word1}}** (yī - một)\n\n**Mẹo 2: Giữ môi mở rộng**\n- Luôn giữ môi mở rộng (như một nụ cười)\n- KHÔNG làm tròn môi (đó sẽ là \"ü\")\n- Sử dụng gương để kiểm tra hình dạng môi của bạn\n- Luyện tập: cười và nói **{{word2}}** (lì - sức mạnh)\n\n**Mẹo 3: So sánh với \"ü\"**\n- Nói **{{word3}}** (yī - một) - môi mở rộng\n- Bây giờ nói **{{word4}}** (nǚ - phụ nữ) - môi tròn\n- Chú ý sự khác biệt: cùng vị trí lưỡi, hình dạng môi khác nhau\n- Sự tương phản này giúp bạn cảm nhận sự khác biệt\n\n**Mẹo 4: Luyện tập hàng ngày**\n- Dành 5-10 phút mỗi ngày để luyện âm **i**\n- Tập trung vào việc duy trì môi mở rộng và vị trí lưỡi trước\n- Sử dụng các từ như **{{word5}}** (yī), **{{word6}}** (lì), **{{word7}}** (qí)\n\n**Mẹo 5: Bắt đầu chậm, sau đó tăng tốc**\n- Bắt đầu với phát âm chậm, rõ ràng\n- Dần dần tăng tốc độ trong khi duy trì môi mở rộng và lưỡi trước\n- Luyện tập với **{{word8}}** (yīfu), **{{word9}}** (lìliàng), **{{word10}}** (qípán)\n\n**Nhớ:** I là nguyên âm tiếng Trung dễ nhất đối với người nói tiếng Anh. Sử dụng nó làm điểm tham chiếu để học các nguyên âm khác!",
+          "zh": "以下是一些掌握**i**音的专家技巧：\n\n**技巧1：使用英语\"ee\"作为参考**\n- 首先说英语\"see\"中的\"ee\"\n- 这与中文**i**非常接近\n- 主要区别是中文**i**可能稍微更高\n- 练习：说\"see\"然后说**{{word1}}**（一）\n\n**技巧2：保持嘴唇展开**\n- 始终保持嘴唇展开（像微笑）\n- 不要圆唇（那会是\"ü\"）\n- 使用镜子检查你的嘴唇形状\n- 练习：微笑并说**{{word2}}**（力）\n\n**技巧3：与\"ü\"比较**\n- 说**{{word3}}**（一） - 展开嘴唇\n- 现在说**{{word4}}**（女） - 圆唇\n- 注意差异：相同的舌头位置，不同的嘴唇形状\n- 这种对比帮助你感受差异\n\n**技巧4：每天练习**\n- 每天花5-10分钟练习**i**音\n- 专注于保持展开嘴唇和前舌位置\n- 使用像**{{word5}}**（一）、**{{word6}}**（力）、**{{word7}}**（棋）这样的词\n\n**技巧5：从慢开始，然后加速**\n- 从缓慢、清晰的发音开始\n- 在保持展开嘴唇和前舌的同时逐渐提高速度\n- 用**{{word8}}**（衣服）、**{{word9}}**（力量）、**{{word10}}**（棋盘）练习\n\n**记住：**I是对英语母语者来说最容易的中文元音。用它作为学习其他元音的参考点！"
+        }
+      },
+      "placeholders": [{
+        "word1": "一",
+        "word2": "力",
+        "word3": "一",
+        "word4": "女",
+        "word5": "一",
+        "word6": "力",
+        "word7": "棋",
+        "word8": "衣服",
+        "word9": "力量",
+        "word10": "棋盘"
+      }]
+    }
+  ]
+}
+

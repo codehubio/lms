@@ -1,0 +1,1 @@
+In the folder maindb/data/paragraph, add the paragraph to describe pronunciation of i in chinese. Refer to maindb/data/paragraph/pronunciation-c.json to know the format
