@@ -102,6 +102,12 @@ const examples = [
       { fileName: 'yi1.mp3', word: '一 (yī)' },
       { fileName: 'li4.mp3', word: '力 (lì)' },
       { fileName: 'qi2.mp3', word: '棋 (qí)' },
+      { fileName: 'zhi1.mp3', word: '知 (zhī)' },
+      { fileName: 'chi1.mp3', word: '吃 (chī)' },
+      { fileName: 'zi4.mp3', word: '字 (zì)' },
+      { fileName: 'si4.mp3', word: '四 (sì)' },
+      { fileName: 'ji1.mp3', word: '鸡 (jī)' },
+      { fileName: 'xi1.mp3', word: '西 (xī)' },
     ],
   },
 ];

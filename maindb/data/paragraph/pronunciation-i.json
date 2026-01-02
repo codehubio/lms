@@ -63,6 +63,78 @@
           "audio": {
             "path": "/audio/examples/pronunciation-i/qi2.mp3"
           }
+        },
+        {
+          "word": "知",
+          "pinyin": "zhī",
+          "translation": {
+            "en": "to know",
+            "vi": "biết",
+            "zh": "知"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/zhi1.mp3"
+          }
+        },
+        {
+          "word": "吃",
+          "pinyin": "chī",
+          "translation": {
+            "en": "to eat",
+            "vi": "ăn",
+            "zh": "吃"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/chi1.mp3"
+          }
+        },
+        {
+          "word": "字",
+          "pinyin": "zì",
+          "translation": {
+            "en": "character",
+            "vi": "chữ",
+            "zh": "字"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/zi4.mp3"
+          }
+        },
+        {
+          "word": "四",
+          "pinyin": "sì",
+          "translation": {
+            "en": "four",
+            "vi": "bốn",
+            "zh": "四"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/si4.mp3"
+          }
+        },
+        {
+          "word": "鸡",
+          "pinyin": "jī",
+          "translation": {
+            "en": "chicken",
+            "vi": "gà",
+            "zh": "鸡"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/ji1.mp3"
+          }
+        },
+        {
+          "word": "西",
+          "pinyin": "xī",
+          "translation": {
+            "en": "west",
+            "vi": "phía tây",
+            "zh": "西"
+          },
+          "audio": {
+            "path": "/audio/examples/pronunciation-i/xi1.mp3"
+          }
         }
       ]
     },
@@ -85,6 +157,33 @@
         "word1": "一",
         "word2": "力",
         "word3": "棋"
+      }]
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "I with Different Consonants (I与不同辅音的组合)",
+          "vi": "I với các phụ âm khác nhau (I与不同辅音的组合)",
+          "zh": "I与不同辅音的组合"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "The pronunciation of **i** changes when combined with different consonants. This is crucial to understand:\n\n**I after Retroflex Consonants (zh, ch, sh, r):**\n- When **i** comes after **zh, ch, sh, r**, it becomes a **syllabic retroflex vowel**\n- The tongue stays in retroflex position (curled back)\n- The vowel sound is produced by the retroflex position itself\n- Examples: **{{word1}}** (zhī - to know), **{{word2}}** (chī - to eat), **{{word3}}** (shī - teacher)\n- **Important:** The \"i\" here is NOT pronounced like regular \"i\" - it's a retroflex vowel\n\n**I after Alveolar Consonants (z, c, s):**\n- When **i** comes after **z, c, s**, it becomes a **syllabic alveolar vowel**\n- The tongue stays in alveolar position (near teeth)\n- The vowel sound is produced by the alveolar position itself\n- Examples: **{{word4}}** (zì - character), **{{word5}}** (cì - thorn), **{{word6}}** (sì - four)\n- **Important:** The \"i\" here is NOT pronounced like regular \"i\" - it's an alveolar vowel\n\n**I after Palatal Consonants (j, q, x):**\n- When **i** comes after **j, q, x**, it is pronounced as **regular \"i\"** (high front unrounded)\n- The tongue moves from palatal position to front position for the vowel\n- Examples: **{{word7}}** (jī - chicken), **{{word8}}** (qí - chess), **{{word9}}** (xī - west)\n- **Important:** This is the regular \"i\" sound we learned earlier\n\n**Key rule:** After retroflex (zh, ch, sh, r) and alveolar (z, c, s) consonants, \"i\" becomes a syllabic vowel (no separate vowel sound). After palatal (j, q, x) consonants, \"i\" is pronounced normally.",
+          "vi": "Cách phát âm **i** thay đổi khi kết hợp với các phụ âm khác nhau. Điều này rất quan trọng để hiểu:\n\n**I sau phụ âm quặt lưỡi (zh, ch, sh, r):**\n- Khi **i** đến sau **zh, ch, sh, r**, nó trở thành **nguyên âm quặt lưỡi có âm tiết**\n- Lưỡi giữ ở vị trí quặt lưỡi (cuộn lại)\n- Âm nguyên âm được tạo ra bởi chính vị trí quặt lưỡi\n- Ví dụ: **{{word1}}** (zhī - biết), **{{word2}}** (chī - ăn), **{{word3}}** (shī - thầy)\n- **Quan trọng:** \"i\" ở đây KHÔNG được phát âm như \"i\" thông thường - nó là nguyên âm quặt lưỡi\n\n**I sau phụ âm chân răng (z, c, s):**\n- Khi **i** đến sau **z, c, s**, nó trở thành **nguyên âm chân răng có âm tiết**\n- Lưỡi giữ ở vị trí chân răng (gần răng)\n- Âm nguyên âm được tạo ra bởi chính vị trí chân răng\n- Ví dụ: **{{word4}}** (zì - chữ), **{{word5}}** (cì - gai), **{{word6}}** (sì - bốn)\n- **Quan trọng:** \"i\" ở đây KHÔNG được phát âm như \"i\" thông thường - nó là nguyên âm chân răng\n\n**I sau phụ âm vòm (j, q, x):**\n- Khi **i** đến sau **j, q, x**, nó được phát âm như **\"i\" thông thường** (cao trước không tròn)\n- Lưỡi di chuyển từ vị trí vòm sang vị trí trước cho nguyên âm\n- Ví dụ: **{{word7}}** (jī - gà), **{{word8}}** (qí - cờ), **{{word9}}** (xī - phía tây)\n- **Quan trọng:** Đây là âm \"i\" thông thường mà chúng ta đã học trước đó\n\n**Quy tắc chính:** Sau phụ âm quặt lưỡi (zh, ch, sh, r) và chân răng (z, c, s), \"i\" trở thành nguyên âm có âm tiết (không có âm nguyên âm riêng). Sau phụ âm vòm (j, q, x), \"i\" được phát âm bình thường.",
+          "zh": "**i**与不同辅音组合时的发音会发生变化。理解这一点至关重要：\n\n**I在卷舌音后（zh, ch, sh, r）：**\n- 当**i**在**zh, ch, sh, r**后时，它变成**卷舌成音节元音**\n- 舌头保持在卷舌位置（卷起）\n- 元音由卷舌位置本身产生\n- 例子：**{{word1}}**（知），**{{word2}}**（吃），**{{word3}}**（师）\n- **重要：**这里的\"i\"不像普通\"i\"那样发音 - 它是卷舌元音\n\n**I在齿龈音后（z, c, s）：**\n- 当**i**在**z, c, s**后时，它变成**齿龈成音节元音**\n- 舌头保持在齿龈位置（靠近牙齿）\n- 元音由齿龈位置本身产生\n- 例子：**{{word4}}**（字），**{{word5}}**（刺），**{{word6}}**（四）\n- **重要：**这里的\"i\"不像普通\"i\"那样发音 - 它是齿龈元音\n\n**I在腭音后（j, q, x）：**\n- 当**i**在**j, q, x**后时，它发**普通\"i\"音**（前高不圆唇）\n- 舌头从腭音位置移动到前位置以发元音\n- 例子：**{{word7}}**（鸡），**{{word8}}**（棋），**{{word9}}**（西）\n- **重要：**这是我们之前学过的普通\"i\"音\n\n**关键规则：**在卷舌音（zh, ch, sh, r）和齿龈音（z, c, s）后，\"i\"变成成音节元音（没有单独的元音）。在腭音（j, q, x）后，\"i\"正常发音。"
+        }
+      },
+      "placeholders": [{
+        "word1": "知",
+        "word2": "吃",
+        "word3": "师",
+        "word4": "字",
+        "word5": "刺",
+        "word6": "四",
+        "word7": "鸡",
+        "word8": "棋",
+        "word9": "西"
       }]
     },
     {
