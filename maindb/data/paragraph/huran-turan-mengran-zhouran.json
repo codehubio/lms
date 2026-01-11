@@ -1,0 +1,153 @@
+{
+  "id": "huran-turan-mengran-zhouran",
+  "title": "忽然 - 突然 - 猛然 - 骤然 - Comparison of Suddenness Adverbs",
+  "tags": ["grammar", "adverb", "vocabulary"],
+  "translation": {
+    "en": "忽然 - 突然 - 猛然 - 骤然 - Comparison of Suddenness Adverbs",
+    "vi": "忽然 - 突然 - 猛然 - 骤然 - So sánh các phó từ chỉ sự đột ngột",
+    "zh": "忽然 - 突然 - 猛然 - 骤然 - 表示突然的副词比较"
+  },
+  "data": [{
+      "title": {
+        "translation": {
+          "en": "Overview: Four Ways to Express Suddenness (忽然、突然、猛然、骤然总览)",
+          "vi": "Tổng quan: Bốn cách diễn đạt sự đột ngột (忽然、突然、猛然、骤然总览)",
+          "zh": "总览：表达突然的四种方式"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Chinese has four main adverbs to express suddenness or abruptness: **忽然** (hūrán), **突然** (tūrán), **猛然** (měngrán), and **骤然** (zhòurán). While they all convey the idea of something happening suddenly or unexpectedly, each has distinct nuances, usage contexts, and grammatical properties.\n\n**Quick Comparison:**\n- **忽然** (hūrán): Most common, neutral tone, purely adverbial\n- **突然** (tūrán): More emphatic, can function as both adverb and adjective\n- **猛然** (měngrán): Implies force or vigor in the sudden action\n- **骤然** (zhòurán): More formal and literary, often used in written Chinese\n\n**Key Differences:**\n1. **Formality**: 忽然 and 突然 are more colloquial; 猛然 and 骤然 are more formal\n2. **Intensity**: 猛然 suggests stronger force; 忽然 and 突然 are more neutral\n3. **Grammar**: Only 突然 can be used as an adjective (突然的)\n4. **Frequency**: 忽然 and 突然 are most common in daily speech\n\nUnderstanding these differences will help you choose the most appropriate word for different contexts and registers.",
+          "vi": "Tiếng Trung có bốn phó từ chính để diễn đạt sự đột ngột hoặc bất ngờ: **忽然** (hūrán), **突然** (tūrán), **猛然** (měngrán), và **骤然** (zhòurán). Mặc dù tất cả đều truyền đạt ý tưởng về việc gì đó xảy ra đột ngột hoặc bất ngờ, mỗi từ có sắc thái, ngữ cảnh sử dụng và đặc tính ngữ pháp riêng biệt.\n\n**So sánh nhanh:**\n- **忽然** (hūrán): Phổ biến nhất, giọng điệu trung tính, hoàn toàn là phó từ\n- **突然** (tūrán): Nhấn mạnh hơn, có thể hoạt động như cả phó từ và tính từ\n- **猛然** (měngrán): Ngụ ý lực hoặc sức mạnh trong hành động đột ngột\n- **骤然** (zhòurán): Trang trọng và văn học hơn, thường được dùng trong tiếng Trung viết\n\n**Sự khác biệt chính:**\n1. **Mức độ trang trọng**: 忽然 và 突然 thông tục hơn; 猛然 và 骤然 trang trọng hơn\n2. **Cường độ**: 猛然 gợi ý lực mạnh hơn; 忽然 và 突然 trung tính hơn\n3. **Ngữ pháp**: Chỉ 突然 có thể được dùng như tính từ (突然的)\n4. **Tần suất**: 忽然 và 突然 phổ biến nhất trong lời nói hàng ngày\n\nHiểu những khác biệt này sẽ giúp bạn chọn từ phù hợp nhất cho các ngữ cảnh và phong cách khác nhau.",
+          "zh": "汉语有四个主要副词来表达突然或意外：**忽然**（hūrán）、**突然**（tūrán）、**猛然**（měngrán）和**骤然**（zhòurán）。虽然它们都传达某事突然或意外发生的概念，但每个词都有不同的细微差别、使用语境和语法特性。\n\n**快速比较：**\n- **忽然**（hūrán）：最常见，中性语气，纯粹是副词\n- **突然**（tūrán）：更强调，可以同时作为副词和形容词\n- **猛然**（měngrán）：暗示突然行动中的力量或活力\n- **骤然**（zhòurán）：更正式和文学化，常用于书面汉语\n\n**主要区别：**\n1. **正式程度**：忽然和突然更口语化；猛然和骤然更正式\n2. **强度**：猛然暗示更强的力量；忽然和突然更中性\n3. **语法**：只有突然可以用作形容词（突然的）\n4. **频率**：忽然和突然在日常口语中最常见\n\n了解这些差异将帮助您为不同的语境和语域选择最合适的词。"
+        }
+      },
+      "placeholders": {
+        "huran": "忽然",
+        "turan": "突然",
+        "mengran": "猛然",
+        "zhouran": "骤然"
+      }
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "忽然 (hūrán) - The Most Common Suddenness Adverb",
+          "vi": "忽然 (hūrán) - Phó từ chỉ sự đột ngột phổ biến nhất",
+          "zh": "忽然（hūrán）- 最常见的突然副词"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**忽然** (hūrán) is the most commonly used adverb to express suddenness in Chinese. It has a neutral tone and is suitable for both spoken and written Chinese.\n\n**Characteristics:**\n- **Purely adverbial**: Can only function as an adverb, never as an adjective\n- **Neutral tone**: No special emphasis or emotional coloring\n- **Most versatile**: Can be used in a wide variety of contexts\n- **Common in daily speech**: Frequently used in everyday conversations\n- **Position**: Usually placed before the verb, but can also appear at the beginning of a sentence\n\n**Usage Patterns:**\n1. **忽然 + Verb**: Expresses a sudden action\n   - 他**忽然**站了起来。 (He **suddenly** stood up.)\n   - 天气**忽然**变了。 (The weather **suddenly** changed.)\n\n2. **忽然 + Adjective**: Expresses a sudden change in state\n   - 他**忽然**安静了。 (He **suddenly** became quiet.)\n   - 灯**忽然**亮了。 (The light **suddenly** turned on.)\n\n3. **At sentence beginning**: For emphasis\n   - **忽然**，他想起了一件事。 (**Suddenly**, he remembered something.)\n   - **忽然**，外面下起了大雨。 (**Suddenly**, it started raining heavily outside.)\n\n**Key Points:**\n- Most natural and common choice for expressing suddenness\n- Suitable for both formal and informal contexts\n- Cannot be used as an adjective (unlike 突然)\n- Often interchangeable with 突然 in many contexts\n- Preferred in neutral, everyday descriptions",
+          "vi": "**忽然** (hūrán) là phó từ được sử dụng phổ biến nhất để diễn đạt sự đột ngột trong tiếng Trung. Nó có giọng điệu trung tính và phù hợp cho cả tiếng Trung nói và viết.\n\n**Đặc điểm:**\n- **Hoàn toàn là phó từ**: Chỉ có thể hoạt động như phó từ, không bao giờ là tính từ\n- **Giọng điệu trung tính**: Không có sự nhấn mạnh đặc biệt hoặc màu sắc cảm xúc\n- **Linh hoạt nhất**: Có thể được sử dụng trong nhiều ngữ cảnh khác nhau\n- **Phổ biến trong lời nói hàng ngày**: Thường xuyên được sử dụng trong các cuộc trò chuyện hàng ngày\n- **Vị trí**: Thường đặt trước động từ, nhưng cũng có thể xuất hiện ở đầu câu\n\n**Mẫu sử dụng:**\n1. **忽然 + Động từ**: Diễn đạt một hành động đột ngột\n   - 他**忽然**站了起来。 (Anh ấy **đột nhiên** đứng dậy.)\n   - 天气**忽然**变了。 (Thời tiết **đột nhiên** thay đổi.)\n\n2. **忽然 + Tính từ**: Diễn đạt sự thay đổi đột ngột về trạng thái\n   - 他**忽然**安静了。 (Anh ấy **đột nhiên** im lặng.)\n   - 灯**忽然**亮了。 (Đèn **đột nhiên** sáng lên.)\n\n3. **Ở đầu câu**: Để nhấn mạnh\n   - **忽然**，他想起了一件事。 (**Đột nhiên**, anh ấy nhớ ra một việc.)\n   - **忽然**，外面下起了大雨。 (**Đột nhiên**, bên ngoài trời bắt đầu mưa to.)\n\n**Điểm quan trọng:**\n- Lựa chọn tự nhiên và phổ biến nhất để diễn đạt sự đột ngột\n- Phù hợp cho cả ngữ cảnh trang trọng và không trang trọng\n- Không thể được sử dụng như tính từ (không giống 突然)\n- Thường có thể thay thế cho 突然 trong nhiều ngữ cảnh\n- Được ưa thích trong các mô tả trung tính, hàng ngày",
+          "zh": "**忽然**（hūrán）是汉语中最常用的表达突然的副词。它具有中性语气，适用于口语和书面语。\n\n**特点：**\n- **纯粹是副词**：只能作为副词，不能作为形容词\n- **中性语气**：没有特殊强调或情感色彩\n- **最通用**：可以在各种语境中使用\n- **日常口语中常见**：在日常对话中经常使用\n- **位置**：通常放在动词前，但也可以出现在句首\n\n**使用模式：**\n1. **忽然 + 动词**：表达突然的动作\n   - 他**忽然**站了起来。\n   - 天气**忽然**变了。\n\n2. **忽然 + 形容词**：表达状态的突然变化\n   - 他**忽然**安静了。\n   - 灯**忽然**亮了。\n\n3. **在句首**：用于强调\n   - **忽然**，他想起了一件事。\n   - **忽然**，外面下起了大雨。\n\n**要点：**\n- 表达突然最自然和常见的选择\n- 适用于正式和非正式语境\n- 不能用作形容词（与突然不同）\n- 在许多语境中常可与突然互换\n- 在中性、日常描述中更受青睐"
+        }
+      },
+      "placeholders": {
+        "huran1": "忽然",
+        "huran2": "忽然",
+        "huran3": "忽然",
+        "huran4": "忽然",
+        "huran5": "忽然",
+        "huran6": "忽然"
+      }
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "突然 (tūrán) - Emphatic and Versatile",
+          "vi": "突然 (tūrán) - Nhấn mạnh và linh hoạt",
+          "zh": "突然（tūrán）- 强调且多用途"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**突然** (tūrán) is similar to 忽然 but with more emphasis. It is unique among these four words because it can function as both an **adverb** and an **adjective**.\n\n**Characteristics:**\n- **Dual function**: Can be used as both adverb and adjective\n- **More emphatic**: Stronger sense of suddenness than 忽然\n- **Very common**: Second only to 忽然 in frequency of use\n- **Flexible position**: Can appear before verbs, after verbs, or as an adjective modifier\n- **Formal and informal**: Suitable for all registers\n\n**Usage Patterns:**\n\n**1. As an Adverb (like 忽然):**\n- 他**突然**站了起来。 (He **suddenly** stood up.)\n- 天气**突然**变了。 (The weather **suddenly** changed.)\n- **突然**，电话响了。 (**Suddenly**, the phone rang.)\n\n**2. As an Adjective (unique to 突然):**\n- 这是一个**突然**的决定。 (This is a **sudden** decision.)\n- 发生了**突然**的变化。 (A **sudden** change occurred.)\n- 他的到来很**突然**。 (His arrival was very **sudden**.)\n\n**3. With 的 (的) as adjective modifier:**\n- **突然的**变化 (sudden change)\n- **突然的**决定 (sudden decision)\n- **突然的**事件 (sudden event)\n\n**Key Differences from 忽然:**\n- **突然** can be an adjective; **忽然** cannot\n- **突然** is slightly more emphatic\n- **突然** is more common in written Chinese\n- Both are interchangeable in adverbial use\n- **突然** has more grammatical flexibility\n\n**When to Use:**\n- When you need an adjective form (突然的)\n- When you want slightly more emphasis\n- In both spoken and written contexts",
+          "vi": "**突然** (tūrán) tương tự như 忽然 nhưng có sự nhấn mạnh hơn. Nó là duy nhất trong bốn từ này vì có thể hoạt động như cả **phó từ** và **tính từ**.\n\n**Đặc điểm:**\n- **Chức năng kép**: Có thể được sử dụng như cả phó từ và tính từ\n- **Nhấn mạnh hơn**: Cảm giác đột ngột mạnh hơn so với 忽然\n- **Rất phổ biến**: Chỉ đứng sau 忽然 về tần suất sử dụng\n- **Vị trí linh hoạt**: Có thể xuất hiện trước động từ, sau động từ, hoặc như bổ ngữ tính từ\n- **Trang trọng và không trang trọng**: Phù hợp cho tất cả các phong cách\n\n**Mẫu sử dụng:**\n\n**1. Như một phó từ (giống 忽然):**\n- 他**突然**站了起来。 (Anh ấy **đột nhiên** đứng dậy.)\n- 天气**突然**变了。 (Thời tiết **đột nhiên** thay đổi.)\n- **突然**，电话响了。 (**Đột nhiên**, điện thoại reo.)\n\n**2. Như một tính từ (đặc trưng của 突然):**\n- 这是一个**突然**的决定。 (Đây là một quyết định **đột ngột**.)\n- 发生了**突然**的变化。 (Một sự thay đổi **đột ngột** đã xảy ra.)\n- 他的到来很**突然**。 (Sự xuất hiện của anh ấy rất **đột ngột**.)\n\n**3. Với 的 (的) như bổ ngữ tính từ:**\n- **突然的**变化 (sự thay đổi đột ngột)\n- **突然的**决定 (quyết định đột ngột)\n- **突然的**事件 (sự kiện đột ngột)\n\n**Sự khác biệt chính so với 忽然:**\n- **突然** có thể là tính từ; **忽然** không thể\n- **突然** nhấn mạnh hơn một chút\n- **突然** phổ biến hơn trong tiếng Trung viết\n- Cả hai đều có thể thay thế cho nhau trong cách dùng phó từ\n- **突然** có tính linh hoạt ngữ pháp hơn\n\n**Khi nào sử dụng:**\n- Khi bạn cần dạng tính từ (突然的)\n- Khi bạn muốn nhấn mạnh hơn một chút\n- Trong cả ngữ cảnh nói và viết",
+          "zh": "**突然**（tūrán）与忽然相似，但更强调。它是这四个词中独特的，因为它可以同时作为**副词**和**形容词**。\n\n**特点：**\n- **双重功能**：可以同时用作副词和形容词\n- **更强调**：比忽然更强的突然感\n- **非常常见**：使用频率仅次于忽然\n- **位置灵活**：可以出现在动词前、动词后，或作为形容词修饰语\n- **正式和非正式**：适用于所有语域\n\n**使用模式：**\n\n**1. 作为副词（像忽然）：**\n- 他**突然**站了起来。\n- 天气**突然**变了。\n- **突然**，电话响了。\n\n**2. 作为形容词（突然独有）：**\n- 这是一个**突然**的决定。\n- 发生了**突然**的变化。\n- 他的到来很**突然**。\n\n**3. 与的（的）作为形容词修饰语：**\n- **突然的**变化\n- **突然的**决定\n- **突然的**事件\n\n**与忽然的主要区别：**\n- **突然**可以是形容词；**忽然**不能\n- **突然**稍微更强调\n- **突然**在书面汉语中更常见\n- 两者在副词用法中可以互换\n- **突然**语法更灵活\n\n**何时使用：**\n- 当您需要形容词形式（突然的）时\n- 当您想要稍微更多的强调时\n- 在口语和书面语境中"
+        }
+      },
+      "placeholders": {
+        "turan1": "突然",
+        "turan2": "突然",
+        "turan3": "突然",
+        "turan4": "突然",
+        "turan5": "突然",
+        "turan6": "突然",
+        "turande": "突然的"
+      }
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "猛然 (měngrán) - Suddenness with Force",
+          "vi": "猛然 (měngrán) - Sự đột ngột với lực mạnh",
+          "zh": "猛然（měngrán）- 带有力量的突然"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**猛然** (měngrán) expresses suddenness with an added sense of **force**, **vigor**, or **intensity**. The character 猛 (měng) means \"fierce\" or \"vigorous,\" which gives this word its distinctive quality.\n\n**Characteristics:**\n- **Implies force**: Suggests the action is done with strength or vigor\n- **More formal**: Less common in casual conversation\n- **Literary tone**: Often found in written Chinese\n- **Action-oriented**: Typically used with verbs that involve physical movement\n- **Intensity**: Conveys a stronger sense of suddenness than 忽然 or 突然\n\n**Usage Patterns:**\n\n**1. With Physical Actions:**\n- 他**猛然**站了起来。 (He **suddenly and forcefully** stood up.)\n- 她**猛然**转过身来。 (She **suddenly and vigorously** turned around.)\n- 汽车**猛然**停住了。 (The car **suddenly and abruptly** stopped.)\n\n**2. With Mental Actions (less common):**\n- 他**猛然**想起了一件事。 (He **suddenly** remembered something with force.)\n- 她**猛然**意识到自己的错误。 (She **suddenly** realized her mistake with intensity.)\n\n**3. Position:**\n- Usually placed before the verb\n- Can appear at the beginning of a sentence for emphasis\n- **猛然**，他冲了出去。 (**Suddenly and forcefully**, he rushed out.)\n\n**Key Points:**\n- Emphasizes the **forceful** or **vigorous** nature of the sudden action\n- More suitable for actions that involve physical movement\n- Less common in everyday speech than 忽然 or 突然\n- Adds a sense of intensity or urgency\n- Often used in narrative or descriptive writing\n\n**When to Use:**\n- When describing sudden actions with force or vigor\n- In more formal or literary contexts\n- When you want to emphasize the intensity of the suddenness\n- In written narratives or descriptions",
+          "vi": "**猛然** (měngrán) diễn đạt sự đột ngột với cảm giác thêm về **lực**, **sức mạnh**, hoặc **cường độ**. Ký tự 猛 (měng) có nghĩa là \"dữ dội\" hoặc \"mạnh mẽ\", điều này tạo cho từ này đặc tính riêng biệt.\n\n**Đặc điểm:**\n- **Ngụ ý lực**: Gợi ý hành động được thực hiện với sức mạnh hoặc sức mạnh\n- **Trang trọng hơn**: Ít phổ biến trong cuộc trò chuyện thông thường\n- **Giọng văn học**: Thường được tìm thấy trong tiếng Trung viết\n- **Hướng hành động**: Thường được sử dụng với động từ liên quan đến chuyển động vật lý\n- **Cường độ**: Truyền đạt cảm giác đột ngột mạnh hơn so với 忽然 hoặc 突然\n\n**Mẫu sử dụng:**\n\n**1. Với hành động vật lý:**\n- 他**猛然**站了起来。 (Anh ấy **đột nhiên và mạnh mẽ** đứng dậy.)\n- 她**猛然**转过身来。 (Cô ấy **đột nhiên và mạnh mẽ** quay lại.)\n- 汽车**猛然**停住了。 (Xe hơi **đột nhiên và đột ngột** dừng lại.)\n\n**2. Với hành động tinh thần (ít phổ biến hơn):**\n- 他**猛然**想起了一件事。 (Anh ấy **đột nhiên** nhớ ra một việc với lực.)\n- 她**猛然**意识到自己的错误。 (Cô ấy **đột nhiên** nhận ra lỗi của mình với cường độ.)\n\n**3. Vị trí:**\n- Thường đặt trước động từ\n- Có thể xuất hiện ở đầu câu để nhấn mạnh\n- **猛然**，他冲了出去。 (**Đột nhiên và mạnh mẽ**, anh ấy lao ra ngoài.)\n\n**Điểm quan trọng:**\n- Nhấn mạnh bản chất **mạnh mẽ** hoặc **sức mạnh** của hành động đột ngột\n- Phù hợp hơn cho các hành động liên quan đến chuyển động vật lý\n- Ít phổ biến trong lời nói hàng ngày hơn 忽然 hoặc 突然\n- Thêm cảm giác cường độ hoặc khẩn cấp\n- Thường được sử dụng trong văn tự sự hoặc mô tả\n\n**Khi nào sử dụng:**\n- Khi mô tả hành động đột ngột với lực hoặc sức mạnh\n- Trong ngữ cảnh trang trọng hoặc văn học hơn\n- Khi bạn muốn nhấn mạnh cường độ của sự đột ngột\n- Trong tường thuật hoặc mô tả bằng văn bản",
+          "zh": "**猛然**（měngrán）表达突然，带有**力量**、**活力**或**强度**的感觉。字符猛（měng）意思是\"猛烈\"或\"有力\"，这给了这个词独特的品质。\n\n**特点：**\n- **暗示力量**：暗示动作是用力量或活力完成的\n- **更正式**：在随意对话中较少见\n- **文学语气**：常见于书面汉语\n- **动作导向**：通常用于涉及身体运动的动词\n- **强度**：传达比忽然或突然更强的突然感\n\n**使用模式：**\n\n**1. 与身体动作：**\n- 他**猛然**站了起来。\n- 她**猛然**转过身来。\n- 汽车**猛然**停住了。\n\n**2. 与心理动作（较少见）：**\n- 他**猛然**想起了一件事。\n- 她**猛然**意识到自己的错误。\n\n**3. 位置：**\n- 通常放在动词前\n- 可以出现在句首以强调\n- **猛然**，他冲了出去。\n\n**要点：**\n- 强调突然动作的**有力**或**活力**性质\n- 更适合涉及身体运动的动作\n- 在日常口语中比忽然或突然少见\n- 增加强度或紧迫感\n- 常用于叙述或描述性写作\n\n**何时使用：**\n- 当描述带有力量或活力的突然动作时\n- 在更正式或文学的语境中\n- 当您想强调突然的强度时\n- 在书面叙述或描述中"
+        }
+      },
+      "placeholders": {
+        "mengran1": "猛然",
+        "mengran2": "猛然",
+        "mengran3": "猛然",
+        "mengran4": "猛然",
+        "mengran5": "猛然",
+        "mengran6": "猛然"
+      }
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "骤然 (zhòurán) - Formal Suddenness",
+          "vi": "骤然 (zhòurán) - Sự đột ngột trang trọng",
+          "zh": "骤然（zhòurán）- 正式的突然"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "**骤然** (zhòurán) is the most formal and literary of the four words. It is primarily used in written Chinese and formal contexts, conveying a sense of abruptness that is often associated with significant or dramatic changes.\n\n**Characteristics:**\n- **Most formal**: Primarily used in written and formal contexts\n- **Literary tone**: Common in literature, formal documents, and academic writing\n- **Dramatic change**: Often used for significant or dramatic changes\n- **Less common**: Rarely used in everyday conversation\n- **Sophisticated**: Adds a refined, literary quality to the text\n\n**Usage Patterns:**\n\n**1. With Significant Changes:**\n- 天气**骤然**变冷。 (The weather **suddenly** turned cold.)\n- 局势**骤然**紧张起来。 (The situation **suddenly** became tense.)\n- 价格**骤然**下跌。 (Prices **suddenly** dropped.)\n\n**2. In Formal Writing:**\n- 经济**骤然**衰退。 (The economy **suddenly** declined.)\n- 他的态度**骤然**改变了。 (His attitude **suddenly** changed.)\n- 市场**骤然**波动。 (The market **suddenly** fluctuated.)\n\n**3. Position:**\n- Usually placed before the verb\n- Can appear at the beginning of a sentence\n- **骤然**，一切都变了。 (**Suddenly**, everything changed.)\n\n**Key Points:**\n- Most formal and literary option\n- Best for written Chinese and formal contexts\n- Often used for dramatic or significant changes\n- Rarely used in casual conversation\n- Adds sophistication and formality to the text\n\n**When to Use:**\n- In formal writing, literature, or academic contexts\n- When describing significant or dramatic changes\n- When you want a more refined, literary tone\n- In formal speeches or documents\n\n**Note:** Avoid using 骤然 in everyday conversation as it may sound overly formal or pretentious.",
+          "vi": "**骤然** (zhòurán) là từ trang trọng và văn học nhất trong bốn từ. Nó chủ yếu được sử dụng trong tiếng Trung viết và ngữ cảnh trang trọng, truyền đạt cảm giác đột ngột thường liên quan đến những thay đổi quan trọng hoặc kịch tính.\n\n**Đặc điểm:**\n- **Trang trọng nhất**: Chủ yếu được sử dụng trong ngữ cảnh viết và trang trọng\n- **Giọng văn học**: Phổ biến trong văn học, tài liệu trang trọng và viết học thuật\n- **Thay đổi kịch tính**: Thường được sử dụng cho những thay đổi quan trọng hoặc kịch tính\n- **Ít phổ biến**: Hiếm khi được sử dụng trong cuộc trò chuyện hàng ngày\n- **Tinh tế**: Thêm chất lượng tinh tế, văn học cho văn bản\n\n**Mẫu sử dụng:**\n\n**1. Với thay đổi quan trọng:**\n- 天气**骤然**变冷。 (Thời tiết **đột nhiên** trở lạnh.)\n- 局势**骤然**紧张起来。 (Tình hình **đột nhiên** trở nên căng thẳng.)\n- 价格**骤然**下跌。 (Giá cả **đột nhiên** giảm.)\n\n**2. Trong văn viết trang trọng:**\n- 经济**骤然**衰退。 (Nền kinh tế **đột nhiên** suy giảm.)\n- 他的态度**骤然**改变了。 (Thái độ của anh ấy **đột nhiên** thay đổi.)\n- 市场**骤然**波动。 (Thị trường **đột nhiên** biến động.)\n\n**3. Vị trí:**\n- Thường đặt trước động từ\n- Có thể xuất hiện ở đầu câu\n- **骤然**，一切都变了。 (**Đột nhiên**, mọi thứ đều thay đổi.)\n\n**Điểm quan trọng:**\n- Lựa chọn trang trọng và văn học nhất\n- Tốt nhất cho tiếng Trung viết và ngữ cảnh trang trọng\n- Thường được sử dụng cho những thay đổi kịch tính hoặc quan trọng\n- Hiếm khi được sử dụng trong cuộc trò chuyện thông thường\n- Thêm sự tinh tế và trang trọng cho văn bản\n\n**Khi nào sử dụng:**\n- Trong văn viết trang trọng, văn học hoặc ngữ cảnh học thuật\n- Khi mô tả những thay đổi quan trọng hoặc kịch tính\n- Khi bạn muốn có giọng điệu tinh tế, văn học hơn\n- Trong bài phát biểu hoặc tài liệu trang trọng\n\n**Lưu ý:** Tránh sử dụng 骤然 trong cuộc trò chuyện hàng ngày vì nó có thể nghe quá trang trọng hoặc kiêu ngạo.",
+          "zh": "**骤然**（zhòurán）是四个词中最正式和文学的。它主要用于书面汉语和正式语境，传达一种突然感，通常与重大或戏剧性的变化相关。\n\n**特点：**\n- **最正式**：主要用于书面和正式语境\n- **文学语气**：常见于文学、正式文件和学术写作\n- **戏剧性变化**：常用于重大或戏剧性的变化\n- **较少见**：在日常对话中很少使用\n- **精致**：为文本增添精致、文学品质\n\n**使用模式：**\n\n**1. 与重大变化：**\n- 天气**骤然**变冷。\n- 局势**骤然**紧张起来。\n- 价格**骤然**下跌。\n\n**2. 在正式写作中：**\n- 经济**骤然**衰退。\n- 他的态度**骤然**改变了。\n- 市场**骤然**波动。\n\n**3. 位置：**\n- 通常放在动词前\n- 可以出现在句首\n- **骤然**，一切都变了。\n\n**要点：**\n- 最正式和文学的选择\n- 最适合书面汉语和正式语境\n- 常用于戏剧性或重大变化\n- 在随意对话中很少使用\n- 为文本增添精致和正式感\n\n**何时使用：**\n- 在正式写作、文学或学术语境中\n- 当描述重大或戏剧性变化时\n- 当您想要更精致、文学的语气时\n- 在正式演讲或文件中\n\n**注意：** 避免在日常对话中使用骤然，因为它可能听起来过于正式或做作。"
+        }
+      },
+      "placeholders": {
+        "zhouran1": "骤然",
+        "zhouran2": "骤然",
+        "zhouran3": "骤然",
+        "zhouran4": "骤然",
+        "zhouran5": "骤然",
+        "zhouran6": "骤然"
+      }
+    },
+    {
+      "title": {
+        "translation": {
+          "en": "Detailed Comparison and Usage Guidelines",
+          "vi": "So sánh chi tiết và hướng dẫn sử dụng",
+          "zh": "详细比较和使用指南"
+        }
+      },
+      "body": {
+        "translation": {
+          "en": "Here is a comprehensive comparison to help you choose the right word:\n\n**1. Formality Level (from casual to formal):**\n- **忽然** = Casual to neutral (most versatile)\n- **突然** = Casual to neutral (very common)\n- **猛然** = Neutral to formal (literary)\n- **骤然** = Formal to very formal (most formal)\n\n**2. Intensity/Force:**\n- **忽然** = Neutral (no special emphasis)\n- **突然** = Slightly emphatic\n- **猛然** = Strong force/vigor implied\n- **骤然** = Dramatic, significant change\n\n**3. Grammatical Function:**\n- **忽然** = Adverb only\n- **突然** = Adverb AND adjective (unique!)\n- **猛然** = Adverb only\n- **骤然** = Adverb only\n\n**4. Common Contexts:**\n- **忽然**: Daily conversation, neutral descriptions\n- **突然**: Daily conversation, written Chinese, can modify nouns\n- **猛然**: Written Chinese, narratives, physical actions\n- **骤然**: Formal writing, literature, significant changes\n\n**5. Interchangeability:**\n- **忽然** and **突然** are often interchangeable as adverbs\n- **猛然** can sometimes replace 忽然/突然 but adds force\n- **骤然** is rarely interchangeable (too formal for casual contexts)\n\n**6. Frequency in Daily Use:**\n- **忽然** = Most common (★★★★★)\n- **突然** = Very common (★★★★☆)\n- **猛然** = Less common (★★☆☆☆)\n- **骤然** = Rare in speech (★☆☆☆☆)\n\n**Quick Decision Guide:**\n- **Daily conversation?** → Use 忽然 or 突然\n- **Need an adjective?** → Use 突然 (突然的)\n- **Physical action with force?** → Use 猛然\n- **Formal writing or literature?** → Use 骤然\n- **Not sure?** → Use 忽然 (safest choice)\n\n**Examples in Context:**\n- 他**忽然**/**突然**想起了这件事。 (Both OK - daily speech)\n- 这是一个**突然**的决定。 (Only 突然 - adjective needed)\n- 他**猛然**站了起来。 (Forceful physical action)\n- 经济**骤然**衰退。 (Formal, significant change)",
+          "vi": "Đây là so sánh toàn diện để giúp bạn chọn từ đúng:\n\n**1. Mức độ trang trọng (từ thông tục đến trang trọng):**\n- **忽然** = Thông tục đến trung tính (linh hoạt nhất)\n- **突然** = Thông tục đến trung tính (rất phổ biến)\n- **猛然** = Trung tính đến trang trọng (văn học)\n- **骤然** = Trang trọng đến rất trang trọng (trang trọng nhất)\n\n**2. Cường độ/Lực:**\n- **忽然** = Trung tính (không nhấn mạnh đặc biệt)\n- **突然** = Nhấn mạnh nhẹ\n- **猛然** = Lực mạnh/sức mạnh được ngụ ý\n- **骤然** = Thay đổi kịch tính, quan trọng\n\n**3. Chức năng ngữ pháp:**\n- **忽然** = Chỉ phó từ\n- **突然** = Phó từ VÀ tính từ (độc nhất!)\n- **猛然** = Chỉ phó từ\n- **骤然** = Chỉ phó từ\n\n**4. Ngữ cảnh phổ biến:**\n- **忽然**: Cuộc trò chuyện hàng ngày, mô tả trung tính\n- **突然**: Cuộc trò chuyện hàng ngày, tiếng Trung viết, có thể bổ nghĩa danh từ\n- **猛然**: Tiếng Trung viết, tường thuật, hành động vật lý\n- **骤然**: Văn viết trang trọng, văn học, thay đổi quan trọng\n\n**5. Khả năng thay thế:**\n- **忽然** và **突然** thường có thể thay thế cho nhau như phó từ\n- **猛然** đôi khi có thể thay thế 忽然/突然 nhưng thêm lực\n- **骤然** hiếm khi có thể thay thế (quá trang trọng cho ngữ cảnh thông tục)\n\n**6. Tần suất trong sử dụng hàng ngày:**\n- **忽然** = Phổ biến nhất (★★★★★)\n- **突然** = Rất phổ biến (★★★★☆)\n- **猛然** = Ít phổ biến (★★☆☆☆)\n- **骤然** = Hiếm trong lời nói (★☆☆☆☆)\n\n**Hướng dẫn quyết định nhanh:**\n- **Cuộc trò chuyện hàng ngày?** → Dùng 忽然 hoặc 突然\n- **Cần tính từ?** → Dùng 突然 (突然的)\n- **Hành động vật lý với lực?** → Dùng 猛然\n- **Văn viết trang trọng hoặc văn học?** → Dùng 骤然\n- **Không chắc?** → Dùng 忽然 (lựa chọn an toàn nhất)\n\n**Ví dụ trong ngữ cảnh:**\n- 他**忽然**/**突然**想起了这件事。 (Cả hai đều OK - lời nói hàng ngày)\n- 这是一个**突然**的决定。 (Chỉ 突然 - cần tính từ)\n- 他**猛然**站了起来。 (Hành động vật lý mạnh mẽ)\n- 经济**骤然**衰退。 (Trang trọng, thay đổi quan trọng)",
+          "zh": "以下是全面比较，帮助您选择正确的词：\n\n**1. 正式程度（从随意到正式）：**\n- **忽然** = 随意到中性（最通用）\n- **突然** = 随意到中性（非常常见）\n- **猛然** = 中性到正式（文学性）\n- **骤然** = 正式到非常正式（最正式）\n\n**2. 强度/力量：**\n- **忽然** = 中性（无特殊强调）\n- **突然** = 稍微强调\n- **猛然** = 暗示强力量/活力\n- **骤然** = 戏剧性、重大变化\n\n**3. 语法功能：**\n- **忽然** = 仅副词\n- **突然** = 副词和形容词（独特！）\n- **猛然** = 仅副词\n- **骤然** = 仅副词\n\n**4. 常见语境：**\n- **忽然**：日常对话，中性描述\n- **突然**：日常对话，书面汉语，可以修饰名词\n- **猛然**：书面汉语，叙述，身体动作\n- **骤然**：正式写作，文学，重大变化\n\n**5. 可互换性：**\n- **忽然**和**突然**作为副词通常可以互换\n- **猛然**有时可以替代忽然/突然，但增加了力量感\n- **骤然**很少可互换（对随意语境来说太正式）\n\n**6. 日常使用频率：**\n- **忽然** = 最常见（★★★★★）\n- **突然** = 非常常见（★★★★☆）\n- **猛然** = 较少见（★★☆☆☆）\n- **骤然** = 口语中罕见（★☆☆☆☆）\n\n**快速决策指南：**\n- **日常对话？** → 使用忽然或突然\n- **需要形容词？** → 使用突然（突然的）\n- **带有力量的身体动作？** → 使用猛然\n- **正式写作或文学？** → 使用骤然\n- **不确定？** → 使用忽然（最安全的选择）\n\n**语境示例：**\n- 他**忽然**/**突然**想起了这件事。（两者都可以 - 日常口语）\n- 这是一个**突然**的决定。（仅突然 - 需要形容词）\n- 他**猛然**站了起来。（有力的身体动作）\n- 经济**骤然**衰退。（正式，重大变化）"
+        }
+      },
+      "placeholders": {
+        "huran": "忽然",
+        "turan": "突然",
+        "mengran": "猛然",
+        "zhouran": "骤然",
+        "turande": "突然的"
+      }
+    }
+  ]
+}
